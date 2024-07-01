@@ -3,8 +3,11 @@ import base64
 import requests
 import os
 
+with open('api_key.txt', 'r') as file:
+    api_key = file.read().strip()
+
 # OpenAI API Key
-api_key = os.getenv("sk-proj-7ElFE1hDKLlEl5YpBCVkT3BlbkFJEig9prawGWt6eqL5zR1R")
+api_key = api_key
 
 # Function to encode the image
 def encode_image(image_path):
@@ -25,11 +28,11 @@ def verify_image(image_path):
 
 # List of image paths
 image_paths = [
-    "PL110_289/page_216.jpeg",
-    "PL110_289/page_217.jpeg",
-    "PL110_289/page_218.jpeg",
-    "PL110_289/page_219.jpeg",
-    "PL110_289/page_220.jpeg"
+    "PL110_289/page_221.jpeg",
+    "PL110_289/page_222.jpeg",
+    "PL110_289/page_223.jpeg",
+    "PL110_289/page_224.jpeg",
+    "PL110_289/page_225.jpeg"
 ]
 
 # Encode and verify each image

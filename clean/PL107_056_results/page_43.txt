@@ -1,0 +1,16 @@
+PUBLIC LAW 107-56—OCT. 26, 2001
+
+115 STAT. 313
+
+"(2) 120-HOUR RULE.—Not later than 120 hours after receiving a request by an appropriate Federal banking agency for information related to anti-money laundering compliance by a covered financial institution or a customer of such institution, a covered financial institution shall provide to the appropriate Federal banking agency, or make available at a location specified by the representative of the appropriate Federal banking agency, information and account documentation for any account opened, maintained, administered or managed in the United States by the covered financial institution.
+"(3) FOREIGN BANK RECORDS.—
+"(A) SUMMONS OR SUBPOENA OF RECORDS.—
+"(i) IN GENERAL.—The Secretary of the Treasury or the Attorney General may issue a summons or subpoena to any foreign bank that maintains a correspondent account in the United States and request records related to such correspondent account, including records maintained outside of the United States relating to the deposit of funds into the foreign bank.
+"(ii) SERVICE OF SUMMONS OR SUBPOENA.—A summons or subpoena referred to in clause (i) may be served on the foreign bank in the United States if the foreign bank has a representative in the United States, or in a foreign country pursuant to any mutual legal assistance treaty, multilateral agreement, or other request for international law enforcement assistance.
+"(B) ACCEPTANCE OF SERVICE.—
+"(i) MAINTAINING RECORDS IN THE UNITED STATES.—Any covered financial institution which maintains a correspondent account in the United States for a foreign bank shall maintain records in the United States identifying the owners of such foreign bank and the name and address of a person who resides in the United States and is authorized to accept service of legal process for records regarding the correspondent account.
+"(ii) LAW ENFORCEMENT REQUEST.—Upon receipt of a written request from a Federal law enforcement officer for information required to be maintained under this paragraph, the covered financial institution shall provide the information to the requesting officer not later than 7 days after receipt of the request.
+"(C) TERMINATION OF CORRESPONDENT RELATIONSHIP.—
+"(i) TERMINATION UPON RECEIPT OF NOTICE.—A covered financial institution shall terminate any correspondent relationship with a foreign bank not later than 10 business days after receipt of written notice from the Secretary or the Attorney General (in each case, after consultation with the other) that the foreign bank has failed—
+"(I) to comply with a summons or subpoena issued under subparagraph (A); or
+"(II) to initiate proceedings in a United States court contesting such summons or subpoena.

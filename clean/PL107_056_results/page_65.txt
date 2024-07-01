@@ -1,0 +1,42 @@
+PUBLIC LAW 107–56—OCT. 26, 2001
+
+115 STAT. 335
+
+‘‘(3) structure or assist in structuring, or attempt to structure or assist in structuring, any transaction with 1 or more nonfinancial trades or businesses.’’.
+
+(2) TECHNICAL AND CONFORMING AMENDMENTS.—
+
+(A) The heading for subsection (a) of section 5324 of title 31, United States Code, is amended by inserting ‘‘INVOLVING FINANCIAL INSTITUTIONS’’ after ‘‘TRANSACTIONS’’.
+
+(B) Section 5317(c) of title 31, United States Code, is amended by striking ‘‘5324(b)’’ and inserting ‘‘5324(c)’’.
+(c) DEFINITION OF NONFINANCIAL TRADE OR BUSINESS.—
+
+(1) IN GENERAL.—Section 5312(a) of title 31, United States Code, is amended—
+
+(A) by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively; and
+
+(B) by inserting after paragraph (3) the following new paragraph:
+
+‘‘(4) NONFINANCIAL TRADE OR BUSINESS.—The term ‘nonfinancial trade or business’ means any trade or business other than a financial institution that is subject to the reporting requirements of section 5313 and regulations prescribed under such section.’’.
+
+(2) TECHNICAL AND CONFORMING AMENDMENTS.—
+
+(A) Section 5312(a)(3)(C) of title 31, United States Code, is amended by striking ‘‘section 5316,’’ and inserting ‘‘sections 5333 and 5316,’’.
+
+(B) Subsections (a) through (f) of section 5318 of title 31, United States Code, and sections 5321, 5326, and 5328 of such title are each amended—
+
+(i) by inserting ‘‘or nonfinancial trade or business’’ after ‘‘financial institution’’ each place such term appears; and
+
+(ii) by inserting ‘‘or nonfinancial trades or businesses’’ after ‘‘financial institutions’’ each place such term appears.
+(C) CLERICAL AMENDMENT.—The table of sections for chapter 53 of title 31, United States Code, is amended by inserting after the item relating to section 5332 (as added by section 112 of this title) the following new item:
+
+‘‘5331. Reports relating to coins and currency received in nonfinancial trade or business.’’.
+
+(f) REGULATIONS.—Regulations which the Secretary determines are necessary to implement this section shall be published in final form before the end of the 6-month period beginning on the date of enactment of this Act.
+SEC. 366. EFFICIENT USE OF CURRENCY TRANSACTION REPORT SYSTEM.
+
+(a) FINDINGS.—The Congress finds the following:
+
+(1) The Congress established the currency transaction reporting requirements in 1970 because the Congress found then that such reports have a high degree of usefulness in criminal, tax, and regulatory investigations and proceedings and the usefulness of such reports has only increased in the years since the requirements were established.
+
+(2) In 1994, in response to reports and testimony that excess amounts of currency transaction reports were interfering

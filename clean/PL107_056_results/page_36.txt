@@ -1,0 +1,22 @@
+115 STAT. 306             PUBLIC LAW 107-56—OCT. 26, 2001
+
+under section 5318(i)(1) of title 31, United States Code, as added by this section.
+(2) EFFECTIVE DATE.—Section 5318(i) of title 31, United State Code, as added by this section, shall take effect 270 days after the date of enactment of this Act, whether or not final regulations are issued under paragraph (1), and the failure to issue such regulations shall in no way affect the enforceability of this section or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act.
+
+SEC. 313. PROHIBITION ON UNITED STATES CORRESPONDENT
+            ACCOUNTS WITH FOREIGN SHELL BANKS.
+
+(a) IN GENERAL.—Section 5318 of title 31, United States Code, as amended by this title, is amended by adding at the end the following:
+“(j) PROHIBITION ON UNITED STATES CORRESPONDENT ACCOUNTS
+                WITH FOREIGN SHELL BANKS.—
+“(1) IN GENERAL.—A financial institution described in sub-paragraphs (A) through (G) of section 5312(a)(2) (in this subsection refered to as a ‘covered financial institution’) shall not establish, maintain, administer, or manage a correspondent account in the United States for, or on behalf of, a foreign bank that does not have a physical presence in any country.
+(2) PREVENTION OF INDIRECT SERVICE TO FOREIGN SHELL
+                BANKS.—A covered financial institution shall take reasonable steps to ensure that any correspondent account established, maintained, administered, or managed by that covered financial institution in the United States for a foreign bank is not being used by that foreign bank to indirectly provide banking services to another foreign bank that does not have a physical presence in any country. The Secretary of the Treasury shall, by regulation, delineate the reasonable steps necessary to comply with this paragraph.
+“(3) EXCEPTION.—Paragraphs (1) and (2) do not prohibit a covered financial institution from providing a correspondent account to a foreign bank, if the foreign bank—
+“(A) is an affiliate of a depository institution, credit union, or foreign bank that maintains a physical presence in the United States or a foreign country, as applicable; and
+“(B) is subject to supervision by a banking authority in the country regulating the affiliated depository institution, credit union, or foreign bank described in subparagraph (A), as applicable.
+“(4) DEFINITIONS.—For purposes of this subsection—
+“(A) the term ‘affiliate’ means a foreign bank that is controlled by or is under common control with a depository institution, credit union, or foreign bank; and
+“(B) the term ‘physical presence’ means a place of business that—
+“(i) is maintained by a foreign bank;
+“(ii) is located at a fixed address (other than solely an electronic address) in a country in which the foreign

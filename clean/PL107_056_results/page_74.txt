@@ -1,0 +1,21 @@
+115 STAT. 344
+
+PUBLIC LAW 107–56—OCT. 26, 2001
+
+“(2) to establish the conditions for the use of the information received from the Federal Bureau of Investigation, in order—
+“(A) to limit the redissemination of such information;
+“(B) to ensure that such information is used solely to determine whether or not to issue a visa to an alien or to admit an alien to the United States;
+“(C) to ensure the security, confidentiality, and destruction of such information; and
+“(D) to protect any privacy rights of individuals who are subjects of such information.”.
+
+(b) REPORTING REQUIREMENT.—Not later than 2 years after the date of enactment of this Act, the Attorney General and the Secretary of State jointly shall report to Congress on the implementation of the amendments made by this section.
+
+(c) TECHNOLOGY STANDARD TO CONFIRM IDENTITY.—
+(1) IN GENERAL.—The Attorney General and the Secretary of State jointly, through the National Institute of Standards and Technology (NIST), and in consultation with the Secretary of the Treasury and other Federal law enforcement and intelligence agencies the Attorney General or Secretary of State deems appropriate and in consultation with Congress, shall within 2 years after the date of the enactment of this section, develop and certify a technology standard that can be used to verify the identity of persons applying for a United States visa or such persons seeking to enter the United States pursuant to a visa for the purposes of conducting background checks, confirming identity, and ensuring that a person has not received a visa under a different name or such person seeking to enter the United States pursuant to a visa.
+(2) INTEGRATED.—The technology standard developed pursuant to paragraph (1), shall be the technological basis for a cross-agency, cross-platform electronic system that is a cost-effective, efficient, fully integrated means to share law enforcement and intelligence information necessary to confirm the identity of such persons applying for a United States visa or such person seeking to enter the United States pursuant to a visa.
+(3) ACCESSIBLE.—The electronic system described in paragraph (2), once implemented, shall be readily and easily accessible to—
+(A) all consular officers responsible for the issuance of visas;
+(B) all Federal inspection agents at all United States border inspection points; and
+(C) all law enforcement and intelligence officers as determined by regulation to be responsible for investigation or identification of aliens admitted to the United States pursuant to a visa.
+(4) REPORT.—Not later than 18 months after the date of the enactment of this Act, and every 2 years thereafter, the Attorney General and the Secretary of State shall jointly, in consultation with the Secretary of Treasury, report to Congress describing the development, implementation, efficacy, and privacy implications of the technology standard and electronic database system described in this subsection.
+(5) FUNDING.—There is authorized to be appropriated to the Secretary of State, the Attorney General, and the Director

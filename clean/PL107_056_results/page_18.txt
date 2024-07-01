@@ -1,0 +1,63 @@
+115 STAT. 288          PUBLIC LAW 107-56—OCT. 26, 2001
+
+    "(2) shall specify that the records concerned are sought
+       for an authorized investigation conducted in accordance with
+       subsection (a)(2) to obtain foreign intelligence information not
+       concerning a United States person or to protect against inter-
+       national terrorism or clandestine intelligence activities.
+"(c)(1) Upon an application made pursuant to this section, the
+   judge shall enter an ex parte order as requested, or as modified,
+   approving the release of records if the judge finds that the applica-
+   tion meets the requirements of this section.
+    "(2) An order under this subsection shall not disclose that
+   it is issued for purposes of an investigation described in subsection
+   (a).
+"(d) No person shall disclose to any other person (other than 
+   those persons necessary to produce the tangible things under this 
+   section) that the Federal Bureau of Investigation has sought or
+   obtained tangible things under this section.
+"(e) A person who, in good faith, produces tangible things
+   under an order pursuant to this section shall not be liable to
+   any other person for such production. Such production shall not
+   be deemed to constitute a waiver of any privilege in any other
+   proceeding or context. 
+
+50 USC 1862.
+
+"SEC. 502. CONGRESSIONAL OVERSIGHT.
+
+"(a) On a semiannual basis, the Attorney General shall fully
+   inform the Permanent Select Committee on Intelligence of the
+   House of Representatives and the Select Committee on Intelligence
+   of the Senate concerning all requests for the production of tangible
+   things under section 402.
+"(b) On a semiannual basis, the Attorney General shall provide 
+   to the Committees on the Judiciary of the House of Representatives
+   and the Senate a report setting forth with respect to the preceding
+   6-month period—
+      "(1) the total number of applications made for orders
+         approving requests for the production of tangible things under
+          section 402; and 
+      "(2) the total number of such orders either granted, modi-
+          fied, or denied.".
+
+SEC. 216. MODIFICATION OF AUTHORITIES RELATING TO USE OF PEN REGISTERS AND TRAP AND TRACE DEVICES.
+
+(a) GENERAL LIMITATIONS.—Section 3121(c) of title 18, United 
+    States Code, is amended—
+   (1) by inserting "or trap and trace device" after "pen reg-
+       ister";
+   (2) by inserting ", routing, addressing," after "dialing"; and 
+   (3) by striking "call processing" and inserting "the proc-
+       essing and transmitting of wire or electronic communications 
+       so as not to include the contents of any wire or electronic
+       communications";
+(b) ISSUANCE OF ORDERS.—
+   (1) IN GENERAL.—Section 3123(a) of title 18, United States
+       Code, is amended to read as follows:
+   "(a) IN GENERAL.—
+    "(1) ATTORNEY FOR THE GOVERNMENT.—Upon an applica-
+       tion made under section 3122(a)(1), the court shall enter an 
+       ex parte order authorizing the installation and use of a pen
+       register or trap and trace device anywhere within the United 
+       States, if the court finds that the attorney for the Government

@@ -1,0 +1,20 @@
+115 STAT. 304             PUBLIC LAW 107-56—OCT. 26, 2001
+
+direct, or manage the account (including, without limitation, the power to direct payments into or out of the account), and an individual’s material interest in the income or corpus of the account, and shall ensure that the identification of individuals under this section does not extend to any individual whose beneficial interest in the income or corpus of the account is immaterial.
+
+‘‘(4) OTHER TERMS.—The Secretary may, by regulation, further define the terms in paragraphs (1), (2), and (3), and define other terms for the purposes of this section, as the Secretary deems appropriate.’’.
+
+(b) CLERICAL AMENDMENT.—The table of sections for subchapter II of chapter 53 of title 31, United States Code, is amended by inserting after the item relating to section 5318 the following new item:
+‘‘5318A. Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern.’’.
+SEC. 312. SPECIAL DUE DILIGENCE FOR CORRESPONDENT ACCOUNTS AND PRIVATE BANKING ACCOUNTS.
+(a) IN GENERAL.—Section 5318 of title 31, United States Code, is amended by adding at the end the following:
+‘‘(i) DUE DILIGENCE FOR UNITED STATES PRIVATE BANKING AND CORRESPONDENT BANK ACCOUNTS INVOLVING FOREIGN PERSONS.—
+‘‘(1) IN GENERAL.—Each financial institution that establishes, maintains, administers, or manages a private banking account or a correspondent account on behalf of a non-United States person, including a foreign individual visiting the United States, or a representative of a non-United States person shall establish appropriate, specific, and, where necessary, enhanced, due diligence policies, procedures, and controls that are reasonably designed to detect and report instances of money laundering through those accounts.
+‘‘(2) ADDITIONAL STANDARDS FOR CERTAIN CORRESPONDENT ACCOUNTS.—
+‘‘(A) IN GENERAL.—Subparagraph (B) shall apply if a correspondent account is requested or maintained by, or on behalf of, a foreign bank operating—
+‘‘(i) under an offshore banking license; or
+‘‘(ii) under a banking license issued by a foreign country that has been designated—
+‘‘(I) as noncooperative with international anti–money laundering principles or procedures by an intergovernmental group or organization of which the United States is a member, with which designation the United States representative to the group or organization concurs; or
+‘‘(II) by the Secretary of the Treasury as warranting special measures due to money laundering concerns.
+‘‘(B) POLICIES, PROCEDURES, AND CONTROLS.—The enhanced due diligence policies, procedures, and controls required under paragraph (1) shall, at a minimum, ensure that the financial institution in the United States takes reasonable steps—
+‘‘(i) to ascertain for any such foreign bank, the shares of which are not publicly traded, the identity

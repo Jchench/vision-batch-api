@@ -1,0 +1,20 @@
+115 STAT. 308
+
+PUBLIC LAW 107-56—OCT. 26, 2001
+
+and nature of the institution to which the particular proce- dures apply.
+(4) RULE OF CONSTRUCTION.—The receipt of information by a financial institution pursuant to this section shall not relieve or otherwise modify the obligations of the financial institution with respect to any other person or account.
+(5) USE OF INFORMATION.—Information received by a finan- cial institution pursuant to this section shall not be used for any purpose other than identifying and reporting on activities that may involve terrorist acts or money laundering activities.
+(b) COOPERATION AMONG FINANCIAL INSTITUTIONS.—Upon notice provided to the Secretary, 2 or more financial institutions and any association of financial institutions may share information with one another regarding individuals, entities, organizations, and countries suspected of possible terrorist or money laundering activi- ties. A financial institution or association that transmits, receives, or shares such information for the purposes of identifying and reporting activities that may involve terrorist acts or money laun- dering activities shall not be liable to any person under any law or regulation of the United States, any constitution, law, or regula- tion of any State or political subdivision thereof, or under any contract or other legally enforceable agreement (including any arbitration agreement), for such disclosure or for any failure to provide notice of such disclosure to the person who is the subject of such disclosure, or any other person identified in the disclosure, except where such transmission, receipt, or sharing violates this section or regulations promulgated pursuant to this section.
+(c) RULE OF CONSTRUCTION.—Compliance with the provisions of this title requiring or allowing financial institutions and any association of financial institutions to disclose or share information regarding individuals, entities, and organizations engaged in or suspected of engaging in terrorist acts or money laundering activi- ties shall not constitute a violation of the provisions of title V of the Gramm-Leach-Bliley Act (Public Law 106-102).
+(d) REPORTS TO THE FINANCIAL SERVICES INDUSTRY ON SUS- PICIOUS FINANCIAL ACTIVITIES.—At least semiannually, the Sec- retary shall—
+(1) publish a report containing a detailed analysis identi- fying patterns of suspicious activity and other investigative insights derived from suspicious activity reports and investiga- tions conducted by Federal, State, and local law enforcement agencies to the extent appropriate; and
+(2) distribute such report to financial institutions (as defined in section 5312 of title 31, United States Code).
+
+SEC. 315. INCLUSION OF FOREIGN CORRUPTION OFFENSES AS MONEY LAUNDERING CRIMES.
+
+Section 1956(c)(7) of title 18, United States Code, is amended—
+(1) in subparagraph (B)—
+(A) in clause (ii), by striking “or destruction of property by means of explosive or fire” and inserting “destruction of property by means of explosive or fire, or a crime of violence (as defined in section 16)”;
+(B) in clause (iii), by striking “1978” and inserting “1978)”; and
+(C) by adding at the end the following:

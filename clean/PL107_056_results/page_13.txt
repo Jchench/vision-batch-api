@@ -1,0 +1,39 @@
+PUBLIC LAW 107-56—OCT. 26, 2001    115 STAT. 283
+
+SEC. 208. DESIGNATION OF JUDGES.
+
+Section 103(a) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803(a) is amended by—
+(1) striking "seven district court judges" and inserting "11 district court judges"; and
+(2) inserting "of whom no fewer than 3 shall reside within 20 miles of the District of Columbia" after "circuits".
+
+SEC. 209. SEIZURE OF VOICE-MAIL MESSAGES PURSUANT TO WAR-  RANTS. 
+
+Title 18, United States Code, is amended—
+(1) in section 2510—
+(A) in paragraph (1), by striking beginning with "and such" and all that follows through "communication"; and 
+(B) in paragraph (14), by inserting "wire or" after "transmission of"; and 
+(2) in subsections (a) and (b) of section 2703—
+(A) by striking "CONTENTS OF ELECTRONIC" and inserting "CONTENTS OF WIRE OR ELECTRONIC" each place it appears;
+(B) by striking "contents of an electronic" and inserting "contents of a wire or electronic" each place it appears; and 
+(C) by striking "any electronic" and inserting "any wire or electronic" each place it appears. 
+
+SEC. 210. SCOPE OF SUBPOENAS FOR RECORDS OF ELECTRONIC COMMUNICATIONS.
+
+Section 2703(c)(2) of title 18, United States Code, as redesign- nated by section 212, is amended—
+(1) by striking "entity the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber" and inserting the following: "entity the—
+(A) name;
+(B) address;
+(C) local and long distance telephone connection records, or records of session times and durations;
+(D) length of service (including start date) and types of service utilized;
+(E) telephone or instrument number or other subscriber number or identity, including any temporarily assigned network address; and 
+(F) means and source of payment for such service (including any credit card or bank account number),
+of a subscriber"; and 
+(2) by striking "and the types of services the subscriber or customer utilized,". 
+
+SEC. 211. CLARIFICATION OF SCOPE.
+
+Section 631 of the Communications Act of 1934 (47 U.S.C. 551) is amended—
+(1) in subsection (c)(2)—
+(A) in subparagraph (B), by striking "or";
+(B) in subparagraph (C), by striking the period at the end and inserting "; or"; and 
+(C) by inserting at the end the following:

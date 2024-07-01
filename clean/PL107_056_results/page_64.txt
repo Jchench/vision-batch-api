@@ -1,0 +1,25 @@
+115 STAT. 334           PUBLIC LAW 107-56—OCT. 26, 2001
+
+Enforcement Network at such time and in such manner as the Secretary may, by regulation, prescribe.
+    ‘‘(b) FORM AND MANNER OF REPORTS.—A report is described in this subsection if such report—
+        ‘‘(1) is in such form as the Secretary may prescribe;
+        ‘‘(2) contains—
+            ‘‘(A) the name and address, and such other identification information as the Secretary may require, of the person from whom the coins or currency was received;
+            ‘‘(B) the amount of coins or currency received;
+            ‘‘(C) the date and nature of the transaction; and
+            ‘‘(D) such other information, including the identification of the person filing the report, as the Secretary may prescribe.
+    ‘‘(c) EXCEPTIONS.—
+        ‘‘(1) AMOUNTS RECEIVED BY FINANCIAL INSTITUTIONS.—Subsection (a) shall not apply to amounts received in a transaction reported under section 5313 and regulations prescribed under such section.
+        ‘‘(2) TRANSACTIONS OCCURRING OUTSIDE THE UNITED STATES.—Except to the extent provided in regulations prescribed by the Secretary, subsection (a) shall not apply to any transaction if the entire transaction occurs outside the United States.
+    ‘‘(d) CURRENCY INCLUDES FOREIGN CURRENCY AND CERTAIN MONETARY INSTRUMENTS.—
+        ‘‘(1) IN GENERAL.—For purposes of this section, the term ‘currency’ includes—
+            ‘‘(A) foreign currency; and
+            ‘‘(B) to the extent provided in regulations prescribed by the Secretary, any monetary instrument (whether or not in bearer form) with a face amount of not more than $10,000.
+        ‘‘(2) SCOPE OF APPLICATION.—Paragraph (1)(B) shall not apply to any check drawn on the account of the writer in a financial institution referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), (J), (K), (R), or (S) of section 5312(a)(2).’’.
+    (b) PROHIBITION ON STRUCTURING TRANSACTIONS.—
+        (1) IN GENERAL.—Section 5324 of title 31, United States Code, is amended—
+            (A) by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and
+            (B) by inserting after subsection (a) the following new subsection:
+            ‘‘(b) DOMESTIC COIN AND CURRENCY TRANSACTIONS INVOLVING NONFINANCIAL TRADES OR BUSINESSES.—No person shall, for the purpose of evading the report requirements of section 5333 or any regulation prescribed under such section—
+                ‘‘(1) cause or attempt to cause a nonfinancial trade or business to fail to file a report required under section 5333 or any regulation prescribed under such section;
+                ‘‘(2) cause or attempt to cause a nonfinancial trade or business to file a report required under section 5333 or any regulation prescribed under such section that contains a material omission or misstatement of fact; or

@@ -1,0 +1,58 @@
+115 STAT. 310            PUBLIC LAW 107–56—OCT. 26, 2001
+
+                                                           (C) subchapter II of chapter 5 of title 5, United States
+                                              Code (commonly known as the ‘‘Administrative Procedure
+                                              Act’’).
+                    (2) SAVINGS CLAUSE.—Nothing in this section shall limit
+          or otherwise affect any other remedies that may be available
+          to an owner of property under section 983 of title 18, United
+          States Code, or any other provision of law.
+                    (d) TECHNICAL CORRECTION.—Section 983(i)(2)(D) of title 18,
+          United States Code, is amended by inserting ‘‘or the International
+          Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.)’’
+          before the semicolon.
+
+                          SEC. 317. LONG-ARM JURISDICTION OVER FOREIGN MONEY
+                                            LAUNDERERS.
+                   Section 1956(b) of title 18, United States Code, is amended—
+                               (1) by redesignating paragraphs (1) and (2) as subpara-
+                    graphs (A) and (B), respectively, and moving the margins 2
+                    ems to the right;
+                               (2) by inserting after ‘‘(b)’’ the following: ‘‘PENALTIES.—
+                    ‘‘(1) IN GENERAL.—’’;
+                               (3) by inserting ‘‘, or section 1957’’ after ‘‘(a)(3)’’; and
+                               (4) by adding at the end the following:
+                                           ‘‘(2) JURISDICTION OVER FOREIGN PERSONS.—For purposes
+                               of adjudicating an action filed or enforcing a penalty ordered
+                               under this section, the district courts shall have jurisdiction
+                               over any foreign person, including any financial institution
+                               authorized under the laws of a foreign country, against whom
+                               the action is brought, if service of process upon the foreign
+                               person is made under the Federal Rules of Civil Procedure
+                               or the laws of the country in which the foreign person is
+                               found, and—
+                                                     ‘‘(A) the foreign person commits an offense under sub-
+                                 section (a) involving a financial transaction that occurs
+                                 in whole or in part in the United States;
+                                                     ‘‘(B) the foreign person converts, to his or her own
+                                 use, property in which the United States has an ownership
+                                 interest by virtue of the entry of an order of forfeiture
+                                 by a court of the United States; or
+                                                     ‘‘(C) the foreign person is a financial institution that
+                                 maintains a bank account at a financial institution in
+                                 the United States.
+                                           ‘‘(3) COURT AUTHORITY OVER ASSETS.—A court described
+                               in paragraph (2) may issue a pretrial restraining order or
+                               take any other action necessary to ensure that any bank account
+                               or other property held by the defendant in the United States
+                               is available to satisfy a judgment under this section.
+                                           ‘‘(4) FEDERAL RECEIVER.—
+                                                      ‘‘(A) IN GENERAL.—A court described in paragraph (2)
+                                may appoint a Federal Receiver, in accordance with
+                                subparagraph (B) of this paragraph, to collect, marshal,
+                                and take custody, control, and possession of all assets of
+                                the defendant, wherever located, to satisfy a civil judgment
+                                under this subsection, a forfeiture judgment under section
+                                981 or 982, or a criminal sentence under section 1957
+                                or subsection (a) of this section, including an order of
+                                restitution to any victim of a specified unlawful activity.

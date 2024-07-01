@@ -1,0 +1,27 @@
+PUBLIC LAW 107-56--OCT. 26, 2001
+
+115 STAT. 401
+
+(d) ESTABLISHMENT OF NATIONAL COMPETENCE FOR CRITICAL INFRASTRUCTURE PROTECTION.--
+
+(1) SUPPORT OF CRITICAL INFRASTRUCTURE PROTECTION AND CONTINUITY BY NATIONAL INFRASTRUCTURE SIMULATION AND ANALYSIS CENTER.--There shall be established the National Infrastructure Simulation and Analysis Center (NISAC) to serve as a source of national competence to address critical infrastructure protection and continuity through support for activities related to counterterrorism, threat assessment, and risk mitigation.
+
+(2) PARTICULAR SUPPORT.--The support provided under paragraph (1) shall include the following:
+
+(A) Modeling, simulation, and analysis of the systems comprising critical infrastructures, including cyber infrastructure, telecommunications infrastructure, and physical infrastructure, in order to enhance understanding of the large-scale complexity of such systems and to facilitate modification of such systems to mitigate the threats to such systems and to critical infrastructures generally.
+ 
+(B) Acquisition from State and local governments and the private sector of data necessary to create and maintain models of such systems and of critical infrastructures generally.
+
+(C) Utilization of modeling, simulation, and analysis under subparagraph (A) to provide education and training to policymakers on matters relating to--
+ 
+	(i) the analysis conducted under that subparagraph;
+ 
+	(ii) the implications of unintended or unintentional disturbances to critical infrastructures; and
+
+	(iii) responses to incidents or crises involving critical infrastructures, including the continuity of government and private sector activities through and after such incidents or crises.
+ 
+(D) Utilization of modeling, simulation, and analysis under subparagraph (A) to provide recommendations to policymakers, and to departments and agencies of the Federal Government and private sector persons and entities upon request, regarding means of enhancing the stability of, and preserving, critical infrastructures.
+ 
+(3) RECIPIENT OF CERTAIN SUPPORT.--Modeling, simulation, and analysis provided under this subsection shall be provided, in particular, to relevant Federal, State, and local entities responsible for critical infrastructure protection and policy.
+
+(e) CRITICAL INFRASTRUCTURE DEFINED.--In this section, the term "critical infrastructure" means systems and assets, whether physical or virtual, so vital to the United States that the incapacity or destruction of such systems and assets would have a debilitating impact on security, national economic security, national public health or safety, or any combination of those matters.

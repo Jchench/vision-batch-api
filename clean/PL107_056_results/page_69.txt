@@ -1,0 +1,59 @@
+PUBLIC LAW 107–56—OCT. 26, 2001           115 STAT. 339
+
+        ‘‘(B) PROCEDURE.—Forfeitures under this paragraph
+        shall be governed by the procedures established in section
+        413 of the Controlled Substances Act.
+        ‘‘(2) CIVIL FORFEITURE.—Any property involved in a viola-
+        tion of section 5313, 5316, or 5324 of this title, or any conspiracy
+        to commit any such violation, and any property traceable to
+        any such violation or conspiracy, may be seized and forfeited
+        to the United States in accordance with the procedures gov-
+        erning civil forfeitures in money laundering cases pursuant
+        to section 981(a)(1)(A) of title 18, United States Code.’’.
+    (b) CONFORMING AMENDMENTS.—
+        (1) Section 981(a)(1)(A) of title 18, United States Code,
+    is amended—
+                (A) by striking ‘‘of section 5313(a) or 5324(a) of title
+                     31, or’’; and
+                (B) by striking ‘‘However’’ and all that follows through
+                     the end of the subparagraph.
+        (2) Section 982(a)(1) of title 18, United States Code, is
+    amended—
+                (A) by striking ‘‘of section 5313(a), 5316, or 5324 of
+                    title 31, or’’; and
+                (B) by striking ‘‘However’’ and all that follows through
+                    the end of the paragraph.
+
+SEC. 373. ILLEGAL MONEY TRANSMITTING BUSINESSES.
+    (a) SCIENTER REQUIREMENT FOR SECTION 1960 VIOLATION.—
+    Section 1960 of title 18, United States Code, is amended to read
+    as follows:
+
+    ‘‘§ 1960. Prohibition of unlicensed money transmitting 
+        businesses
+        ‘‘(a) Whoever knowingly conducts, controls, manages, super-
+        vises, directs, or owns all or part of an unlicensed money transmit-
+        ting business, shall be fined in accordance with this title or impris-
+        oned not more than 5 years, or both.
+        ‘‘(b) As used in this section—
+             ‘‘(1) the term ‘unlicensed money transmitting business’
+             means a money transmitting business which affects interstate
+             or foreign commerce in any manner or degree and—
+                ‘‘(A) is operated without an appropriate money
+                     transmitting license in a State where such operation is
+                     punishable as a misdemeanor or a felony under State law,
+                     whether or not the defendant knew that the operation
+                     was required to be licensed or that the operation was
+                     so punishable;
+                ‘‘(B) fails to comply with the money transmitting busi-
+                     ness registration requirements under section 5330 of title
+                     31, United States Code, or regulations prescribed under
+                     such section; or
+                ‘‘(C) otherwise involves the transportation or trans-
+                     mission of funds that are known to the defendant to have
+                     been derived from a criminal offense or are intended to
+                     be used to be used to promote or support unlawful activity;
+             ‘‘(2) the term ‘money transmitting’ includes transferring
+             funds on behalf of the public by any and all means including
+             but not limited to transfers within this country or to locations
+             abroad by wire, check, draft, facsimile, or courier; and

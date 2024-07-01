@@ -1,0 +1,14 @@
+           PUBLIC LAW 107-56—OCT. 26, 2001            115 STAT. 321
+pursuant to this subsection or any other authority, and any director, officer, employee, or agent of such institution who makes, or requires another to make any such disclosure, shall not be liable to any person under any law or regulation of the United States, any constitution, law, or regulation of any State or political subdivision of any State, or under any contract or other legally enforceable agreement (including any arbitration agreement), for such disclosure or for any failure to provide notice of such disclosure to the person who is the subject of such disclosure or any other person identified in the disclosure.
+	‘‘(B) RULE OF CONSTRUCTION.—Subparagraph (A) shall not be construed as creating—
+			 ‘‘(i) any inference that the term ‘person’, as used in such subparagraph, may be construced more broadly than its ordinary usage so as to include any government agency of government; or
+			 ‘‘(ii) any immunity against, or otherwise affecting, any civil or criminal action brought by any government or agency of government to enforce any constitution, law, or regulation of such government or agency.’’.
+	  (b) PROHIBITION ON NOTIFICATION OF DISCLOSURES.—Section 5318(g)(2) of title 31, United States Code, is amended to read as follows:
+			‘‘(2) NOTIFICATION PROHIBITED.—
+				‘‘(A) IN GENERAL.—If a financial institution or any director, officer, employee, or agent of any financial institution, voluntarily or pursuant to this section or any other authority, reports a suspicious transaction to a government agency—
+				‘‘(i) the financial institution, director, officer, employee, or agent may not notify any person involved in the transaction that the transaction has been reported; and
+				‘‘(ii) no officer or employee of the Federal Government of any State, local, tribal, or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, other than as necessary to fulfill the official duties of such officer or employee.
+				‘‘(B) DISCLOSURES IN CERTAIN EMPLOYMENT REFERENCES.—
+				  ‘‘(i) RULE OF CONSTRUCTION.—Notwithstanding the application of subparagraph (A) in any other context, subparagraph (A) shall not be construed as prohibiting any financial institution, or any director, officer, employee, or agent of such institution, from including information that was included in a report to which subparagraph (A)—applies
+					‘‘(I) in a written employment reference that is provided in accordance with section 18(w) of the Federal Deposit Insurance Act in response to a request from another financial institution; or
+					‘‘(II) in a written termination notice or employment reference that is provided in accordance with

@@ -1,0 +1,26 @@
+PUBLIC LAW 107-56—OCT. 26, 2001
+
+or criminal contempt of court, and may also result in an enhancement of the sentence of the defendant under the obstruction of justice provision of the Federal Sentencing Guidelines.”.
+
+SEC. 320. PROCEEDS OF FOREIGN CRIMES.
+Section 981(a)(1)(B) of title 18, United States Code, is amended to read as follows:
+“(B) Any property, real or personal, within the jurisdiction of the United States, constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from an offense against a foreign nation, or any property used to facilitate such an offense, if the offense—
+“(i) involves the manufacture, importation, sale, or distribution of a controlled substance (as that term is defined for purposes of the Controlled Substances Act), or any other conduct described in section 1956(c)(7)(B);
+“(ii) would be punishable within the jurisdiction of the foreign nation by death or imprisonment for a term exceeding 1 year; and
+“(iii) would be punishable under the laws of the United States by imprisonment for a term exceeding 1 year, if the act or activity constituting the offense had occurred within the jurisdiction of the United States.”.
+
+SEC. 321. FINANCIAL INSTITUTIONS SPECIFIED IN SUBCHAPTER II OF CHAPTER 53 OF TITLE 31, UNITED STATES CODE.
+(a) CREDIT UNIONS.—Subparagraph (E) of section 5312(2) of title 31, United States Code, is amended to read as follows:
+“(E) any credit union;”.
+(b) FUTURES COMMISSION MERCHANT; COMMODITY TRADING ADVISOR; COMMODITY POOL OPERATOR.—Section 5312 of title 31, United States Code, is amended by adding at the end the following new subsection:
+“(c) ADDITIONAL DEFINITIONS.—For purposes of this subchapter, the following definitions shall apply:
+“(1) CERTAIN INSTITUTIONS INCLUDED IN DEFINITION.—The term ‘financial institution’ (as defined in subsection (a)) includes the following:
+“(A) Any futures commission merchant, commodity trading advisor, or commodity pool operator registered, or required to register, under the Commodity Exchange Act.”.
+(c) CFTC
+
+SEC. 322. CORPORATION REPRESENTED BY A FUGITIVE.
+Section 2466 of title 18, United States Code, is amended by designating the present matter as subsection (a), and adding at the end the following:
+“(b) Subsection (a) may be applied to a claim filed by a corporation if any majority shareholder, or individual filing the claim on behalf of the corporation is a person to whom subsection (a) applies.”.
+
+SEC. 323. ENFORCEMENT OF FOREIGN JUDGMENTS.
+Section 2467 of title 28, United States Code, is amended—

@@ -1,0 +1,32 @@
+115 STAT. 384          PUBLIC LAW 107–56—OCT. 26, 2001
+
+(d)    
+
+DEFINITIONS.—
+
+Section 1030(e) of title 18, United States Code is amended—
+(1) in paragraph (2)(B), by inserting “, including a computer located outside the United States that is used in a manner that affects interstate or foreign commerce or communication of the United States” before the semicolon; 
+(2) in paragraph (7), by striking “and” at the end;
+(3) by striking paragraph (8) and inserting the following:
+“(8) the term ‘damage’ means any impairment to the integrity or availability of data, a program, a system, or information;”;
+(4) in paragraph (9), by striking the period at the end
+and inserting a semicolon; and 
+(5) by adding at the end the following:
+“(10) the term ‘conviction’ shall include a conviction under the law of any State for a crime punishable by imprisonment for more than 1 year, an element of which is unauthorized access, or exceeding authorized access, to a computer;
+“(11) the term ‘loss’ means any reasonable cost to any victim, including the cost of responding to an offense, conducting a damage assessment, and restoring the data, program, system, or information to its condition prior to the offense, and any revenue lost, cost incurred, or other consequential damages incurred because of interruption of service; and 
+“(12) the term ‘person’ means any individual, firm, corporation, educational institution, financial institution, governmental entity, or legal or other entity.”.
+
+(e)    
+
+DAMAGES IN CIVIL ACTIONS.—
+
+Section 1030(g) of title 18, United States Code is amended—
+(1) by striking the second sentence and inserting the following: “A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B). Damages for a violation involving only conduct described in subsection (a)(5)(B)(i) are limited to economic damages;”; and 
+(2) by adding at the end the following: “No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware.”.
+
+(f)  
+
+AMENDMENT OF SENTENCING GUIDELINES RELATING TO CERTAIN COMPUTER FRAUD AND ABUSE.—Pursuant to its authority under section 994(p) of title 28, United States Code, the United States Sentencing Commission shall amend the Federal sentencing guidelines to ensure that any individual convicted of a violation of section 1030 of title 18, United States Code, can be subjected to appropriate penalties, without regard to any mandatory minimum term of imprisonment.
+
+SEC. 815. ADDITIONAL DEFENSE TO CIVIL ACTIONS RELATING TO PRESERVING RECORDS IN RESPONSE TO GOVERNMENT REQUESTS.
+Section 2707(e)(1) of title 18, United States Code, is amended by inserting after “or statutory authorization” the following: “(including a request of a governmental entity under section 2703(f) of this title)”.

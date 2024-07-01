@@ -1,0 +1,34 @@
+PUBLIC LAW 107-56—OCT. 26, 2001
+
+115 STAT. 331
+
+“(D) Establish and maintain a financial crimes communications center to furnish law enforcement authorities with intelligence information related to emerging or ongoing investigations and undercover operations. 
+
+“(E) Furnish research, analytical, and informational services to financial institutions, appropriate Federal regulatory agencies with regard to financial institutions, and appropriate Federal, State, local, and foreign law enforcement authorities, in accordance with policies and guidelines established by the Secretary of the Treasury or the Under Secretary of the Treasury for Enforcement, in the interest of detection, prevention, and prosecution of terrorism, organized crime, money laundering, and other financial crimes. 
+
+“(F) Assist Federal, State, local, and foreign law enforcement and regulatory authorities in combatting the use of informal, nonbank networks and payment and barter system mechanisms that permit the transfer of funds or the equivalent of funds without records and without compliance with criminal and tax laws.
+
+“(G) Provide computer and data support and data analysis to the Secretary of the Treasury for tracking and controlling foreign assets. 
+
+“(H) Coordinate with financial intelligence units in other countries on anti-terrorism and anti-money laundering initiatives, and similar efforts.
+
+“(I) Administer the requirements of subchapter II of chapter 53 of title 31, chapter 2 of title I of Public Law 91-508, and section 21 of the Federal Deposit Insurance Act, to the extent delegated such authority by the Secretary of the Treasury.
+
+“(J) Such other duties and powers as the Secretary of the Treasury may delegate or prescribe.
+
+“(c) REQUIREMENTS RELATING TO MAINTENANCE AND USE OF 
+DATA BANKS.—The Secretary of the Treasury shall establish and maintain operating procedures with respect to the government-wide data access service and the financial crimes communications center maintained by FinCEN which provide—
+
+“(1) for the coordinated and efficient transmittal of information to, entry of information into, and withdrawal of information from, the data maintenance system maintained by the Network, including—
+
+“(A) the submission of reports through the Internet or other secure network, whenever possible;
+
+“(B) the cataloguing of information in a manner that facilitates rapid retrieval by law enforcement personnel of meaningful data; and
+
+“(C) a procedure that provides for a prompt initial review of suspicious activity reports and other reports, or such other means as the Secretary may provide, to identify information that warrants immediate action; and
+
+“(2) in accordance with section 552a of title 5 and the Right to Financial Privacy Act of 1978, appropriate standards and guidelines for determining—
+
+“(A) who is to be given access to the information maintained by the Network;
+
+“(B) what limits are to be imposed on the use of such information; and

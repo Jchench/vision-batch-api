@@ -1,0 +1,26 @@
+PUBLIC LAW 107-56—OCT. 26, 2001
+
+115 STAT. 319
+
+(2) SCOPE OF APPLICATION.—The amendment made by paragraph (1) shall apply with respect to any application submitted to the Board of Governors of the Federal Reserve System under section 3 of the Bank Holding Company Act of 1956 after December 31, 2001, which has not been approved by the Board before the date of enactment of this Act.
+
+(b) MERGERS SUBJECT TO REVIEW UNDER FEDERAL DEPOSIT INSURANCE ACT.—
+(1) IN GENERAL.—Section 18(c) of the Federal Deposit Insurance Act (12 U.S.C. 1828(c)) is amended—
+(A) by redesignating paragraph (11) as paragraph (12); and
+(B) by inserting after paragraph (10), the following new paragraph:
+
+‘‘(11) MONEY LAUNDERING.—In every case, the responsible agency shall take into consideration the effectiveness of any insured depository institution involved in the proposed merger transaction in combating money laundering activities, including in overseas branches.”.
+(2) SCOPE OF APPLICATION.—The amendment made by paragraph (1) shall apply with respect to any application submitted to the responsible agency under section 18(c) of the Federal Deposit Insurance Act after December 31, 2001, which has not been approved by all appropriate responsible agencies before the date of enactment of this Act.
+
+SEC. 328. INTERNATIONAL COOPERATION ON IDENTIFICATION OF ORIGINATORS OF WIRE TRANSFERS.
+
+The Secretary shall—
+(1) in consultation with the Attorney General and the Secretary of State, take all reasonable steps to encourage foreign governments to require the inclusion of the name of the originator in wire transfer instructions sent to the United States and other countries, with the information to remain with the transfer from its origination until the point of disbursement; and
+(2) report annually to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on—
+(A) progress toward the goal enumerated in paragraph (1), as well as impediments to implementation and an estimated compliance rate; and
+(B) impediments to instituting a regime in which all appropriate identification, as defined by the Secretary, about wire transfer recipients shall be included with wire transfers from their point of origination until disbursement.
+
+SEC. 329. CRIMINAL PENALTIES.
+
+Any person who is an official or employee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title, corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for—
+(1) being influenced in the performance of any official act;

@@ -1,0 +1,30 @@
+115 STAT. 322           PUBLIC LAW 107–56—OCT. 26, 2001
+
+the rules of a self-regulatory organization registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission.
+except that such written reference or notice may not disclose that such information was also included in any such report, or that such report was made.
+
+‘‘(ii) INFORMATION NOT REQUIRED.—Clause (i) shall not be construed, by itself, to create any affirmative duty to include any information described in clause (i) in any employment reference or termination notice referred to in clause (i).’’.
+    
+SEC. 352. ANTI-MONEY LAUNDERING PROGRAMS.
+(a) IN GENERAL.—Section 5318(h) of title 31, United States Code, is amended to read as follows:
+   ‘‘(h) ANTI-MONEY LAUNDERING PROGRAMS.—
+       ‘‘(1) IN GENERAL.—In order to guard against money laundering through financial institutions, each financial institution shall establish anti-money laundering programs, including, at a minimum—
+          ‘‘(A) the development of internal policies, procedures, and controls;
+          ‘‘(B) the designation of a compliance officer;
+          ‘‘(C) an ongoing employee training program; and
+          ‘‘(D) an independent audit function to test programs.
+       ‘‘(2) REGULATIONS.—The Secretary of the Treasury, in consultation with the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act), may prescribe minimum standards for programs established under paragraph (1), and may exempt from the application of those standards any financial institution that is not subject to the provisions of the rules contained in part 103 of title 31, of the Code of Federal Regulations, or any successor rule thereto, for so long as such financial institution is not subject to the provisions of such rules.’’.
+
+31 USC5318
+note.
+31 USC 5318 note.
+
+(b) EFFECTIVE DATE.—The amendment made by subsection (a) shall take effect at the end of the 180-day period beginning on the date of enactment of this Act.
+    (c) DATE OF APPLICATION OF REGULATIONS; FACTORS TO BE TAKEN INTO ACCOUNT.—Before the end of the 180-day period beginning on the date of enactment of this Act, the Secretary shall prescribe regulations that consider the extent to which the requirements imposed under this section are commensurate with the size, location, and activities of the financial institutions to which such regulations apply.
+
+SEC. 353. PENALTIES FOR VIOLATIONS OF GEOGRAPHIC TARGETING ORDERS AND CERTAIN RECORDKEEPING REQUIREMENTS; AND LENGTHENING EFFECTIVE PERIOD OF GEOGRAPHIC TARGETING ORDERS.
+
+(a) CIVIL PENALTY FOR VIOLATION OF TARGETING ORDER.—
+Section 5321(a)(1) of title 31, United States Code, is amended—
+      (1) by inserting ‘‘or order issued’’ after ‘‘subchapter or a regulation prescribed’’; and
+      (2) by inserting ‘‘, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act

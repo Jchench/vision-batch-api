@@ -1,0 +1,58 @@
+PUBLIC LAW 107–56—OCT. 26, 2001
+
+SEC. 816. DEVELOPMENT AND SUPPORT OF CYBERSECURITY
+                     FORENSIC CAPABILITIES.
+   (a) IN GENERAL.—The Attorney General shall establish such
+regional computer forensic laboratories as the Attorney General
+considers appropriate, and provide support to existing computer
+forensic laboratories, in order that all such computer forensic labora-
+tories have the capability—
+       (1) to provide forensic examinations with respect to seized
+    or intercepted computer evidence relating to criminal activity
+    (including cyberterrorism);
+       (2) to provide training and education for Federal, State,
+    and local law enforcement personnel and prosecutors regarding
+    investigations, forensic analyses, and prosecutions of computer-
+    related crime (including cyberterrorism);
+       (3) to assist Federal, State, and local law enforcement
+    in enforcing Federal, State, and local criminal laws relating
+    to computer-related crime;
+       (4) to facilitate and promote the sharing of Federal law
+    enforcement expertise and information about the investigation,
+    analysis, and prosecution of computer-related crime with State
+    and local law enforcement personnel and prosecutors, including
+    the use of multijurisdictional task forces; and
+       (5) to carry out such other activities as the Attorney Gen-
+    eral considers appropriate.
+   (b) AUTHORIZATION OF APPROPRIATIONS.—
+       (1) AUTHORIZATION.—There is hereby authorized to be
+    appropriated in each fiscal year $50,000,000 for purposes of
+    carrying out this section.
+       (2) AVAILABILITY.—Amounts appropriated pursuant to the
+    authorization of appropriations in paragraph (1) shall remain
+    available until expended.
+
+SEC. 817. EXPANSION OF THE BIOLOGICAL WEAPONS STATUTE.
+   Chapter 10 of title 18, United States Code, is amended—
+     (1) in section 175—
+          (A) in subsection (b)—
+              (i) by striking “does not include” and inserting
+          “includes”;
+              (ii) by inserting “other than” after “system for”;
+          and
+              (iii) by inserting “bona fide research” after “protec-
+          tive”; and
+          (B) by redesignating subsection (b) as subsection (c);
+                and
+          (C) by inserting after subsection (a) the following:
+     “(b) ADDITIONAL OFFENSE.—Whoever knowingly possesses any
+biological agent, toxin, or delivery system of a type or in a quantity
+that, under the circumstances, is not reasonably justified by a
+prophylactic, protective, bona fide research, or other peaceful pur-
+pose, shall be fined under this title, imprisoned not more than
+10 years, or both. In this subsection, the terms ‘biological agent’
+and ‘toxin’ do not encompass any biological agent or toxin that
+is in its naturally occurring environment, if the biological agent
+or toxin has not been cultivated, collected, or otherwise extracted
+from its natural source.”;
+      (2) by inserting after section 175a the following:

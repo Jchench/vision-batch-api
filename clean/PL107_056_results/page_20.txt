@@ -1,0 +1,60 @@
+115 STAT. 290                 PUBLIC LAW 107-56—OCT. 26, 2001
+
+    "(C) the attributes of the communications to which 
+    the order applies, including the number or other identifier 
+    and, if known, the location of the telephone line or other 
+    facility to which the pen register or trap and trace device 
+    is to be attached or applied, and, in the case of an order 
+    authorizing installation and use of a trap and trace device 
+    under subsection (a)(2), the geographic limits of the order;
+    and".
+
+(3) NONDISCLOSURE REQUIREMENTS.—Section 3123(d)(2) of
+title 18, United States Code, is amended—
+    (A) by inserting "or other facility" after "the line";
+    and 
+    (B) by striking "or who has been ordered by the 
+    court" and inserting "or applied, or who is obligated by 
+    the order".
+
+(c) DEFINITIONS.—
+    (1) COURT OF COMPETENT JURISDICTION.—Section 3127(2)
+of title 18, United States Code, is amended by striking subpara-
+graph (A) and inserting the following:
+    "(A) any district court of the United States (including 
+    a magistrate judge of such a court) or any United States 
+    court of appeals having jurisdiction over the offense being 
+    investigated; or".
+    (2) PEN REGISTER.—Section 3127(3) of title 18, United States Code, is amended—
+        (A) by striking "electronic or other impulses" and all 
+        that follows through "is attached" and inserting "dialing, 
+        routing, addressing, or signaling information transmitted 
+        by an instrument or facility from which a wire or electronic
+        communication is transmitted, provided, however, that 
+        such information shall not include the contents of any 
+        communication"; and 
+        (B) by inserting "or process" after "device" each place 
+        it appears.
+    (3) TRAP AND TRACE DEVICE.—Section 3127(4) of title 18,
+United States Code, is amended—
+        (A) by striking "of an instrument" and all that follows
+        through the semicolon and inserting "or other dialing, 
+        routing, addressing, and signaling information reasonably
+        likely to identify the source of a wire or electronic commu-
+        nication, provided, however, that such information shall
+        not include the contents of any communication;"; and
+        (B) by inserting "or process" after "a device".
+    (4) CONFORMING AMENDMENT.—Section 3127(1) of title 18,
+United States Code, is amended—
+        (A) by striking "and"; and
+        (B) by inserting "; and 'contents' " after "electronic 
+        communication service".
+    (5) TECHNICAL AMENDMENT.—Section 3124(d) of title 18,
+United States Code, is amended by striking "the terms of".
+    (6) CONFORMING AMENDMENT.—Section 3124(b) of title 18,
+United States Code, is amended by inserting "or other facility"
+after "the appropriate line".
+
+SEC. 217. INTERCEPTION OF COMPUTER TRESPASSER COMMUNICA-
+    TIONS.
+Chapter 119 of title 18, United States Code, is amended—

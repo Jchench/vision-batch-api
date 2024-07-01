@@ -1,0 +1,17 @@
+PUBLIC LAW 107-56—OCT. 26, 2001 115 STAT. 325
+
+United States Code, to investment companies pursuant to section 5312(a)(2)(I) of title 31, United States Code.
+          (2) DEFINITION.—For purposes of this subsection, the term “investment company”—
+                   (A) has the same meaning as in section 3 of the Investment Company Act of 1940 (15 U.S.C. 80a-3); and
+                   (B) includes any person that, but for the exceptions provided for in paragraph (1) or (7) of section 3(c) of the Investment Company Act of 1940 (15 U.S.C. 80a-3(c)), would be an investment company.
+          (3) ADDITIONAL RECOMMENDATIONS.—The report required by paragraph (1) may make different recommendations for different types of entities covered by this subsection.
+          (4) BENEFICIAL OWNERSHIP OF PERSONAL HOLDING COMPANIES.—The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation or business or other grantor trust whose assets are predominantly securities, bank certificates of deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution.
+
+SEC. 357. SPECIAL REPORT ON ADMINISTRATION OF BANK SECRECY PROVISIONS.
+          (a) REPORT REQUIRED.—Not later than 6 months after the date of enactment of this Act, the Secretary shall submit a report Deadline.
+to the Committees relating to the role of the Internal Revenue Service in the administration of subchapter II of chapter 53 of title 31, United States Code (commonly known as the “Bank Secrecy Act”).
+          (b) CONTENTS.—The report required by subsection (a)—
+                   (1) shall specifically address, and contain recommendations concerning—
+                             (A) whether it is advisable to shift the processing of information reporting to the Department of the Treasury under the Bank Secrecy Act provisions to facilities other than those managed by the Internal Revenue Service; and
+                             (B) whether it remains reasonable and efficient, in light of the objective of both anti-money-laundering programs and Federal tax administration, for the Internal Revenue Service to retain authority and responsibility for audit and examination of the compliance of money services businesses and gaming institutions with those Bank Secrecy Act provisions; and
+                   (2) shall, if the Secretary determines that the information processing responsibility or the audit and examination responsibility of the Internal Revenue Service, or both, with respect to those Bank Secrecy Act provisions should be transferred to other agencies, include the specific recommendations of the Secretary regarding the agency or agencies to which any such function should be transferred, complete with a budgetary and resources plan for expeditiously accomplishing the transfer.

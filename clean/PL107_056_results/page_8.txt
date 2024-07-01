@@ -1,0 +1,24 @@
+115 STAT. 278       PUBLIC LAW 107-56—OCT. 26, 2001
+
+“(C) when the United States is engaged in armed hostilities or has been attacked by a foreign country or foreign nationals, confiscate any property, subject to the jurisdiction of the United States, of any foreign person, foreign organization, or foreign country that he determines has planned, authorized, aided, or engaged in such hostilities or attacks against the United States; and all right, title, and interest in any property so confiscated shall vest, when, as, and upon the terms directed by the President, in such agency or person as the President may designate from time to time, and upon such terms and conditions as the President may prescribe, such interest or property shall be held, used, administered, liquidated, sold, or otherwise dealt with in the interest of and for the benefit of the United States, and such designated agency or person may perform any and all acts incident to the accomplishment or furtherance of these purposes.”; and
+
+(2) by inserting at the end the following:
+
+“(C) CLASSIFIED INFORMATION.—In any judicial review of a determination made under this section, if the determination was based on classified information (as defined in section 1(a) of the Classified Information Procedures Act) such information may be submitted to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review.”.
+
+TITLE II—ENHANCED SURVEILLANCE PROCEDURES
+
+SEC. 201. AUTHORITY TO INTERCEPT WIRE, ORAL, AND ELECTRONIC COMMUNICATIONS RELATING TO TERRORISM.
+
+Section 2516(1) of title 18, United States Code, is amended—
+(1) by redesignating paragraph (p), as so redesignated by section 434(2) of the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132; 110 Stat. 1274), as paragraph (r); and 
+(2) by inserting after paragraph (p), as so redesignated by section 201(3) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (division C of Public Law 104–208; 110 Stat. 3009–565), the following new paragraph:
+“(q) any criminal violation of section 229 (relating to chemical weapons), or sections 2332, 2332a, 2332b, 2332c, 2332d, 2339A, or 2339B of this title (relating to terrorism); or”.
+
+SEC. 202. AUTHORITY TO INTERCEPT WIRE, ORAL, AND ELECTRONIC COMMUNICATIONS RELATING TO COMPUTER FRAUD AND ABUSE OFFENSES.
+
+Section 2516(1)(c) of title 18, United States Code, is amended by striking “and section 1341 (relating to mail fraud),” and inserting “section 1341 (relating to mail fraud), a felony violation of section 1030 (relating to computer fraud and abuse),”.
+
+SEC. 203. AUTHORITY TO SHARE CRIMINAL INVESTIGATIVE INFORMATION.
+
+(a) AUTHORITY TO SHARE GRAND JURY INFORMATION.—

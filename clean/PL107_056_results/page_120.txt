@@ -1,0 +1,22 @@
+115 STAT. 390             PUBLIC LAW 107–56—OCT. 26, 2001
+
+Deadline.
+(b) REPORT REQUIREMENTS.—(1) In preparing the report under subsection (a), the Attorney General, the Secretary, and the Director shall consider whether, and to what extent, the capacities and resources of the Financial Crimes Enforcement Center of the Department of the Treasury may be integrated into the capability contemplated by the report.
+(2) If the Attorney General, Secretary, and the Director determine that it is feasible and desirable to undertake the reconfiguration described in subsection (a) in order to establish the capability described in that subsection, the Attorney General, the Secretary, and the Director shall include with the report under that subsection a detailed proposal for legislation to achieve the reconfiguration.
+
+SEC. 907. NATIONAL VIRTUAL TRANSLATION CENTER.
+
+(a) REPORT ON ESTABLISHMENT.—(1) Not later than February 1, 2002, the Director of Central Intelligence shall, in consultation with the Director of the Federal Bureau of Investigation, submit to the appropriate committees of Congress a report on the establishment and maintenance within the intelligence community of an element for purposes of providing timely and accurate translations of foreign intelligence for all other elements of the intelligence community. In the report, the element shall be referred to as the ‘‘National Virtual Translation Center’’.
+(2) The report on the element described in paragraph (1) shall discuss the use of state-of-the-art communications technology, the integration of existing translation capabilities in the intelligence community, and the utilization of remote-connection capacities so as to minimize the need for a central physical facility for the element.
+
+(b) RESOURCES.—The report on the element required by subsection (a) shall address the following:
+(1) The assignment to the element of a staff of individuals possessing a broad range of linguistic and translation skills appropriate for the purposes of the element.
+(2) The provision to the element of communications capabilities and systems that are commensurate with the most current and sophisticated communications capabilities and systems available to other elements of intelligence community.
+(3) The assurance, to the maximum extent practicable, that the communications capabilities and systems provided to the element will be compatible with communications capabilities and systems utilized by the Federal Bureau of Investigation in securing timely and accurate translations of foreign language materials for law enforcement investigations.
+(4) The development of a communications infrastructure to ensure the efficient and secure use of the translation capabilities of the element.
+
+(c) SECURE COMMUNICATIONS.—The report shall include a discussion of the creation of secure electronic communications between the element described by subsection (a) and the other elements of the intelligence community.
+
+(d) DEFINITIONS.—In this section:
+(1) FOREIGN INTELLIGENCE.—The term ‘‘foreign intelligence’’ has the meaning given that term in section 3(2) of the National Security Act of 1947 (50 U.S.C. 401a(2)).
+(2) ELEMENT OF THE INTELLIGENCE COMMUNITY.—The term ‘‘element of the intelligence community’’ means any element

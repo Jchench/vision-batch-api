@@ -1,0 +1,26 @@
+PUBLIC LAW 107–56—OCT. 26, 2001                             115 STAT. 329
+```
+“(i) APPLICABILITY OF RULES.—Any rules promulgated pursuant to the authority conferred in section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b) shall apply, in addition to any other financial institution to which such rules apply, to any person that engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system.”. 
+
+(d) REPORT.—Not later than 1 year after the date of enactment of this Act, the Secretary of the Treasury shall report to Congress on the needs for any additional legislation relating to persons who engage as a business in an informal money transfer system or to any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system, counter money laundering and regulatory controls relating to underground money movement and banking systems, including whether the threshold for the filing of suspicious activity reports under section 5318(g) of title 31, United States Code should be lowered in the case of such systems. 
+
+SEC. 360. USE OF AUTHORITY OF UNITED STATES EXECUTIVE DIREC-             22 USC 262p–4r.
+TORS. 
+
+(a) ACTION BY THE PRESIDENT.—If the President determines that a particular foreign country has taken or has committed to take actions necessary to efforts of the United States to respond to, deter, or prevent acts of international terrorism, the Secretary may, consistent with other applicable provisions of law, instruct the United States Executive Director of each international financial institution to use the voice and vote of the Executive Director to support any loan or other utilization of the funds of respective institutions for such country, or any public or private entity within such country. 
+
+(b) USE OF VOICE AND VOTE.—The Secretary may instruct the United States Executive Director of each international financial institution to aggressively use the voice and vote of the Executive Director to require an auditing of disbursements at such institutions to ensure that no funds are paid to persons who commit, threaten to commit, or support terrorism. 
+
+(c) DEFINITION.—For purposes of this section, the term ‘‘international financial institution’’ means an institution described in section 1701(c)(2) of the International Financial Institutions Act (22 U.S.C. 262r(c)(2)). 
+
+SEC. 361. FINANCIAL CRIMES ENFORCEMENT NETWORK. 
+
+(a) IN GENERAL.—Subchapter I of chapter 3 of title 31, United States Code, is amended— 
+(1) by redesignating section 310 as section 311; and 
+(2) by inserting after section 309 the following new section: 
+
+“§ 310. Financial Crimes Enforcement Network 
+
+“(a) IN GENERAL.—The Financial Crimes Enforcement Network established by order of the Secretary of the Treasury (Treasury Order Numbered 105–08, in this section referred to as ‘FinCEN’) on April 25, 1990, shall be a bureau in the Department of the Treasury. 
+“(b) DIRECTOR.— 
+```

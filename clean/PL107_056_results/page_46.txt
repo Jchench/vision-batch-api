@@ -1,0 +1,19 @@
+115 STAT. 316        PUBLIC LAW 107-56—OCT. 26, 2001 
+
+(1) in subsection (d), by adding the following after paragraph (2):
+“(3) PRESERVATION OF PROPERTY.—
+“(A) IN GENERAL.—To preserve the availability of property subject to a foreign forfeiture or confiscation judgment, the Government may apply for, and the court may issue, a restraining order pursuant to section 983(j) of title 18, at any time before or after an application is filed pursuant to subsection (c)(1) of this section.
+“(B) EVIDENCE.—The court, in issuing a restraining order under subparagraph (A)—
+“(i) may rely on information set forth in an affidavit describing the nature of the proceeding or investigation underway in the foreign country, and setting forth a reasonable basis to believe that the property to be restrained will be named in a judgment of forfeiture at the conclusion of such proceeding; or
+“(ii) may register and enforce a restraining order that has been issued by a court of competent jurisdiction in the foreign country and certified by the Attorney General pursuant to subsection (b)(2).
+“(C) LIMIT ON GROUNDS FOR OBJECTION.—No person may object to a restraining order under subparagraph (A) on any ground that is the subject of parallel litigation involving the same property that is pending in a foreign court.”;
+
+(2) in subsection (b)(1)(C), by striking “establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant” and inserting “establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons”;
+
+(3) in subsection (d)(1)(D), by striking “the defendant in the proceedings in the foreign court did not receive notice” and inserting “the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property”; and
+
+(4) in subsection (a)(2)(A), by inserting “, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States” after “United Nations Convention”.
+31 USC 5311 note.
+
+SEC. 324. REPORT AND RECOMMENDATION.
+Not later than 30 months after the date of enactment of this Act, the Secretary, in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable.

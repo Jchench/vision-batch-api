@@ -1,0 +1,20 @@
+PUBLIC LAW 107-56—OCT. 26, 2001			115 STAT. 317
+
+SEC. 325. CONCENTRATION ACCOUNTS AT FINANCIAL INSTITUTIONS.
+Section 5318(h) of title 31, United States Code, as amended by section 202 of this title, is amended by adding at the end the following:
+		‘‘(3) CONCENTRATION ACCOUNTS.—The Secretary may prescribe regulations under this subsection that govern maintenance of concentration accounts by financial institutions, in order to ensure that such accounts are not used to prevent association of the identity of an individual customer with the movement of funds of which the customer is the direct or beneficial owner, which regulations shall, at a minimum— 
+		‘‘(A) prohibit financial institutions from allowing clients to direct transactions that move their funds into, out of, or through the concentration accounts of the financial institution; 
+		‘‘(B) prohibit financial institutions and their employees from informing customers of the existence of, or the means of identifying, the concentration accounts of the institution; and 
+		‘‘(C) require each financial institution to establish written procedures governing the documentation of all transactions involving a concentration account, which procedures shall ensure that, any time a transaction involving a concentration account commingles funds belonging to 1 or more customers, the identity of, and specific amount belonging to, each customer is documented.’’. 
+
+
+SEC. 326. VERIFICATION OF IDENTIFICATION.
+	(a) IN GENERAL.—Section 5318 of title 31, United States Code, as amended by this title, is amended by adding at the end the following:
+
+		‘‘(l) IDENTIFICATION AND VERIFICATION OF ACCOUNTHOLDERS.— 
+		‘‘(1) IN GENERAL.—Subject to the requirements of this subsection, the Secretary of the Treasury shall prescribe regulations setting forth the minimum standards for financial institutions and their customers regarding the identity of the customer that shall apply in connection with the opening of an account at a financial institution. 
+		‘‘(2) MINIMUM REQUIREMENTS.—The regulations shall, at a minimum, require financial institutions to implement, and customers (after being given adequate notice) to comply with, reasonable procedures for—
+		‘‘(A) verifying the identity of any person seeking to open an account to the extent reasonable and practicable; 
+		‘‘(B) maintaining records of the information used to verify a person’s identity, including name, address, and other identifying information; and 
+		‘‘(C) consulting lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency to determine whether a person seeking to open an account appears on any such list.
+		‘‘(3) FACTORS TO BE CONSIDERED.—In prescribing regulations under this subsection, the Secretary shall take into consideration the various types of accounts maintained by various types of financial institutions, the various methods of opening

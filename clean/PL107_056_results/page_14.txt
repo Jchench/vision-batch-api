@@ -1,0 +1,56 @@
+115 STAT. 284      PUBLIC LAW 107–56—OCT. 26, 2001
+
+    “(D) to a government entity as authorized under chapters
+119, 121, or 206 of title 18, United States Code, except that
+such disclosure shall not include records revealing cable sub-
+scriber selection of video programming from a cable operator.”;
+and
+    (2) in subsection (h), by striking “A governmental entity”
+and inserting “Except as provided in subsection (c)(2)(D), a
+    governmental entity”.
+
+SEC. 212. EMERGENCY DISCLOSURE OF ELECTRONIC COMMUNICA-
+               TIONS TO PROTECT LIFE AND LIMB.
+(a) DISCLOSURE OF CONTENTS.—
+            (1) IN GENERAL.—Section 2702 of title 18, United States
+    Code, is amended—
+                (A) by striking the section heading and inserting the
+            following:
+
+“§ 2702. Voluntary disclosure of customer communications
+                  or records”;
+        (B) in subsection (a)—
+                (i) in paragraph (2)(A), by striking “and” at the
+            end;
+                (ii) in paragraph (2)(B), by striking the period and
+            inserting “; and”; and
+                (iii) by inserting after paragraph (2) the following:
+            “(3) a provider of remote computing service or electronic
+        communication service to the public shall not knowingly divulge
+        a record or other information pertaining to a subscriber to
+        or customer of such service (not including the contents of
+        communications covered by paragraph (1) or (2)) to any govern-
+        mental entity.”;
+        (C) in subsection (b), by striking “EXCEPTIONS.—A person or entity” and inserting “EXCEPTIONS FOR DISCLOSURE
+        OF COMMUNICATIONS.—A provider described in subsection
+        (a)”; 
+        (D) in subsection (b)(6)—
+                (i) in subparagraph (A)(ii), by striking “or”;
+                (ii) in subparagraph (B), by striking the period and
+            inserting “; or”; and
+                (iii) by adding after subparagraph (B) the following:
+                    “(C) if the provider reasonably believes that an emer-
+                gency involving immediate danger of death or serious phys-
+                ical injury to any person requires disclosure of the informa-
+                tion without delay.”; and
+        (E) by inserting after subsection (b) the following:
+    “(c) EXCEPTIONS FOR DISCLOSURE OF CUSTOMER RECORDS.—
+A provider described in subsection (a) may divulge a record or
+other information pertaining to a subscriber to or customer of
+such service (not including the contents of communications covered
+by subsection (a)(1) or (a)(2))—
+    “(1) as otherwise authorized in section 2703;
+    “(2) with the lawful consent of the customer or subscriber;
+    “(3) as may be necessarily incident to the rendition of
+the service or to the protection of the rights or property of
+the provider of that service;

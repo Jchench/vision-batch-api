@@ -1,0 +1,22 @@
+PUBLIC LAW 107–56—OCT. 26, 2001           115 STAT. 309
+
+“(iv) bribery of a public official, or the misappropriation, theft, or embezzlement of public funds by or for the benefit of a public official;
+“(v) smuggling or export control violations involving—
+“(I) an item controlled on the United States Munitions List established under section 38 of the Arms Export Control Act (22 U.S.C. 2778); or
+“(II) an item controlled under regulations under the Export Administration Regulations (15 C.F.R. Parts 730–774); or
+“(vi) an offense with respect to which the United States would be obligated by a multilateral treaty, either to extradite the alleged offender or to submit the case for prosecution, if the offender were found within the territory of the United States;”; and
+(2) in subparagraph (D)—
+(A) by inserting ‘‘section 541 (relating to goods falsely classified),’’ before ‘‘section 542’’; 
+(B) by inserting ‘‘section 922(1) (relating to the unlawful importation of firearms), section 924(n) (relating to firearms trafficking),’’ before ‘‘section 956’’;
+(C) by inserting ‘‘section 1030 (relating to computer fraud and abuse),’’ before ‘‘1032’’; and 
+(D) by inserting ‘‘any felony violation of the Foreign Agents Registration Act of 1938,’’ before ‘‘or any felony violation of the Foreign Corrupt Practices Act’’.
+
+SEC. 316. ANTI-TERRORIST FORFEITURE PROTECTION.
+(a) RIGHT TO CONTEST.—An owner of property that is confiscated under any provision of law relating to the confiscation of assets of suspected international terrorists, may contest that confiscation by filing a claim in the manner set forth in the Federal Rules of Civil Procedure (Supplemental Rules for Certain Admiralty and Maritime Claims), and asserting as an affirmative defense that—
+(1) the property is not subject to confiscation under such provision of law; or
+(2) the innocent owner provisions of section 983(d) of title 18, United States Code, apply to the case.
+(b) EVIDENCE.—In considering a claim filed under this section, a court may admit evidence that is otherwise inadmissible under the Federal Rules of Evidence, if the court determines that the evidence is reliable, and that compliance with the Federal Rules of Evidence may jeopardize the national security interests of the United States.
+(c) CLARIFICATIONS.— 
+(1) PROTECTION OF RIGHTS.—The exclusion of certain provisions of Federal law from the definition of the term ‘‘civil forfeiture statute’’ in section 983(i) of title 18, United States Code, shall not be construed to deny an owner of property the right to contest the confiscation of assets of suspected international terrorists under—
+(A) subsection (a) of this section;
+(B) the Constitution; or

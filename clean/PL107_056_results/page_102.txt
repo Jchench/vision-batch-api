@@ -1,0 +1,17 @@
+115 STAT. 372            PUBLIC LAW 107-56—OCT. 26, 2001
+
+of Crime Act of 1984 (42 U.S.C. 10602) is amended by striking subsection (c) and inserting the following:
+    "(c) EXCLUSION FROM INCOME, RESOURCES, AND ASSETS FOR PURPOSES OF MEANS TESTS.—Notwithstanding any other law (other than title IV of Public Law 107-42), for the purpose of any maximum allowed income, resource, or asset eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance), any amount of crime victim compensation that the applicant receives through a crime victim compensation program under this section shall not be included in the income, resources, or assets of the applicant, nor shall that amount reduce the amount of the assistance available to the applicant from Federal, State, or local government programs using Federal funds, unless the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime.".
+    (d) DEFINITIONS OF "COMPENSABLE CRIME" AND "STATE".—Section 1403(d) of the Victims of Crime Act of 1984 (42 U.S.C. 10602(d)) is amended—
+(1) in paragraph (3), by striking "crimes involving terrorism," and
+(2) in paragraph (4), by inserting "the United States Virgin Islands," after "the Commonwealth of Puerto Rico,".
+(e) RELATIONSHIP OF ELIGIBLE CRIME VICTIM COMPENSATION PROGRAMS TO THE SEPTEMBER 11TH VICTIM COMPENSATION FUND.—
+(1) IN GENERAL.—Section 1403(c) of the Victims of Crime Act of 1984 (42 U.S.C. 10602(c)) is amended by inserting "including the program established under title IV of Public Law 107-42," after "Federal program,".
+(2) COMPENSATION.—With respect to any compensation payable under title IV of Public Law 107-42, the failure of a crime victim compensation program, after the effective date of final regulations issued pursuant to section 407 of Public Law 107-42, to provide compensation otherwise required pursuant to section 1403 of the Victims of Crime Act of 1984 (42 U.S.C. 10602) shall not render that program ineligible for future grants under the Victims of Crime Act of 1984. 
+
+SEC. 623. CRIME VICTIM ASSISTANCE.
+
+(a) ASSISTANCE FOR VICTIMS IN THE DISTRICT OF COLUMBIA, PUERTO RICO, AND OTHER TERRITORIES AND POSSESSIONS.—Section 1404(a) of the Victims of Crime Act of 1984 (42 U.S.C. 10603(a)) is amended by adding at the end the following:
+    "(6) An agency of the Federal Government performing local law enforcement functions in and on behalf of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, or any other territory or possession of the United States may qualify as an eligible crime victim assistance program for the purpose of grants under this subsection, or for the purpose of grants under subsection (c)(1).".
+(b) PROHIBITION ON DISCRIMINATION AGAINST CERTAIN VICTIMS.—Section 1404(b)(1) of the Victims of Crime Act of 1984 (42 U.S.C. 10603(b)(1)) is amended—
+    (1) in subparagraph (D), by striking "and" at the end;

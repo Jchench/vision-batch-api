@@ -1,0 +1,19 @@
+115 STAT. 312　　　　　PUBLIC LAW 107–56—OCT. 26, 2001
+
+with respect to liabilities arising from the restraint, seizure, or arrest of such funds, and that such suspension or termination would be in the interest of justice and would not harm the national interests of the United States.
+　　　　“(2) No requirement for government to trace funds.—If a forfeiture action is brought against funds that are restrained, seized, or arrested under paragraph (1), it shall not be necessary for the Government to establish that the funds are directly traceable to the funds that were deposited into the foreign bank, nor shall it be necessary for the Government to rely on the application of section 984.
+　　　　“(3) Claims brought by owner of the funds.—If a forfeiture action is instituted against funds restrained, seized, or arrested under paragraph (1), the owner of the funds deposited into the account at the foreign bank may contest the forfeiture by filing a claim under section 983.
+　　　　“(4) Definitions.—For purposes of this subsection, the following definitions shall apply:
+　　　　　　“(A) Interbank account.—The term ‘interbank account’ has the same meaning as in section 984(c)(2)(B).
+　　　　　　“(B) Owner.—
+　　　　　　　　　“(i) In general.—Except as provided in clause (ii), the term ‘owner’—
+　　　　　　　　　　　　　　“(I) means the person who was the owner, as that term is defined in section 983(d)(6), of the funds that were deposited into the foreign bank at the time such funds were deposited; and
+　　　　　　　　　　　　　　“(II) does not include either the foreign bank or any financial institution acting as an intermediary in the transfer of the funds into the interbank account.
+　　　　　　　　　“(ii) Exception.—The foreign bank may be considered the ‘owner’ of the funds (and no other person shall qualify as the owner of such funds) only if—
+　　　　　　　　　　　　　　“(I) the basis for the forfeiture action is wrongdoing committed by the foreign bank; or
+　　　　　　　　　　　　　　“(II) the foreign bank establishes, by a preponderance of the evidence, that prior to the restraint, seizure, or arrest of the funds, the foreign bank had discharged all or part of its obligation to the prior owner of the funds, in which case the foreign bank shall be deemed the owner of the funds to the extent of such discharged obligation.”.
+　　(b) Bank records.—Section 5318 of title 31, United States Code, as amended by this title, is amended by adding at the end the following:
+　　　　“(K) Bank records related to anti-money laundering programs.—
+　　　　　　“(1) Definitions.—For purposes of this subsection, the following definitions shall apply:
+　　　　　　　　　“(A) Appropriate federal banking agency.—The term ‘appropriate Federal banking agency’ has the same meaning as in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
+　　　　　　　　　“(B) Incorporated term.—The term ‘correspondent account’ has the same meaning as in section 5318A(f)(1)(B).

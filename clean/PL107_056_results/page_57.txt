@@ -1,0 +1,29 @@
+PUBLIC LAW 107-56—OCT. 26, 2001
+
+115 STAT. 327
+
+have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, recognizes that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.”
+
+(c) AMENDMENT RELATING TO THE PURPOSES OF THE BANK SECRECY ACT.—Section 123(a) of Public Law 91—508 (12 U.S.C. 1953(a)) is amended to read as follows:
+
+“(a) REGULATIONS.—If the Secretary determines that the maintenance of appropriate records and procedures by any uninsured bank or uninsured institution, or any person engaging in the business of carrying on in the United States any of the functions referred to in subsection (b), has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, and that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism, he may by regulation require such bank, institution, or person.”.
+
+(f) AMENDMENTS TO THE RIGHT TO FINANCIAL PRIVACY ACT.—The Right to Financial Privacy Act of 1978 is amended—
+
+(1) in section 1112(a) (12 U.S.C. 3412(a)), by inserting “, or intelligence or counterintelligence activity, investigation or analysis related to international terrorism” after “legitimate law enforcement inquiry”;
+(2) in section 1114(a)(1) (12 U.S.C. 3414(a)(1))—
+(A) in subparagraph (A), by striking “or” at the end;
+(B) in subparagraph (B), by striking the period at the end and inserting “; or”; and
+(C) by adding at the end the following:
+“(C) a Government authority authorized to conduct investigations of, or intelligence or counterintelligence analyses related to, international terrorism for the purpose of conducting such investigations or analyses.”; and
+(3) in section 1120(a)(2) (12 U.S.C. 3420(a)(2)), by inserting “, or for a purpose authorized by section 1112(a)” before the semicolon at the end.
+
+(g) AMENDMENT TO THE FAIR CREDIT REPORTING ACT.—
+
+(1) IN GENERAL.—The Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended—
+(A) by redesignating the second of the 2 sections designated as section 624 (15 U.S.C. 1681u) (relating to disclosure to FBI for counterintelligence purposes) as section 625; and
+(B) by adding at the end the following new section:
+
+“§ 626. Disclosures to governmental agencies for counter-terrorism purposes
+
+(a) DISCLOSURE.—Notwithstanding section 604 or any other provision of this title, a consumer reporting agency shall furnish a consumer’s report of a consumer and all other information in a consumer’s file to a government agency authorized to conduct investigations of, or intelligence or counterintelligence activities or analysis related to, international terrorism when presented with

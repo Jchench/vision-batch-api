@@ -1,0 +1,25 @@
+115 STAT. 320            PUBLIC LAW 107–56—OCT. 26, 2001
+
+(2) being influenced to commit or aid in the committing, or to collude in, or allow, any fraud, or make opportunity for the commission of any fraud, on the United States; or 
+
+(3) being induced to do or omit to do any act in violation of the official duty of such official or person, 
+shall be fined in an amount not more than 3 times the monetary equivalent of the thing of value, or imprisoned for not more than 15 years, or both. A violation of this section shall be subject to chapter 227 of title 18, United States Code, and the provisions of the United States Sentencing Guidelines. 
+
+SEC. 330. INTERNATIONAL COOPERATION IN INVESTIGATIONS OF MONEY LAUNDERING, FINANCIAL CRIMES, AND THE FINANCES OF TERRORIST GROUPS. 
+
+(a) NEGOTIATIONS.—It is the sense of the Congress that the President should direct the Secretary of State, the Attorney General, or the Secretary of the Treasury, as appropriate, and in consultation with the Board of Governors of the Federal Reserve System, to seek to enter into negotiations with the appropriate financial supervisory agencies and other officials of any foreign country the financial institutions of which do business with United States financial institutions or which may be utilized by any foreign terrorist organization (as designated under section 219 of the Immigration and Nationality Act), any person who is a member or representative of any such organization, or any person engaged in money laundering or financial or other crimes.
+
+(b) PURPOSE OF NEGOTIATIONS.—It is the sense of the Congress that, in carrying out any negotiations described in paragraph (1), the President should direct the Secretary of State, the Attorney General, or the Secretary of the Treasury, as appropriate, to seek to enter into and further cooperative efforts, voluntary information exchanges, the use of letters rogatory, mutual legal assistance treaties, and international agreements to—
+
+(1) ensure that foreign banks and other financial institutions maintain adequate records of transaction and account information relating to any foreign terrorist organization (as designated under section 219 of the Immigration and Nationality Act), any person who is a member or representative of any such organization, or any person engaged in money laundering or financial or other crimes; and
+
+(2) establish a mechanism whereby such records may be made available to United States law enforcement officials and domestic financial institution supervisors, when appropriate.
+
+Subtitle B—Bank Secrecy Act Amendments and Related Improvements
+
+SEC. 351. AMENDMENTS RELATING TO REPORTING OF SUSPICIOUS ACTIVITIES.
+
+(a) AMENDMENT RELATING TO CIVIL LIABILITY IMMUNITY FOR DISCLOSURES.—Section 5318(g)(3) of title 31, United States Code, is amended to read as follows:
+
+‘‘(3) LIABILITY FOR DISCLOSURES.— 
+‘‘(A) IN GENERAL.—Any financial institution that makes a voluntary disclosure of any possible violation of law or regulation to a government agency or makes a disclosure

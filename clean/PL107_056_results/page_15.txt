@@ -1,0 +1,27 @@
+PUBLIC LAW 107–56—OCT. 26, 2001        115 STAT. 285
+
+‘‘(4) to a governmental entity, if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person justifies disclosure of the information; or 
+‘‘(5) to any person other than a governmental entity.’’. 
+(2) TECHNICAL AND CONFORMING AMENDMENT.—The table of sections for chapter 121 of title 18, United States Code, is amended by striking the item relating to section 2702 and inserting the following: 
+‘‘2702. Voluntary disclosure of customer communications or records.’’. 
+(b) REQUIREMENTS FOR GOVERNMENT ACCESS.— 
+(1) IN GENERAL.—Section 2703 of title 18, United States Code, is amended— 
+(A) by striking the section heading and inserting the following:
+
+‘‘§ 2703. Required disclosure of customer communications or records’’; 
+(B) in subsection (c) by redesignating paragraph (2) as paragraph (3); 
+(C) in subsection (c)(1)— 
+(i) by striking ‘‘(A) Except as provided in subparagraph (B), a provider of electronic communication service or remote computing service may’’ and inserting ‘‘A governmental entity may require a provider of electronic communication service or remote computing service to’’; 
+(ii) by striking ‘‘covered by subsection (a) or (b) of this section) to any person other than a governmental entity. 
+‘‘(B) A provider of electronic communication service or remote computing service shall disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a) or (b) of this section) to a governmental entity’’ and inserting ‘‘);’’; 
+(iii) by redesignating subparagraph (C) as paragraph (2); 
+(iv) by redesignating clauses (i), (ii), (iii), and (iv) as subparagraphs (A), (B), (C), and (D), respectively; 
+(v) in subparagraph (D) (as redesignated) by striking the period and inserting ‘‘; or’’; and 
+(vi) by inserting after subparagraph (D) (as redesignated) the following: 
+‘‘(E) seeks information under paragraph (2).’’; and 
+(D) in paragraph (2) (as redesignated) by striking ‘‘subparagraph (B)’’ and insert ‘‘paragraph (1)’’. 
+(2) TECHNICAL AND CONFORMING AMENDMENT.—The table of sections for chapter 121 of title 18, United States Code, is amended by striking the item relating to section 2703 and inserting the following: 
+‘‘2703. Required disclosure of customer communications or records.’’. 
+SEC. 213. AUTHORITY FOR DELAYING NOTICE OF THE EXECUTION OF 
+A WARRANT.
+Section 3103a of title 18, United States Code, is amended—

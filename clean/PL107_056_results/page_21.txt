@@ -1,0 +1,30 @@
+PUBLIC LAW 107-56—OCT. 26, 2001
+115 STAT. 291
+
+(1) in section 2510—
+    (A) in paragraph (18), by striking “and” at the end;
+    (B) in paragraph (19), by striking the period and inserting a semicolon; and
+    (C) by inserting after paragraph (19) the following:
+        “(20) ‘protected computer’ has the meaning set forth in section 1030; and
+        (21) ‘computer trespasser’—
+            “(A) means a person who accesses a protected computer without authorization and thus has no reasonable expectation of privacy in any communication transmitted to, through, or from the protected computer; and
+            “(B) does not include a person known by the owner or operator of the protected computer to have an existing contractual relationship with the owner or operator of the protected computer for access to all or part of the protected computer.”; and
+(2) in section 2511(2), by inserting at the end the following:
+    “(i) It shall not be unlawful under this chapter for a person acting under color of law to intercept the wire or electronic communications of a computer trespasser transmitted to, through, or from the protected computer, if—
+        “(I) the owner or operator of the protected computer authorizes the interception of the computer trespasser’s communications on the protected computer;
+        “(II) the person acting under color of law is lawfully engaged in an investigation;
+        “(III) the person acting under color of law has reasonable grounds to believe that the contents of the computer trespasser’s communications will be relevant to the investigation; and
+        “(IV) such interception does not acquire communications other than those transmitted to or from the computer trespasser.”.
+
+SEC. 218. FOREIGN INTELLIGENCE INFORMATION.
+Sections 104(a)(7)(B) and 303(a)(7)(B) (50 U.S.C. 1804(a)(7)(B) and 1823(a)(7)(B)) of the Foreign Intelligence Surveillance Act of 1978 are each amended by striking “the purpose” and inserting “a significant purpose”.
+
+SEC. 219. SINGLE-JURISDICTION SEARCH WARRANTS FOR TERRORISM.
+Rule 41(a) of the Federal Rules of Criminal Procedure is amended by inserting after “executed” the following: “and (3) in an investigation of domestic terrorism or international terrorism (as defined in section 2331 of title 18, United States Code), by a Federal magistrate judge in any district in which activities related to the terrorism may have occurred, for a search of property or for a person within or outside the district”.
+18 USC app.
+
+SEC. 220. NATIONWIDE SERVICE OF SEARCH WARRANTS FOR ELEC-
+TRONIC EVIDENCE.
+(a) IN GENERAL.—Chapter 121 of title 18, United States Code,
+is amended—
+    (1) in section 2703, by striking “under the Federal Rules of Criminal Procedure” every place it appears and inserting “using the procedures described in the Federal Rules of

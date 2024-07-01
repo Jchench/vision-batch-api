@@ -1,0 +1,15 @@
+PUBLIC LAW 107-56—OCT. 26, 2001
+
+or promote money laundering in or through the jurisdiction;
+“(ii) the extent to which such institutions, trans- actions, or types of accounts are used for legitimate business purposes in the jurisdiction; and
+“(iii) the extent to which such action is sufficient to ensure, with respect to transactions involving the jurisdiction and institutions operating in the jurisdiction, that the purposes of this subchapter continue to be fulfilled, and to guard against international money laundering and other financial crimes.
+“(d) NOTIFICATION OF SPECIAL MEASURES INVOKED BY THE SEC- RETARY.—Not later than 10 days after the date of any action taken by the Secretary of the Treasury under subsection (a)(1), the Sec- retary shall notify, in writing, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of any such action.
+“(e) DEFINITIONS.—Notwithstanding any other provision of this subchapter, for purposes of this section and subsections (i) and (j) of section 5318, the following definitions shall apply:
+“(1) BANK DEFINITIONS.—The following definitions shall apply with respect to a bank:
+“(A) ACCOUNT.—The term ‘account’—
+“(i) means a formal banking or business relation- ship established to provide regular services, dealings, and other financial transactions; and
+“(ii) includes a demand deposit, savings deposit, or other transaction or asset account and a credit account or other extension of credit.
+“(B) CORRESPONDENT ACCOUNT.—The term ‘cor- respondent account’ means an account established to receive deposits from, make payments on behalf of a foreign financial institution, or handle other financial transactions related to such institution.
+“(C) PAYABLE-THROUGH ACCOUNT.—The term ‘payable- through account’ means an account, including a transaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act), opened at a depository institution by a foreign financial institution by means of which the foreign financial institution permits its customers to engage, either directly or through a subaccount, in banking activities usual in connection with the business of banking in the United States.
+“(2) DEFINITIONS APPLICABLE TO INSTITUTIONS OTHER THAN BANKS.—With respect to any financial institution other than a bank, the Secretary shall, after consultation with the appro- priate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act), define by regulation the term ‘account’, and shall include within the meaning of that term, to the extent, if any, that the Secretary deems appropriate, arrangements similar to payable-through and correspondent accounts.
+“(3) REGULATORY DEFINITION OF BENEFICIAL OWNERSHIP.— The Secretary shall promulgate regulations defining beneficial ownership of an account for purposes of this section and sub- sections (i) and (j) of section 5318. Such regulations shall address issues related to an individual’s authority to fund,

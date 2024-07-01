@@ -1,0 +1,22 @@
+115 STAT. 282          PUBLIC LAW 107-56—OCT. 26, 2001
+
+(c) REPORT.—The Attorney General shall report to the Committees on the Judiciary of the House of Representatives and the Senate on—
+(1) the number of translators employed by the FBI and other components of the Department of Justice;
+(2) any legal or practical impediments to using translators employed by other Federal, State, or local agencies, on a full, part-time, or shared basis; and
+(3) the needs of the FBI for specific translation services in certain languages, and recommendations for meeting those needs.
+SEC. 206. ROVING SURVEILLANCE AUTHORITY UNDER THE FOREIGN INTELLIGENCE SURVEILLANCE ACT OF 1978.
+Section 105(c)(2)(B) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1805(c)(2)(B)) is amended by inserting ‘‘or in circumstances where the Court finds that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons,’’ after ‘‘specified person’’.
+SEC. 207. DURATION OF FISA SURVEILLANCE OF NON-UNITED STATES PERSONS WHO ARE AGENTS OF A FOREIGN POWER.
+(a) DURATION.—
+(1) SURVEILLANCE.—Section 105(e)(1) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1805(e)(1)) is amended by—
+(A) inserting ‘‘(A)’’ after ‘‘except that’’; and
+(B) inserting before the period the following: ‘‘, and (B) an order under this Act for a surveillance targeted against an agent of a foreign power, as defined in section 101(b)(1)(A) may be for the period specified in the application or for 120 days, whichever is less’’.
+(2) PHYSICAL SEARCH.—Section 304(d)(1) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1824(d)(1)) is amended by—
+(A) striking ‘‘forty-five’’ and inserting ‘‘90’’;
+(B) inserting ‘‘(A)’’ after ‘‘except that’’; and
+(C) inserting before the period the following: ‘‘, and (B) an order under this section for a physical search targeted against an agent of a foreign power as defined in section 101(b)(1)(A) may be for the period specified in the application or for 120 days, whichever is less’’.
+(b) EXTENSION.—
+(1) IN GENERAL.—Section 105(e)(2) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1805(d)(2)) is amended by—
+(A) inserting ‘‘(A)’’ after ‘‘except that’’; and
+(B) inserting before the period the following: ‘‘, and (B) an extension of an order under this Act for a surveillance targeted against an agent of a foreign power as defined in section 101(b)(1)(A) may be for a period not to exceed 1 year’’.
+(2) DEFINED TERM.—Section 304(d)(2) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1824(d)(2)) is amended by inserting after ‘‘not a United States person,’’ the following: ‘‘or against an agent of a foreign power as defined in section 101(b)(1)(A),’’.

@@ -1,0 +1,27 @@
+115 STAT. 364            PUBLIC LAW 107-56—OCT. 26, 2001
+
+SEC. 502. SECRETARY OF STATE'S AUTHORITY TO PAY REWARDS.
+    Section 36 of the State Department Basic Authorities Act of 1956 (Public Law 885, August 1, 1956; 22 U.S.C. 2708) is amended—
+        (1) in subsection (b)—
+            (A) in paragraph (4), by striking ‘‘or’’ at the end;
+            (B) in paragraph (5), by striking the period at the end and inserting ‘‘, including by dismantling an organization in whole or significant part; or’’; and
+            (C) by adding at the end the following:
+              ‘‘(6) the identification or location of an individual who holds a key leadership position in a terrorist organization.’’;
+        (2) in subsection (d), by striking paragraphs (2) and (3) and redesignating paragraph (4) as paragraph (2); and
+        (3) in subsection (e)(1), by inserting ‘‘, except as personally authorized by the Secretary of State if he determines that offer or payment of an award of a larger amount is necessary to combat terrorism or defend the Nation against terrorist acts.’’ after ‘‘$5,000,000’’.
+
+SEC. 503. DNA IDENTIFICATION OF TERRORISTS AND OTHER VIOLENT OFFENDERS.
+    Section 3(d)(2) of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a(d)(2)) is amended to read as follows:
+        ‘‘(2) In addition to the offenses described in paragraph (1), the following offenses shall be treated for purposes of this section as qualifying Federal offenses, as determined by the Attorney General:
+            ‘‘(A) Any offense listed in section 2332b(g)(5)(B) of title 18, United States Code.
+            ‘‘(B) Any crime of violence (as defined in section 16 of title 18, United States Code).
+            ‘‘(C) Any attempt or conspiracy to commit any of the above offenses.’’.
+
+SEC. 504. COORDINATION WITH LAW ENFORCEMENT.
+    (a) INFORMATION ACQUIRED FROM AN ELECTRONIC SURVEILLANCE.—Section 106 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1806), is amended by adding at the end the following:
+        ‘‘(k)(1) Federal officers who conduct electronic surveillance to acquire foreign intelligence information under this title may consult with Federal law enforcement officers to coordinate efforts to investigate or protect against—
+            ‘‘(A) actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power;
+            ‘‘(B) sabotage or international terrorism by a foreign power or an agent of a foreign power; or
+            ‘‘(C) clandestine intelligence activities by an intelligence service or network of a foreign power or by an agent of a foreign power.
+        ‘‘(2) Coordination authorized under paragraph (1) shall not preclude the certification required by section 104(a)(7)(B) or the entry of an order under section 105.’’.
+    (b) INFORMATION ACQUIRED FROM A PHYSICAL SEARCH.—Section 305 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1825) is amended by adding at the end the following:

@@ -1,0 +1,21 @@
+115 STAT. 286     PUBLIC LAW 107--56---OCT. 26, 2001
+
+and (2) by adding at the end the following:
+
+   ``(b) DELAY.--With respect to the issuance of any warrant or court order under this section, or any other rule of law, to search for and seize any property or material that constitutes evidence of a criminal offense in violation of the laws of the United States, any notice required, or that may be required, to be given may be delayed if--
+``(1) the court finds reasonable cause to believe that providing immediate notification of the execution of the warrant may have an adverse result (as defined in section 2705);
+``(2) the warrant prohibits the seizure of any tangible property, any wire or electronic communication (as defined in section 2510), or, except as expressly provided in chapter 121, any stored wire or electronic information, except where the court finds reasonable necessity for the seizure; and
+``(3) the warrant provides for the giving of such notice within a reasonable period of its execution, which period may thereafter be extended by the court for good cause shown.''.
+
+SEC. 214. PEN REGISTER AND TRAP AND TRACE AUTHORITY UNDER FISA.
+
+(a) APPLICATIONS AND ORDERS.--Section 402 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1842) is amended--
+(1) in subsection (a)(1), by striking ``for any investigation to gather foreign intelligence information or information concerning international terrorism'' and inserting ``for any investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution'';
+(2) by amending subsection (c)(2) to read as follows:
+``(2) a certification by the applicant that the information likely to be obtained is foreign intelligence information not concerning a United States person or is relevant to an ongoing investigation to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution.'';
+(3) by striking subsection (c)(3); and
+(4) by amending subsection (d)(2)(A) to read as follows:
+``(A) shall specify--
+``(i) the identify, if known, of the person who is the subject of the investigation;
+``(ii) the identity, if known, of the person to whom is leased or in whose name is listed the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied;
+``(iii) the attributes of the communications to which the order applies, such as the number or other identifier, and, if known, the location of the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied and,

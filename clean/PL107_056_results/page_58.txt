@@ -1,0 +1,30 @@
+115 STAT. 328        PUBLIC LAW 107-56—OCT. 26, 2001
+
+a written certification by such government agency that such information is necessary for the agency’s conduct of such investigation, activity or analysis.
+    
+ (b) FORM OF CERTIFICATION.—The certification described in subsection (a) shall be signed by a supervisory official designated by the head of a Federal agency or an officer of a Federal agency whose appointment to office is required to be made by the President, and with the advice and consent of the Senate.
+    
+(c) CONFIDENTIALITY.—No consumer reporting agency, or officer, employee, or agent of such consumer reporting agency, shall disclose to any person, or specify in any consumer report, that a government agency has sought or obtained access to information under subsection (a).
+    
+(d) RULE OF CONSTRUCTION.—Nothing in section 625 shall be construed to limit the authority of the Director of the Federal Bureau of Investigation under this section.
+    
+(e) SAFE HARBOR.—Notwithstanding any other provision of this title, any consumer reporting agency or officer, employee or agent thereof making disclosure of consumer reports or other information pursuant to this section in good-faith reliance upon a certification of a governmental agency pursuant to the provisions of this section shall not be liable to any person for such disclosure under this subchapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State.”
+    
+(2) CLERICAL AMENDMENTS.—The table of sections for the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended—
+
+(A) by redesignating the second of the 2 items designated as section 624 as section 625; and
+    
+(B) by inserting after the item relating to section 625 (as so redesignated) the following new item:
+        “626. Disclosures to governmental agencies for counterterrorism purposes.”.
+    
+(h) APPLICATION OF AMENDMENTS.—The amendments made by this section shall apply with respect to reports filed or records maintained on, before, or after the date of enactment of this Act.
+    
+SEC. 359. REPORTING OF SUSPICIOUS ACTIVITIES BY UNDERGROUND BANKING SYSTEMS.
+
+    (A) DEFINITION FOR SUBCHAPTER.—Section 5312(a)(2)(R) of title 31, United States Code, is amended to read as follows:
+        
+        “(R) a licensed sender of money or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;”.
+
+    (b) MONEY TRANSMITTING BUSINESS.—Section 5330(d)(1)(A) of title 31, United States Code, is amended by inserting before the semicolon the following: “or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;”.
+
+    (c) APPLICABILITY OF RULES.—Section 5318 of title 31, United States Code, as amended by this title, is amended by adding at the end the following:

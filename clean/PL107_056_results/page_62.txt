@@ -1,0 +1,60 @@
+115 STAT. 332
+
+PUBLIC LAW 107–56—OCT. 26, 2001
+
+             “(C) how information about activities or relationships
+              which involve or are closely associated with the exercise
+              of constitutional rights is to be screened out of the data
+              maintenance system.
+     “(d) AUTHORIZATION OF APPROPRIATIONS.—There are authorized 
+       to be appropriated for FinCEN such sums as may be necessary
+       for fiscal years 2002, 2003, 2004, and 2005.”
+31 USC 5314
+note.    (b) COMPLIANCE WITH REPORTING REQUIREMENTS.—The Sec-
+       retary of the Treasury shall study methods for improving compliance
+       with the reporting requirements established in section 5314 of
+       title 31, United States Code, and shall submit a report on such
+       study to the Congress by the end of the 6-month period beginning
+       on the date of enactment of this Act and each 1-year period thereafter.
+       The initial report shall include historical data on compliance
+       with such reporting requirements.
+    (c) CLERICAL AMENDMENT.—The table of sections for subchapter
+      I of chapter 3 of title 31, United States Code, is amended—
+          (1) by redesignating the item relating to section 310 as
+           section 311; and
+          (2) by inserting after the item relating to section 309 the
+                following new item:
+       “310. Financial Crimes Enforcement Network.”.
+31 USC 310 note. SEC. 362. ESTABLISHMENT OF HIGHLY SECURE NETWORK. 
+     (a) IN GENERAL.—The Secretary shall establish a highly secure
+       network in the Financial Crimes Enforcement Network that—
+           (1) allows financial institutions to file reports required
+             under subchapter II or III of chapter 53 of title 31, United
+             States Code, chapter 2 of Public Law 91–508, or section 21
+             of the Federal Deposit Insurance Act through the secure
+             network; and
+           (2) provides financial institutions with alerts and other
+             information regarding suspicious activities that warrant imme-
+             diate and enhanced scrutiny.
+     (b) EXPEDITED DEVELOPMENT.—The Secretary shall take such
+       action as may be necessary to ensure that the secure network
+       required under subsection (a) is fully operational before the end
+       of the 9-month period beginning on the date of enactment of this
+       Act.
+SEC. 363. INCREASE IN CIVIL AND CRIMINAL PENALTIES FOR MONEY
+                   LAUNDERING.
+    (a) CIVIL PENALTIES.—Section 5321(a) of title 31, United States
+        Code, is amended by adding at the end the following:
+       “(7) PENALTIES FOR INTERNATIONAL COUNTER MONEY LAUN-
+             DERING VIOLATIONS.—The Secretary may impose a civil money 
+             penality in an amount equal to not less than 2 times the 
+             amount of the transaction, but not more than $1,000,000, on
+             any finanical institution or agency that violates any provision
+             of subsection (i) or (j) of section 5318 or any special measures
+             imposed under section 5318A.”.
+    (b) CRIMINAL PENALTIES.—Section 5322 of title 31, United
+        States Code, is amended by adding at the end the following:
+         “(d) A financial institution or agency that violates any provision
+         of subsection (i) or (j) of section 5318, or any special measures
+         imposed under section 5318A, or any regulation prescribed under
+         subsection (i) or (j) of section 5318 or section 5318A, shall be

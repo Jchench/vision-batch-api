@@ -21,7 +21,7 @@ def verify_image(image_path):
     return True
 
 # Folder containing the images
-image_folder = "PL110_289_test"
+image_folder = "PL111_022"
 
 # Get list of image paths from the folder
 image_paths = [os.path.join(image_folder, file) for file in os.listdir(image_folder) if file.lower().split('.')[-1] in ['jpeg', 'png', 'gif', 'webp']]
@@ -76,7 +76,7 @@ for image_path in image_paths:
             content = response_data['choices'][0]['message']['content']
 
             # Define the folder and file path for saving the transcription
-            folder_path = 'clean/PL110_289_results'
+            folder_path = 'clean/PL111_022_results'
             os.makedirs(folder_path, exist_ok=True)
 
             # Use the original image file name for the text file

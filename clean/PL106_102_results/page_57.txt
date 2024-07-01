@@ -1,0 +1,28 @@
+PUBLIC LAW 106-102—NOV. 12, 1999
+113 STAT. 1393
+
+the materials set forth in subparagraph (B), to affirm and enforce or to set aside the regulation at issue.
+"(D) STANDARD OF REVIEW.—The court shall determine to affirm and enforce or set aside a regulation of the Commission under this subsection, based on the determination of the court as to whether—
+"(i) the subject product is a new hybrid product, as defined in this subsection; 
+"(ii) the subject product is a security; and 
+"(iii) imposing a requirement to register as a broker or dealer for banks engaging in transactions in such product is appropriate in light of the history, purpose, and extent of regulation under the Federal securities laws and under the Federal banking laws, giving deference neither to the views of the Commission nor the Board.
+"(E) JUDICIAL STAY.—The filing of a petition by the Board pursuant to subparagraph (A) shall operate as a judicial stay, until the date on which the determination of the court is final (including any appeal of such determination).
+"(F) OTHER AUTHORITY TO CHALLENGE.—Any aggrieved party may seek judicial review of the Commission's rulemaking under this subsection pursuant to section 25 of this title.
+"(6) DEFINITIONS.—For purposes of this subsection:
+"(A) NEW HYBRID PRODUCT.—The term 'new hybrid product' means a product that—
+"(i) was not subjected to regulation by the Commission as a security prior to the date of the enactment of the Gramm-Leach-Bliley Act; 
+"(ii) is not an identified banking product as such term is defined in section 206 of such Act; and 
+"(iii) is not an equity swap within the meaning of section 206A(a)(6) of such Act.
+ "(B) BOARD.—The term 'Board' means the Board of Governors of the Federal Reserve System.".
+SEC. 206. DEFINITION OF IDENTIFIED BANKING PRODUCT. 
+15 USC 78c note. 
+
+(a) DEFINITION OF IDENTIFIED BANKING PRODUCT.—For purposes of paragraphs (4) and (5) of section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a) (4), (5)), the term "identified banking product" means—
+(1) a deposit account, savings account, certificate of deposit, or other deposit instrument issued by a bank;
+(2) a banker's acceptance;
+(3) a letter of credit issued or loan made by a bank;
+(4) a debit account at a bank arising from a credit card or similar arrangement;
+(5) a participation in a loan which the bank or an affiliate of the bank (other than a broker or dealer) funds, participates in, or owns that is sold—
+(A) to qualified investors; or 
+(B) to other persons that—
+(i) have the opportunity to review and assess any material information, including information regarding the borrower's creditworthiness; and

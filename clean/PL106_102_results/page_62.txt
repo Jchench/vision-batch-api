@@ -1,0 +1,21 @@
+113 STAT. 1398 PUBLIC LAW 106–102—NOV. 12, 1999
+
+any portfolio transactions for, engaged in any principal transactions with, or distributed shares for—
+‘‘(I) any investment company for which the investment adviser or principal underwriter serves as such;
+‘‘(II) any investment company holding itself out to investors, for purposes of investment or investor services, as a company related to any investment company for which the investment adviser or principal underwriter serves as such; or
+‘‘(III) any account over which the investment adviser has brokerage placement discretion;’’;
+(2) by redesignating clause (vi) as clause (vii); and
+(3) by inserting after clause (v) the following new clause:
+‘‘(vi) any person or any affiliated person of a person  (other than a registered investment company) that, at any time during the 6-month period preceding the date of the determination of whether that person or affiliated person is an interested person, has loaned money or other property to—
+‘‘(I) any investment company for which the investment adviser or principal underwriter serves as such;
+‘‘(II) any investment company holding itself out to investors, for purposes of investment or investor services, as a company related to any investment company for which the investment adviser or principal underwriter serves as such; or
+‘‘(III) any account for which the investment adviser has borrowing authority;’’.
+(c) AFFILIATION OF DIRECTORS.—Section 10(c) of the Investment Company Act of 1940 (15 U.S.C. 80a–10(c)) is amended by striking ‘‘bank, except’’ and inserting ‘‘bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 2 of the Bank Holding Company Act of 1956), except’’.
+SEC. 214. ADDITIONAL SEC DISCLOSURE AUTHORITY.
+Section 35(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–34(a)) is amended to read as follows:
+‘‘(a) MISREPRESENTATION OF GUARANTEES.—
+‘‘(1) IN GENERAL.—It shall be unlawful for any person, issuing or selling any security of which a registered investment company is the issuer, to represent or imply in any manner whatsoever that such security or company—
+‘‘(A) has been guaranteed, sponsored, recommended, or approved by the United States, or any agency, instrumentality or officer of the United States;
+‘‘(B) has been insured by the Federal Deposit Insurance Corporation; or
+‘‘(C) is guaranteed by or is otherwise an obligation of any bank or insured depository institution.
+‘‘(2) DISCLOSURES.—Any person issuing or selling the securities of a registered investment company that is advised by, or sold through, a bank shall prominently disclose that an

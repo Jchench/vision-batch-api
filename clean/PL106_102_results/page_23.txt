@@ -1,0 +1,27 @@
+PUBLIC LAW 106-102—NOV. 12, 1999            113 STAT. 1359
+
+Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
+
+SEC. 105. MUTUAL BANK HOLDING COMPANIES AUTHORIZED.
+
+Section 3(g)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1842(g)(2)) is amended to read as follows:
+“(2) REGULATIONS.—A bank holding company organized as a mutual holding company shall be regulated on terms, and shall be subject to limitations, comparable to those applicable to any other bank holding company.”.
+
+SEC. 106. PROHIBITION ON DEPOSIT PRODUCTION OFFICES.
+
+Section 109(e)(4) of the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994 (12 U.S.C. 1835a(e)(4)) is amended by inserting “and any branch of a bank controlled by an out- of-State bank holding company (as defined in section 2(o)(7) of the Bank Holding Company Act of 1956)” before the period.
+
+SEC. 107. CROSS MARKETING RESTRICTION; LIMITED PURPOSE BANK RELIEF; DIVESTITURE.
+
+(a) CROSS MARKETING RESTRICTION.—Section 4(f) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(f)) is amended by striking paragraph (3).
+(b) DAYLIGHT OVERDRAFTS.—Section 4(f) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(f)) is amended by inserting after paragraph (2) the following new paragraph:
+“(3) PERMISSIBLE OVERDRAFTS DESCRIBED.—For purposes of paragraph (2)(C), an overdraft is described in this paragraph if—
+“(A) such overdraft results from an inadvertent computer or accounting error that is beyond the control of both the bank and the affiliate;
+“(B) such overdraft—
+“(i) is permitted or incurred on behalf of an affiliate that is monitored by, reports to, and is recognized as a primary dealer by the Federal Reserve Bank of New York; and
+“(ii) is fully secured, as required by the Board, by bonds, notes, or other obligations that are direct obligations of the United States or on which the principal and interest are fully guaranteed by the United States or by securities and obligations eligible for settlement on the Federal Reserve book entry system; or
+“(C) such overdraft—
+“(i) is permitted or incurred by, or on behalf of, an affiliate in connection with an activity that is financial in nature or incidental to a financial activity; and
+“(ii) does not cause the bank to violate any provi- sion of section 23A or 23B of the Federal Reserve Act, either directly, in the case of a bank that is a member of the Federal Reserve System, or by virtue of section 18(j) of the Federal Deposit Insurance Act, in the case of a bank that is not a member of the Federal Reserve System.”.
+
+(c) INDUSTRIAL LOAN COMPANIES; AFFILIATE OVERDRAFTS.—Section 2(c)(2)(H) of the Bank Holding Company Act of 1956 (12 U.S.C.

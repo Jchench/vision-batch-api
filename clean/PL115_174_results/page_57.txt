@@ -1,0 +1,23 @@
+PUBLIC LAW 115-174—MAY 24, 2018
+132 STAT. 1351
+(1) REPORT.—Not later than 1 year after the date of the enactment of this Act, the Secretary of Housing and Urban Development and the President of the Ginnie Mae shall submit to the appropriate committees of Congress a report on the liquidity of the housing loan program under chapter 37 of title 38, United States Code, in the secondary mortgage market, which shall—
+(A) assess the loans provided under that chapter that collateralize mortgage-backed securities that are guaranteed by Ginnie Mae; and
+(B) include recommendations for actions that Ginnie Mae should take to ensure that the liquidity of that housing loan program is maintained.
+(2) DEFINITIONS.—In this subsection:
+(A) APPROPRIATE COMMITTEES OF CONGRESS.—The term “appropriate committees of Congress” means—
+(i) the Committee on Veterans’ Affairs and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
+(ii) the Committee on Veterans’ Affairs and the Committee on Financial Services of the House of Representatives.
+(B) GINNIE MAE.—The term “Ginnie Mae” means the Government National Mortgage Association.
+(d) ANNUAL REPORT ON DOCUMENT DISCLOSURE AND CONSUMER EDUCATION.—Not less frequently than once each year, the Secretary of Veterans Affairs shall issue a publicly available report that—
+(1) examines, with respect to loans provided to veterans under chapter 37 of title 38, United States Code—
+(A) the refinancing of fixed-rate mortgage loans to adjustable rate mortgage loans;
+(B) whether veterans are informed of the risks and disclosures associated with that refinancing; and
+(C) whether advertising materials for that refinancing are clear and do not contain misleading statements or assertions; and
+(2) includes findings based on any complaints received by veterans and on an ongoing assessment of the refinancing market by the Secretary.
+
+SEC. 310. CREDIT SCORE COMPETITION.
+(a) USE OF CREDIT SCORES BY FANNIE MAE IN PURCHASING RESIDENTIAL MORTGAGES.—Section 302(b) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1717(b)) is amended by adding at the end the following:
+(7)(A) DEFINITIONS.—In this paragraph—
+(i) the term ‘credit score’ means a numerical value or a categorization created by a third party derived from a statistical tool or modeling system used by a person who makes or arranges a loan to predict the likelihood of certain credit behaviors, including default; and
+(ii) the term ‘residential mortgage’ has the meaning given the term in section 302 of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1451).
+(B) USE OF CREDIT SCORES.—The corporation shall condition purchase of a residential mortgage by the corporation under this

@@ -1,0 +1,24 @@
+PUBLIC LAW 115–174—MAY 24, 2018
+
+132 STAT. 1331
+
+“(ii) a certified or official copy of a birth certificate issued by the entity authorized to issue the birth certificate; or
+“(iii) a copy of a driver’s license, an identification card issued by the motor vehicle administration, or any other government issued identification.
+‘‘(2) PLACEMENT OF SECURITY FREEZE FOR A PROTECTED CONSUMER.— 
+
+“(A) IN GENERAL.—Upon receiving a direct request from a protected consumer’s representative that a consumer reporting agency place a security freeze, and upon receiving sufficient proof of identification and sufficient proof of authority, the consumer reporting agency shall, free of charge, place the security freeze not later than—
+“(i) in the case of a request that is by toll-free telephone or secure electronic means, 1 business day after receiving the request directly from the protected consumer’s representative; or
+“(ii) in the case of a request that is by mail, 3 business days after receiving the request directly from the protected consumer’s representative.
+
+“(B) CONFIRMATION AND ADDITIONAL INFORMATION.—Not later than 5 business days after placing a security freeze under subparagraph (A), a consumer reporting agency shall—
+“(i) send confirmation of the placement to the protected consumer’s representative; and
+“(ii) inform the protected consumer’s representative of the process by which the protected consumer may remove the security freeze, including a mechanism to authenticate the protected consumer’s representative.
+
+“(C) CREATION OF FILE.—If a consumer reporting agency does not have a file pertaining to a protected consumer when the consumer reporting agency receives a direct request under subparagraph (A), the consumer reporting agency shall create a record for the protected consumer. 
+
+‘‘(3) PROHIBITION ON RELEASE OF RECORD OR FILE OF PROTECTED CONSUMER.—After a security freeze has been placed under paragraph (2)(A), and unless the security freeze is removed in accordance with this subsection, a consumer reporting agency may not release the protected consumer’s consumer report, any information derived from the protected consumer’s consumer report, or any record created for the protected consumer.
+
+‘‘(4) REMOVAL OF A PROTECTED CONSUMER SECURITY FREEZE.—
+“(A) IN GENERAL.—A consumer reporting agency shall remove a security freeze placed on the consumer report of a protected consumer only in the following cases:
+‘‘(i) Upon the direct request of the protected consumer’s representative.
+‘‘(ii) Upon the direct request of the protected consumer, if the protected consumer is not under the age of 16 years at the time of the request.

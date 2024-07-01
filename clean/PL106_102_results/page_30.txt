@@ -1,0 +1,21 @@
+113 STAT. 1366          PUBLIC LAW 106-102—NOV. 12, 1999
+
+were conducted in a nondepository institution subsidiary of a bank holding company.
+"(B) INSURANCE ACTIVITIES.—Subject to section 104 of the Gramm-Leach-Bliley Act, insurance agency and broker-age activities and activities as principal conducted in a functionally regulated subsidiary of a depository institution shall be subject to regulation by a State insurance authority to the same extent as if they were conducted in a nondepository institution subsidiary of a bank holding company.
+"(5) DEFINITION.—For purposes of this subsection, the term 'functionally regulated subsidiary' means any company—
+"(A) that is not a bank holding company or a depository institution; and
+"(B) that is—
+"(i) a broker or dealer that is registered under the Securities Exchange Act of 1934;
+"(ii) a registered investment adviser, properly registered by or on behalf of either the Securities and Exchange Commission or any State, with respect to the investment advisory activities of such investment adviser and activities incidental to such investment advisory activities;
+"(iii) an investment company that is registered under the Investment Company Act of 1940;
+"(iv) an insurance company, with respect to insurance activities of the insurance company and activities incidental to such insurance activities, that is subject to supervision by a State insurance regulator; or
+"(v) an entity that is subject to regulation by the Commodity Futures Trading Commission, with respect to the commodities activities of such entity and activities incidental to such commodities activities."
+
+SEC. 112. AUTHORITY OF STATE INSURANCE REGULATOR AND SECURITIES AND EXCHANGE COMMISSION.
+
+(a) BANK HOLDING COMPANIES.—Section 5 of the Bank Holding Company Act of 1956 (12 U.S.C. 1844) is amended by adding at the end the following new subsection:
+"(g) AUTHORITY OF STATE INSURANCE REGULATION AND THE SECURITIES AND EXCHANGE COMMISSION.—
+"(1) IN GENERAL.—Notwithstanding any other provision of law, any regulation, order, or other action of the Board that requires a bank holding company to provide funds or other assets to a subsidiary depository institution shall not be effective nor enforceable with respect to an entity described in subparagraph (A) if—
+"(A) such funds or assets are to be provided by—
+"(i) a bank holding company that is an insurance company, a broker or dealer registered under the Securities Exchange Act of 1934, an investment company registered under the Investment Company Act of 1940, or an investment adviser registered by or on behalf of either the Securities and Exchange Commission or any State; or
+"(ii) an affiliate of the depository institution that is an insurance company or a broker or dealer registered under the Securities Exchange Act of 1934,

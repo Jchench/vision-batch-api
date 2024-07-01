@@ -1,0 +1,27 @@
+PUBLIC LAW 106-102—NOV. 12, 1999
+
+(B) the financial institution holding the account of the consumer;
+(C) any national, regional, or local network utilized to effect the transaction; and
+(D) any other party involved in the transfer; and
+(2) the consumer to elect to consummate the transaction after receiving the notice described in paragraph (1).
+(b) FACTORS TO BE CONSIDERED.—In conducting the study required under subsection (a) with regard to the notice requirement described in such subsection, the Comptroller General shall consider the following factors:
+(1) The availability of appropriate technology.
+(2) Implementation and operating costs.
+(3) The competitive impact any such notice requirement would have on various sizes and types of institutions, if implemented.
+(4) The period of time that would be reasonable for implementing any such notice requirement.
+(5) The extent to which consumers would benefit from any such notice requirement.
+(6) Any other factor the Comptroller General determines to be appropriate in analyzing the feasibility of imposing any such notice requirement.
+(c) REPORT TO THE CONGRESS.—Before the end of the 6-month period beginning on the date of the enactment of this Act, the Comptroller General shall submit a report to the Congress containing—
+(1) the findings and conclusions of the Comptroller General in connection with the study required under subsection (a); and
+(2) the recommendation of the Comptroller General with regard to the question of whether a notice requirement described in subsection (a) should be implemented and, if so, the manner in which such requirement should be implemented.
+
+SEC. 705. NO LIABILITY IF POSTED NOTICES ARE DAMAGED.
+
+Section 910 of the Electronic Fund Transfer Act (15 U.S.C. 1693h) is amended by adding at the end the following new subsection:
+‘(d) EXCEPTION FOR DAMAGED NOTICES.—If the notice required to be posted pursuant to section 904(d)(3)(B)(i) by an automated teller machine operator has been posted by such operator in compliance with such section and the notice is subsequently removed, damaged, or altered by any person other than the operator of the automated teller machine, the operator shall have no liability under this section for failure to comply with section 904(d)(3)(B)(i).’’.
+
+Subtitle B—Community Reinvestment
+
+SEC. 711. CRA SUNSHINE REQUIREMENTS.
+
+The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by inserting after section 47, as added by section 305 of this Act, the following new section:

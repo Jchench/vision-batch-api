@@ -1,0 +1,26 @@
+PUBLIC LAW 106-102—NOV. 12, 1999                 113 STAT. 1443
+
+
+
+	(8) the feasibility of different approaches, including opt-out and opt-in, to permit customers to direct that confidential information not be shared with affiliates and nonaffiliated third parties; and
+	(9) the feasibility of restricting sharing of information for specific uses or of permitting customers to direct the uses for which information may be shared.
+(b) CONSULTATION.—The Secretary shall consult with representatives of State insurance authorities designated by the National Association of Insurance Commissioners, and also with financial services industry, consumer organizations and privacy groups, and other representatives of the general public, in formulating and conducting the study required by subsection (a).
+(c) REPORT.—On or before January 1, 2002, the Secretary shall Deadline, submit a report to the Congress containing the findings and conclusions of the study required under subsection (a), together with such recommendations for legislative or administrative action as may be appropriate.
+
+SEC. 509. DEFINITIONS.
+As used in this subtitle:
+	(1) FEDERAL BANKING AGENCY.—The term “Federal banking agency” has the same meaning as given in section 3 of the Federal Deposit Insurance Act.
+	(2) FEDERAL FUNCTIONAL REGULATOR.—The term “Federal functional regulator” means—
+		(A) the Board of Governors of the Federal Reserve System;
+		(B) the Office of the Comptroller of the Currency;
+		(C) the Board of Directors of the Federal Deposit Insurance Corporation;
+		(D) the Director of the Office of Thrift Supervision;
+		(E) the National Credit Union Administration Board; and
+		(F) the Securities and Exchange Commission.
+	(3) FINANCIAL INSTITUTION.—
+		(A) IN GENERAL.—The term “financial institution” means any institution the business of which is engaging in financial activities as described in section 4(k) of the Bank Holding Company Act of 1956.
+		(B) PERSONS SUBJECT TO CFTC REGULATION.—Notwithstanding subparagraph (A), the term “financial institution” does not include any person or entity with respect to any financial activity that is subject to the jurisdiction of the Commodity Futures Trading Commission under the Commodity Exchange Act.
+		(C) FARM CREDIT INSTITUTIONS.—Notwithstanding subparagraph (A), the term “financial institution” does not include the Federal Agricultural Mortgage Corporation or any entity chartered and operating under the Farm Credit Act of 1971.
+		(D) OTHER SECONDARY MARKET INSTITUTIONS.—Notwithstanding subparagraph (A), the term “financial institution” does not include institutions chartered by Congress specifically to engage in transactions described in section 502(e)(1)(C), as long as such institutions do not sell or 
+
+15 USC 6809.

@@ -1,0 +1,40 @@
+113 STAT. 1450   PUBLIC LAW 106-102—NOV. 12, 1999
+
+(iii) the term ‘‘investment company’’ has the same meaning as given in section 3 of the Investment Com-
+pany Act of 1940 (15 U.S.C. 80a–3).
+
+(D) CERTAIN PERSONS AND ENTITIES SPECIFICALLY EXCLUDED.—The term ‘‘financial institution’’ does not 
+include any person or entity with respect to any financial activity that is subject to the jurisdiction of the Commodity Futures Trading Commission under the Commodity Exchange Act and does not include the Federal Agricultural Mortgage Corporation or any entity chartered and oper-
+ating under the Farm Credit Act of 1971.
+
+(E) FURTHER DEFINITION BY REGULATION.—The Federal Trade Commission, after consultation with Federal banking agencies and the Securities and Exchange Commission, may prescribe regulations clarifying or describing the types of institutions which shall be treated as financial institu-
+tions for purposes of this subtitle.
+
+Federal Home Loan Bank System Modernization Act of 1999.
+12 USC 1421 note.
+
+TITLE VI—FEDERAL HOME LOAN BANK SYSTEM MODERNIZATION
+
+SEC. 601. SHORT TITLE.
+This title may be cited as the ‘‘Federal Home Loan Bank System Modernization Act of 1999’’.
+
+SEC. 602. DEFINITIONS.
+Section 2 of the Federal Home Loan Bank Act (12 U.S.C. 1422) is amended—
+
+(1) in paragraph (1), by striking ‘‘term ‘Board’ means’’ and 
+inserting ‘‘terms ‘Finance Board’ and ‘Board’ mean’’;
+(2) by striking paragraph (3) and inserting the following:
+‘‘(3) STATE.—The term ‘State’, in addition to the States of the United States, includes the District of Columbia, Guam, Puerto Rico, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.’’;
+and
+(3) by adding at the end the following new paragraph:
+‘‘(13) COMMUNITY FINANCIAL INSTITUTION.—
+‘‘(A) IN GENERAL.—The term ‘community financial institution’ means a member—
+‘‘(i) the deposits of which are insured under the 
+Federal Deposit Insurance Act; and
+‘‘(ii) that has, as of the date of the transaction 
+at issue, less than $500,000,000 in average total assets, based on an average of total assets over the 3 years preceding that date.
+‘‘(B) ADJUSTMENTS.—The $500,000,000 limit referred 
+to in subparagraph (A)(ii) shall be adjusted annually by the Finance Board, based on the annual percentage increase, if any, in the Consumer Price Index for all urban consumers, as published by the Department of Labor.’’.
+
+SEC. 603. SAVINGS ASSOCIATION MEMBERSHIP.
+Section 5(f) of the Home Owners’ Loan Act (12 U.S.C. 1464(f)) is amended to read as follows:

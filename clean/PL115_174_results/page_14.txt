@@ -1,0 +1,20 @@
+132 STAT. 1308                                 PUBLIC LAW 115–174—MAY 24, 2018
+
+“(ii) has obtained a waiver pursuant to subsection (c); or
+“(iii) does not receive an amount of reciprocal deposits that causes the total amount of reciprocal deposits held by the agent institution to be greater than the average of the total amount of reciprocal deposits held by the agent institution on the last day of each of the 4 calendar quarters preceding the cal- endar quarter in which the agent institution was found not to have a composite condition of outstanding or good or was determined to be not well capitalized.
+“(B) COVERED DEPOSIT.—The term ‘covered deposit’ means a deposit that—
+“(i) is submitted for placement through a deposit placement network by an agent institution; and
+“(ii) does not consist of funds that were obtained for the agent institution, directly or indirectly, by or through a deposit broker before submission for place- ment through a deposit placement network.
+“(C) DEPOSIT PLACEMENT NETWORK.—The term ‘deposit placement network’ means a network in which an insured depository institution participates, together with other insured depository institutions, for the processing and receipt of reciprocal deposits.
+“(D) NETWORK MEMBER BANK.—The term ‘network member bank’ means an insured depository institution that is a member of a deposit placement network.
+“(E) RECIPROCAL DEPOSITS.—The term ‘reciprocal deposits’ means deposits received by an agent institution through a deposit placement network with the same matu- rity (if any) and in the same aggregate amount as covered deposits placed by the agent institution in other network member banks.
+“(F) WELL CAPITALIZED.—The term ‘well capitalized’ has the meaning given the term in section 38(b)(1).”.
+
+(b) INTEREST RATE RESTRICTION.—Section 29 of the Federal Deposit Insurance Act (12 U.S.C. 1831f) is amended by striking subsection (e) and inserting the following:
+“(e) RESTRICTION ON INTEREST RATE PAID.—
+“(1) DEFINITIONS.—In this subsection—
+“(A) the terms ‘agent institution’, ‘reciprocal deposits’, and ‘well capitalized’ have the meanings given those terms in subsection (i); and
+“(B) the term ‘covered insured depository institution’ means an insured depository institution that—
+“(i) under subsection (c) or (d), accepts funds obtained, directly or indirectly, by or through a deposit broker; or
+“(ii) while acting as an agent institution under subsection (i), accepts reciprocal deposits while not well capitalized.
+“(2) PROHIBITION.—A covered insured depository institution may not pay a rate of interest on funds or reciprocal deposits described in paragraph (1) that, at the time that the funds or reciprocal deposits are accepted, significantly exceeds the limit set forth in paragraph (3).

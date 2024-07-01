@@ -1,0 +1,23 @@
+PUBLIC LAW 115-174—MAY 24, 2018 132 STAT. 1355
+
+of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992.
+‘‘(9) EXTENSION.—If, as of the effective date of this subsection, a credit score model has not been approved under paragraph (3), the Corporation may use a credit score model that was in use before the effective date of this subsection, if necessary to prevent
+substantial market disruptions, until the earlier of—
+‘‘(A) the date on which a credit score model is validated and approved under paragraph (3); or
+‘‘(B) the date that is 2 years after the effective date of this subsection.’’.
+(c) AUTHORITY OF THE DIRECTOR.—Subpart A of part 2 of sub-title A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4541 et seq.) is amended by adding at the end the following:
+‘‘SEC. 1328. REGULATIONS FOR USE OF CREDIT SCORES.
+‘‘The Director shall—
+‘‘(1) by regulation, establish standards and criteria for any process used by an enterprise to validate and approve credit scoring models pursuant to section 302(b)(7) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1717(b)(7)) and section 305(d) of the Federal Home Loan Mort-gage Corporation Act (12 U.S.C. 1454(d)); and
+‘‘(2) ensure that any credit scoring model that is validated and approved by an enterprise under section 302(b)(7) (12 U.S.C. 1717(b)(7)) of the Federal National Mortgage Association Charter Act or section 305(d) of the Federal Home Loan Mort-gage Corporation Act (12 U.S.C. 1454(d)) meets the require-ments of clauses (i), (ii), and (iii) of section 302(b)(7)(C) of the Federal National Mortgage Association Charter Act and subparagraphs (A), (B), and (C) of section 305(d)(3) of the Federal Home Loan Mortgage Corporation Act, respectively.’’.
+(d) EFFECTIVE DATE.—The amendments made by subsections
+(a) and (b) shall take effect on the date that is 180 days after
+the date of enactment of this Act.
+SEC. 311. GAO REPORT ON PUERTO RICO FORECLOSURES.
+Not earlier than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on foreclosures in the Commonwealth of Puerto Rico, including—
+(1) the rate of foreclosures in the Commonwealth of Puerto Rico before and after Hurricane Maria;
+(2) the rate of return for housing developers in the Commonwealth of Puerto Rico before and after Hurricane Maria;
+(3) the rate of delinquency in the Commonwealth of Puerto Rico before and after Hurricane Maria;
+(4) the rate of homeownership in the Commonwealth of Puerto Rico before and after Hurricane Maria; and
+(5) the rate of defaults on federally insured mortgages in the Commonwealth of Puerto Rico before and after Hurricane
+Maria.

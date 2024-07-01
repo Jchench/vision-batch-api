@@ -1,0 +1,43 @@
+PUBLIC LAW 115–174—MAY 24, 2018 132 STAT. 1309
+
+“(3) LIMIT ON INTEREST RATES.—The limit on the rate of interest referred to in paragraph (2) shall be—
+“(A) the rate paid on deposits of similar maturity in the normal market area of the covered insured depository institution for deposits accepted in the normal market area of the covered insured depository institution; or
+“(B) the national rate paid on deposits of comparable maturity, as established by the Corporation, for deposits accepted outside the normal market area of the covered insured depository institution.”.
+
+SEC. 203. COMMUNITY BANK RELIEF.
+Section 13(h)(1) of the Bank Holding Company Act of 1956 (12 U.S.C. 1851(h)(1)) is amended—
+(1) in subparagraph (D), by redesignating clauses (i) and
+(ii) as subclauses (I) and (II), respectively, and adjusting the
+margins accordingly;
+(2) by redesignating subparagraphs (A) through (D) as
+clauses (i) through (iv), respectively, and adjusting the margins
+accordingly;
+(3) in the matter preceding clause (i), as so redesignated,
+in the second sentence, by striking “institution that functions
+solely in a trust or fiduciary capacity, if—” and inserting the
+following: “institution—
+“(A) that functions solely in a trust or fiduciary
+capacity, if—”;
+(4) in clause (iv)(II), as so redesignated, by striking the
+period at the end and inserting “; or”; and
+(5) by adding at the end the following:
+“(B) that does not have and is not controlled by a
+company that has—
+“(i) more than $10,000,000,000 in total consolidated assets; and
+“(ii) total trading assets and trading liabilities,
+as reported on the most recent applicable regulatory
+filing filed by the institution, that are more than 5
+percent of total consolidated assets.”.
+
+SEC. 204. REMOVING NAMING RESTRICTIONS.
+Section 13 of the Bank Holding Company Act of 1956 (12 U.S.C. 1851) is amended—
+(1) in subsection (d)(1)(G)(vi), by inserting before the semi colon the following: “, except that the hedge fund or private equity fund may share the same name or a variation of the same name as a banking entity that is an investment adviser to the hedge fund or private equity fund, if—
+“(I) such investment adviser is not an insured depository institution, a company that controls an insured depository institution, or a company that
+is treated as a bank holding company for purposes
+of section 8 of the International Banking Act of
+1978 (12 U.S.C. 3106);
+“(II) such investment adviser does not share
+the same name or a variation of the same name
+as an insured depository institution, any company
+that controls an insured depository institution, or
+any company that is treated as a bank holding

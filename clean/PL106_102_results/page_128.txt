@@ -1,0 +1,58 @@
+113 STAT. 1464           PUBLIC LAW 106-102—NOV. 12, 1999
+
+       ‘‘(ii) the consumer elects to continue in the manner 
+    necessary to effect the transaction after receiving such 
+    notice.
+       ‘‘(D) DEFINITIONS.—For purposes of this paragraph, the 
+    following definitions shall apply:
+       ‘‘(i) AUTOMATED TELLER MACHINE OPERATOR.—The 
+    term ‘automated teller machine operator’ means any 
+    person who—
+       ‘‘(I) operates an automated teller machine at 
+    which consumers initiate electronic fund transfers; 
+    and
+       ‘‘(II) is not the financial institution that holds 
+    the account of such consumer from which the 
+    transfer is made.
+       ‘‘(ii) ELECTRONIC FUND TRANSFER.—The term ‘elec-
+    tronic fund transfer’ includes a transaction that 
+    involves a balance inquiry initiated by a consumer 
+    in the same manner as an electronic fund transfer, 
+    whether or not the consumer initiates a transfer of 
+    funds in the course of the transaction.
+       ‘‘(iii) HOST TRANSFER SERVICES.—The term ‘host 
+    transfer services’ means any electronic fund transfer 
+    made by an automated teller machine operator in 
+    connection with a transaction initiated by a consumer 
+    at an automated teller machine operated by such oper-
+    ator.’’.
+    SEC. 703. DISCLOSURE OF POSSIBLE FEES TO CONSUMERS WHEN ATM 
+                CARD IS ISSUED.
+    Section 905(a) of the Electronic Fund Transfer Act (15 U.S.C.
+    1693c(a)) is amended—
+       (1) by striking ‘‘and’’ at the end of paragraph (8);
+       (2) by striking the period at the end of paragraph (9) 
+    and inserting ‘‘; and’’; and
+       (3) by inserting after paragraph (9) the following new para-
+    graph:
+       ‘‘(10) a notice to the consumer that a fee may be imposed 
+    by—
+       ‘‘(A) an automated teller machine operator (as defined 
+    in section 904(d)(3)(D)(i)) if the consumer initiates a 
+    transfer from an automated teller machine that is not 
+    operated by the person issuing the card or other means 
+    of access; and
+       ‘‘(B) any national, regional, or local network utilized 
+    to effect the transaction.’’.
+    SEC. 704. FEASIBILITY STUDY.
+       (a) IN GENERAL.—The Comptroller General of the United States 
+    shall conduct a study of the feasibility of requiring, in connection 
+    with any electronic fund transfer initiated by a consumer through 
+    the use of an automated teller machine—
+       (1) a notice to be provided to the consumer before the 
+    consumer is irrevocably committed to completing the trans-
+    action, which clearly states the amount of any fee that will 
+    be imposed upon the consummation of the transaction by—
+       (A) any automated teller machine operator (as defined 
+    in section 904(d)(3)(D)(i) of the Electronic Fund Transfer 
+    Act) involved in the transaction;

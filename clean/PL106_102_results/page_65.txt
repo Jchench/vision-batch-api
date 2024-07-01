@@ -1,0 +1,22 @@
+PUBLIC LAW 106–102—NOV. 12, 1999 113 STAT. 1401
+
+requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States, the Commission, or such agencies. For purposes of section 552 of title 5, United States Code, this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+    ‘‘(b) EFFECT ON OTHER AUTHORITY.—Nothing in this section shall limit in any respect the authority of the appropriate Federal banking agency with respect to such bank holding company (or affiliates or subsidiaries thereof), bank, or subsidiary, department, or division of a bank under any other provision of law.
+    ‘‘(c) DEFINITION.—For purposes of this section, the term ‘appropriate Federal banking agency’ shall have the same meaning as given in section 3 of the Federal Deposit Insurance Act.’’.
+
+SEC. 221. TREATMENT OF BANK COMMON TRUST FUNDS.
+    (a) SECURITIES ACT OF 1933.—Section 3(a)(2) of the Securities Act of 1933 (15 U.S.C. 77c(a)(2)) is amended by striking ‘‘or any interest or participation in any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment of assets contributed thereto by such bank in its capacity as trustee, executor, administrator, or guardian’’ and inserting ‘‘or any interest or participation in any common trust fund or similar fund that is excluded from the definition of the term ‘investment company’ under section 3(c)(3) of the Investment Company Act of 1940’’.
+    (b) SECURITIES EXCHANGE ACT OF 1934.—Section 3(a)(12)(A)(iii) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(12)(A)(iii)) is amended to read as follows:
+        ‘‘(iii) any interest or participation in any common trust fund or similar fund that is excluded from the definition of the term ‘investment company’ under section 3(c)(3) of the Investment Company Act of 1940;’’.
+    (c) INVESTMENT COMPANY ACT OF 1940.—Section 3(c)(3) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(3)) is amended by inserting before the period the following: ‘‘if—
+        ‘‘(A) such fund is employed by the bank solely as an aid to the administration of trusts, estates, or other accounts created and maintained for a fiduciary purpose;
+        ‘‘(B) except in connection with the ordinary advertising of the bank’s fiduciary services, interests in such fund are not—
+            ‘‘(i) advertised; or
+            ‘‘(ii) offered for sale to the general public; and
+        ‘‘(C) fees and expenses charged by such fund are not in contravention of fiduciary principles established under applicable Federal or State law’’.
+
+SEC. 222. STATUTORY DISQUALIFICATION FOR BANK WRONGDOING.
+    Section 9(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–9(a)) is amended in paragraphs (1) and (2) by striking ‘‘securities dealer,’’ and inserting ‘‘securities dealer, bank, transfer agent,’’.
+
+SEC. 223. CONFORMING CHANGE IN DEFINITION.
+    Section 2(a)(5) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a)(5)) is amended by striking ‘‘(A) a banking institution

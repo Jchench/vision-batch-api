@@ -1,0 +1,25 @@
+132 STAT. 1324            PUBLIC LAW 115-174—MAY 24, 2018
+
+(e) CERTIFICATION REQUIRED.—Before providing confirmation of fraud protection data to a permitted entity, the Commissioner shall ensure that the Commissioner has a certification from the permitted entity that is dated not more than 2 years before the date on which that confirmation is provided that includes the following declarations:
+    (1) The entity is a permitted entity.
+    (2) The entity is in compliance with this section. 
+    (3) The entity is, and will remain, in compliance with its privacy and data security requirements, as described in Title V of the Gramm-Leach-Bliley Act (15 U.S.C. 6801 et seq.), with respect to information the entity receives from the Commissioner pursuant to this section.
+    
+(4) The entity will retain sufficient records to demonstrate its compliance with its certification and this section for a period of not less than 2 years.
+
+(f) CONSUMER CONSENT.—
+    (1) IN GENERAL.—Notwithstanding any other provision of law or regulation, a permitted entity may submit a request to the database or similar resource described in subsection (c) only—
+        (A) pursuant to the written, including electronic, consent received by a permitted entity from the individual who is the subject of the request; and
+        (B) in connection with a credit transaction or any circumstance described in section 604 of the Fair Credit Reporting Act (15 U.S.C. 1681b).
+    (2) ELECTRONIC CONSENT REQUIREMENTS.—For a permitted entity to use the consent of an individual received electronically pursuant to paragraph (1)(A), the permitted entity must obtain the individual's electronic signature, as defined in section 106 of the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7006).
+    (3) EFFECTUATING ELECTRONIC CONSENT.—No provision of law or requirement, including section 552a of title 5, United States Code, shall prevent the use of electronic consent for purposes of this subsection or for use in any other consent based verification under the discretion of the Commissioner.
+
+(g) COMPLIANCE AND ENFORCEMENT.—
+    (1) AUDITS AND MONITORING.—The Commissioner may—
+        (A) conduct audits and monitoring to—
+            (i) ensure proper use by permitted entities of the database or similar resource described in subsection (c); and 
+            (ii) deter fraud and misuse by permitted entities with respect to the database or similar resource described in subsection (c); and
+        (B) terminate services for any permitted entity that prevents or refuses to allow the Commissioner to carry out the activities described in subparagraph (A).
+        
+    (2) ENFORCEMENT.—
+        (A) IN GENERAL—Notwithstanding any other provision of law, including the matter preceding paragraph (1) of section 505(a) of the Gramm-Leach-Bliley Act (15 U.S.C. 6805(a)), any violation of this section and any certification made under this section shall be enforced in accordance

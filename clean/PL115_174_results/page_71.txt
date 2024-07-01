@@ -1,0 +1,50 @@
+PUBLIC LAW 115–174—MAY 24, 2018	   132 STAT. 1365
+
+TITLE VI—PROTECTION FOR STUDENT BORROWERS 
+
+SEC. 601. PROTECTIONS IN THE EVENT OF DEATH OR BANKRUPTCY. 
+(a) IN GENERAL.—Section 140 of the Truth in Lending Act 
+(15 U.S.C. 1650) is amended—
+(1) in subsection (a)—
+(A) by redesignating paragraphs (1) through (8) as 
+paragraphs (2) through (9), respectively; and 
+(B) by inserting before paragraph (2), as so redesig nated, the following: 
+“(1) the term ‘cosigner’— 
+“(A) means any individual who is liable for the obliga tion of another without compensation, regardless of how determined in the contract or instrument with respect to 
+that obligation, other than an obligation under a private 
+education loan extended to consolidate a consumer’s pre existing private education loans; 
+“(B) includes any person the signature of which is 
+requested as condition to grant credit or to forbear on collection; and 
+“(C) does not include a spouse of an individual described in subparagraph (A), the signature of whom is needed to perfect the security interest in a loan.”; and 
+(2) by adding at the end the following: 
+“(g) ADDITIONAL PROTECTIONS RELATING TO BORROWER OR CO-
+SIGNER OF A PRIVATE EDUCATION LOAN.— 
+“(1) PROHIBITION ON AUTOMATIC DEFAULT IN CASE OF DEATH 
+OR BANKRUPTCY OF NON-STUDENT OBLIGOR.—With respect to 
+a private education loan involving a student obligor and 1 
+or more cosigners, the creditor shall not declare a default 
+or accelerate the debt against the student obligor on the sole 
+basis of a bankruptcy or death of a cosigner. 
+“(2) COSIGNER RELEASE IN CASE OF DEATH OF BORROWER.— 
+“(A) RELEASE OF COSIGNER.—The holder of a private 
+education loan, when notified of the death of a student 
+obligor, shall release within a reasonable timeframe any 
+cosigner from the obligations of the cosigner under the 
+private education loan. 
+“(B) NOTIFICATION OF RELEASE.—A holder or servicer 
+of a private education loan, as applicable, shall within 
+a reasonable time–frame notify any cosigners for the private 
+education loan if a cosigner is released from the obligations 
+of the cosigner for the private education loan under this 
+paragraph. 
+“(C) DESIGNATION OF INDIVIDUAL TO ACT ON BEHALF 
+OF THE BORROWER.—Any lender that extends a private 
+education loan shall provide the student obligor an option 
+to designate an individual to have the legal authority to 
+act on behalf of the student obligor with respect to the 
+private education loan in the event of the death of the 
+student obligor.”. 
+(b) APPLICABILITY.—The amendments made by subsection (a) 
+shall only apply to private education loan agreements entered into 
+on or after the date that is 180 days after the date of enactment 
+of this Act.

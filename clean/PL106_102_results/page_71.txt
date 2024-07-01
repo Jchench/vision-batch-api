@@ -1,0 +1,27 @@
+PUBLIC LAW 106-102—NOV. 12, 1999
+
+                          113 STAT. 1407
+
+(2) Section 1112(e) of the Right to Financial Privacy Act of 1978 (12 U.S.C. 3412(e)) is amended—
+    (A) by striking "this title" and inserting "law"; and 
+    (B) by inserting ", examination reports" after "financial records".
+
+                     Subtitle D—Banks and Bank Holding Companies
+
+SEC. 241. CONSULTATION.
+   (a) IN GENERAL.—The Securities and Exchange Commission shall consult and coordinate comments with the appropriate Federal banking agency before taking any action or rendering any opinion with respect to the manner in which any insured depository institu- tion or depository institution holding company reports loan loss reserves in its financial statement, including the amount of any such loan loss reserve.
+   (b) DEFINITIONS.—For purposes of subsection (a), the terms "insured depository institution", "depository institution holding com- pany", and "appropriate Federal banking agency" have the same meaning as given in section 3 of the Federal Deposit Insurance Act.
+
+                      TITLE III—INSURANCE
+Subtitle A—State Regulation of Insurance
+
+SEC. 301. FUNCTIONAL REGULATION OF INSURANCE.
+     The insurance activities of any person (including a national bank exercising its power to act as agent under the eleventh undesignated paragraph of section 13 of the Federal Reserve Act) shall be functionally regulated by the States, subject to section 104.
+                              
+SEC. 302. INSURANCE UNDERWRITING IN NATIONAL BANKS.
+   (a) IN GENERAL.—Except as provided in section 303, a national bank and the subsidiaries of a national bank may not provide insurance in a State as principal except that this prohibition shall not apply to authorized products.
+   (b) AUTHORIZED PRODUCTS.—For the purposes of this section, a product is authorized if—
+      (1) as of January 1, 1999, the Comptroller of the Currency had determined in writing that national banks may provide such product as principal, or national banks were in fact law- fully providing such product as principal;
+      (2) no court of relevant jurisdiction had, by final judgment, overturned a determination of the Comptroller of the Currency that national banks may provide such product as principal; and
+      (3) the product is not title insurance, or an annuity contract the income of which is subject to tax treatment under section 72 of the Internal Revenue Code of 1986.
+   (c) DEFINITION.—For purposes of this section, the term "insurance" means—

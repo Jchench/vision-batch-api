@@ -1,0 +1,25 @@
+113 STAT. 1420          PUBLIC LAW 106–102—NOV. 12, 1999
+
+		(1) comply with the unfair claim settlement practices law of the licensed State;
+		(2) pay, on a nondiscriminatory basis, applicable premium and other taxes which are levied on licensed insurers or policyholders under the laws of the licensed State;
+		(3) register with and designate the State insurance regulator as its agent solely for the purpose of receiving service of legal documents or process;
+		(4) submit to an examination by the State insurance regulator in any licensed State in which the redomesticated insurer is doing business to determine the insurer’s financial condition, if—
+			(A) the State insurance regulator of the transferee domicile has not begun an examination of the redomesticated insurer and has not scheduled such an examination to begin before the end of the 1-year period beginning on the date of the redomestication; and
+			(B) any such examination is coordinated to avoid unjustified duplication and repetition;
+		(5) comply with a lawful order issued in—
+			(A) a delinquency proceeding commenced by the State insurance regulator of any licensed State if there has been a judicial finding of financial impairment under paragraph (7); or
+			(B) a voluntary dissolution proceeding;
+		(6) comply with any State law regarding deceptive, false, or fraudulent acts or practices, except that if the licensed State seeks an injunction regarding the conduct described in this paragraph, such injunction must be obtained from a court of competent jurisdiction as provided in section 314(a);
+		(7) comply with an injunction issued by a court of competent jurisdiction, upon a petition by the State insurance regulator alleging that the redomesticating insurer is in hazardous financial condition or is financially impaired;
+		(8) participate in any insurance insolvency guaranty association on the same basis as any other insurer licensed in the licensed State; and
+		(9) require a person acting, or offering to act, as an insurance licensee for a redomesticated insurer in the licensed State to obtain a license from that State, except that such State may not impose any qualification or requirement that discriminates against a nonresident insurance licensee.
+
+15 USC 6734.           SEC. 314. OTHER PROVISIONS.
+
+(a) JUDICIAL REVIEW.—The appropriate United States district court shall have exclusive jurisdiction over litigation arising under this section involving any redomesticating or redomesticated insurer.
+(b) SEVERABILITY.—If any provision of this section, or the application thereof to any person or circumstances, is held invalid, the remainder of the section, and the application of such provision to other persons or circumstances, shall not be affected thereby.
+
+15 USC 6735.           SEC. 315. DEFINITIONS.
+
+For purposes of this subtitle, the following definitions shall apply:
+		(1) COURT OF COMPETENT JURISDICTION.—The term ‘‘court of competent jurisdiction’’ means a court authorized pursuant

@@ -1,0 +1,23 @@
+PUBLIC LAW 106-102—NOV. 12,1999
+
+113 STAT. 1437
+
+in section 505(a) shall establish appropriate standards for the financial institutions subject to their jurisdiction relating to administrative, technical, and physical safeguards—
+(1) to insure the security and confidentiality of customer records and information;
+(2) to protect against any anticipated threats or hazards to the security or integrity of such records; and
+(3) to protect against unauthorized access to or use of such records or information which could result in substantial harm or inconvenience to any customer.
+
+SEC. 502. OBLIGATIONS WITH RESPECT TO DISCLOSURES OF PERSONAL INFORMATION.
+
+(a) NOTICE REQUIREMENTS.—Except as otherwise provided in this subtitle, a financial institution may not, directly or through any affiliate, disclose to a nonaffiliated third party any nonpublic personal information, unless such financial institution provides or has provided to the consumer a notice that complies with section 503.
+
+(b) OPT OUT.—
+(1) IN GENERAL.—A financial institution may not disclose nonpublic personal information to a nonaffiliated third party unless—
+(A) such financial institution clearly and conspicuously discloses to the consumer, in writing or in electronic form or other form permitted by the regulations prescribed under section 504, that such information may be disclosed to such third party;
+(B) the consumer is given the opportunity, before the time that information is initially disclosed, to direct that such information not be disclosed to such third party; and
+(C) the consumer is given an explanation of how the consumer can exercise that nondisclosure option.
+(2) EXCEPTION.—This subsection shall not prevent a financial institution from providing nonpublic personal information to a nonaffiliated third party to perform services for or functions on behalf of the financial institution, including marketing of the financial institution’s own products or services, or financial products or services offered pursuant to joint agreements between two or more financial institutions that comply with the requirements imposed by the regulations prescribed under section 504, if the financial institution fully discloses the providing of such information and enters into a contractual agreement with the third party that requires the third party to maintain the confidentiality of such information.
+
+(c) LIMITS ON REUSE OF INFORMATION.—Except as otherwise provided in this subtitle, a nonaffiliated third party that receives from a financial institution nonpublic personal information under this section shall not, directly or through an affiliate of such receiving third party, disclose such information to any other person that is a nonaffiliated third party of both the financial institution and such receiving third party, unless such disclosure would be lawful if made directly to such other person by the financial institu-
+
+(d) LIMITATIONS ON THE SHARING OF ACCOUNT NUMBER INFORMATION FOR MARKETING PURPOSES.—A financial institution

@@ -1,0 +1,57 @@
+PUBLIC LAW 115-174—MAY 24, 2018
+
+Sec. 304. Restoration of the Protecting Tenants at Foreclosure Act of 2009.
+Sec. 305. Remediating lead and asbestos hazards.
+Sec. 306. Family self-sufficiency program.
+Sec. 307. Property Assessed Clean Energy financing.
+Sec. 308. GAO report on consumer reporting agencies.
+Sec. 309. Protecting veterans from predatory lending.
+Sec. 310. Credit score competition.
+Sec. 311. GAO report on Puerto Rico foreclosures.
+Sec. 312. Report on children's lead-based paint hazard prevention and abatement.
+Sec. 313. Foreclosure relief and extension for servicemembers.
+
+TITLE IV—TAILORING REGULATIONS FOR CERTAIN BANK HOLDING COMPANIES
+
+Sec. 401. Enhanced supervision and prudential standards for certain bank holding companies.
+Sec. 402. Supplementary leverage ratio for custodial banks.
+Sec. 403. Treatment of certain municipal obligations.
+
+TITLE V—ENCOURAGING CAPITAL FORMATION
+
+Sec. 501. National securities exchange regulatory parity.
+Sec. 502. SEC study on algorithmic trading.
+Sec. 503. Annual review of government-business forum on capital formation.
+Sec. 504. Supporting America's innovators.
+Sec. 505. Securities and Exchange Commission overpayment credit.
+Sec. 506. U.S. territories investor protection.
+Sec. 507. Encouraging employee ownership.
+Sec. 508. Improving access to capital.
+Sec. 509. Parity for closed-end companies regarding offering and proxy rules.
+
+TITLE VI—PROTECTIONS FOR STUDENT BORROWERS
+
+Sec. 601. Protections in the event of death or bankruptcy.
+Sec. 602. Rehabilitation of private education loans.
+Sec. 603. Best practices for higher education financial literacy.
+
+12 USC 5365
+note.
+
+SEC. 2. DEFINITIONS.
+
+In this Act:
+(1) APPROPRIATE FEDERAL BANKING AGENCY; COMPANY; DEPOSITORY INSTITUTION; DEPOSITORY INSTITUTION HOLDING COMPANY.—The terms “appropriate Federal banking agency”, “company”, “depository institution”, and “depository institution holding company” have the meanings given those terms in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
+(2) BANK HOLDING COMPANY.—The term “bank holding company” has the meaning given the term in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).
+
+TITLE I—IMPROVING CONSUMER
+ACCESS TO MORTGAGE CREDIT
+
+SEC. 101. MINIMUM STANDARDS FOR RESIDENTIAL MORTGAGE LOANS.
+
+Section 129C(b)(2) of the Truth in Lending Act (15 U.S.C. 1639c(b)(2)) is amended by adding at the end the following:
+“(F) SAFE HARBOR.—
+“(i) DEFINITIONS.—In this subparagraph—
+“(I) the term ‘covered institution’ means an insured depository institution or an insured credit union that, together with its affiliates, has less than $10,000,000,000 in total consolidated assets;
+“(II) the term ‘insured credit union’ has the meaning given the term in section 101 of the Federal Credit Union Act (12 U.S.C. 1752);
+“(III) the term ‘insured depository institution’ has the meaning given the term in section 3 of

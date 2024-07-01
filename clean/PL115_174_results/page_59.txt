@@ -1,0 +1,18 @@
+PUBLIC LAW 115-174—MAY 24, 2018
+
+132 STAT. 1353
+
+“(iii) STATUS NOTICE.—The corporation shall provide notice to an applicant regarding the status of an application submitted under subparagraph (F) not later than 60 days after the date on which the application was submitted to the corporation. Deadline.
+“(iv) REASONS FOR DISAPPROVAL.—If an application submitted under subparagraph (F) is disapproved, the corporation shall provide to the applicant the reasons for the disapproval not later than 30 days after a determination is made under this subparagraph. Deadline.
+“(H) AUTHORITY OF DIRECTOR.—If the corporation elects to use a credit score model under this paragraph, the Director of the Federal Housing Finance Agency shall require the corporation to periodically review the validation and approval process required under subparagraph (C) as the Director determines necessary to ensure that the process remains appropriate and adequate and complies with any standards and criteria established pursuant to section 1328(1) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992. Review.
+“(I) EXTENSION.—If, as of the effective date of this paragraph, a credit score model has not been approved under subparagraph (C), the corporation may use a credit score model that was in use before the effective date of this paragraph, if necessary to prevent substantial market disruptions, until the earlier of—
+“(i) the date on which a credit score model is validated and approved under subparagraph (C); or
+“(ii) the date that is 2 years after the effective date of this paragraph.”.
+(b) USE OF CREDIT SCORES BY FREDDIE MAC IN PURCHASING RESIDENTIAL MORTGAGES.—Section 305 of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454) is amended by adding at the end the following:
+“(d)(1) DEFINITION.—In this subsection, the term ‘credit score’ means a numerical value or a categorization created by a third party derived from a statistical tool or modeling system used by a person who makes or arranges a loan to predict the likelihood of certain credit behaviors, including default.
+“(2) USE OF CREDIT SCORES.—The Corporation shall condition purchase of a residential mortgage by the Corporation under this section on the provision of a credit score for the borrower only if—
+“(A) The credit score is derived from any credit scoring model that has been validated and approved by the Corporation under this subsection; and
+“(B) The Corporation provides for the use of the credit score by all of the automated underwriting systems of the Corporation and any other procedures and systems used by the Corporation to purchase residential mortgages that use a credit score.
+“(3) VALIDATION AND APPROVAL PROCESS.—The Corporation shall establish a validation and approval process for the use of credit score models, under which the Corporation may not validate and approve if the credit score model unless the credit score model—
+“(A) satisfies minimum requirements of integrity, reliability, and accuracy;
+“(B) has a historical record of measuring and predicting default rates and other credit behaviors;

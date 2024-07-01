@@ -1,0 +1,26 @@
+132 STAT. 1326        PUBLIC LAW 115-174—MAY 24, 2018
+
+        (2) the impact and potential effects of material cyber attacks on financial institutions and capital markets in the United States;
+        (3) an analysis of how the appropriate Federal banking agencies and the Securities and Exchange Commission are addressing the material risks of cyber threats described in paragraph (1), including—
+        (A) how the appropriate Federal banking agencies and the Securities and Exchange Commission are assessing those threats;
+        (B) how the appropriate Federal banking agencies and the Securities and Exchange Commission are assessing the cyber vulnerabilities and preparedness of financial institutions;
+        (C) coordination amongst the appropriate Federal banking agencies and the Securities and Exchange Commission, and their coordination with other government agencies (including with respect to regulations, examinations, lexicon, duplication, and other regulatory tools); and
+        (D) areas for improvement; and
+        (4) a recommendation of whether any appropriate Federal banking agency or the Securities and Exchange Commission needs additional legal authorities or resources to adequately assess and address the material risks of cyber threats described in paragraph (1), given the analysis required by paragraph (3).
+
+SEC. 217. DISCRETIONARY SURPLUS FUNDS.
+    Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by striking “$7,500,000,000” and inserting “$6,825,000,000”.
+
+TITLE III—PROTECTIONS FOR VET- 
+ERANS, CONSUMERS, AND HOME- 
+OWNERS
+SEC. 301. PROTECTING CONSUMERS' CREDIT.
+(a) IN GENERAL.—Section 605A of the Fair Credit Reporting Act (15 U.S.C. 1681c–1) is amended—
+        (1) in subsection (a)(1)(A), by striking “90 days” and inserting “1 year”; and
+        (2) by adding at the end the following:
+                    ‘‘(ii) NATIONAL SECURITY FREEZE.—
+                    ‘‘(I) DEFINITIONS.—For purposes of this subsection:
+                            ‘‘(A) The term ‘consumer reporting agency’ means a consumer reporting agency described in section 603(p).
+                            ‘‘(B) The term ‘proper identification’ has the meaning of such term as used under section 610.
+                            ‘‘(C) The term ‘security freeze’ means a restriction that prohibits a consumer reporting agency from disclosing the contents of a consumer report that is subject to such security freeze to any person requesting the consumer report.
+                    ‘‘(2) PLACEMENT OF SECURITY FREEZE.—

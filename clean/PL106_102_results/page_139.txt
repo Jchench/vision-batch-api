@@ -1,0 +1,25 @@
+PUBLIC LAW 106-102—NOV. 12, 1999
+
+	113 STAT. 1475
+    
+    ``(2) $15,000,000 for fiscal year 2001;
+    ``(3) $15,000,000 for fiscal year 2002; and
+    ``(4) $15,000,000 for fiscal year 2003.
+``SEC. 181. IMPLEMENTATION.
+    ``The Administrator shall, by regulation, establish such requirements as may be necessary to carry out this subtitle.''.
+SEC. 726. FEDERAL RESERVE AUDITS.
+    The Federal Reserve Act (12 U.S.C. 221 et seq.) is amended by inserting after section 11A the following new section:
+``SEC. 11B. ANNUAL INDEPENDENT AUDITS OF FEDERAL RESERVE BANKS AND BOARD.
+    ``The Board shall order an annual independent audit of the financial statements of each Federal reserve bank and the Board.''.
+SEC. 727. AUTHORIZATION TO RELEASE REPORTS.
+    (a) FEDERAL RESERVE ACT.—The eighth undesignated paragraph of section 9 of the Federal Reserve Act (12 U.S.C. 326) is amended by striking the last sentence and inserting the following: ``The Board of Governors of the Federal Reserve System, at its discretion, may furnish any report of examination or other confidential supervisory information concerning any State member bank or other entity examined under any other authority of the Board, to any Federal or State agency or authority with supervisory or regulatory authority over the examined entity, to any officer, director, receiver of the examined entity, and to any other person that the Board determines to be proper.''.
+    (b) COMMODITY FUTURES TRADING COMMISSION.—The Right to Financial Privacy Act of 1978 (12 U.S.C. 3401 et seq.) is amended—
+        (1) in section 1101(7)—
+            (A) by redesignating subparagraphs (G) and (H) as subparagraphs (H) and (I), respectively; and
+            (B) by inserting after subparagraph (F) the following new subparagraph:
+            ``(G) the Commodity Futures Trading Commission;'';
+        and
+        (2) in section 1112(e), by striking ``and the Securities Exchange Commission'' and inserting ``the Securities and Exchange Commission, and the Commodity Futures Trading Commission''.
+SEC. 728. GENERAL ACCOUNTING OFFICE STUDY OF CONFLICTS OF INTEREST.
+    (a) STUDY REQUIRED.—The Comptroller General of the United States shall conduct a study analyzing the conflict of interest faced by the Board of Governors of the Federal Reserve System between its role as a primary regulator of the banking industry and its role as a vendor of services to the banking and financial services industry.
+    (b) SPECIFIC CONFLICT REQUIRED TO BE ADDRESSED.—In the course of the study required under subsection (a), the Comptroller General shall address the conflict of interest faced by the Board of Governors of the Federal Reserve System between the role of the Board as a regulator of the payment system, generally, and its participation in the payment system as a competitor with private entities who are providing payment services.

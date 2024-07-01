@@ -1,0 +1,25 @@
+132 STAT. 1358
+
+PUBLIC LAW 115–174—MAY 24, 2018
+
+and sound operation of an institution under the supervision of the appropriate Federal banking agency.
+(c) TECHNICAL AND CONFORMING AMENDMENTS.—
+(1) FINANCIAL STABILITY ACT OF 2010.—The Financial Sta- bility Act of 2010 (12 U.S.C. 5311 et seq.) is amended—
+(A) in section 115(a)(2)(B) (12 U.S.C. 5325(a)(2)(B)), by striking ‘‘$50,000,000,000’’ and inserting ‘‘the applicable threshold’’;
+(B) in section 116(a) (12 U.S.C. 5326(a)), in the matter preceding paragraph (1), by striking ‘‘$50,000,000,000’’ and inserting ‘‘$250,000,000,000’’;
+(C) in section 121(a) (12 U.S.C. 5331(a)), in the matter preceding paragraph (1), by striking ‘‘$50,000,000,000’’ and inserting ‘‘$250,000,000,000’’;
+(D) in section 155(d) (12 U.S.C. 5345(d)), by striking ‘‘$50,000,000,000’’ and inserting ‘‘$250,000,000,000’’;
+(E) in section 163(b) (12 U.S.C. 5363(b)), by striking ‘‘$50,000,000,000’’ each place that term appears and inserting ‘‘$250,000,000,000’’; and
+(F) in section 164 (12 U.S.C. 5364), by striking ‘‘$50,000,000,000’’ and inserting ‘‘$250,000,000,000’’.
+(2) FEDERAL RESERVE ACT.—The second subsection (s) (relating to assessments) of section 11 of the Federal Reserve Act (12 U.S.C. 248(s)) is amended—
+(A) in paragraph (2)—
+(i) in subparagraph (A), by striking ‘‘$50,000,000,000’’ and inserting ‘‘$100,000,000,000’’; 
+and
+(ii) in subparagraph (B), by striking ‘‘$50,000,000,000’’ and inserting ‘‘$100,000,000,000’’; 
+and
+(B) by adding at the end the following:
+‘‘(3) TAILORING ASSESSMENTS.—In collecting assessments, fees, or other charges under paragraph (1) from each company described in paragraph (2) with total consolidated assets of between $100,000,000,000 and $250,000,000,000, the Board shall adjust the amount charged to reflect any changes in supervisory and regulatory responsibilities resulting from the Economic Growth, Regulatory Relief, and Consumer Protection Act with respect to each such company.’’.
+(d) EFFECTIVE DATE.—
+(1) IN GENERAL.—Except as provided in paragraph (2), the amendments made by this section shall take effect on the date that is 18 months after the date of enactment of this Act.
+(2) EXCEPTION.—Notwithstanding paragraph (1), the amendments made by this section shall take effect on the date of enactment of this Act with respect to any bank holding company with total consolidated assets of less than $100,000,000,000.
+(3) ADDITIONAL AUTHORITY.—Before the effective date described in paragraph (1), the Board of Governors of the Federal Reserve System may by order exempt any bank holding company with total consolidated assets of less than $250,000,000,000 from any prudential standard under section 165 of the Financial Stability Act of 2010 (12 U.S.C. 5365).

@@ -1,0 +1,29 @@
+PUBLIC LAW 115-174—MAY 24, 2018
+ 
+132 STAT. 1333
+ 
+(1) VETERAN’S MEDICAL DEBT DEFINED.—Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) is amended by adding at the end the following:
+ 
+‘‘(z) VETERAN.—The term ‘veteran’ has the meaning given the term in section 101 of title 38, United States Code.
+ 
+‘‘(aa) VETERAN’S MEDICAL DEBT.—The term ‘veteran’s medical debt’—
+ 
+‘‘(1) means a medical collection debt of a veteran owed to a non-Department of Veterans Affairs health care provider that was submitted to the Department for payment for health care authorized by the Department of Veterans Affairs; and
+‘‘(2) includes medical collection debt that the Department of Veterans Affairs has wrongfully charged a veteran.’’.
+ 
+(2) EXCLUSION FOR VETERAN’S MEDICAL DEBT.—Section 605(a) of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)) is amended by adding at the end the following:
+ 
+‘‘(7) With respect to a consumer reporting agency described in section 603(p), any information related to a veteran’s medical debt if the date on which the hospital care, medical services, or extended care services was rendered relating to the debt antedates the report by less than 1 year if the consumer reporting agency has actual knowledge that the information is related to a veteran’s medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
+ 
+‘‘(8) With respect to a consumer reporting agency described in section 603(p), any information related to a fully paid or settled veteran’s medical debt that had been characterized as delinquent, charged off, or in collection if the consumer reporting agency has actual knowledge that the information is related to a veteran’s medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.’’.
+ 
+(3) REMOVAL OF VETERAN’S MEDICAL DEBT FROM CONSUMER REPORT.—Section 611 of the Fair Credit Reporting Act (15 U.S.C. 1681i) is amended—
+ 
+(A) in subsection (a)(1)(A), by inserting ‘‘and except as provided in subsection (g)’’ after ‘‘subsection (f)’’; and (B) by adding at the end the following:
+ 
+‘‘(g) DISPUTE PROCESS FOR VETERAN’S MEDICAL DEBT.—
+ 
+‘‘(1) IN GENERAL.—With respect to a veteran’s medical debt, the veteran may submit a notice described in paragraph (2), proof of liability of the Department of Veterans Affairs for payment of that debt, or documentation that the Department of Veterans Affairs is in the process of making payment for authorized hospital care, medical services, or extended care services rendered to a consumer reporting agency or a reseller to dispute the inclusion of that debt on a consumer report of the veteran.
+ 
+‘‘(2) NOTIFICATION TO VETERAN.—The Department of Veterans Affairs shall submit to a veteran a notice that the Department of Veterans Affairs has assumed liability for part or all of a veteran’s medical debt.
+   

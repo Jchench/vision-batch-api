@@ -1,0 +1,22 @@
+PUBLIC LAW 106-102—NOV. 12, 1999
+
+113 STAT. 1369
+
+"SEC. 10A. LIMITATION ON RULEMAKING, PRUDENTIAL, SUPER- VISORY, AND ENFORCEMENT AUTHORITY OF THE BOARD.
+"(a) LIMITATION ON DIRECT ACTION.—The Board may not pre- scribe regulations, issue or seek entry of orders, impose restraints, restrictions, guidelines, requirements, safeguards, or standards, or otherwise take any action under or pursuant to any provision of this Act or section 8 of the Federal Deposit Insurance Act against or with respect to a functionally regulated subsidiary of a bank holding company unless—
+"(1) the action is necessary to prevent or redress an unsafe or unsound practice or breach of fiduciary duty by such sub- sidiary that poses a material risk to—
+"(A) the financial safety, soundness, or stability of an affiliated depository institution; or
+"(B) the domestic or international payment system; and
+"(2) the Board finds that it is not reasonably possible to protect effectively against the material risk at issue through action directed at or against the affiliated depository institution or against depository institutions generally.
+"(b) LIMITATION ON INDIRECT ACTION.—The Board may not prescribe regulations, issue or seek entry of orders, impose restraints, restrictions, guidelines, requirements, safeguards, or standards, or otherwise take any action under or pursuant to any provision of this Act or section 8 of the Federal Deposit Insurance Act against or with respect to a bank holding company that requires the bank holding company to require a functionally regulated sub- sidiary of the holding company to engage, or to refrain from engaging, in any conduct or activities unless the Board could take such action directly against or with respect to the functionally regulated subsidiary in accordance with subsection (a).
+"(c) ACTIONS SPECIFICALLY AUTHORIZED.—Notwithstanding sub- section (a) or (b), the Board may take action under this Act or section 8 of the Federal Deposit Insurance Act to enforce compliance by a functionally regulated subsidiary of a bank holding company with any Federal law that the Board has specific jurisdiction to enforce against such subsidiary.
+"(d) FUNCTIONALLY REGULATED SUBSIDIARY DEFINED.—For pur- poses of this section, the term 'functionally regulated subsidiary' has the meaning given the term in section 5(c)(5).".
+
+SEC. 114. PRUDENTIAL SAFEGUARDS.
+(a) COMPTROLLER OF THE CURRENCY.—
+(1) IN GENERAL.—The Comptroller of the Currency may, by regulation or order, impose restrictions or requirements on relationships or transactions between a national bank and a subsidiary of the national bank that the Comptroller finds are—
+(A) consistent with the purposes of this Act, title LXII of the Revised Statutes of the United States, and other Federal law applicable to national banks; and
+(B) appropriate to avoid any significant risk to the safety and soundness of insured depository institutions or any Federal deposit insurance fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
+
+12 USC 1848a.
+12 USC 1828a.

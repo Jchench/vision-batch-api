@@ -1,0 +1,34 @@
+132 STAT. 1320        PUBLIC LAW 115-174—MAY 24, 2018
+
+(6) INSURED CREDIT UNION.—The term “insured credit union” has the meaning given the term in section 101 of the Federal Credit Union Act (12 U.S.C. 1752). 
+
+(7) INSURED DEPOSITORY INSTITUTION.—The term “insured depository institution” has the meaning given the term in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813). 
+
+(8) ONLINE SERVICE.—The term “online service” means any Internet-based service, such as a website or mobile application. 
+
+(9) PERSONAL IDENTIFICATION CARD.—The term “personal identification card” means an identification document issued by a State or local government to an individual solely for the purpose of identification of that individual. 
+
+(10) PERSONAL INFORMATION.—The term “personal information” means the information displayed on or electronically encoded on a driver’s license or personal identification card that is reasonably necessary to fulfill the purpose and uses permitted by subsection (b). 
+
+(11) SCAN.—The term “scan” means the act of using a device or software to decipher, in an electronically readable format, personal information displayed on or electronically encoded on a driver’s license or personal identification card. 
+
+(12) STATE.—The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession, or territory of the United States. 
+(b) USE OF A DRIVER’S LICENSE OR PERSONAL IDENTIFICATION CARD.— 
+
+(1) IN GENERAL.—When an individual initiates a request through an online service to open an account with a financial institution or obtain a financial product or service from a financial institution, the financial institution may record personal information from a scan of the driver’s license or personal identification card of the individual, or make a copy or receive an image of the driver’s license or personal identification card of the individual, and store or retain such information in an electronic format for the purposes described in paragraph (2). 
+
+(2) USES OF INFORMATION.—Except as required to comply with Federal bank secrecy laws, a financial institution may only use the information obtained under paragraph (1)—
+
+(A) to verify the authenticity of the driver’s license or personal identification card; 
+
+(B) to verify the identity of the individual; and 
+
+(C) to comply with a legal requirement to record, retain, or transmit the personal information in connection with opening an account or obtaining a financial product or service. 
+
+(3) DELETION OF IMAGE.—A financial institution that makes a copy or receives an image of a driver’s license or personal identification card of an individual in accordance with paragraphs (1) and (2) shall, after using the image for the purposes described in paragraph (2), permanently delete—
+
+(A) any image of the driver’s license or personal identification card, as applicable; and 
+
+(B) any copy of any such image. 
+
+(4) DISCLOSURE OF PERSONAL INFORMATION.—Nothing in this section shall be construed to amend, modify, or otherwise

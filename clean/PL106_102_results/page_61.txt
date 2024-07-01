@@ -1,0 +1,22 @@
+PUBLIC LAW 106-102—NOV. 12, 1999
+
+113 STAT. 1397
+
+"(4) to loan money or other property to such registered company, or to any company controlled by such registered company, in contravention of such rules, regulations, or orders as the Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in section 3 of the Federal Deposit Insurance Act), prescribe or issue consistent with the protection of investors.".
+
+SEC. 213. INDEPENDENT DIRECTORS.
+(a) IN GENERAL.—Section 2(a)(19)(A) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(19)(A)) is amended—
+(1) by striking clause (v) and inserting the following new clause:
+"(v) any person or any affiliated person of a person (other than a registered investment company) that, at any time during the 6-month period preceding the date of the determination of whether that person or affiliated person is an interested person, has executed any portfolio transactions for, engaged in any principal transactions with, or distributed shares for— 
+"(I) the investment company;
+"(II) any other investment company having the same investment adviser as such investment company or holding itself out to investors as a related company for purposes of investment or investor services; or 
+"(III) any account over which the investment company's investment adviser has brokerage placement discretion;";
+(2) by redesignating clause (vi) as clause (vii); and
+(3) by inserting after clause (v) the following new clause:
+"(vi) any person or any affiliated person of a person (other than a registered investment company) that, at any time during the 6-month period preceding the date of the determination of whether that person or affiliated person is an interested person, has loaned money or other property to—
+"(I) the investment company;
+"(II) any other investment company having the same investment adviser as such investment company or holding itself out to investors as a related company for purposes of investment or investor services; or 
+"(III) any account for which the investment company's investment adviser has borrowing authority,".
+(b) CONFORMING AMENDMENT.—Section 2(a)(19)(B) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(19)(B)) is amended—
+(1) by striking clause (v) and inserting the following new clause:
+"(v) any person or any affiliated person of a person (other than a registered investment company) that, at any time during the 6-month period preceding the date of the determination of whether that person or affiliated person is an interested person, has executed

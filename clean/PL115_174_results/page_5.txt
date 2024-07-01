@@ -1,0 +1,28 @@
+PUBLIC LAW 115–174—MAY 24, 2018
+132 STAT. 1299
+
+‘‘(iv) CONSIDERATION AND DOCUMENTATION REQUIREMENTS.—The consideration and documentation requirements described in clause (ii)(I)(ee) shall—
+‘‘(I) not be construed to require compliance with, or documentation in accordance with, appendix Q to part 1026 of title 12, Code of Federal Regulations, or any successor regulation; and
+"(II) be construed to permit multiple methods of documentation.’’.
+
+SEC. 102. SAFEGUARDING ACCESS TO HABITAT FOR HUMANITY HOMES.
+Section 129E(i)(2) of the Truth in Lending Act (15 U.S.C. 1639e(i)(2)) is amended—
+(1) by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and adjusting the margins accordingly;
+(2) in the matter preceding clause (i), as so redesignated, by striking ‘‘For purposes of’’ and inserting the following:
+‘‘(A) IN GENERAL.—For purposes of;’’ and
+(3) by adding at the end the following:
+‘‘(B) RULE OF CONSTRUCTION RELATED TO APPRAISAL DONATIONS.—If a fee appraiser voluntarily donates appraisal services to an organization eligible to receive tax-deductible charitable contributions, such voluntary donation shall be considered customary and reasonable for the purposes of paragraph (1).’’.
+
+SEC. 103. EXEMPTION FROM APPRAISALS OF REAL PROPERTY LOCATED IN RURAL AREAS.
+Title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3331 et seq.) is amended by adding at the end the following:
+‘‘SEC. 1127. EXEMPTION FROM APPRAISALS OF REAL ESTATE LOCATED IN RURAL AREAS. 
+12 USC 3356.
+
+‘‘(a) DEFINITIONS.—In this section—
+‘‘(1) the term ‘mortgage originator’ has the meaning given
+the term in section 103 of the Truth in Lending Act (15 U.S.C. 1602); and
+‘‘(2) the term ‘transaction value’ means the amount of a loan or extension of credit, including a loan or extension of credit that is part of a pool of loans or extensions of credit.
+
+‘‘(b) APPRAISAL NOT REQUIRED.—Except as provided in subsection (d), notwithstanding any other provision of law, an appraisal in connection with a federally related transaction involving real property or an interest in real property is not required if—
+‘‘(1) the real property or interest in real property is located in a rural area, as described in section 1026.35(b)(2)(iv)(A) of title 12, Code of Federal Regulations;
+‘‘(2) not later than 3 days after the date on which the Closing Disclosure Form, made in accordance with the final rule of the Bureau of Consumer Financial Protection entitled ‘Integrated Mortgage Disclosures Under the Real Estate Settlement Procedures Act (Regulation X) and the Truth in Lending Act (Regulation Z)’ (78 Fed. Reg 79730 (December 31, 2013)), relating to the federally related transaction is given to the consumer, the mortgage originator or its agent, directly or indirectly—

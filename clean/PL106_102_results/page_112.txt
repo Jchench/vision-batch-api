@@ -1,0 +1,17 @@
+113 STAT. 1448		PUBLIC LAW 106-102—NOV. 12, 1999
+
+referred to in paragraph (1) of its powers under any Act referred to in that paragraph, a violation of this subtitle shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in paragraph (1), each of the agencies referred to in that paragraph may exercise, for the purposes of enforcing compliance with this subtitle, any other authority conferred on such agency by law.
+
+SEC. 523. CRIMINAL PENALTY.
+(a) IN GENERAL.—Whoever knowingly and intentionally violates, or knowingly and intentionally attempts to violate, section 521 shall be fined in accordance with title 18, United States Code, or imprisoned for not more than 5 years, or both.
+(b) ENHANCED PENALTY FOR AGGRAVATED CASES.—Whoever violates, or attempts to violate, section 521 while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period shall be fined twice the amount provided in subsection (b)(3) or (c)(3) (as the case may be) of section 3571 of title 18, United States Code, imprisoned for not more than 10 years, or both.
+
+SEC. 524. RELATION TO STATE LAWS.
+(a) IN GENERAL.—This subtitle shall not be construed as superseding, altering, or affecting the statutes, regulations, or interpretations in effect in any State, except to the extent that such statutes, regulations, orders, or interpretations are inconsistent with the provisions of this subtitle, and then only to the extent of the inconsistency.
+(b) GREATER PROTECTION UNDER STATE LAW.—For purposes of this section, a State statute, regulation, order, or interpretation is not inconsistent with the provisions of this subtitle if the protection such statute, regulation, order, or interpretation affords any person is greater than the protection provided under this subtitle as determined by the Federal Trade Commission, after consultation with the agency or authority with jurisdiction under section 522 of either the person that initiated the complaint or that is the subject of the complaint, on its own motion or upon the petition of any interested party.
+
+SEC. 525. AGENCY GUIDANCE.
+In furtherance of the objectives of this subtitle, each Federal banking agency (as defined in section 3(z) of the Federal Deposit Insurance Act), the National Credit Union Administration, and the Securities and Exchange Commission or self-regulatory organizations, as appropriate, shall review regulations and guidelines applicable to financial institutions under their respective jurisdictions and shall prescribe such revisions to such regulations and guidelines as may be necessary to ensure that such financial institutions have policies, procedures, and controls in place to prevent the unauthorized disclosure of customer financial information and to deter and detect activities proscribed under section 521.
+
+SEC. 526. REPORTS.
+(a) REPORT TO THE CONGRESS.—Before the end of the 18-month period beginning on the date of the enactment of this Act, the Comptroller General, in consultation with the Federal Trade Commission, Federal banking agencies, the National Credit Union

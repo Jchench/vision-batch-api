@@ -1,0 +1,58 @@
+132 STAT. 1312         PUBLIC LAW 115-174—MAY 24, 2018
+
+SEC. 207. SMALL BANK HOLDING COMPANY POLICY STATEMENT.
+   (a) DEFINITIONS.—In this section:
+       (1) BOARD.—The term “Board” means the Board of Gov-
+    ernors of the Federal Reserve System.
+       (2) SAVINGS AND LOAN HOLDING COMPANY.—The term
+    “savings and loan holding company” has the meaning given
+    the term in section 10(a) of the Home Owners’ Loan Act (12
+    U.S.C. 1467a(a)).
+   (b) CHANGES REQUIRED TO SMALL BANK HOLDING COMPANY
+POLICY STATEMENT ON ASSESSMENT OF FINANCIAL AND MANAGERIAL
+FACTORS.—Not later than 180 days after the date of enactment
+of this Act, the Board shall revise appendix C to part 225 of
+title 12, Code of Federal Regulations (commonly known as the
+“Small Bank Holding Company and Savings and Loan Holding
+Company Policy Statement”), to raise the consolidated asset
+threshold under that appendix from $1,000,000,000 to
+$3,000,000,000 for any bank holding company or savings and loan
+holding company that—
+       (1) is not engaged in significant nonbanking activities either
+    directly or through a nonbank subsidiary;
+       (2) does not conduct significant off-balance sheet activities
+    (including securitization and asset management or administra-
+    tion) either directly or through a nonbank subsidiary; and
+       (3) does not have a material amount of debt or equity
+    securities outstanding (other than trust preferred securities)
+    that are registered with the Securities and Exchange Commis-
+    sion.
+    (c) EXCLUSIONS.—The Board may exclude any bank holding
+company or savings and loan holding company, regardless of asset
+size, from the revision under subsection (b) if the Board determines
+that such action is warranted for supervisory purposes.
+   (d) CONFORMING AMENDMENT.—Section 171(b)(5)(C) of the Finan-
+cial Stability Act of 2010 (12 U.S.C. 5371(b)(5)) is amended by
+striking subparagraph (C) and inserting the following:
+       “(C) any bank holding company or savings and loan
+    holding company that is subject to the application of
+    appendix C to part 225 of title 12, Code of Federal Regu-
+    lations (commonly known as the ‘Small Bank Holding Com-
+    pany and Savings and Loan Holding Company Policy State-
+    ment’).”.
+
+SEC. 208. APPLICATION OF THE EXPEDITED FUNDS AVAILABILITY ACT.
+   (a) IN GENERAL.—The Expedited Funds Availability Act (12
+U.S.C. 4001 et seq.) is amended—
+       (1) in section 602 (12 U.S.C. 4001)—
+           (A) in paragraph (20), by inserting “, located in the
+        United States,” after “ATM”;
+           (B) in paragraph (21), by inserting “American Samoa,
+        the Commonwealth of the Northern Mariana Islands,
+        Guam,” after “Puerto Rico,”; and
+           (C) in paragraph (23), by inserting “American Samoa,
+        the Commonwealth of the Northern Mariana Islands,
+        Guam,” after “Puerto Rico,”; and
+       (2) in section 603(d)(2)(A) (12 U.S.C. 4002(d)(2)(A)), by
+    inserting “American Samoa, the Commonwealth of the
+    Northern Mariana Islands, Guam,” after “Puerto Rico,”.

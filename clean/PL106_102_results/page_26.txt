@@ -1,0 +1,23 @@
+113 STAT. 1362             PUBLIC LAW 106–102—NOV. 12, 1999
+
+the study required under subsection (a), together with such legislative and administrative proposals as the Board and the Secretary may determine to be appropriate.
+
+(c) DEFINITIONS.—For purposes of subsection (a), the following definitions shall apply:
+(1) BANK HOLDING COMPANY.—The term “bank holding company” has the meaning given the term in section 2 of the Bank Holding Company Act of 1956.
+(2) INSURED DEPOSITORY INSTITUTION.—The term “insured depository institution” has the meaning given the term in section 3(c) of the Federal Deposit Insurance Act.
+(3) SUBORDINATED DEBT.—The term “subordinated debt” means unsecured debt that—
+(A) has an original weighted average maturity of not less than 5 years;
+(B) is subordinated as to payment of principal and interest to all other indebtedness of the bank, including deposits;
+(C) is not supported by any form of credit enhancement, including a guarantee or standby letter of credit; and
+(D) is not held in whole or in part by any affiliate or institution-affiliated party of the insured depository institution or bank holding company.
+12 USC 252 note. SEC. 109. STUDY OF FINANCIAL MODERNIZATION’S EFFECT ON THE            ACCESSIBILITY OF SMALL BUSINESS AND FARM LOANS.
+(a) STUDY.—The Secretary of the Treasury, in consultation with the Federal banking agencies (as defined in section 3(z) of the Federal Deposit Insurance Act), shall conduct a study of the extent to which credit is being provided to and for small businesses and farms, as a result of this Act and the amendments made by this Act.
+(b) REPORT.—Before the end of the 5-year period beginning on the date of the enactment of this Act, the Secretary, in consultation with the Federal banking agencies, shall submit a report to the Congress on the study conducted pursuant to subsection (a) and shall include such recommendations as the Secretary determines to be appropriate for administrative and legislative action.
+Subtitle B—Streamlining Supervision of      Bank Holding Companies
+SEC. 111. STREAMLINING BANK HOLDING COMPANY SUPERVISION.
+
+Section 5(c) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(c)) is amended to read as follows:
+“(c) REPORTS AND EXAMINATIONS.—
+“(1) REPORTS.—
+“(A) IN GENERAL.—The Board, from time to time, may require a bank holding company and any subsidiary of such company to submit reports under oath to keep the Board informed as to—
+“(i) its financial condition, systems for monitoring and controlling financial and operating risks, and transactions with depository institution subsidiaries of the bank holding company; and

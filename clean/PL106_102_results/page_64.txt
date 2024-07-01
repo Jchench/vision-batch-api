@@ -1,0 +1,27 @@
+113 STAT. 1400         PUBLIC LAW 106–102—Nov. 12, 1999
+
+of the bank, and such records are so maintained or otherwise accessible as to permit independent examination and enforcement by the Commission of this Act or the Investment Company Act of 1940 and rules and regulations promulgated under this Act or the Investment Company Act of 1940.’’.
+SEC. 218. DEFINITION OF BROKER UNDER THE INVESTMENT 
+                         ADVISERS ACT OF 1940.
+Section 202(a)(3) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(3)) is amended to read as follows:
+                 ‘‘(3) The term ‘broker’ has the same meaning as given in section 3 of the Securities Exchange Act of 1934.’’.
+
+SEC. 219. DEFINITION OF DEALER UNDER THE INVESTMENT 
+                         ADVISERS ACT OF 1940.
+Section 202(a)(7) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(7)) is amended to read as follows:
+                 ‘‘(7) The term ‘dealer’ has the same meaning as given in section 3 of the Securities Exchange Act of 1934, but does not include an insurance company or investment company.’’.
+
+SEC. 220. INTERAGENCY CONSULTATION.
+The Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) is amended by inserting after section 210 the following new section:
+
+            ‘‘SEC. 210A. CONSULTATION.
+                       ‘‘(a) EXAMINATION RESULTS AND OTHER INFORMATION.—
+                       ‘‘(1) The appropriate Federal banking agency shall provide the Commission upon request the results of any examination, reports, records, or other information to which such agency may have access—
+                                          ‘‘(A) with respect to the investment advisory activities of any—
+                                                           ‘‘(i) bank holding company;
+                                                           ‘‘(ii) bank; or
+                                                           ‘‘(iii) separately identifiable department or division of a bank,
+                          that is registered under section 203 of this title; and
+                                          ‘‘(B) in the case of a bank holding company or bank that has a subsidiary or a separately identifiable department or division registered under that section, with respect to the investment advisory activities of such bank or bank holding company.
+                        ‘‘(2) The Commission shall provide to the appropriate Federal banking agency upon request the results of any examination, reports, records, or other information with respect to the investment advisory activities of any bank holding company, bank, or separately identifiable department or division of a bank, which is registered under section 203 of this title.
+                        ‘‘(3) Notwithstanding any other provision of law, the Commission and the appropriate Federal banking agencies shall not be compelled to disclose any information provided under paragraph (1) or (2). Nothing in this paragraph shall authorize the Commission or such agencies to withhold information from Congress, or prevent the Commission or such agencies from complying with a request for information from any other Federal department or agency or any self-regulatory organization

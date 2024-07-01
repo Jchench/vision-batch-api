@@ -1,0 +1,59 @@
+113 STAT. 1390         PUBLIC LAW 106-102—NOV. 12, 1999
+
+“(i) was, on the day before the date of enactment 
+of the Gramm-Leach-Bliley Act, subject to section 15(e); 
+and
+“(ii) is subject to such restrictions and require-
+ments as the Commission considers appropriate.”.
+
+ SEC. 202. DEFINITION OF DEALER.
+
+Section 3(a)(5) of the Securities Exchange Act of 1934 (15 
+U.S.C. 78c(a)(5)) is amended to read as follows:
+“(5) DEALER.—
+“(A) IN GENERAL.—The term ‘dealer’ means any person
+engaged in the business of buying and selling securities
+for such person’s own account through a broker or other-
+wise.
+“(B) EXCEPTION FOR PERSON NOT ENGAGED IN THE BUSI-
+NESS OF DEALING.—The term ‘dealer’ does not include a
+person that buys or sells securities for such person’s own
+account, either individually or in a fiduciary capacity, but
+not as a part of a regular business.
+“(C) EXCEPTION FOR CERTAIN BANK ACTIVITIES.—A bank
+shall not be considered to be a dealer because the bank
+engages in any of the following activities under the condi-
+tions described:
+“(i) PERMISSIBLE SECURITIES TRANSACTIONS.—The
+bank buys or sells—
+“(I) commercial paper, bankers acceptances,
+or commercial bills;
+“(II) exempted securities;
+“(III) qualified Canadian government obliga-
+tions as defined in section 5136 of the Revised
+Statutes of the United States, in conformity with
+section 15C of this title and the rules and regula-
+tions thereunder, or obligations of the North Amer-
+ican Development Bank; or
+“(IV) any standardized, credit enhanced debt
+security issued by a foreign government pursuant
+to the March 1989 plan of then Secretary of the
+Treasury Brady, used by such foreign government
+to retire outstanding commercial bank loans.
+“(ii) INVESTMENT, TRUSTEE, AND FIDUCIARY TRANS-
+ACTIONS.—The bank buys or sells securities for invest-
+ment purposes—
+“(I) for the bank; or
+“(II) for accounts for which the bank acts as
+a trustee or fiduciary.
+“(iii) ASSET-BACKED TRANSACTIONS.—The bank
+engages in the issuance or sale to qualified investors,
+through a grantor trust or other separate entity, of
+securities backed by or representing an interest in
+notes, drafts, acceptances, loans, leases, receivables,
+other obligations (other than securities of which the
+bank is not the issuer), or pools of any such obligations
+predominantly originated by—
+“(I) the bank;
+“(II) an affiliate of any such bank other than
+a broker or dealer; or

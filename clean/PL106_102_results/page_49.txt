@@ -1,0 +1,21 @@
+PUBLIC LAW 106-102—NOV. 12, 1999
+
+113 STAT. 1385
+
+TITLE II—FUNCTIONAL REGULATION
+
+Subtitle A—Brokers and Dealers
+
+SEC. 201. DEFINITION OF BROKER.
+
+Section 3(a)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(4)) is amended to read as follows:
+``(4) BROKER.—
+``(A) IN GENERAL.—The term ‘broker’ means any person engaged in the business of effecting transactions in securities for the account of others.
+``(B) EXCEPTION FOR CERTAIN BANK ACTIVITIES.—A bank shall not be considered to be a broker because the bank engages in any one or more of the following activities under the conditions described:
+``(i) THIRD PARTY BROKERAGE ARRANGEMENTS.—The bank enters into a contractual or other written arrangement with a broker or dealer registered under this title under which the broker or dealer offers brokerage services on or off the premises of the bank if—
+``(I) such broker or dealer is clearly identified as the person performing the brokerage services;
+``(II) the broker or dealer performs brokerage services in an area that is clearly marked and, to the extent practicable, physically separate from the routine deposit-taking activities of the bank;
+``(III) any materials used by the bank to advertise or promote generally the availability of brokerage services under the arrangement clearly indicate that the brokerage services are being provided by the broker or dealer and not by the bank;
+``(IV) any materials used by the bank to advertise or promote generally the availability of brokerage services under the arrangement are in compliance with the Federal securities laws before distribution;
+``(V) bank employees (other than associated persons of a broker or dealer who are qualified pursuant to the rules of a self-regulatory organization) perform only clerical or ministerial functions in connection with brokerage transactions including scheduling appointments with the associated persons of a broker or dealer, except that bank employees may forward customer funds or securities and may describe in general terms the types of investment vehicles available from the bank and the broker or dealer under the arrangement;
+``(VI) bank employees do not receive incentive compensation for any brokerage transaction unless such employees are associated persons of a broker or dealer and are qualified pursuant to the rules of a self-regulatory organization, except that the bank employees may receive compensation for the referral of any customer if the compensation is

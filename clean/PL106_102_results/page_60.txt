@@ -1,0 +1,34 @@
+113 STAT. 1396
+
+PUBLIC LAW 106–102—NOV. 12, 1999
+
+12 USC 1811 note.
+
+SEC. 210. RULE OF CONSTRUCTION.
+
+Nothing in this Act shall supersede, affect, or otherwise limit the scope and applicability of the Commodity Exchange Act (7 U.S.C. 1 et seq.).
+
+Subtitle B—Bank Investment Company Activities
+
+SEC. 211. CUSTODY OF INVESTMENT COMPANY ASSETS BY AFFILIATED BANK.
+
+(a) MANAGEMENT COMPANIES.—Section 17(f) of the Investment Company Act of 1940 (15 U.S.C. 80a–17(f)) is amended—
+(1) by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively;
+(2) by striking ‘‘(f) Every registered’’ and inserting the following:
+‘‘(f) CUSTODY OF SECURITIES.—
+‘‘(1) Every registered’’;
+(3) by redesignating the second, third, fourth, and fifth sentences of such subsection as paragraphs (2) through (5), respectively, and indenting the left margin of such paragraphs appropriately; and
+(4) by adding at the end the following new paragraph:
+‘‘(6) The Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in section 3 of the Federal Deposit Insurance Act), adopt rules and regulations, and issue orders, consistent with the protection of investors, prescribing the conditions under which a bank, or an affiliated person of a bank, either of which is an affiliated person, promoter, organizer, or sponsor of, or principal underwriter for, a registered management company may serve as custodian of that registered management company.’’.
+
+(b) UNIT INVESTMENT TRUSTS.—Section 26 of the Investment Company Act of 1940 (15 U.S.C. 80a–26) is amended—
+(1) by redesignating subsections (b) through (e) as subsections (c) through (f), respectively; and
+(2) by inserting after subsection (a) the following new subsection:
+‘‘(b) The Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in section 3 of the Federal Deposit Insurance Act), adopt rules and regulations, and issue orders, consistent with the protection of investors, prescribing the conditions under which a bank, or an affiliated person of a bank, either of which is an affiliated person of a principal underwriter for, or depositor of, a registered unit investment trust, may serve as trustee or custodian under subsection (a)(1).’’.
+
+SEC. 212. LENDING TO AN AFFILIATED INVESTMENT COMPANY.
+
+Section 17(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–17(a)) is amended—
+(1) by striking ‘‘or’’ at the end of paragraph (2);
+(2) by striking the period at the end of paragraph (3) and inserting ‘‘; or’’; and
+(3) by adding at the end the following new paragraph:

@@ -1,0 +1,63 @@
+132 STAT. 1334               PUBLIC LAW 115-174—MAY 24, 2018
+
+15 USC 1681c note.
+Deadline.
+Federal Register, publication.
+Notice.
+
+“(3) DELETION OF INFORMATION FROM FILE.—If a consumer 
+reporting agency receives notice, proof of liability, or docu-
+mentation under paragraph (1), the consumer reporting agency 
+shall delete all information relating to the veteran’s medical 
+debt from the file of the veteran and notify the furnisher 
+and the veteran of that deletion.”.
+(c) VERIFICATION OF VETERAN’S MEDICAL DEBT.—
+        (1) DEFINITIONS.—For purposes of this subsection—
+            (A) the term “consumer reporting agency” means a 
+            consumer reporting agency described in section 603(p) of 
+            the Fair Credit Reporting Act (15 U.S.C. 1681a(p)); and
+            (B) the terms “veteran” and “veteran’s medical debt” 
+            have the meanings given those terms in section 603 of 
+            the Fair Credit Reporting Act (15 U.S.C. 1681a), as added 
+            by subsection (b)(1).
+        (2) ESTABLISHMENT.—Not later than 1 year after the date 
+        of enactment of this Act, the Secretary of Veterans Affairs 
+        shall establish a database to allow consumer reporting agencies 
+        to verify whether a debt furnished to a consumer reporting 
+        agency is a veteran’s medical debt.
+        (3) DATABASE FEATURES.—The Secretary of Veterans Affairs 
+        shall ensure that the database established under paragraph 
+        (2), to the extent permitted by law, provides consumer reporting 
+        agencies with—
+            (A) sufficiently detailed and specific information to 
+            verify whether a debt being furnished to the consumer 
+            reporting agency is a veteran’s medical debt;
+            (B) access to verification information in a secure elec-
+            tronic format;
+            (C) timely access to verification information; and
+            (D) any other features that would promote the efficient, 
+            timely, and secure delivery of information that consumer 
+            reporting agencies could use to verify whether a debt is 
+            a veteran’s medical debt.
+        (4) STAKEHOLDER INPUT.—Prior to establishing the data-
+        base for verification under paragraph (2), the Secretary of Vet-
+        erans Affairs shall publish in the Federal Register a notice 
+        and request for comment that solicits input from consumer 
+        reporting agencies and other stakeholders.
+        (5) VERIFICATION.—Provided the database established 
+        under paragraph (2) is fully functional and the data available 
+        to consumer reporting agencies, a consumer reporting agency 
+        shall use the database as a means to identify a veteran’s 
+        medical debt pursuant to paragraphs (7) and (8) of section 
+        605(a) of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)), 
+        as added by subsection (b)(2).
+(d) CREDIT MONITORING.—
+        (1) IN GENERAL.—Section 605A of the Fair Credit Reporting 
+        Act (15 U.S.C. 1681c–1), as amended by section 301(a), is 
+        amended by adding at the end the following:
+        ‘‘(k) CREDIT MONITORING.—
+            ‘‘(1) DEFINITIONS.—In this subsection:
+                ‘‘(A) The term ‘active duty military consumer’ includes 
+                a member of the National Guard.
+                ‘‘(B) The term ‘National Guard’ has the meaning given 
+                the term in section 101(c) of title 10, United States Code.

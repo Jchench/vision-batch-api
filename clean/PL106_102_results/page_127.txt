@@ -1,0 +1,27 @@
+PUBLIC LAW 106–102—NOV. 12, 1999	
+113 STAT. 1463	
+	
+TITLE VII—OTHER PROVISIONS	
+
+Subtitle A—ATM Fee Reform	
+
+ATM Fee Reform	
+Act of 1999.	
+15 USC 1601	
+note.	
+
+SEC. 701. SHORT TITLE.
+
+This subtitle may be cited as the ‘‘ATM Fee Reform Act of 1999’’.	
+
+SEC. 702. ELECTRONIC FUND TRANSFER FEE DISCLOSURES AT ANY HOST ATM.	
+Section 904(d) of the Electronic Fund Transfer Act (15 U.S.C. 1693b(d)) is amended by adding at the end the following new paragraph:
+‘‘(3) FEE DISCLOSURES AT AUTOMATED TELLER MACHINES.—
+‘‘(A) IN GENERAL.—The regulations prescribed under paragraph (1) shall require any automated teller machine operator who imposes a fee on any consumer for providing host transfer services to such consumer to provide notice in accordance with subparagraph (B) to the consumer (at the time the service is provided) of—
+‘‘(i) the fact that a fee is imposed by such operator for providing the service; and
+‘‘(ii) the amount of any such fee.
+‘‘(B) NOTICE REQUIREMENTS.—
+‘‘(i) ON THE MACHINE.—The notice required under clause (i) of subparagraph (A) with respect to any fee described in such subparagraph shall be posted in a prominent and conspicuous location on or at the automated teller machine at which the electronic fund transfer is initiated by the consumer.
+‘‘(ii) ON THE SCREEN.—The notice required under clauses (i) and (ii) of subparagraph (A) with respect to any fee described in such subparagraph shall appear on the screen of the automated teller machine, or on a paper notice issued from such machine, after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction, except that during the period beginning on the date of the enactment of the Gramm-Leach-Bliley Act and ending on December 31, 2004, this clause shall not apply to any automated teller machine that lacks the technical capability to disclose the notice on the screen or to issue a paper notice after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction.
+‘‘(C) PROHIBITION ON FEES NOT PROPERLY DISCLOSED AND EXPLICITLY ASSUMED BY CONSUMER.—No fee may be imposed by any automated teller machine operator in connection with any electronic fund transfer initiated by a consumer for which a notice is required under subparagraph (A), unless—
+‘‘(i) the consumer receives such notice in accordance with subparagraph (B); and

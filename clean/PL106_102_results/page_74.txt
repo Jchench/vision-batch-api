@@ -1,0 +1,34 @@
+113 STAT. 1410         PUBLIC LAW 106–102—NOV. 12, 1999
+
+a judgment, before the end of the 60-day period beginning on the date on which such petition is filed, unless all parties to such proceeding agree to any extension of such period.
+
+(c) SUPREME COURT REVIEW.—Any request for certiorari to the Supreme Court of the United States of any judgment of a United States Court of Appeals with respect to a petition for review under this section shall be filed with the Supreme Court of the United States as soon as practicable after such judgment is issued.
+
+(d) STATUTE OF LIMITATION.—No petition may be filed under this section challenging an order, ruling, determination, or other action of a Federal regulator or State insurance regulator after the later of—
+
+    (1) the end of the 12-month period beginning on the date on which the first public notice is made of such order, ruling, determination or other action in its final form; or
+    
+    (2) the end of the 6-month period beginning on the date on which such order, ruling, determination, or other action takes effect.
+
+
+(e) STANDARD OF REVIEW.—The court shall decide a petition filed under this section based on its review on the merits of all questions presented under State and Federal law, including the nature of the product or activity and the history and purpose of its regulation under State and Federal law, without unequal deference.
+
+SEC. 305. INSURANCE CUSTOMER PROTECTIONS.
+
+The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by inserting after section 46, as added by section 121(d) of this Act, the following new section:
+
+    ‘‘SEC. 47. INSURANCE CUSTOMER PROTECTIONS.
+    
+    ‘‘(a) REGULATIONS REQUIRED.—
+    
+        ‘‘(1) IN GENERAL.—The Federal banking agencies shall prescribe and publish in final form, before the end of the 1-year period beginning on the date of the enactment of the Gramm-Leach-Bliley Act, customer protection regulations (which the agencies jointly determine to be appropriate) that—
+        
+            ‘‘(A) apply to retail sales practices, solicitations, advertising, or offers of any insurance product by any depository institution or any person that is engaged in such activities at an office of the institution or on behalf of the institution; and
+            
+            ‘‘(B) are consistent with the requirements of this Act and provide such additional protections for customers to whom such sales, solicitations, advertising, or offers are directed.
+        
+        ‘‘(2) APPLICABILITY TO SUBSIDIARIES.—The regulations prescribed pursuant to paragraph (1) shall extend such protections to any subsidiary of a depository institution, as deemed appropriate by the regulators referred to in paragraph (3), where such extension is determined to be necessary to ensure the consumer protections provided by this section.
+        
+        ‘‘(3) CONSULTATION AND JOINT REGULATIONS.—The Federal banking agencies shall consult with each other and prescribe joint regulations pursuant to paragraph (1), after consultation with the State insurance regulators, as appropriate.
+        
+    ‘‘(b) SALES PRACTICES.—The regulations prescribed pursuant to subsection (a) shall include antiying and anticorcion rules

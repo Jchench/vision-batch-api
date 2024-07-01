@@ -1,0 +1,43 @@
+132 STAT. 1304          PUBLIC LAW 115–174—MAY 24, 2018
+
+is amended by inserting after the item relating to section 1517 the following:
+
+“Sec. 1518. Employment transition of loan originators.”.
+
+(c) CIVIL LIABILITY.—Section 1513 of the S.A.F.E. Mortgage Licensing Act of 2008 (12 U.S.C. 5112) is amended by striking “persons who are loan originators or are applying for licensing or registration as loan originators.” and inserting “persons who—
+
+“(1) have applied, are applying, or are licensed or registered through the Nationwide Mortgage Licensing System and Registry; and
+
+“(2) work in an industry with respect to which persons were licensed or registered through the Nationwide Mortgage Licensing System and Registry on the date of enactment of the Economic Growth, Regulatory Relief, and Consumer Protection Act.”.
+
+(d) EFFECTIVE DATE.—This section and the amendments made by this section shall take effect on the date that is 18 months after the date of enactment of this Act.
+
+SEC. 107. PROTECTING ACCESS TO MANUFACTURED HOMES.
+
+Section 103 of the Truth in Lending Act (15 U.S.C. 1602) is amended—
+
+(1) by redesignating the second subsection (cc) (relating to definitions relating to mortgage origination and residential mortgage loans) and subsection (dd) as subsections (dd) and (ee), respectively; and
+
+(2) in paragraph (2) of subsection (dd), as so redesignated, by striking subparagraph (C) and inserting the following:
+
+“(C) does not include any person who is—
+
+“(i) not otherwise described in subparagraph (A) or (B) and who performs purely administrative or clerical tasks on behalf of a person who is described in any such subparagraph; or
+
+“(ii) a retailer of manufactured or modular homes or an employee of the retailer if the retailer or employee, as applicable—
+
+“(I) does not receive compensation or gain for engaging in activities described in subparagraph (A) that is in excess of any compensation or gain received in a comparable cash transaction;
+
+“(II) discloses to the consumer—
+
+“(aa) in writing any corporate affiliation with any creditor; and
+
+“(bb) if the retailer has a corporate affiliation with any creditor, at least 1 unaffiliated creditor; and
+
+“(III) does not directly negotiate with the consumer or lender on loan terms (including rates, fees, and other costs).”.
+
+SEC. 108. ESCROW REQUIREMENTS RELATING TO CERTAIN CONSUMER CREDIT TRANSACTIONS.
+
+Section 129D of the Truth in Lending Act (15 U.S.C. 1639d) is amended—
+
+(1) in subsection (c)—

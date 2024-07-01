@@ -1,0 +1,17 @@
+PUBLIC LAW 106–102—NOV. 12, 1999
+113 STAT. 1477
+‘‘(i) provides for the avoidance of preferential or fraudulent transfers or conveyances; or
+‘‘(ii) provides similar remedies for preferential or fraudulent transfers or conveyances; and
+‘‘(B) does not include any claim based on actual intent to hinder, delay, or defraud pursuant to such a fraudulent transfer or conveyance law.’’.
+
+SEC. 731. INTEREST RATES AND OTHER CHARGES AT INTERSTATE BRANCHES.
+Section 44 of the Federal Deposit Insurance Act (12 U.S.C. 1831u) is amended—
+(1) by redesignating subsection (f) as subsection (g); and
+(2) by inserting after subsection (e) the following new subsection:
+‘‘(f) APPLICABLE RATE AND OTHER CHARGE LIMITATIONS.—
+‘‘(1) IN GENERAL.—In the case of any State that has a constitutional provision that sets a maximum lawful annual percentage rate of interest on any contract at not more than 5 percent above the discount rate for 90-day commercial paper in effect at the Federal reserve bank for the Federal reserve district in which such State is located, except as provided in paragraph (2), upon the establishment in such State of a branch of an out-of-State insured depository institution in such State under this section, the maximum interest rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved from time to time in any loan or discount made or upon any note, bill of exchange, financing transaction, or other evidence of debt by any insured depository institution whose home State is such State shall be equal to not more than the greater of—
+‘‘(A) the maximum interest rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved in a similar transaction under the constitution or any statute or other law of the home State of the out-of-State insured depository institution establishing any such branch, without reference to this section, as such maximum interest rate or amount of interest may change from time to time; or 
+‘‘(B) the maximum rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved in a similar transaction by a State insured depository institution chartered under the laws of such State or a national bank or Federal savings association whose main office is located in such State without reference to this section.
+‘‘(2) RULE OF CONSTRUCTION.—No provision of this subsection shall be construed as superseding or affecting—
+‘‘(A) the authority of any insured depository institution to take, receive, reserve, and charge interest on any loan made in any State other than the State referred to in paragraph (1); or
+‘‘(B) the applicability of section 501 of the Depository Institutions Deregulation and Monetary Control Act of

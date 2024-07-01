@@ -1,0 +1,19 @@
+PUBLIC LAW 106-102—NOV. 12, 1999
+
+SEC. 334. COORDINATION WITH OTHER REGULATORS.
+(a) COORDINATION WITH STATE INSURANCE REGULATORS.—The Association shall have the authority to—
+(1) issue uniform insurance producer applications and renewal applications that may be used to apply for the issuance or removal of State licenses, while preserving the ability of each State to impose such conditions on the issuance or renewal of a license as are consistent with section 333;
+(2) establish a central clearinghouse through which members of the Association may apply for the issuance or renewal of licenses in multiple States; and
+(3) establish or utilize a national database for the collection of regulatory information concerning the activities of insurance producers.
+(b) COORDINATION WITH THE NATIONAL ASSOCIATION OF SECURITIES DEALERS.—The Association shall coordinate with the National Association of Securities Dealers in order to ease any administrative burdens that fall on persons that are members of both associations, consistent with the purposes of this subtitle and the Federal securities laws.
+
+SEC. 335. JUDICIAL REVIEW.
+(a) JURISDICTION.—The appropriate United States district court shall have exclusive jurisdiction over litigation involving the Association, including disputes between the Association and its members that arise under this subtitle. Suits brought in State court involving the Association shall be deemed to have arisen under Federal law and therefore be subject to jurisdiction in the appropriate United States district court.
+(b) EXHAUSTION OF REMEDIES.—An aggrieved person shall be required to exhaust all available administrative remedies before the Association and the NAIC before it may seek judicial review of an Association decision.
+(c) STANDARDS OF REVIEW.—The standards set forth in section 553 of title 5, United States Code, shall be applied whenever a rule or bylaw of the Association is under judicial review, and the standards set forth in section 554 of title 5, United States Code, shall be applied whenever a disciplinary action of the Association is judicially reviewed.
+
+SEC. 336. DEFINITIONS.
+For purposes of this subtitle, the following definitions shall apply:
+(1) HOME STATE.—The term “home State” means the State in which the insurance producer maintains its principal place of residence and is licensed to act as an insurance producer.
+(2) INSURANCE.—The term “insurance” means any product, other than title insurance, defined or regulated as insurance by the appropriate State insurance regulatory authority.
+(3) INSURANCE PRODUCER.—The term “insurance producer” means any insurance agent or broker, surplus lines broker, insurance consultant, limited insurance representative, and any other person that solicits, negotiates, effects, procures, delivers, renews, continues or binds policies of insurance or offers advice, counsel, opinions or services related to insurance.

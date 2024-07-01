@@ -1,0 +1,22 @@
+PUBLIC LAW 115-174—MAY 24, 2018
+
+(4) RULE OF CONSTRUCTION.—Nothing in this section shall be construed to prohibit the Board of Governors of the Federal Reserve System from issuing an order or rule making under section 165(a)(2)(C) of the Financial Stability Act of 2010 (12 U.S.C. 5365(a)(2)(C)), as added by this section, before the effective date described in paragraph (1).
+
+(e) SUPERVISORY STRESS TEST.—Beginning on the effective date described in subsection (d)(1), the Board of Governors of the Federal Reserve System shall, on a periodic basis, conduct supervisory stress tests of bank holding companies with total consolidated assets equal to or greater than $100,000,000,000 and total consolidated assets of less than $250,000,000,000 to evaluate whether such bank holding companies have the capital, on a total consolidated basis, necessary to absorb losses as a result of adverse economic conditions.
+
+(f) GLOBAL SYSTEMICALLY IMPORTANT BANK HOLDING COMPANIES.—Any bank holding company, regardless of asset size, that has been identified as a global systemically important BHC under section 217.402 of title 12, Code of Federal Regulations, shall be considered a bank holding company with total consolidated assets equal to or greater than $250,000,000,000 with respect to the application of standards or requirements under—
+(1) this section;
+(2) sections 116(a), 121(a), 155(d), 163(b), 164, and 165 (a) of the Financial Stability Act of 2010 (12 U.S.C. 5326(a), 5331(a),5346(d), 5363(b), 5364, 5365); and
+(3) paragraph (2)(A) of the second subsection (s) (relating to assessments) of section 11 of the Federal Reserve Act (12 U.S.C. 248(s)(2)).
+
+(g) CLARIFICATION FOR FOREIGN BANKS.—Nothing in this section shall be construed to—
+(1) affect the legal effect of the final rule of the Board of Governors of the Federal Reserve System entitled “Enhanced Prudential Standards for Bank Holding Companies and Foreign Banking Organizations” (79 Fed. Reg. 17240 (March 27, 2014) as applied to foreign banking organizations with total consolidated assets equal to or greater than $100,000,000,000; or
+(2) limit the authority of the Board of Governors of the Federal Reserve System to require the establishment of an intermediate holding company under, implement enhanced prudential standards with respect to, or tailor the regulation of a foreign banking organization with total consolidated assets equal to or greater than $100,000,000,000.
+
+SEC. 402. SUPPLEMENTARY LEVERAGE RATIO FOR CUSTODIAL BANKS.
+
+(a) DEFINITION.—In this section, the term “custodial bank” means any depository institution holding company predominantly engaged in custody, safekeeping, and asset servicing activities, including any insured depository institution subsidiary of such a holding company.
+(b) REGULATIONS.—
+(1) DEFINITION.—In this subsection, the term “central bank” means—
+(A) the Federal Reserve System;
+(B) the European Central Bank; and

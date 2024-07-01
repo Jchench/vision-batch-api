@@ -1,0 +1,28 @@
+113 STAT. 1378         PUBLIC LAW 106–102—NOV. 12, 1999
+
+“(1) AFFILIATE, COMPANY, CONTROL, AND SUBSIDIARY.—The terms ‘affiliate’, ‘company’, ‘control’, and ‘subsidiary’ have the meanings given those terms in section 2 of the Bank Holding Company Act of 1956.
+
+“(2) APPROPRIATE FEDERAL BANKING AGENCY, DEPOSITORY INSTITUTION, INSURED BANK, AND INSURED DEPOSITORY INSTITUTION.—The terms ‘appropriate Federal banking agency’, ‘depository institution’, ‘insured bank’, and ‘insured depository institution’ have the meanings given those terms in section 3 of the Federal Deposit Insurance Act.
+
+“(3) FINANCIAL SUBSIDIARY.—The term ‘financial subsidiary’ means any company that is controlled by 1 or more insured depository institutions other than a subsidiary that—
+
+“(A) engages solely in activities that national banks are permitted to engage in directly and are conducted subject to the same terms and conditions that govern the conduct of such activities by national banks; or
+
+“(B) a national bank is specifically authorized by the express terms of a Federal statute (other than this section), and not by implication or interpretation, to control, such as by section 25 or 25A of the Federal Reserve Act or the Bank Service Company Act.
+
+“(4) ELIGIBLE DEBT.—The term ‘eligible debt’ means unsecured long-term debt that—
+“(A) is not supported by any form of credit enhancement, including a guarantee or standby letter of credit;
+and
+“(B) is not held in whole or in any significant part by any affiliate, officer, director, principal shareholder, or employee of the bank or any other person acting on behalf of or with funds from the bank or an affiliate of the bank.
+
+“(5) WELL CAPITALIZED.—The term ‘well capitalized’ has the meaning given the term in section 38 of the Federal Deposit Insurance Act.
+
+“(6) WELL MANAGED.—The term ‘well managed’ means—
+“(A) in the case of a depository institution that has been examined, unless otherwise determined in writing by the appropriate Federal banking agency—
+“(i) the achievement of a composite rating of 1 or 2 under the Uniform Financial Institutions Rating System (or an equivalent rating under an equivalent rating system) in connection with the most recent examination or subsequent review of the depository institution; and
+“(ii) at least a rating of 2 for management, if such rating is given; or
+“(B) in the case of any depository institution that has not been examined, the existence and use of managerial resources that the appropriate Federal banking agency determines are satisfactory.”. 
+
+(b) SECTIONS 23A AND 23B OF THE FEDERAL RESERVE ACT.—
+(1) LIMITING THE EXPOSURE OF A BANK TO A FINANCIAL SUBSIDIARY TO THE AMOUNT OF PERMISSIBLE EXPOSURE TO AN AFFILIATE.—Section 23A of the Federal Reserve Act (12 U.S.C. 371c) is amended—
+(A) by redesignating subsection (e) as subsection (f); and

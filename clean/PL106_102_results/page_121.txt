@@ -1,0 +1,26 @@
+PUBLIC LAW 106-102—NOV 12, 1999
+
+113 STAT. 1457
+
+“(2) LEVERAGE REQUIREMENT.— 
+    “(A) IN GENERAL.—The leverage requirement shall require each Federal home loan bank to maintain a minimum amount of total capital based on the total assets of the bank and shall be 5 percent. 
+    
+    “(B) TREATMENT OF STOCK AND RETAINED EARNINGS.—In determining compliance with the minimum leverage ratio established under subparagraph (A), the paid-in value of the outstanding Class B stock and the amount of retained earnings shall be multiplied by 1.5, and such higher amounts shall be deemed to be capital for purposes of meeting the 5 percent minimum leverage ratio, except that a Federal home loan bank’s total capital (determined without taking into account any such multiplier) shall not be less than 4 percent of the total assets of the bank.
+
+“(3) RISK-BASED CAPITAL STANDARDS.— 
+    “(A) IN GENERAL.—Each Federal home loan bank shall maintain permanent capital in an amount that is sufficient, as determined in accordance with the regulations of the Finance Board, to meet—
+    
+        “(i) the credit risk to which the Federal home loan bank is subject; and
+        
+        “(ii) the market risk, including interest rate risk, to which the Federal home loan bank is subject, based on a stress test established by the Finance Board that rigorously tests for changes in market variables, including changes in interest rates, rate volatility, and changes in the shape of the yield curve.
+    
+    “(B) CONSIDERATION OF OTHER RISK-BASED STANDARDS.—In establishing the risk-based standard under subparagraph (A)(ii), the Finance Board shall take due consideration of any risk-based capital test established pursuant to section 1361 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4611) for the enterprises (as defined in that Act), with such modifications as the Finance Board determines to be appropriate to reflect differences in operations between the Federal home loan banks and those enterprises.
+
+“(4) OTHER REGULATORY REQUIREMENTS.—The regulations issued by the Finance Board under paragraph (1) shall—
+    “(A) permit each Federal home loan bank to issue, with such rights, terms, and preferences, not inconsistent with this Act and the regulations issued hereunder, as the board of directors of that bank may approve, any 1 or more of—
+    
+        “(i) Class A stock, which shall be redeemable in cash and at par 6 months following submission by a member of a written notice of its intent to redeem such shares; and
+        
+        “(ii) Class B stock, which shall be redeemable in cash and at par 5 years following submission by a member of a written notice of its intent to redeem such shares;
+        
+    “(B) provide that the stock of a Federal home loan bank may be issued to and held by only members of the

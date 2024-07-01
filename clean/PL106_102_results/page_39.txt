@@ -1,0 +1,16 @@
+PUBLIC LAW 106-102—NOV. 12, 1999
+
+113 STAT. 1375
+
+“(A) IN GENERAL.—An activity shall be financial in nature or incidental to such financial activity only if—
+“(i) such activity has been defined to be financial in nature or incidental to a financial activity for bank holding companies pursuant to section 4(k)(4) of the Bank Holding Company Act of 1956; or
+“(ii) the Secretary of the Treasury determines the activity is financial in nature or incidental to a financial activity in accordance with subparagraph (B).
+“(B) COORDINATION BETWEEN THE BOARD AND THE SECRETARY OF THE TREASURY.—
+“(i) PROPOSALS RAISED BEFORE THE SECRETARY OF THE TREASURY.—
+“(I) CONSULTATION.—The Secretary of the Treasury shall notify the Board of, and consult with the Board concerning, any request, proposal, or application under this section for a determination of whether an activity is financial in nature or incidental to a financial activity.
+“(II) BOARD VIEW.—The Secretary of the Treasury shall not determine that any activity is financial in nature or incidental to a financial activity under this section if the Board notifies the Secretary in writing, not later than 30 days after the date of receipt of the notice described in subclause (I) (or such longer period as the Secretary determines to be appropriate under the circumstances) that the Board believes that the activity is not financial in nature or incidental to a financial activity or is not otherwise permissible under this section.
+“(ii) PROPOSALS RAISED BY THE BOARD.—
+“(I) BOARD RECOMMENDATION.—The Board may, at any time, recommend in writing that the Secretary of the Treasury find an activity to be financial in nature or incidental to a financial activity for purposes of this section.
+“(II) TIME PERIOD FOR SECRETARIAL ACTION.—Not later than 30 days after the date of receipt of a written recommendation from the Board under subclause (I) (or such longer period as the Secretary of the Treasury and the Board determine to be appropriate under the circumstances), the Secretary shall determine whether to initiate a public rulemaking proposing that the subject recommended activity be found to be financial in nature or incidental to a financial activity under this section, and shall notify the Board in writing of the determination of the Secretary and, in the event that the Secretary determines not to seek public comment on the proposal, the reasons for that determination.
+“(2) FACTORS TO BE CONSIDERED.—In determining whether an activity is financial in nature or incidental to a financial activity, the Secretary shall take into account—
+“(A) the purposes of this Act and the Gramm-Leach-Bliley Act;

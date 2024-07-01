@@ -1,0 +1,26 @@
+PUBLIC LAW 106-102--NOV. 12, 1999	113 STAT. 1381    
+
+such subsidiary any activities lawfully conducted in such subsidiary as of such date.
+‘‘(c) DEFINITIONS.—For purposes of this section, the following definitions shall apply:
+‘‘(1) SUBSIDIARY.—The term ‘subsidiary’ means any company that is a subsidiary (as defined in section 3(w)(4)) of 1 or more insured banks.
+‘‘(2) FINANCIAL SUBSIDIARY.—The term ‘financial subsidiary’ has the meaning given the term in section 5136A(g) of the Revised Statutes of the United States.
+‘‘(d) PRESERVATION OF AUTHORITY.—
+‘‘(1) FEDERAL DEPOSIT INSURANCE ACT.—No provision of this section shall be construed as superseding the authority of the Federal Deposit Insurance Corporation to review subsidiary activities under section 24.
+‘‘(2) FEDERAL RESERVE ACT.—No provision of this section shall be construed as affecting the applicability of the 20th undesignated paragraph of section 9 of the Federal Reserve Act.’’.
+ 
+(e) FEDERAL RESERVE ACT.—The 20th undesignated paragraph of section 9 of the Federal Reserve Act (12 U.S.C. 335) is amended by adding at the end the following: ‘‘This paragraph shall not apply to any interest held by a State member bank in accordance with section 5136A of the Revised Statutes of the United States and subject to the same conditions and limitations provided in such section.’’. (e) CLERICAL AMENDMENT.—The table of sections for chapter one of title LXII of the Revised Statutes of the United States is amended—
+(1) by redesignating the item relating to section 5136A as section 5136B: and
+(2) by inserting after the item relating to section 5136 the following new item:
+
+‘‘5136A. Financial subsidiaries of national banks.’’.
+
+SEC. 122. CONSIDERATION OF MERCHANT BANKING ACTIVITIES BY
+FINANCIAL SUBSIDIARIES.
+
+After the end of the 5-year period beginning on the date of the enactment of the Gramm-Leach-Bliley Act, the Board of Governors of the Federal Reserve System and the Secretary of the Treasury may, if appropriate after considering—
+(1) the experience with the effects of financial modernization under this Act and merchant banking activities of financial holding companies;
+(2) the potential effects on depository institutions and the financial system of allowing merchant banking activities in financial subsidiaries; and
+(3) other relevant facts;
+jointly adopt rules that permit financial subsidiaries to engage in merchant banking activities described in section 4(k)(4)(H) of the Bank Holding Company Act of 1956, under such terms and conditions as the Board of Governors of the Federal Reserve System and the Secretary of the Treasury jointly determine to be appropriate.
+
+12 USC 1843 note.

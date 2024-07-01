@@ -1,0 +1,27 @@
+132 STAT. 1348
+
+PUBLIC LAW 115–174—MAY 24, 2018
+
+(4) a review of the responsibilities of data furnishers to ensure that accurate information is initially reported to consumer reporting agencies and to ensure that such information continues to be accurate;
+(5) a review of data security relating to consumer reporting agencies and their efforts to safeguard consumer data;
+(6) a review of who has access to, and may use, consumer reports;
+(7) a review of who has control or ownership of a consumer’s credit data;
+(8) an analysis of—
+	(A) which Federal and State regulatory agencies supervise and enforce laws relating to how consumer reporting agencies protect consumer data; and
+	(B) all laws relating to data security applicable to consumer reporting agencies; and
+(9) recommendations to Congress on how to improve the consumer reporting system, including legislative, regulatory, and industry-specific recommendations.
+
+SEC. 309. PROTECTING VETERANS FROM PREDATORY LENDING.
+
+(a) PROTECTING VETERANS FROM PREDATORY LENDING.—
+
+(1) IN GENERAL.—Subchapter I of chapter 37 of title 38, United States Code, is amended by adding at the end the following new section:
+
+38 USC 3709.	‘‘§ 3709. Refinancing of housing loans
+	‘‘(a) FEE RECOUPMENT.—Except as provided in subsection (d) and notwithstanding section 3703 of this title or any other provision of law, a loan to a veteran for a purpose specified in section 3710 of this title that is being refinanced may not be guaranteed or insured under this chapter unless—
+		‘‘(1) the issuer of the refinanced loan provides the Secretary with a certification of the recoupment period for fees, closing costs, and any expenses (other than taxes, amounts held in escrow, and fees paid under this chapter) that would be incurred by the borrower in the refinancing of the loan;
+		‘‘(2) all of the fees and incurred costs are scheduled to be recouped on or before the date that is 36 months after the date of loan issuance; and
+		‘‘(3) the recoupment is calculated through lower regular monthly payments (other than taxes, amounts held in escrow, and fees paid under this chapter) as a result of the refinanced loan.
+	‘‘(b) NET TANGIBLE BENEFIT TEST.—Except as provided in subsection (d) and notwithstanding section 3703 of this title or any other provision of law, a loan to a veteran for a purpose specified in section 3710 of this title that is refinanced may not be guaranteed or insured under this chapter unless—
+		‘‘(1) the issuer of the refinanced loan provides the borrower with a net tangible benefit test; and
+		‘‘(2) in a case in which the original loan had a fixed rate mortgage interest rate and the refinanced loan will have a fixed rate mortgage interest rate, the refinanced loan has a mortgage interest rate that is not less than 50 basis points less than the previous loan;

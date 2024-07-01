@@ -1,0 +1,22 @@
+113 STAT. 1480     PUBLIC LAW 106–102—NOV. 12, 1999
+
+trust company, banking association, or firm to underwrite or participate in the marketing of securities of the public utility, if the person serves as an officer or director of a bank, trust company, banking association, or firm that is under consideration in the deliberation process;
+“(ii) the bank, trust company, banking association, or firm of which the person is an officer or director does not engage in the underwriting or participate in the marketing of, securities of the public utility of which the person holds the position of officer or director;
+“(iii) the public utility for which the person serves or proposes to serve as an officer or director selects underwriters by competitive procedures; or
+“(iv) the issuance of securities of the public utility for which the person serves or proposes to serve as an officer or director has been approved by all Federal and State regulatory agencies having jurisdiction over the issuance.”.
+
+SEC. 738. APPROVAL FOR PURCHASES OF SECURITIES.
+
+Section 23B(b)(2) of the Federal Reserve Act (12 U.S.C. 371c– 1) is amended to read as follows:
+“Subparagraph (B) of paragraph (1) shall not apply if the purchase or acquisition of such securities has been approved, before such securities are initially offered for sale to the public, by a majority of the directors of the bank based on a determination that the purchase is a sound investment for the bank irrespective of the fact that an affiliate of the bank is a principal underwriter of the securities.”.
+
+SEC. 739. OPTIONAL CONVERSION OF FEDERAL SAVINGS ASSOCIA- TIONS.
+
+Section 5(i) of the Home Owners’ Loan Act (12 U.S.C. 1464(i)) is amended by adding at the end the following new paragraph:
+“(5) CONVERSION TO NATIONAL OR STATE BANK.—
+“(A) IN GENERAL.—Any Federal savings association chartered and in operation before the date of the enactment of the Gramm-Leach-Bliley Act, with branches in operation before such date of enactment in 1 or more States, may convert, at its option, with the approval of the Comptroller of the Currency or the appropriate State bank supervisor, into 1 or more national or State banks, each of which may encompass 1 or more of the branches of the Federal savings association in operation before such date of enactment in 1 or more States, but only if each resulting national or State bank will meet all financial, management, and capital requirements applicable to the resulting national or State bank.
+“(B) DEFINITIONS.—For purposes of this paragraph, the terms ‘State bank’ and ‘State bank supervisor’ have the meanings given those terms in section 3 of the Federal Deposit Insurance Act.”.
+
+SEC. 740. GRAND JURY PROCEEDINGS.
+
+Section 3322(b) of title 18, United States Code, is amended—

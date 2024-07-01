@@ -1,0 +1,24 @@
+PUBLIC LAW 106–102—NOV. 12, 1999
+
+113 STAT. 1343
+
+Treasury in writing of the determination of the Board and, if the Board determines not to seek public comment on the proposal, the reasons for that determination.
+        
+        ‘‘(3) FACTORS TO BE CONSIDERED.—In determining whether an activity is financial in nature or incidental to a financial activity, the Board shall take into account—
+        ‘‘(A) the purposes of this Act and the Gramm-Leach-Bliley Act;
+        ‘‘(B) changes or reasonably expected changes in the marketplace in which financial holding companies compete;
+        ‘‘(C) changes or reasonably expected changes in the technology for delivering financial services; and
+        ‘‘(D) whether such activity is necessary or appropriate to allow a financial holding company and the affiliates of a financial holding company to—
+        ‘‘(i) compete effectively with any company seeking to provide financial services in the United States;
+        ‘‘(ii) efficiently deliver information and services that are financial in nature through the use of technological means, including any application necessary to protect the security or efficacy of systems for the transmission of data or financial transactions; and 
+        ‘‘(iii) offer customers any available or emerging technological means for using financial services or for the document imaging of data.
+        
+        ‘‘(4) ACTIVITIES THAT ARE FINANCIAL IN NATURE.—For purposes of this subsection, the following activities shall be considered to be financial in nature:
+        ‘‘(A) Lending, exchanging, transferring, investing for others, or safeguarding money or securities.
+        ‘‘(B) Insuring, guaranteeing, or indemnifying against loss, harm, damage, illness, disability, or death, or providing and issuing annuities, and acting as principal, agent, or broker for purposes of the foregoing, in any State.
+        ‘‘(C) Providing financial, investment, or economic advisory services, including advising an investment company (as defined in section 3 of the Investment Company Act of 1940).
+        ‘‘(D) Issuing or selling instruments representing interests in pools of assets permissible for a bank to hold directly.
+        ‘‘(E) Underwriting, dealing in, or making a market in securities.
+        ‘‘(F) Engaging in any activity that the Board has determined, by order or regulation that is in effect on the date of the enactment of the Gramm-Leach-Bliley Act, to be so closely related to banking or managing or controlling banks as to be a proper incident thereto (subject to the same terms and conditions contained in such order or regulation, unless modified by the Board).
+        ‘‘(G) Engaging, in the United States, in any activity that—
+        ‘‘(i) a bank holding company may engage in outside of the United States; and

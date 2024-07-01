@@ -1,0 +1,18 @@
+132 STAT. 1364
+
+PUBLIC LAW 115–174—MAY 24, 2018
+
+All Urban Consumers published by the Bureau of Labor Statistics, rounding to the nearest $1,000,000.
+15 USC 78m note.	
+SEC. 508. IMPROVING ACCESS TO CAPITAL.
+The Securities and Exchange Commission shall amend—
+(1) section 230.251 of title 17, Code of Federal Regulations, to remove the requirement that the issuer not be subject to section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) immediately before the offering; and
+(2) section 230.257 of title 17, Code of Federal Regulations, with respect to an offering described in section 230.251(a)(2) of title 17, Code of Federal Regulations, to deem any issuer that is subject to section 13 or 15(d) of the Securities Exchange Act of 1934 as having met the periodic and current reporting requirements of section 230.257 of title 17, Code of Federal Regulations, if such issuer meets the reporting requirements of section 13 of the Securities Exchange Act of 1934.
+15 USC 80a–23 note.
+Deadlines.
+SEC. 509. PARITY FOR CLOSED-END COMPANIES REGARDING OFFERING AND PROXY RULES.
+(a) REVISION TO RULES.—Not later than the end of the 1-year period beginning on the date of enactment of this Act, the Securities and Exchange Commission shall propose and, not later than 2 years after the date of enactment of this Act, the Securities and Exchange Commission shall finalize any rules, as appropriate, to allow any closed-end company, as defined in section 5(a)(2) of the Investment Company Act of 1940 (15 U.S.C. 80a–5), that is registered as an investment company under such Act, and is listed on a national securities exchange or that makes periodic repurchase offers pursuant to section 270.23c–3 of title 17, Code of Federal Regulations, to use the securities offering and proxy rules, subject to conditions the Commission determines appropriate, that are available to other issuers that are required to file reports under section 13 or section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m; 78o(d)). Any action that the Commission takes pursuant to this subsection shall consider the availability of information to investors, including what disclosures constitute adequate information to be designated as a ‘‘well-known seasoned issuer’’.
+(b) TREATMENT IF REVISIONS NOT COMPLETED IN A TIMELY MANNER.—If the Commission fails to complete the revisions required by subsection (a) by the time required by such subsection, any registered closed-end company that is listed on a national securities exchange or that makes periodic repurchase offers pursuant to section 270.23c–3 of title 17, Code of Federal Regulations, shall be deemed to be an eligible issuer under the final rule of the Commission titled ‘‘Securities Offering Reform’’ (70 Fed. Reg. 44722; published August 3, 2005).
+(c) RULES OF CONSTRUCTION.—
+(1) NO EFFECT ON RULE 482.—Nothing in this section or the amendments made by this section shall be construed to impair or limit in any way a registered closed-end company from using section 230.482 of title 17, Code of Federal Regulations, to distribute sales material.
+(2) REFERENCES.—Any reference in this section to a section of title 17, Code of Federal Regulations, or to any form or schedule means such rule, section, form, or schedule, or any successor to any such rule, section, form, or schedule.

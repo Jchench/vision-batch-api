@@ -1,0 +1,22 @@
+113 STAT. 1376  PUBLIC LAW 106-102—NOV. 12, 1999
+
+      “(B) changes or reasonably expected changes in the marketplace in which banks compete;
+      “(C) changes or reasonably expected changes in the technology for delivering financial services; and
+      “(D) whether such activity is necessary or appropriate to allow a bank and the subsidiaries of a bank to—
+            “(i) compete effectively with any company seeking to provide financial services in the United States;
+            “(ii) efficiently deliver information and services that are financial in nature through the use of technological means, including any application necessary to protect the security or efficacy of systems for the transmission of data or financial transactions; and
+            “(iii) offer customers any available or emerging technological means for using financial services or for the document imaging of data.
+“(3) AUTHORIZATION OF NEW FINANCIAL ACTIVITIES.—The Secretary of the Treasury shall, by regulation or order and in accordance with paragraph (1)(B), define, consistent with the purposes of this Act and the Gramm-Leach-Bliley Act, the following activities as, and the extent to which such activities are, financial in nature or incidental to a financial activity:
+      “(A) Lending, exchanging, transferring, investing for others, or safeguarding financial assets other than money or securities.
+      “(B) Providing any device or other instrumentality for transferring money or other financial assets.
+      “(C) Arranging, effecting, or facilitating financial transactions for the account of third parties.
+“(c) CAPITAL DEDUCTION.— 
+“(1) CAPITAL DEDUCTION REQUIRED.—In determining compliance with applicable capital standards—
+            “(A) the aggregate amount of the outstanding equity investment, including retained earnings, of a national bank in all financial subsidiaries shall be deducted from the assets and tangible equity of the national bank; and
+            “(B) the assets and liabilities of the financial subsidiaries shall not be consolidated with those of the national bank.
+            
+“(2) FINANCIAL STATEMENT DISCLOSURE OF CAPITAL DEDUCTION.—Any published financial statement of a national bank that controls a financial subsidiary shall, in addition to providing information prepared in accordance with generally accepted accounting principles, separately present financial information for the bank in the manner provided in paragraph (1).
+“(d) SAFEGUARDS FOR THE BANK.—A national bank that establishes or maintains a financial subsidiary shall assure that—
+      “(1) the procedures of the national bank for identifying and managing financial and operational risks within the national bank and the financial subsidiary adequately protect the national bank from such risks;
+      “(2) the national bank has, for the protection of the bank, reasonable policies and procedures to preserve the separate corporate identity and limited liability of the national bank and the financial subsidiaries of the national bank; and
+      “(3) the national bank is in compliance with this section.

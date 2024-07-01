@@ -1,0 +1,35 @@
+132 STAT. 1362
+
+PUBLIC LAW 115–174—MAY 24, 2018
+
+(3) An analysis of whether the activity of algorithmic trading and entities that engage in algorithmic trading are subject to appropriate Federal supervision and regulation.
+
+(4) A recommendation of whether—
+  (A) based on the analysis described in paragraphs (1), (2), and (3), any changes should be made to regulations; and
+  (B) the Securities and Exchange Commission needs additional legal authorities or resources to effect the changes described in subparagraph (A).
+
+SEC. 503. ANNUAL REVIEW OF GOVERNMENT-BUSINESS FORUM ON CAPITAL FORMATION.
+
+Section 503 of the Small Business Investment Incentive Act of 1980 (15 U.S.C. 80c–1) is amended by adding at the end the following:
+  ‘‘(e) The Commission shall—
+    ‘‘(1) review the findings and recommendations of the forum; and
+    ‘‘(2) each time the forum submits a finding or recommendation to the Commission, promptly issue a public statement—
+      ‘‘(A) assessing the finding or recommendation of the forum; and
+      ‘‘(B) disclosing the action, if any, the Commission intends to take with respect to the finding or recommendation.’’.
+
+SEC. 504. SUPPORTING AMERICA'S INNOVATORS.
+
+Section 3(c)(1) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(1)) is amended—
+  (1) in the matter preceding subparagraph (A), by inserting ‘‘(or, in the case of a qualifying venture capital fund, 250 persons)’’ after ‘‘one hundred persons’’; and
+  (2) by adding at the end the following:
+    ‘‘(C)(i) The term ‘qualifying venture capital fund’ means a venture capital fund that has not more than $10,000,000 in aggregate capital contributions and uncalled committed capital, with such dollar amount to be indexed for inflation once every 5 years by the Commission, beginning from a measurement made by the Commission on a date selected by the Commission, rounded to the nearest $1,000,000.
+    ‘‘(ii) The term ‘venture capital fund’ has the meaning given the term in section 275.203(l)–1 of title 17, Code of Federal Regulations, or any successor regulation.’’.
+
+SEC. 505. SECURITIES AND EXCHANGE COMMISSION OVERPAYMENT CREDIT.
+
+(a) DEFINITIONS.—In this section—
+  (1) the term ‘‘Commission’’ means the Securities and Exchange Commission;
+  (2) the term ‘‘national securities association’’ means an association that is registered under section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3); and
+  (3) the term ‘‘national securities exchange’’ means an exchange that is registered as a national securities exchange under section 6 of the Securities Exchange Act of 1934 (15 U.S.C. 78f).
+
+15 USC 78ee note.

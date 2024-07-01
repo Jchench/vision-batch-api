@@ -1,0 +1,21 @@
+PUBLIC LAW 115-174—MAY 24, 2018               132 STAT. 1313
+
+(b) EFFECTIVE DATE.—The amendments made by this section shall take effect on the date that is 30 days after the date of enactment of this Act.
+
+SEC. 209. SMALL PUBLIC HOUSING AGENCIES.
+(a) SMALL PUBLIC HOUSING AGENCIES.—Title I of the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) is amended by adding at the end the following:
+“SEC. 38. SMALL PUBLIC HOUSING AGENCIES.
+“(a) DEFINITIONS.—In this section:
+“(1) HOUSING VOUCHER PROGRAM.—The term ‘housing voucher program’ means a program for tenant-based assistance under section 8.
+“(2) SMALL PUBLIC HOUSING AGENCY.—The term ‘small public housing agency’ means a public housing agency—
+“(A) for which the sum of the number of public housing dwelling units administered by the agency and the number of vouchers under section 8(o) administered by the agency is 550 or fewer; and
+“(B) that predominantly operates in a rural area, as described in section 1026.35(b)(2)(iv)(A) of title 12, Code of Federal Regulations.
+“(3) TROUBLED SMALL PUBLIC HOUSING AGENCY.—The term ‘troubled small public housing agency’ means a small public housing agency designated by the Secretary as a troubled small public housing agency under subsection (c)(3).
+
+‘‘(b) APPLICABILITY.—Except as otherwise provided in this section, a small public housing agency shall be subject to the same requirements as a public housing agency.
+
+“(c) PROGRAM INSPECTIONS AND EVALUATIONS.—
+“(1) PUBLIC HOUSING PROJECTS.—
+“(A) FREQUENCY OF INSPECTIONS BY SECRETARY.—The Secretary shall carry out an inspection of the physical condition of a small public housing agency’s public housing projects not more frequently than once every 3 years, unless the agency has been designated by the Secretary as a troubled small public housing agency based on deficiencies in the physical condition of its public housing projects. Nothing contained in this subparagraph relieves the Secretary from conducting lead safety inspections or assessments in accordance with procedures established by the Secretary under section 302 of the Lead-Based Paint Poisoning Prevention Act (42 U.S.C. 4822).
+“(B) STANDARDS.—The Secretary shall apply to small public housing agencies the same standards for the acceptable condition of public housing projects that apply to projects assisted under section 8.
+“(2) HOUSING VOUCHER PROGRAM.—Except as required by section 8(o)(8)(E), a small public housing agency administering assistance under section 8(o) shall make periodic physical inspections of each assisted dwelling unit not less frequently than once every 3 years to determine whether the unit is maintained in accordance with the requirements under section 8(o)(8)(A). Nothing contained in this paragraph relieves a small public housing agency from conducting lead safety inspections or assessments in accordance with procedures established by

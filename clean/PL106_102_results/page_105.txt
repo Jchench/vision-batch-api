@@ -1,0 +1,20 @@
+PUBLIC LAW 106–102—NOV. 12, 1999
+
+(3) Under the Securities Exchange Act of 1934, by the Securities and Exchange Commission with respect to any broker or dealer.
+(4) Under the Investment Company Act of 1940, by the Securities and Exchange Commission with respect to investment companies.
+(5) Under the Investment Advisers Act of 1940, by the Securities and Exchange Commission with respect to investment advisers registered with the Commission under such Act.
+(6) Under State insurance law, in the case of any person engaged in providing insurance, by the applicable State insurance authority of the State in which the person is domiciled, subject to section 104 of this Act.
+(7) Under the Federal Trade Commission Act, by the Federal Trade Commission for any other financial institution or other person that is not subject to the jurisdiction of any agency or authority under paragraphs (1) through (6) of this subsection.
+(b) ENFORCEMENT OF SECTION 501.—
+(1) IN GENERAL.—Except as provided in paragraph (2), the agencies and authorities described in subsection (a) shall implement the standards prescribed under section 501(b) in the same manner, to the extent practicable, as standards prescribed pursuant to section 39(a) of the Federal Deposit Insurance Act are implemented pursuant to such section.
+(2) EXCEPTION.—The agencies and authorities described in paragraphs (3), (4), (5), (6), and (7) of subsection (a) shall implement the standards prescribed under section 501(b) by rule with respect to the financial institutions and other persons subject to their respective jurisdictions under subsection (a).
+(c) ABSENCE OF STATE ACTION.—If a State insurance authority fails to adopt regulations to carry out this subtitle, such State shall not be eligible to override, pursuant to section 47(g)(2)(B)(iii) of the Federal Deposit Insurance Act, the insurance customer protection regulations prescribed by a Federal banking agency under section 47(a) of such Act.
+(d) DEFINITIONS.—The terms used in subsection (a)(1) that are not defined in this subtitle or otherwise defined in section 3(s) of the Federal Deposit Insurance Act shall have the same meaning as given in section 1(b) of the International Banking Act of 1978.
+
+SEC. 506. PROTECTION OF FAIR CREDIT REPORTING ACT.
+
+(a) AMENDMENT.—Section 621 of the Fair Credit Reporting Act (15 U.S.C. 1681s) is amended—
+(1) in subsection (d), by striking everything following the end of the second sentence; and
+(2) by striking subsection (e) and inserting the following:
+“(e) REGULATORY AUTHORITY.—
+“(1) The Federal banking agencies referred to in paragraphs (1) and (2) of subsection (b) shall jointly prescribe such regulations as necessary to carry out the purposes of this Act with respect to any persons identified under paragraphs (1) and (2) of subsection (b), and the Board of Governors of the Federal Reserve System shall have authority to prescribe regulations consistent with such joint regulations with respect to bank

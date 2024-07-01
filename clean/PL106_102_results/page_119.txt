@@ -1,0 +1,30 @@
+PUBLIC LAW 106-102—NOV. 12, 1999
+
+Federal Housing Enterprises Financial Safety and Soundness Act of 1992, the Federal National Mortgage Association Charter Act, or the Federal Home Loan Mortgage Corporation Act with respect to the Federal housing enterprises under subtitle C (other than section 1371) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992.
+ “(6) To address any insufficiencies in capital levels resulting from the application of section 5(f) of the Home Owners’ Loan Act.
+ “(7) To act in its own name and through its own attorneys—
+ ‘‘(A) In enforcing any provision of this Act or any regulation promulgated under this Act; or
+ ‘‘(B) In any action, suit, or proceeding to which the Finance Board is a party that involves the Board’s regulation or supervision of any Federal home loan bank.”
+ (2) TECHNICAL AMENDMENT.—Section 111 of Public Law 93–495 (12 U.S.C. 250) is amended by striking ‘‘Federal Home Loan Bank Board,’’ and inserting ‘‘Director of the Office of Thrift Supervision, the Federal Housing Finance Board,’’.
+ (f) ELIGIBILITY TO SECURE ADVANCES.—
+ (1) SECTION 9.—Section 9 of the Federal Home Loan Bank Act (12 U.S.C. 1429) is amended—
+ (A) in the second sentence, by striking ‘‘with the approval of the Board’’; and
+ (B) in the third sentence, by striking ‘‘, subject to the approval of the Board,’’.
+ (2) SECTION 10.—Section 10 of the Federal Home Loan Bank Act (12 U.S.C. 1430) is amended—
+ (A) in subsection (c)—
+ (i) in the first sentence, by striking ‘‘Board’’ and inserting ‘‘Federal home loan bank’’; and
+(ii) by striking the second sentence; and
+(B) in subsection (d)—
+(i) in the first sentence, by striking ‘‘and the approval of the Board’’; and
+(ii) by striking ‘‘Subject to the approval of the Board,’’ and inserting ‘‘Any’’.
+(3) SECTION 16.—Section 16(a) of the Federal Home Loan Bank Act (12 U.S.C. 1436(a)) is amended—
+(1) in the third sentence—
+(A) by striking ‘‘net earnings’’ and inserting ‘‘previously retained earnings or current net earnings’’; and
+(B) by striking ‘‘, and then only with the approval of the Federal Housing Finance Board,’’; and
+(2) by striking the fourth sentence.
+(4) SECTION 18.—Section 18(b) of the Federal Home Loan Bank Act (12 U.S.C. 1438(b)) is amended by striking paragraph (4).
+
+SEC. 607. RESOLUTION FUNDING CORPORATION.
+(a) IN GENERAL.—Section 21B(f)(2)(C) of the Federal Home Loan Bank Act (12 U.S.C. 1441b(f)(2)(C)) is amended to read as follows:
+ ‘‘(C) PAYMENTS BY FEDERAL HOME LOAN BANKS.—
+‘‘(i) IN GENERAL.—To the extent that the amounts available pursuant to subparagraphs (A) and (B) are insufficient to cover the amount of interest payments, each Federal home loan bank shall pay to the Funding

@@ -1,0 +1,23 @@
+PUBLIC LAW 115–174—MAY 24, 2018                     132 STAT. 1337
+
+24(f)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78x(f)(4)); and
+    (B) the term “transfer agent” has the meaning given the term in section 3(a) of the Securities Exchange Act  of 1934 (15 U.S.C. 78c(a)).
+(2) IMMUNITY FROM SUIT.—
+    (A) IMMUNITY FOR INDIVIDUALS.—An individual who has received the training described in subsection (b) shall not be liable, including in any civil or administrative proceeding, for disclosing the suspected exploitation of a senior citizen to a covered agency if the individual, at the time of the disclosure—
+        (i) served as a supervisor or in a compliance or legal function (including as a Bank Secrecy Act officer) for, or, in the case of a registered representative, investment adviser representative, or insurance producer, was affiliated or associated with, a covered financial institution; and
+        (ii) made the disclosure—
+            (I) in good faith; and
+            (II) with reasonable care.
+    (B) IMMUNITY FOR COVERED FINANCIAL INSTITUTIONS.—
+A covered financial institution shall not be liable, including in any civil or administrative proceeding, for a disclosure made by an individual described in subparagraph (A) if—
+        (i) the individual was employed by, or, in the case of a registered representative, insurance producer, or investment adviser representative, affiliated or associated with, the covered financial institution at the time of the disclosure; and
+        (ii) before the time of the disclosure, each individual described in subsection (b)(1) received the training described in subsection (b).
+    (C) RULE OF CONSTRUCTION.—Nothing in subparagraph 
+(A) or (B) shall be construed to limit the liability of an individual or a covered financial institution in a civil action for any act, omission, or fraud that is not a disclosure described in subparagraph (A).
+(b) TRAINING.—
+    (1) IN GENERAL.—A covered financial institution or a third party selected by a covered financial institution may provide the training described in paragraph (2)(A) to each officer or employee of, or registered representative, insurance producer, or investment adviser representative affiliated or associated with, the covered financial institution who—
+        (A) is described in subsection (a)(2)(A)(i);
+        (B) may come into contact with a senior citizen as a regular part of the professional duties of the individual; or
+        (C) may review or approve the financial documents, records, or transactions of a senior citizen in connection with providing financial services to a senior citizen.
+    (2) CONTENT.—
+        (A) IN GENERAL.—The content of the training that a covered financial institution or a third party selected by the covered financial institution may provide under paragraph (1) shall—

@@ -1,0 +1,25 @@
+PUBLIC LAW 115–174—MAY 24, 2018 132 STAT. 1307
+
+(2) establish procedures for treatment of a qualifying community bank that has a Community Bank Leverage Ratio that falls below the percentage developed under paragraph (1) after exceeding the percentage developed under paragraph (1).
+(c) CAPITAL COMPLIANCE.—
+(1) IN GENERAL.—Any qualifying community bank that exceeds the Community Bank Leverage Ratio developed under subsection (b)(1) shall be considered to have met—
+(A) the generally applicable leverage capital requirements and the generally applicable risk-based capital requirements;
+(B) in the case of a qualifying community bank that is a depository institution, the capital ratio requirements that are required in order to be considered well capitalized under section 38 of the Federal Deposit Insurance Act (12 U.S.C. 1831o) and any regulation implementing that section; and
+(C) any other capital or leverage requirements to which the qualifying community bank is subject.
+(2) EXISTING AUTHORITIES.—Nothing in paragraph (1) shall limit the authority of the appropriate Federal banking agencies as in effect on the date of enactment of this Act.
+(d) CONSULTATION.—The appropriate Federal banking agencies shall—
+(1) consult with the applicable State bank supervisors in carrying out this section; and
+(2) notify the applicable State bank supervisor of any qualifying community bank that it supervises that exceeds, or does not exceed after previously exceeding, the Community Bank Leverage ratio developed under subsection (b)(1).
+Notification.
+
+SEC. 202. LIMITED EXCEPTION FOR RECIPROCAL DEPOSITS. 
+
+(a) IN GENERAL.—Section 29 of the Federal Deposit Insurance Act (12 U.S.C. 1831f) is amended by adding at the end the following:
+‘‘(i) LIMITED EXCEPTION FOR RECIPROCAL DEPOSITS.—
+‘‘(1) IN GENERAL.—Reciprocal deposits of an agent institution shall not be considered to be funds obtained, directly or indirectly, by or through a deposit broker to the extent that the total amount of such reciprocal deposits does not exceed the lesser of—
+‘‘(A) $5,000,000,000; or
+‘‘(B) an amount equal to 20 percent of the total liabilities of the agent institution.
+‘‘(2) DEFINITIONS.—In this subsection:
+‘‘(A) AGENT INSTITUTION.—The term ‘agent institution’ means an insured depository institution that places a covered deposit through a deposit placement network at other insured depository institutions in amounts that are less than or equal to the standard maximum deposit insurance amount, specifying the interest rate to be paid for such amounts, if the insured depository institution—
+‘‘(i)(I) when most recently examined under section 10(d) was found to have a composite condition of outstanding or good; and
+‘‘(II) is well capitalized;

@@ -1,0 +1,18 @@
+113 STAT. 1456              PUBLIC LAW 106–102—NOV. 12, 1999
+
+Corporation in each calendar year, 20.0 percent of the net earnings of that Bank (after deducting expenses relating to section 10(i) and operating expenses).
+‘‘(ii) ANNUAL DETERMINATION.—The Board annually shall determine the extent to which the value of the aggregate amounts paid by the Federal home loan banks exceeds or falls short of the value of an annuity of $300,000,000 per year that commences on the issuance date and ends on the final scheduled maturity date of the obligations, and shall select appropriate present value factors for making such determinations, in consultation with the Secretary of the Treasury.
+‘‘(iii) PAYMENT TERM ALTERATIONS.—The Board shall extend or shorten the term of the payment obligations of a Federal home loan bank under this subparagraph as necessary to ensure that the value of all payments made by the Banks is equivalent to the value of an annuity referred to in clause (ii).
+‘‘(iv) TERM BEYOND MATURITY.—If the Board extends the term of payment obligations beyond the final scheduled maturity date for the obligations, each Federal home loan bank shall continue to pay 20.0 percent of its net earnings (after deducting expenses relating to section 10(j) and operating expenses) to the Treasury of the United States until the value of all such payments by the Federal home loan banks is equivalent to the value of an annuity referred to in clause (ii). In the final year in which the Federal home loan banks are required to make any payment to the Treasury under this subparagraph, if the dollar amount represented by 20.0 percent of the net earnings of the Federal home loan banks exceeds the remaining obligation of the Banks to the Treasury, the Finance Board shall reduce the percentage of earnings to a level sufficient to pay the remaining obligation.’’.
+
+(b) EFFECTIVE DATE.—The amendment made by subsection (a) shall become effective on January 1, 2000. Payments made by a Federal home loan bank before that effective date shall be counted toward the total obligation of that Bank under section 21B(f)(2)(C) of the Federal Home Loan Bank Act, as amended by this section.
+
+SEC. 608. CAPITAL STRUCTURE OF FEDERAL HOME LOAN BANKS.
+
+Section 6 of the Federal Home Loan Bank Act (12 U.S.C. 1426) is amended to read as follows:
+
+‘‘SEC. 6. CAPITAL STRUCTURE OF FEDERAL HOME LOAN BANKS.
+  ‘‘(a) REGULATIONS.—
+  ‘‘(1) CAPITAL STANDARDS.—Not later than 1 year after the date of the enactment of the Federal Home Loan Bank System Modernization Act of 1999, the Finance Board shall issue regulations prescribing uniform capital standards applicable to each Federal home loan bank, which shall require each such bank to meet—
+  ‘‘(A) the leverage requirement specified in paragraph (2); and
+  ‘‘(B) the risk-based capital requirements, in accordance with paragraph (3).

@@ -1,0 +1,16 @@
+PUBLIC LAW 115-174—MAY 24, 2018
+132 STAT. 1315
+‘‘(IV) provide that in the event of substantial noncompliance by the small public housing agency under the agreement, the Secretary may—
+‘‘(aa) contract with another public housing agency or a private entity to manage the public housing of the troubled small public housing agency;
+‘‘(bb) withhold funds otherwise distributable to the troubled small public housing agency;
+‘‘(cc) assume possession of, and direct responsibility for, managing the public housing of the troubled small public housing agency;
+‘‘(dd) petition for the appointment of a receiver, in accordance with section 6(j)(3)(A)(ii); and
+‘‘(ee) exercise any other remedy available to the Secretary in the event of default under the public housing annual contributions contract entered into by the small public housing agency under section 5.
+‘‘(E) EMERGENCY ACTIONS.—Nothing in this paragraph may be construed to prohibit the Secretary from taking any emergency action necessary to protect Federal financial resources or the health or safety of residents of public housing projects.
+‘‘(d) REDUCTION OF ADMINISTRATIVE BURDENS.—
+‘‘(1) EXEMPTION.—Notwithstanding any other provision of law, a small public housing agency shall be exempt from any environmental review requirements with respect to a development or modernization project having a total cost of not more than $100,000.
+‘‘(2) STREAMLINED PROCEDURES.—The Secretary shall, by rule, establish streamlined procedures for environmental reviews of small public housing agency development and modernization projects having a total cost of more than $100,000.’’.
+(b) ENERGY CONSERVATION.—Section 9(e)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437g(e)(2)) is amended by adding at the end the following:
+‘‘(D) FREEZE OF CONSUMPTION LEVELS.—
+‘‘(i) IN GENERAL.—A small public housing agency, as defined in section 38(a), may elect to be paid for its utility and waste management costs under the formula for a period, at the discretion of the small public housing agency, of not more than 20 years based on the small public housing agency’s average annual consumption during the 3-year period preceding the year in which the election is made (in this subparagraph referred to as the ‘consumption base level’).
+‘‘(ii) INITIAL ADJUSTMENT IN CONSUMPTION BASE LEVEL.—The Secretary shall make an initial one-time adjustment in the consumption base level to account for differences in the heating degree day average over the most recent 20-year period compared to the average in the consumption base level.

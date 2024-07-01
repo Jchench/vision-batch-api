@@ -1,0 +1,31 @@
+132 STAT. 1310
+
+PUBLIC LAW 115-174—MAY 24, 2018
+
+company for purposes of section 8 of the International Banking Act of 1978 (12 U.S.C. 3106); and
+‘‘(III) such name does not contain the word ‘bank’ ’’; and
+(2) in subsection (h)(5)(C), by inserting before the period the following: ‘‘, except as permitted under subsection (d)(1)(G)(vi)’’.
+
+SEC. 205. SHORT FORM CALL REPORTS.
+Section 7(a) of the Federal Deposit Insurance Act (12 U.S.C. 1817(a)) is amended by adding at the end the following:
+
+‘‘(12) SHORT FORM REPORTING.—
+‘‘(A) IN GENERAL.—The appropriate Federal banking agencies shall issue regulations that allow for a reduced reporting requirement for a covered depository institution when the institution makes the first and third report of condition for a year, as required under paragraph (3).
+‘‘(B) DEFINITION.—In this paragraph, the term ‘covered depository institution’ means an insured depository institution that—
+‘‘(i) has less than $5,000,000,000 in total consolidated assets; and
+‘‘(ii) satisfies such other criteria as the appropriate Federal banking agencies determine appropriate.’’.
+
+SEC. 206. OPTION FOR FEDERAL SAVINGS ASSOCIATIONS TO OPERATE AS COVERED SAVINGS ASSOCIATIONS.
+The Home Owners’ Loan Act (12 U.S.C. 1461 et seq.) is amended by inserting after section 5 (12 U.S.C. 1464) the following:
+
+‘‘SEC. 5A. ELECTION TO OPERATE AS A COVERED SAVINGS ASSOCIA-
+TION.
+
+12 USC 1464a.
+
+‘‘(a) DEFINITION.—In this section, the term ‘covered savings association’ means a Federal savings association that makes an election that is approved under subsection (b).
+‘‘(b) ELECTION.—
+‘‘(1) IN GENERAL.—In accordance with the rules issued under subsection (f), a Federal savings association with total consolidated assets equal to or less than $20,000,000,000, as reported by the association to the Comptroller as of December 31, 2017, may elect to operate as a covered savings association by submitting a notice to the Comptroller of that election.
+‘‘(2) APPROVAL.—A Federal savings association shall be deemed to be approved to operate as a covered savings association beginning on the date that is 60 days after the date on which the Comptroller receives the notice submitted under paragraph (1), unless the Comptroller notifies the Federal savings association that the Federal savings association is not eligible.
+‘‘(c) RIGHTS AND DUTIES.—Notwithstanding any other provision of law, and except as otherwise provided in this section, a covered savings association shall—
+‘‘(1) have the same rights and privileges as a national bank that has the main office of the national bank situated in the same location as the home office of the covered savings association; and

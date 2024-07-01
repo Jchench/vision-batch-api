@@ -1,0 +1,27 @@
+PUBLIC LAW 106–102—NOV. 12, 1999                          113 STAT. 1439
+
+authorities having jurisdiction over the financial institution for examination, compliance, or other purposes as authorized by law.
+
+SEC. 503. DISCLOSURE OF INSTITUTION PRIVACY POLICY.
+15 USC 6803.
+
+(a) DISCLOSURE REQUIRED.—At the time of establishing a customer relationship with a consumer and not less than annually during the continuation of such relationship, a financial institution shall provide a clear and conspicuous disclosure to such consumer, in writing or in electronic form or other form permitted by the regulations prescribed under section 504, of such financial institution’s policies and practices with respect to—
+(1) disclosing nonpublic personal information to affiliates and nonaffiliated third parties, consistent with section 502, including the categories of information that may be disclosed;
+(2) disclosing nonpublic personal information of persons who have ceased to be customers of the financial institution; and
+(3) protecting the nonpublic personal information of consumers.
+Such disclosures shall be made in accordance with the regulations prescribed under section 504.
+
+(b) INFORMATION TO BE INCLUDED.—The disclosure required by subsection (a) shall include—
+(1) the policies and practices of the institution with respect to disclosing nonpublic personal information to nonaffiliated third parties, other than agents of the institution, consistent with section 502 of this subtitle, and including—
+(A) the categories of persons to whom the information is or may be disclosed, other than the persons to whom the information may be provided pursuant to section 502(e); and
+(B) the policies and practices of the institution with respect to disclosing of nonpublic personal information of persons who have ceased to be customers of the financial institution;
+(2) the categories of nonpublic personal information that are collected by the financial institution;
+(3) the policies that the institution maintains to protect the confidentiality and security of nonpublic personal information in accordance with section 501; and
+(4) the disclosures required, if any, under section 603(d)(2)(A)(iii) of the Fair Credit Reporting Act.
+
+SEC. 504. RULEMAKING.
+15 USC 6804.
+
+(a) REGULATORY AUTHORITY.—
+(1) RULEMAKING.—The Federal banking agencies, the National Credit Union Administration, the Secretary of the Treasury, the Securities and Exchange Commission, and the Federal Trade Commission shall each prescribe, after consultation as appropriate with representatives of State insurance authorities designated by the National Association of Insurance Commissioners, such regulations as may be necessary to carry out the purposes of this subtitle with respect to the financial institutions subject to their jurisdiction under section 505.
+(2) COORDINATION, CONSISTENCY, AND COMPARABILITY.—Each of the agencies and authorities required under paragraph (1) to prescribe regulations shall consult and coordinate with

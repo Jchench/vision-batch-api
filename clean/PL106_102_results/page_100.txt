@@ -1,0 +1,24 @@
+113 STAT. 1436                PUBLIC LAW 106-102—NOV. 12, 1999
+
+respect to any trust that becomes a savings and loan holding company with respect to a savings association, if—
+    “(i) not less than 85 percent of the beneficial ownership interests in the trust are continuously owned, directly or indirectly, by or for the benefit of members of the same family, or their spouses, who are lineal descendants of common ancestors who controlled, directly or indirectly, such savings association on May 4, 1999, or a subsequent date, pursuant to an application pending before the Office on or before May 4, 1999; and
+    “(ii) at the time at which such trust becomes a savings and loan holding company, such ancestors or lineal descendants, or spouses of such descendants, have directly or indirectly controlled the savings association continuously since May 4, 1999, or a subsequent date, pursuant to an application pending before the Office on or before May 4, 1999.” 
+
+(b) CONFORMING AMENDMENT.—Section 10(o)(5)(E) of the Home Owners’ Loan Act (12 U.S.C. 1467a(o)(5)(E)) is amended by striking “, except subparagraph (B)” and inserting “or (c)(9)(A)(ii)”.
+
+(c) RULE OF CONSTRUCTION FOR CERTAIN APPLICATIONS.—
+    (1) IN GENERAL.—In the case of a company that—
+        (A) submits an application with the Director of the Office of Thrift Supervision before the date of the enactment of this Act to convert a State-chartered trust company controlled by such company on May 4, 1999, to a savings association; and
+        (B) controlled a subsidiary on May 4, 1999, that had submitted an application to the Director on September 2, 1998;
+the company (including any subsidiary controlled by such company as of such date of enactment) shall be treated as having filed such conversion application with the Director before May 4, 1999, for purposes of section 10(c)(9)(C) of the Home Owners’ Loan Act (as added by subsection (a)).
+    (2) DEFINITIONS.— For purposes of paragraph (1), the terms “company”, “control”, “savings association”, and “subsidiary” have the meanings given those terms in section 10 of the Home Owners’ Loan Act.
+
+                             TITLE V—PRIVACY
+
+      Subtitle A—Disclosure of Nonpublic Personal Information
+
+15 USC 6801. 
+
+SEC. 501. PROTECTION OF NONPUBLIC PERSONAL INFORMATION.
+(a) PRIVACY OBLIGATION POLICY.—It is the policy of the Congress that each financial institution has an affirmative and continuing obligation to respect the privacy of its customers and to protect the security and confidentiality of those customers’ nonpublic personal information.
+(b) FINANCIAL INSTITUTIONS SAFEGUARDS.—In furtherance of the policy in subsection (a), each agency or authority described

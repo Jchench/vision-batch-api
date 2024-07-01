@@ -1,0 +1,18 @@
+PUBLIC LAW 115-174—MAY 24, 2018 132 STAT. 1363
+
+(b) CREDIT FOR OVERPAYMENT OF FEES.—Notwithstanding section 31(j) of the Securities Exchange Act of 1934 (15 U.S.C. 78ee(j)), and subject to subsection (c) of this section, if a national securities exchange or a national securities association has paid fees and assessments to the Commission in an amount that is more than the amount that the exchange or association was required to pay under section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee) and, not later than 10 years after the date of such payment, the exchange or association informs the Commission about the payment of such excess amount, the Commission shall offset future fee and assessments due by that exchange or association in an amount that is equal to the difference between the amount that the exchange or association paid and the amount that the exchange or association was required to pay under such section 31.
+(c) APPLICABILITY.—Subsection (b) shall apply only to fees and assessments that a national securities exchange or a national securities association was required to pay to the Commission before the date of enactment of this Act.
+
+SEC. 506. U.S. TERRITORIES INVESTOR PROTECTION.
+
+(a) IN GENERAL.—Section 6(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–6(a)) is amended—
+(1) by striking paragraph (1); and
+(2) by redesignating paragraphs (2) through (5) as paragraphs (1) through (4), respectively.
+(b) EFFECTIVE DATE AND SAFE HARBOR.—
+(1) EFFECTIVE DATE.—Except as provided in paragraph (2), the amendment made by subsection (a) shall take effect on the date of enactment of this Act.
+(2) SAFE HARBOR.—With respect to a company that is exempt under section 6(a)(1) of the Investment Company Act of 1940 (15 U.S.C. 80a–6(a)(1)) on the day before the date of enactment of this Act, the amendment made by subsection (a) shall take effect on the date that is 3 years after the date of enactment of this act.
+(3) EXTENSION OF SAFE HARBOR.—The Securities and Exchange Commission, by rule or regulation upon its own motion, or by order upon application, may conditionally or unconditionally, under section 6(c) of the Investment Company Act of 1940 (15 U.S.C. 80a–6(c)), further delay the effective date for a company described in paragraph (2) for a maximum of 3 years following the initial 3-year period if, before the end of the initial 3-year period, the Commission determines that such a rule, regulation, motion, or order is necessary or appropriate in the public interest and for the protection of investors.
+
+SEC. 507. ENCOURAGING EMPLOYEE OWNERSHIP.
+
+Not later than 60 days after the date of the enactment of this Act, the Securities and Exchange Commission shall revise section 230.701(e) of title 17, Code of Federal Regulations, so as to increase from $5,000,000 to $10,000,000 the aggregate sales price or amount of securities sold during any consecutive 12-month period in excess of which the issuer is required under such section to deliver an additional disclosure to investors. The Commission shall index for inflation such aggregate sales price or amount every 5 years to reflect the change in the Consumer Price Index for

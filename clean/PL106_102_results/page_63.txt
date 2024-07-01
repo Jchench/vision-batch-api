@@ -1,0 +1,18 @@
+PUBLIC LAW 106–102—NOV. 12, 1999
+
+113 STAT. 1399
+
+investment in the company is not insured by the Federal Deposit Insurance Corporation or any other government agency. The Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in section 3 of the Federal Deposit Insurance Act), adopt rules and regulations, and issue orders, consistent with the protection of investors, prescribing the manner in which the disclosure under this paragraph shall be provided.
+“(3) DEFINITIONS.—The terms ‘insured depository institution’ and ‘appropriate Federal banking agency’ have the same meanings as given in section 3 of the Federal Deposit Insurance Act.”.
+SEC. 215. DEFINITION OF BROKER UNDER THE INVESTMENT COMPANY ACT OF 1940.
+Section 2(a)(6) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a)(6)) is amended to read as follows:
+“(6) The term ‘broker’ has the same meaning as given in section 3 of the Securities Exchange Act of 1934, except that such term does not include any person solely by reason of the fact that such person is an underwriter for one or more investment companies.”.
+SEC. 216. DEFINITION OF DEALER UNDER THE INVESTMENT COMPANY ACT OF 1940.
+Section 2(a)(11) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a)(11)) is amended to read as follows:
+“(11) The term ‘dealer’ has the same meaning as given in the Securities Exchange Act of 1934, but does not include an insurance company or investment company.”.
+SEC. 217. REMOVAL OF THE EXCLUSION FROM THE DEFINITION OF INVESTMENT ADVISER FOR BANKS THAT ADVISE INVESTMENT COMPANIES.
+(a) INVESTMENT ADVISER.—Section 202(a)(11)(A) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(11)(A)) is amended by striking “investment company” and inserting “investment company, except that the term ‘investment adviser’ includes any bank or bank holding company to the extent that such bank or bank holding company serves or acts as an investment adviser to a registered investment company, but if, in the case of a bank, such services or actions are performed through a separately identifiable department or division, the department or division, and not the bank itself, shall be deemed to be the investment adviser”.
+(b) SEPARATELY IDENTIFIABLE DEPARTMENT OR DIVISION.—Section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)) is amended by adding at the end the following:
+“(26) The term ‘separately identifiable department or division’ of a bank means a unit—
+“(A) that is under the direct supervision of an officer or officers designated by the board of directors of the bank as responsible for the day-to-day conduct of the bank’s investment adviser activities for one or more investment companies, including the supervision of all bank employees engaged in the performance of such activities; and
+“(B) for which all of the records relating to its investment adviser activities are separately maintained or are extractable from such unit’s own facilities or the facilities

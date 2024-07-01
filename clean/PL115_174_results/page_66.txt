@@ -1,0 +1,22 @@
+132 STAT. 1360        PUBLIC LAW 115–174—MAY 24, 2018
+
+    (C) central banks of member countries of the Organisation for Economic Co-operation and Development, if—
+        (i) the member country has been assigned a zero percent risk weight under sections 3.32, 217.32, and 324.32 of title 12, Code of Federal Regulations, or any successor regulation; and 
+        (ii) the sovereign debt of such member country is not in default or has not been in default during the previous 5 years. 
+(2) REGULATIONS.—The appropriate Federal banking agencies shall promulgate regulations to amend sections 3.10, 217.10, and 324.10 of title 12, Code of Federal Regulations, to specify that—
+    (A) subject to subparagraph (B), funds of a custodial bank that are deposited with a central bank shall not be taken into account when calculating the supplementary leverage ratio as applied to the custodial bank; and
+    (B) with respect to the funds described in subparagraph (A), any amount that exceeds the total value of deposits of the custodial bank that are linked to fiduciary or custodial and safekeeping accounts shall be taken into account when calculating the supplementary leverage ratio as applied to the custodial bank. 
+(b) RULE OF CONSTRUCTION.—Nothing in subsection (b) shall be construed to limit the authority of the appropriate Federal banking agencies to tailor or adjust the supplementary lesser ratio or any other leverage ratio for any company that is not a custodial bank.
+
+SEC. 403. TREATMENT OF CERTAIN MUNICIPAL OBLIGATIONS.
+(a) IN GENERAL.—Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828) is amended—
+(1) by moving subsection (z) so that it appears after subsection (y); and 
+(2) by adding at the end the following: 
+    “(aa) TREATMENT OF CERTAIN MUNICIPAL OBLIGATIONS.—
+        “(1) DEFINITIONS.—In this subsection—
+            “(A) the term ‘investment grade’, with respect to an obligation, has the meaning given the term in section 1.2 of title 12, Code of Federal Regulations, or any successor thereto;
+            “(B) the term ‘liquid and readily-marketable’ has the meaning given the term in section 249.3 of title 12, Code of Federal Regulations, or any successor thereto; and
+            “(C) the term ‘municipal obligation’ means an obligation of—
+                “(i) a State or any political subdivision thereof; or    
+                “(ii) any agency or instrumentality of a State or any political subdivision thereof.
+        “(2) MUNICIPAL OBLIGATIONS.—For purposes of the final rule entitled ‘Liquidity Coverage Ratio: Liquidity Risk Measurement Standards’ (79 Fed. Reg. 61439 (October 10, 2014), the final rule entitled ‘Liquidity Coverage Ratio: Treatment of U.S. Municipal Securities as High-Quality Liquid Assets’ (81 Fed. Reg. 21223 (April 11, 2016)), and any other regulation that

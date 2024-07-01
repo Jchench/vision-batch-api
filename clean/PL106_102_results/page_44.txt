@@ -1,0 +1,69 @@
+113 STAT. 1380     PUBLIC LAW 106-102—NOV. 12, 1999
+
+
+    (3) RULEMAKING REQUIRED CONCERNING DERIVATIVE TRANS-
+ ACTIONS AND INTRADAY CREDIT.—Section 23A(f) of the Federal
+ Reserve Act (12 U.S.C. 371c(f)) (as so redesignated by paragraph
+ (1)(A)) of this subsection) is amended by inserting at the end
+ the following new paragraph:
+
+
+    Deadline.
+
+     ‘‘(3) RULEMAKING REQUIRED CONCERNING DERIVATIVE
+  TRANSACTIONS AND INTRADAY CREDIT. —
+     ‘‘(A) IN GENERAL. —Not later than 18 months after the
+ date of the enactment of the Gramm-Leach-Bliley Act, the
+ Board shall adopt final rules under this section to address
+ as covered transactions credit exposure arising out of
+ derivative transactions between member banks and their
+ affiliates and intraday extensions of credit by member
+ banks to their affiliates.
+     ‘‘(B) EFFECTIVE DATE. —The effective date of any final
+ rule adopted by the Board pursuant to subparagraph (A)
+ shall be delayed for such period as the Board deems nec-
+ essary or appropriate to permit banks to conform their
+ activities to the requirements of the final rule without
+ undue hardship.’’.
+
+     (C) AMTINITY.—Section 106(a) of the Bank Holding Company
+ Act Amendments of 1970 (12 U.S.C. 1971) is amended by adding
+ at the end the following: ‘‘For purposes of this section, a financial
+ subsidiary of a national bank engaging in activities pursuant to
+ section 5136A(a) of the Revised Statutes of the United States shall
+ be deemed to be a subsidiary of a bank holding company, and
+ not a subsidiary of a bank.’’.
+     (d) SAFETY AND SOUNDNESS FIREWALLS FOR STATE BANKS WITH
+ FINANCIAL SUBSIDIARIES.—
+
+     (1) FEDERAL DEPOSIT INSURANCE ACT. —The Federal Deposit 
+ Insurance Act (12 U.S.C. 1811 et seq.) is amended by inserting 
+ after section 45 (as added by section 121(b) of this title) the 
+ following new section:
+
+
+12 USC 1831w.
+
+ ‘‘SEC. 46. SAFETY AND SOUNDNESS FIREWALLS APPLICABLE TO
+     FINANCIAL SUBSIDIARIES OF BANKS.
+    ‘‘(a) IN GENERAL. —An insured State bank may control or hold
+ an interest in a subsidiary that engages in activities as principal
+ that would only be permissible for a national bank to conduct
+ through a financial subsidiary if—
+     ‘‘(1) the State bank and each insured depository institution
+ affiliate of the State bank are well capitalized (after the capital
+ deduction required by paragraph (2));
+     ‘‘(2) the State bank complies with the capital deduction
+ and financial statement disclosure requirements in section
+ 5136A(c) of the Revised Statutes of the United States;
+     ‘‘(3) the State bank complies with the financial and oper-
+ ational safeguards required by section 5136A(d) of the Revised
+ Statutes of the United States; and
+     ‘‘(4) the state bank complies with the amendments to sec-
+ tions 23A and 23B of the Federal Reserve Act made by section
+ 121(b) of the Gramm-Leach-Bliley Act.
+    ‘‘(b) PRESERVATION OF EXISTING SUBSIDIARIES. —Notwith-
+ standing subsection (a), an insured State bank may retain control
+ of a subsidiary, or retain an interest in a subsidiary, that the
+ State bank lawfully controlled or acquired before the date of the
+ enactment of the Gramm-Leach-Bliley Act, and conduct through

@@ -1,0 +1,20 @@
+PUBLIC LAW 106-102—NOV. 12, 1999
+
+113 STAT. 1383
+
+SEC. 133. CLARIFICATION OF STATUS OF SUBSIDIARIES AND AFFILIATES.
+
+(a) CLARIFICATION OF FEDERAL TRADE COMMISSION JURISDICTION.—Any person that directly or indirectly controls, is controlled directly or indirectly by, or is directly or indirectly under common control with, any bank or savings association (as such terms are defined in section 3 of the Federal Deposit Insurance Act) and is not itself a bank or savings association shall not be deemed to be a bank or savings association for purposes of any provision applied by the Federal Trade Commission under the Federal Trade Commission Act.
+(b) SAVINGS PROVISION.—No provision of this section shall be construed as restricting the authority of any Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act) under any Federal banking law, including section 8 of the Federal Deposit Insurance Act.
+(c) HART-SCOTT-RODINO AMENDMENTS.— 
+(1) BANKS.—Section 7A(c)(7) of the Clayton Act (15 U.S.C. 18a(c)(7)) is amended by inserting before the semicolon at the end the following: ‘‘; except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 4(k) of the Bank Holding Company Act of 1956; and (B) does not require agency approval under section 3 of the Bank Holding Company Act of 1956’’.
+(2) BANK HOLDING COMPANIES.—Section 7A(c)(8) of the Clayton Act (15 U.S.C. 18a(c)(8)) is amended by inserting before the semicolon at the end the following: ‘‘; except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 4(k) of the Bank Holding Company Act of 1956; and (B) does not require agency approval under section 4 of the Bank Holding Company Act of 1956’’.
+
+Subtitle E—National Treatment
+
+SEC. 141. FOREIGN BANKS THAT ARE FINANCIAL HOLDING COMPANIES.
+
+Section 8(c) of the International Banking Act of 1978 (12 U.S.C. 3106(c)) is amended by adding at the end the following new paragraph:
+‘‘(3) TERMINATION OF GRANDFATHERED RIGHTS.— 
+‘‘(A) IN GENERAL.—If any foreign bank or foreign company files a declaration under section 4(l)(1)(C) of the Bank Holding Company Act of 1956, any authority conferred by this subsection on any foreign bank or company to engage in any activity that the Board has determined to be permissible for financial holding companies under section 4(k) of such Act shall terminate immediately.
+‘‘(B) RESTRICTIONS AND REQUIREMENTS AUTHORIZED.— If a foreign bank or company that engages, directly or through an affiliate pursuant to paragraph (1), in an activity that the Board has determined to be permissible for financial holding companies under section 4(k) of the Bank Holding Company Act of 1956 has not filed a declaration with the Board of its status as a financial holding company under such section by the end of the 2-year period

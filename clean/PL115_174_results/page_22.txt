@@ -1,0 +1,33 @@
+132 STAT. 1316
+
+PUBLIC LAW 115–174—MAY 24, 2018
+
+42 USC 1437k note.
+
+42 USC 1437g note.
+
+Deadline. Web posting. Guidance. 42 USC 1437d note.
+
+“(iii) ADJUSTMENTS IN CONSUMPTION BASE LEVEL.— The Secretary shall make adjustments in the consumption base level to account for an increase or reduction in units, a change in fuel source, a change in resident controlled electricity consumption, or for other reasons.
+“(iv) SAVINGS.—All cost savings resulting from an election made by a small public housing agency under this subparagraph—
+“(I) shall accrue to the small public housing agency; and
+“(II) may be used for any public housing purpose at the discretion of the small public housing agency.
+“(v) THIRD PARTIES.—A small public housing agency making an election under this subparagraph—
+“(I) may use, but shall not be required to use, the services of a third party in its energy conservation program; and
+“(II) shall have the sole discretion to determine the source, and terms and conditions, of any financing used for its energy conservation program.”.
+
+(c) REPORTING BY AGENCIES OPERATING IN CONSORTIA.—Not later than 180 days after the date of enactment of this Act, the Secretary of Housing and Urban Development shall develop and deploy all electronic information systems necessary to accommodate full consolidated reporting by public housing agencies, as directed in section 3(b)(6) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b)(6)), electing to operate in consortia under section 13(a) of such Act (42 U.S.C. 1437k(a)).
+(d) EFFECTIVE DATE.—The amendments made by subsections (a) and (b) shall take effect on the date that is 60 days after the date of enactment of this Act.
+(e) SHARED WAITING LISTS.—Not later than 1 year after the date of enactment of this Act, the Secretary of Housing and Urban Development shall make available to interested public housing agencies and owners of multifamily properties receiving assistance from the Department of Housing and Urban Development 1 or more software programs that will facilitate the voluntary use of shared waiting list by multiple public housing agencies or owners receiving assistance, and shall publish on the website of the Department of Housing and Urban Development procedural guidance for implementing shared waiting lists that includes information on how to obtain the software.
+
+SEC. 210. EXAMINATION CYCLE.
+
+Section 10(d) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)) is amended—
+(1) in paragraph (4)(A), by striking “$1,000,000,000” and inserting “$3,000,000,000”; and
+(2) in paragraph (10), by striking “$1,000,000,000” and inserting “$3,000,000,000”.
+
+31 USC 313 note.
+
+SEC. 211. INTERNATIONAL INSURANCE CAPITAL STANDARDS ACCOUNTABILITY.
+
+(a) FINDINGS.—Congress finds that—

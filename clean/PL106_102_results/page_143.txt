@@ -1,0 +1,33 @@
+PUBLIC LAW 106-102—NOV. 12, 1999
+
+(b) EMERGENCY OIL AND GAS LOAN GUARANTEE BOARD.—Section 201(d)(2) of the Emergency Oil and Gas Guarantee Loan Program Act is amended—
+    (1) in subparagraph (B), by inserting ‘‘, or a member of the Board of Governors of the Federal Reserve System designated by the Chairman’’ after ‘‘the Chairman of the Board of Governors of the Federal Reserve System’’; and
+    (2) in subparagraph (C), by inserting ‘‘, or a commissioner of the Securities and Exchange Commission designated by the Chairman’’ before the period.
+
+SEC. 735. REPEAL OF STOCK LOAN LIMIT IN FEDERAL RESERVE ACT.
+Section 11 of the Federal Reserve Act (12 U.S.C. 248) is amended by striking the paragraph designated as ‘‘(m)’’ and inserting ‘‘(m) [Repealed]’’.
+
+SEC. 736. ELIMINATION OF SAIF AND DIF SPECIAL RESERVES.
+(a) SAIF SPECIAL RESERVE.—Section 11(a)(6) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(6)) is amended by striking subparagraph (L).
+(b) DIF SPECIAL RESERVE.—Section 2704 of the Deposit Insurance Funds Act of 1996 (12 U.S.C. 1821 note) is amended—
+    (1) by striking subsection (b); and
+    (2) in subsection (d)—
+        (A) by striking paragraph (4);
+        (B) in paragraph (6)(C)(i), by striking ‘‘(6) and inserting ‘‘(5), (6), and (7)’’; and
+        (C) in paragraph (6)(C), by striking clause (ii) and inserting the following:
+            ‘‘(ii) by redesignating paragraph (8) as paragraph (7).’’
+
+(c) EFFECTIVE DATE.—This section and the amendments made by this section shall become effective on the date of the enactment of this Act.
+
+SEC. 737. BANK OFFICERS AND DIRECTORS AS OFFICERS AND DIRECTORS OF PUBLIC UTILITIES.
+Section 305(b) of the Federal Power Act (16 U.S.C. 825d(b)) is amended—
+    (1) by striking ‘‘(b) After six’’ and inserting the following:
+    ‘‘(b) INTERLOCKING DIRECTORATES.—
+        ‘‘(1) IN GENERAL.—After 6’’; and
+        (2) by adding at the end the following:
+            ‘‘(2) APPLICABILITY.—
+                ‘‘(A) IN GENERAL.—In the circumstances described in subparagraph (B), paragraph (1) shall not apply to a person that holds or proposes to hold the positions of—
+                    ‘‘(i) officer or director of a public utility; and
+                    ‘‘(ii) officer or director of a bank, trust company, banking association, or firm authorized by law to underwrite or participate in the marketing of securities of a public utility.
+                ‘‘(B) CIRCUMSTANCES.—The circumstances described in this subparagraph are that—
+                    ‘‘(i) a person described in subparagraph (A) does not participate in any deliberations or decisions of the public utility regarding the selection of a bank,

@@ -1,0 +1,25 @@
+PUBLIC LAW 115-174—MAY 24, 2018
+
+132 STAT. 1329
+
+‘‘(5) NOTICE OF RIGHTS.—At any time a consumer is required to receive a summary of rights required under section 609, the following notice shall be included:
+
+‘‘ 'CONSUMERS HAVE THE RIGHT TO OBTAIN A SECURITY FREEZE
+
+‘‘ 'You have a right to place a ‘‘security freeze’’ on your credit report, which will prohibit a consumer reporting agency from releasing information in your credit report without your express authorization. The security freeze is designed to prevent credit, loans, and services from being approved in your name without your consent. However, you should be aware that using a security freeze to take control over who gets access to the personal and financial information in your credit report may delay, interfere with, or prohibit the timely approval of any subsequent request or application you make regarding a new loan, credit, mortgage, or any other account involving the extension of credit.
+
+‘‘ 'As an alternative to a security freeze, you have the right to place an initial or extended fraud alert on your credit file at no cost. An initial fraud alert is a 1-year alert that is placed on a consumer’s credit file. Upon seeing a fraud alert display on a consumer’s credit file, a business is required to take steps to verify the consumer’s identity before extending new credit. If you are a victim of identity theft, you are entitled to an extended fraud alert, which is a fraud alert lasting 7 years.
+
+‘‘ 'A security freeze does not apply to a person or entity, or its affiliates, or collection agencies acting on behalf of the person or entity, with which you have an existing account that requests information in your credit report for the purposes of reviewing or collecting the account. Reviewing the account includes activities related to account maintenance, monitoring, credit line increases, and account upgrades and enhancements.’.
+
+‘‘(6) WEBPAGE.— ‘‘(A) CONSUMER REPORTING AGENCIES.—A consumer reporting agency shall establish a webpage that—
+‘‘(i) allows a consumer to request a security freeze;
+‘‘(ii) allows a consumer to request an initial fraud alert;
+‘‘(iii) allows a consumer to request an extended fraud alert;
+‘‘(iv) allows a consumer to request an active duty fraud alert;
+‘‘(v) allows a consumer to opt-out of the use of information in a consumer report to send the consumer a solicitation of credit or insurance, in accordance with section 615(d); and
+‘‘(vi) shall not be the only mechanism by which a consumer may request a security freeze.
+
+‘‘(B) FTC.—The Federal Trade Commission shall establish a single webpage that includes a link to each webpage established under subparagraph (A) within the Federal Trade Commission’s website www.Identitytheft.gov, or a successor website.
+
+‘‘(j) NATIONAL PROTECTION FOR FILES AND CREDIT RECORDS OF PROTECTED CONSUMERS.— ‘‘(1) DEFINITIONS.—As used in this subsection:

@@ -1,0 +1,21 @@
+113 STAT. 1442 PUBLIC LAW 106–102—NOV. 12, 1999
+
+holding companies and affiliates (other than depository institutions and consumer reporting agencies) of such holding companies.
+       ‘‘(2) The Board of the National Credit Union Administration shall prescribe such regulations as necessary to carry out the purposes of this Act with respect to any persons identified under paragraph (3) of subsection (b).’’.
+   (b) CONFORMING AMENDMENT.—Section 621(a) of the Fair Credit Reporting Act (15 U.S.C. 1681s(a)) is amended by striking paragraph (4).
+15 USC 6806.
+   (c) RELATION TO OTHER PROVISIONS.—Except for the amendments made by subsections (a) and (b), nothing in this title shall be construed to modify, limit, or supersede the operation of the Fair Credit Reporting Act, and no inference shall be drawn on the basis of the provisions of this title regarding whether information is transaction or experience information under section 603 of such Act.
+15 USC 6807.
+SEC. 507. RELATION TO STATE LAWS.
+   (a) IN GENERAL.—This subtitle and the amendments made by this subtitle shall not be construed as superseding, altering, or affecting any statute, regulation, order, or interpretation in effect in any State, except to the extent that such statute, regulation, order, or interpretation is inconsistent with the provisions of this subtitle, and then only to the extent of the inconsistency.
+   (b) GREATER PROTECTION UNDER STATE LAW.—For purposes of this section, a State statute, regulation, order, or interpretation is not inconsistent with the provisions of this subtitle if the protection such statute, regulation, order, or interpretation affords any person is greater than the protection provided under this subtitle and the amendments made by this subtitle, as determined by the Federal Trade Commission, after consultation with the agency or authority with jurisdiction under section 505(a) of either the person that initiated the complaint or that is the subject of the complaint, on its own motion or upon the petition of any interested party.
+15 USC 6808.
+SEC. 508. STUDY OF INFORMATION SHARING AMONG FINANCIAL AFFILIATES.
+   (a) IN GENERAL.—The Secretary of the Treasury, in conjunction with the Federal functional regulators and the Federal Trade Commission, shall conduct a study of information sharing practices among financial institutions and their affiliates. Such study shall include—
+       (1) the purposes for the sharing of confidential customer information with affiliates or with nonaffiliated third parties;
+       (2) the extent and adequacy of security protections for such information;
+       (3) the potential risks for customer privacy of such sharing of information;
+       (4) the potential benefits for financial institutions and affiliates of such sharing of information;
+       (5) the potential benefits for customers of such sharing of information;
+       (6) the adequacy of existing laws to protect customer privacy;
+       (7) the adequacy of financial institution privacy policy and privacy rights disclosure under existing law;

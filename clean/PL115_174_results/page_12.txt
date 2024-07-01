@@ -1,0 +1,24 @@
+132 STAT. 1306		PUBLIC LAW 115–174—MAY 24, 2018
+
+(2) the applicability of the TRID Rule to construction-to- permanent home loans, and the conditions under which those loans can be properly originated; and
+
+(3) the extent to which lenders can rely on model disclo- sures published by the Bureau of Consumer Financial Protec- tion without liability if recent changes to regulations are not reflected in the sample TRID Rule forms published by the Bureau of Consumer Financial Protection.
+
+TITLE II—REGULATORY RELIEF AND PROTECTING CONSUMER ACCESS TO CREDIT
+
+12 USC 5371 note.
+
+SEC. 201. CAPITAL SIMPLIFICATION FOR QUALIFYING COMMUNITY BANKS.
+
+(a) DEFINITIONS.—In this section:
+(1) COMMUNITY BANK LEVERAGE RATIO.—The term ‘‘Commu- nity Bank Leverage Ratio’’ means the ratio of the tangible equity capital of a qualifying community bank, as reported on the qualifying community bank’s applicable regulatory filing with the qualifying community bank’s appropriate Federal banking agency, to the average total consolidated assets of the qualifying community bank, as reported on the qualifying community bank’s applicable regulatory filing with the qualify- ing community bank’s appropriate Federal banking agency.
+(2) GENERALLY APPLICABLE LEVERAGE CAPITAL REQUIRE- MENTS; GENERALLY APPLICABLE RISK-BASED CAPITAL REQUIREMENTS.—The terms ‘‘generally applicable leverage capital requirements’’ and ‘‘generally applicable risk-based capital requirements’’ have the meanings given those terms in section 171(a) of the Financial Stability Act of 2010 (12 U.S.C. 5371(a)).
+(3) QUALIFYING COMMUNITY BANK.—
+(A) ASSET THRESHOLD.—The term ‘‘qualifying commu- nity bank’’ means a depository institution or depository institution holding company with total consolidated assets of less than $10,000,000,000.
+(B) RISK PROFILE.—The appropriate Federal banking agencies may determine that a depository institution or depository institution holding company (or a class of deposi- tory institution holding companies or depository institu- tory institutions) described in subparagraph (A) is not a qualifying community bank based on the depository institution’s or depository institution holding company’s risk profile, which shall be based on consideration of—
+(i) off-balance sheet exposures;
+(ii) trading assets and liabilities;
+(iii) total notional derivatives exposures; and
+(iv) such other factors as the appropriate Federal banking agencies determine appropriate.
+(b) COMMUNITY BANK LEVERAGE RATIO.—The appropriate Fed- eral banking agencies shall, through notice and comment rule making under section 553 of title 5, United States Code—
+(1) develop a Community Bank Leverage Ratio of not less than 8 percent and not more than 10 percent for qualifying community banks; and

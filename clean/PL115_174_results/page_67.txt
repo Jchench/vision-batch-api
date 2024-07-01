@@ -1,0 +1,23 @@
+PUBLIC LAW 115–174—MAY 24, 2018	132 STAT. 1361
+
+incorporates a definition of the term ‘high-quality liquid asset’ or another substantially similar term, the appropriate Federal banking agencies shall treat a municipal obligation as a high-quality liquid asset that is a level 2B liquid asset if that obligation is, as of the date of calculation—
+‘‘(A) liquid and readily-marketable; and
+‘‘(B) investment grade.’’.
+(b) AMENDMENT TO LIQUIDITY COVERAGE RATIO REGULATIONS.— Not later than 90 days after the date of enactment of this Act, the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, and the Comptroller of the Currency shall amend the final rule entitled ‘‘Liquidity Coverage Ratio: Liquidity Risk Measurement Standards’’ (79 Fed. Reg. 61439 (October 10, 2014)) and the final rule entitled ‘‘Liquidity Coverage Ratio: Treatment of U.S. Municipal Securities as High-Quality Liquid Assets’’ (81 Fed. Reg. 21223 (April 11, 2016)) to implement the amendments made by this section.
+
+TITLE V—ENCOURAGING CAPITAL FORMATION
+
+SEC. 501. NATIONAL SECURITIES EXCHANGE REGULATORY PARITY.
+Section 18(b)(1) of the Securities Act of 1933 (15 U.S.C. 77r(b)(1)) is amended—
+(1) by striking subparagraph (A);
+(2) in subparagraph (B)—
+(A) by inserting ‘‘a security designated as qualified for trading in the national market system pursuant to section 11A(a)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78k–1(a)(2)) that is’’ before ‘‘listed’’; and
+(B) by striking ‘‘that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A)’’;
+(3) in subparagraph (C), by striking ‘‘or (B)’’; and
+(4) by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively.
+
+SEC. 502. SEC STUDY ON ALGORITHMIC TRADING.
+(a) IN GENERAL.—Not later than 18 months after the date of enactment of this Act, the staff of the Securities and Exchange Commission shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the risks and benefits of algorithmic trading in capital markets in the United States.
+(b) MATTERS REQUIRED TO BE INCLUDED.—The matters covered by the report required by subsection (a) shall include the following:
+(1) An assessment of the effect of algorithmic trading in equity and debt markets in the United States on the provision of liquidity in stressed and normal market conditions.
+(2) An assessment of the benefits and risks to equity and debt markets in the United States by algorithmic trading.

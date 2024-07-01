@@ -1,0 +1,19 @@
+132 STAT. 1352          PUBLIC LAW 115-174—MAY 24, 2018
+
+subsection on the provision of a credit score for the borrower only if—
+            “(i) the credit score is derived from any credit scoring model that has been validated and approved by the corporation under this paragraph; and
+            “(ii) the corporation provides for the use of the credit score by all of the automated underwriting systems of the corporation and any other procedures and systems used by the corporation to purchase residential mortgages that use a credit score.
+                        “(C) VALIDATION AND APPROVAL PROCESS.—The corporation shall establish a validation and approval process for the use of credit score models, under which the corporation may not validate and approve a credit score model unless the credit score model—
+            “(i) satisfies minimum requirements of integrity, reliability, and accuracy;
+            “(ii) has a historical record of measuring and predicting default rates and other credit behaviors;
+            “(iii) is consistent with the safe and sound operation of the corporation;
+            “(iv) complies with any standards and criteria established by the Director of the Federal Housing Finance Agency under section 1328(1) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992; and
+            “(v) satisfies any other requirements, as determined by the corporation.
+                        “(D) REPLACEMENT OF CREDIT SCORE MODEL.—If the corporation has validated and approved 1 or more credit score models under subparagraph (C) and the corporation validates and approves an additional credit score model, the corporation may determine that—
+            “(i) the additional credit score model has replaced the credit score model or credit score models previously validated and approved; and
+            “(ii) the credit score model or credit score models previously validated and approved shall no longer be considered validated and approved for the purposes of subparagraph (B).
+                        “(E) PUBLIC DISCLOSURE.—Upon establishing the validation and approval process required under subparagraph (C), the corporation shall make publicly available a description of the validation and approval process.
+                        “(F) APPLICATION.—Not later than 30 days after the effective date of this paragraph, the corporation shall solicit applications from developers of credit scoring models for the validation and approval of those models under the process required under subparagraph (C).
+                        “(G) TIMEFRAME FOR DETERMINATION; NOTICE.—
+            “(i) IN GENERAL.—The corporation shall make a determination with respect to any application submitted under subparagraph (F), and provide notice of that determination to the applicant, before a date established by the corporation that is not later than 180 days after the date on which an application is submitted to the corporation.
+            “(ii) EXTENSIONS.—The Director of the Federal Housing Finance Agency may authorize not more than 2 extensions of the date established under clause (i), each of which shall not exceed 30 days, upon a written request and a showing of good cause by the corporation.

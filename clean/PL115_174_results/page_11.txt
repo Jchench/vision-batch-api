@@ -1,0 +1,26 @@
+PUBLIC LAW 115–174—MAY 24, 2018
+
+(A) by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and adjusting the margins accordingly;
+
+(B) in the matter preceding subparagraph (A), as so redesignated, by striking ‘‘The Board’’ and inserting the following:
+‘‘(1) IN GENERAL.—The Bureau’’;
+
+(C) in paragraph (1), as so redesignated, by striking ‘‘the Board’’ each place that term appears and inserting ‘‘the Bureau’’; and
+
+(D) by adding at the end the following:
+‘‘(2) TREATMENT OF LOANS HELD BY SMALLER INSTITUTIONS.—The Bureau shall, by regulation, exempt from the requirements of subsection (a) any loan made by an insured depository institution or an insured credit union secured by a first lien on the principal dwelling of a consumer if—
+‘‘(A) the insured depository institution or insured credit union has assets of $10,000,000,000 or less;
+‘‘(B) during the preceding calendar year, the insured depository institution or insured credit union and its affiliates originated 1,000 or fewer loans secured by a first lien on a principal dwelling; and
+‘‘(C) the transaction satisfies the criteria in sections 1026.35(b)(2)(iii)(A), 1026.35(b)(2)(iii)(D), 1026.35(b)(2)(v) of title 12, Code of Federal Regulations, or any successor regulation.’’; and
+
+(2) in subsection (i), by adding at the end the following:
+‘‘(3) INSURED CREDIT UNION.—The term ‘insured credit union’ has the meaning given the term in section 101 of the Federal Credit Union Act (12 U.S.C. 1752).
+‘‘(4) INSURED DEPOSITORY INSTITUTION.—The term ‘insured depository institution’ has the meaning given the term in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).’’.
+
+SEC. 109. NO WAIT FOR LOWER MORTGAGE RATES.
+(a) IN GENERAL.—Section 129(b) of the Truth in Lending Act (15 U.S.C. 1639b(b)) is amended—
+(1) by redesignating paragraph (3) as paragraph (4); and
+(2) by inserting after paragraph (2) the following:
+‘‘(3) NO WAIT FOR LOWER RATE.—If a creditor extends to a consumer a second offer of credit with a lower annual percentage rate, the transaction may be consummated without regard to the period specified in paragraph (1) with respect to the second offer.’’.
+(b) SENSE OF CONGRESS.—It is the sense of Congress that, whereas the Bureau of Consumer Financial Protection issued a final rule entitled ‘‘Integrated Mortgage Disclosures Under the Real Estate Settlement Procedures Act (Regulation X) and the Truth in Lending Act (Regulation Z)’’ (78 Fed. Reg. 79730 (December 31, 2013)) (in this subsection referred to as the ‘‘TRID Rule’’) to combine the disclosures a consumer receives in connection with applying for and closing on a mortgage loan, the Bureau of Consumer Financial Protection should endeavor to provide clearer, authoritative guidance on—
+(1) the applicability of the TRID Rule to mortgage assumption transactions;

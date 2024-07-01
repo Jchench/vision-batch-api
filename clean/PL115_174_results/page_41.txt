@@ -1,0 +1,25 @@
+PUBLIC LAW 115-174—MAY 24, 2018
+132 STAT. 1335
+
+“(2) CREDIT MONITORING.—A consumer reporting agency described in section 603(p) shall provide a free electronic credit monitoring service that, at a minimum, notifies a consumer of material additions or modifications to the file of the consumer at the consumer reporting agency to any consumer who provides the consumer reporting agency—
+“(A) appropriate proof that the consumer is an active duty military consumer; and 
+“(B) contact information of the consumer.
+“(3) RULEMAKING.—Not later than 1 year after the date of enactment of this subsection, the Federal Trade Commission shall promulgate regulations regarding the requirements of this subsection, which shall at a minimum include— 
+“(A) a definition of an electronic credit monitoring service and material additions or modifications to the file of a consumer; and 
+“(B) what constitutes appropriate proof.
+“(4) APPLICABILITY—
+“(A) Sections 616 and 617 shall not apply to any violation of this subsection.
+“(B) This subsection shall be enforced exclusively under section 621 by the Federal agencies and Federal and State officials identified in that section.”.
+(2) CONFORMING AMENDMENT.—Section 625(b)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681t(b)(1)), as amended by section 301(b), is amended by adding at the end the following:
+“(K) subsection (c) of section 605A, relating to credit monitoring for active duty military consumers, as defined in that subsection;”.
+(e) EFFECTIVE DATE.—The amendments made by this section shall take effect on the date that is 1 year after the date of enactment of this Act.
+
+SEC. 303. IMMUNITY FROM SUIT FOR DISCLOSURE OF FINANCIAL EXPLOITATION OF SENIOR CITIZENS.
+(a) IMMUNITY.—
+(1) DEFINITIONS.—In this section—
+(A) the term “Bank Secrecy Act officer” means an individual responsible for ensuring compliance with the requirements mandated by subchapter II of chapter 53 of title 31, United States Code (commonly known as the “Bank Secrecy Act”);
+(B) the term “broker-dealer” means a broker and a dealer, as those terms are defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a));
+(C) the term “covered agency” means—
+(i) a State financial regulatory agency, including a State securities or law enforcement authority and a State insurance regulator;
+(ii) each of the Federal agencies represented in the membership of the Financial Institutions Examination Council established under section 1004 of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3303);
+(iii) a securities association registered under section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3);

@@ -1,0 +1,29 @@
+PUBLIC LAW 115–174—MAY 24, 2018 132 STAT. 1319
+
+(4) REPORT ON INCREASE IN TRANSPARENCY.—Not later than 180 days after the date of enactment of this Act, the Chairman of the Board of Governors of the Federal Reserve System and the Secretary of the Treasury, or their designees, shall submit to Congress a report and provide testimony to Congress on the efforts of the Chairman and the Secretary to increase transparency at meetings of the International Association of Insurance Supervisors.
+
+SEC. 212. BUDGET TRANSPARENCY FOR THE NCUA.
+
+Section 209(b) of the Federal Credit Union Act (12 U.S.C. 1789(b)) is amended—
+(1) by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively;
+(2) by inserting before paragraph (2), as so redesignated, the following:
+“(1) on an annual basis and prior to the submission of the detailed business-type budget required under paragraph (2)—
+“(A) make publicly available and publish in the Federal Register a draft of the detailed business-type budget; and
+“(B) hold a public hearing, with public notice provided of the hearing, during which the public may submit comments on the draft of the detailed business-type budget;”; and
+(3) in paragraph (2), as so redesignated—
+(A) by inserting “detailed” after “submit a”; and
+(B) by inserting “, which shall address any comment submitted by the public under paragraph (1)(B)” after “Control Act”.
+
+SEC. 213. MAKING ONLINE BANKING INITIATION LEGAL AND EASY.
+(a) DEFINITIONS.—In this section:
+(1) AFFILIATE.—The term “affiliate” has the meaning given the term in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).
+(2) DRIVER’S LICENSE.—The term “driver’s license” means a license issued by a State to an individual that authorizes the individual to operate a motor vehicle on public streets, roads, or highways.
+(3) FEDERAL BANK SECRECY LAWS.—The term “Federal bank secrecy laws” means—
+(A) section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b); and
+(B) section 123 of Public Law 91–508 (12 U.S.C. 1953); and
+(C) subchapter II of chapter 53 of title 31, United States Code.
+(4) FINANCIAL INSTITUTION.—The term “financial institution” means—
+(A) an insured depository institution;
+(B) an insured credit union; or
+(C) any affiliate of an insured depository institution or insured credit union.
+(5) FINANCIAL PRODUCT OR SERVICE.—The term “financial product or service” has the meaning given the term in section 1002 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481).

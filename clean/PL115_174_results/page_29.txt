@@ -1,0 +1,25 @@
+PUBLIC LAW 115–174—MAY 24, 2018              132 STAT. 1323
+
+SEC. 215. REDUCING IDENTITY FRAUD.
+
+(a) PURPOSE.—The purpose of this section is to reduce the prevalence of synthetic identity fraud, which disproportionally affects vulnerable populations, such as minors and recent immigrants, by facilitating the validation by permitted entities of fraud protection data, pursuant to electronically received consumer consent, through use of a database maintained by the Commissioner.
+
+(b) DEFINITIONS.—In this section:
+(1) COMMISSIONER.—The term ‘‘Commissioner’’ means the Commissioner of the Social Security Administration.
+(2) FINANCIAL INSTITUTION.—The term ‘‘financial institution’’ has the meaning given the term in section 509 of the Gramm-Leach-Bliley Act (15 U.S.C. 6809).
+(3) FRAUD PROTECTION DATA.—The term ‘‘fraud protection data’’ means a combination of the following information with respect to an individual:
+(A) The name of the individual (including the first name and any family forename or surname of the individual).
+(B) The social security number of the individual.
+(C) The date of birth (including the month, day, and year) of the individual.
+(4) PERMITTED ENTITY.—The term ‘‘permitted entity’’ means a financial institution or a service provider, subsidiary, affiliate, agent, subcontractor, or assignee of a financial institution.
+(c) EFFICIENCY.—
+(1) RELIANCE ON EXISTING METHODS.—The Commissioner shall evaluate the feasibility of making modifications to any database that is in existence as of the date of enactment of this Act or a similar resource such that the database or resource—
+(A) is reasonably designed to effectuate the purpose of this section; and
+(B) meets the requirements of subsection (d).
+(2) EXECUTION.—The Commissioner shall make the modifications necessary to any database that is in existence as of the date of enactment of this Act or similar resource, or develop a database or similar resource, to effectuate the requirements described in paragraph (1).
+(d) PROTECTION OF VULNERABLE CONSUMERS.—The database or similar resource described in subsection (c) shall—
+(1) compare fraud protection data provided in an inquiry by a permitted entity against such information maintained by the Commissioner in order to confirm (or not confirm) the validity of the information provided;
+(2) be scalable and accommodate reasonably anticipated volumes of verification requests from permitted entities with commercially reasonable uptime and availability; and
+(3) allow permitted entities to submit—
+(A) 1 or more individual requests electronically for real-time machine-to-machine (or similar functionality) accurate responses; and
+(B) multiple requests electronically, such as those provided in a batch format, for accurate electronic responses within a reasonable period of time from submission, not to exceed 24 hours.

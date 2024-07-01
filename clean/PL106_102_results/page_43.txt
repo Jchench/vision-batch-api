@@ -1,0 +1,23 @@
+PUBLIC LAW 106–102—NOV. 12, 1999
+113 STAT. 1379
+(B) by inserting after subsection (d), the following new subsection:
+‘‘(e) RULES RELATING TO BANKS WITH FINANCIAL SUBSIDIARIES.—
+
+‘‘(1) FINANCIAL SUBSIDIARY DEFINED.—For purposes of this section and section 23B, the term ‘financial subsidiary’ means any company that is a subsidiary of a bank that would be a financial subsidiary of a national bank under section 5136A of the Revised Statutes of the United States.
+
+‘‘(2) FINANCIAL SUBSIDIARY TREATED AS AN AFFILIATE.—
+For purposes of applying this section and section 23B, and notwithstanding subsection (b)(2) of this section or section 23B(b)(1), a financial subsidiary of a bank—
+‘‘(A) shall be deemed to be an affiliate of the bank; and
+‘‘(B) shall not be deemed to be a subsidiary of the bank.
+
+‘‘(3) EXCEPTIONS FOR TRANSACTIONS WITH FINANCIAL SUBSIDIARIES.—
+‘‘(A) EXCEPTION FROM LIMIT ON COVERED TRANSACTIONS WITH ANY INDIVIDUAL FINANCIAL SUBSIDIARY.—Notwithstanding paragraph (2), the restriction contained in subsection (a)(1)(A) shall not apply with respect to covered transactions between a bank and any individual financial subsidiary of the bank.
+
+‘‘(B) EXCEPTION FOR EARNINGS RETAINED BY FINANCIAL SUBSIDIARIES.—Notwithstanding paragraph (2) or subsection (b)(7), a bank’s investment in a financial subsidiary of the bank shall not include retained earnings of the financial subsidiary.
+
+‘‘(4) ANTI-EVASION PROVISION.—For purposes of this section and section 23B—
+‘‘(A) any purchase of, or investment in, the securities of a financial subsidiary of a bank by an affiliate of the bank shall be considered to be a purchase of or investment in such securities by the bank; and
+‘‘(B) any extension of credit by an affiliate of a bank to a financial subsidiary of the bank shall be considered to be an extension of credit by the bank to the financial subsidiary if the Board determines that such treatment is necessary or appropriate to prevent evasions of this Act and the Gramm-Leach-Bliley Act.’’.
+
+(2) REBUTTABLE PRESUMPTION OF CONTROL OF PORTFOLIO COMPANY.—Section 23A(b) of the Federal Reserve Act (12 U.S.C. 371c1(b)) is amended by adding at the end the following new paragraph:
+‘‘(11) REBUTTABLE PRESUMPTION OF CONTROL OF PORTFOLIO COMPANIES.—In addition to paragraph (3), a company or shareholder shall be presumed to control any other company if the company or shareholder, directly or indirectly, or acting through 1 or more other persons, owns or controls 15 percent or more of the equity capital of the other company pursuant to subparagraph (H) or (I) of section 4(k)(4) of the Bank Holding Company Act of 1956 or rules adopted under section 122 of the Gramm-Leach-Bliley Act, if any, unless the company or shareholder provides information acceptable to the Board to rebut this presumption of control.’’.

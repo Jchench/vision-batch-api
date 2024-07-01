@@ -1,0 +1,30 @@
+132 STAT. 1350
+PUBLIC LAW 115–174—MAY 24, 2018
+
+Time period.
+(B) PUBLIC NOTICE AND COMMENT.—If a regulation prescribed pursuant to a waiver made under subparagraph (A) is in effect for a period exceeding 1 year, the Secretary shall provide the public an opportunity for notice and comment regarding such regulation.
+
+(C) EFFECTIVE DATE.—This paragraph shall take effect on the date of the enactment of this Act.
+
+(D) TERMINATION DATE.—The authorities under this paragraph shall terminate on the date that is 1 year after the date of the enactment of this Act.
+(3) REPORT ON CASH-OUT REFINANCES.—
+(A) IN GENERAL.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall, in consultation with the President of the Ginnie Mae, submit to Congress a report on refinancing—
+(i) of loans—
+(I) made to veterans for purposes specified in section 3710 of title 38, United States Code; and
+(II) that were guaranteed or insured under chapter 37 of such title; and
+(ii) in which the amount of the principal for the new loan to be guaranteed or insured under such chapter is larger than the payoff amount of the refinanced loan.
+(B) CONTENTS.—The report required by subparagraph (A) shall include the following:
+
+Assessment.
+(i) An assessment of whether additional requirements, including a net tangible benefit test, fee recoupment period, and loan seasoning requirement, are necessary to ensure that the refinancing described in subparagraph (A) is in the financial interest of the borrower.
+(ii) Such recommendations as the Secretary may have for additional legislative or administrative action to ensure that refinancing described in subparagraph (A) is carried out in the financial interest of the borrower.
+
+Recommendations.
+
+(4) CLERICAL AMENDMENT.—The table of sections at the beginning of chapter 37 of title 38, United States Code, is amended by inserting after the item relating to section 3709 the following new item:
+
+“3709. Refinancing of housing loans.”.
+
+(b) LOAN SEASONING FOR GINNIE MAE MORTGAGE-BACKED SECURITIES.—Section 306(g)(1) of the National Housing Act (12 U.S.C. 1721(g)(1)) is amended by inserting “The Association may not guarantee the timely payment of principal and interest on a security that is backed by a mortgage insured or guaranteed under chapter 37 of title 38, United States Code, and that was refinanced until the later of the date that is 210 days after the date on which the first monthly payment is made on the mortgage being refinanced and the date on which 6 full monthly payments have been made on the mortgage being refinanced.” after “Act of 1992.”.
+
+(c) REPORT ON LIQUIDITY OF THE DEPARTMENT OF VETERANS AFFAIRS HOUSING LOAN PROGRAM.—

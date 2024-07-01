@@ -1,0 +1,24 @@
+123 STAT. 1658                PUBLIC LAW 111–22—MAY 20, 2009
+
+
+                                                         Deadline.
+(2) funded by a combination of cash or equity from private investors and funds provided by the Secretary of the Treasury or funds appropriated under the Emergency Economic Stabiliza- tion Act of 2008.
+  (f) OFFSET OF COSTS OF PROGRAM CHANGES.—Notwithstanding the amendment made by section 202(b) of this Act, paragraph (3) of section 115(a) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5225) is amended by inserting ‘‘, as such amount is reduced by $1,259,000,000,’’ after ‘‘$700,000,000,000’’.
+  (g) REGULATIONS.—The Secretary of the Treasury may prescribe such regulations or other guidance as may be necessary or appro- priate to define terms or carry out the authorities or purposes of this section.
+	SEC. 403. REMOVAL OF REQUIREMENT TO LIQUIDATE WARRANTS UNDER THE TARP.
+   Section 111(g) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221(g)) is amended by striking ‘‘shall liquidate warrants associated with such assistance at the current market price’’ and inserting ‘‘, at the market price, may liquidate warrants associated with such assistance’’.	 
+     SEC. 404. NOTIFICATION OF SALE OR TRANSFER OF MORTGAGE LOANS.
+   (a) IN GENERAL.—Section 131 of the Truth in Lending Act (15 U.S.C. 1641) is amended by adding at the end the following:
+         ‘‘(g) NOTICE OF NEW CREDITOR.—
+         ‘‘(1) IN GENERAL.—In addition to other disclosures required by this title, not later than 30 days after the date on which a mortgage loan is sold or otherwise transferred or assigned to a third party, the creditor that is the new owner or assignee of the debt shall notify the borrower in writing of such transfer, including—
+         ‘‘(A) the identity, address, telephone number of the new creditor;
+         ‘‘(B) the date of transfer;
+         ‘‘(C) how to reach an agent or party having authority to act on behalf of the new creditor;
+         ‘‘(D) the location of the place where transfer of owner- ship of the debt is recorded; and
+         ‘‘(E) any other relevant information regarding the new creditor.
+         ‘‘(2) DEFINITION.—As used in this subsection, the term ‘mortgage loan’ means any consumer credit transaction that is secured by the principal dwelling of a consumer.’’
+  (b) PRIVATE RIGHT OF ACTION.—Section 130(a) of the Truth in Lending Act (15 U.S.C. 1640(a)) is amended by inserting ‘‘sub- section (f) or (g) of section 131,’’ after ‘‘section 125,’’.
+	                        TITLE V—FARM LOAN RESTRUCTURING
+
+SEC. 501. CONGRESSIONAL OVERSIGHT PANEL SPECIAL REPORT.	
+	Section 125(b) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5233(b)) is amended by adding at the end the following:

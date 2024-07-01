@@ -1,0 +1,30 @@
+PUBLIC LAW 111-22—MAY 20, 2009
+
+“(1) servicer of the existing senior mortgage or existing subordinate mortgage for every loan insured under the HOPE for Homeowners Program; and
+
+“(2) originator of each new loan insured under the HOPE for Homeowners Program.
+
+“(j) AUCTIONS.—The Secretary, with the concurrence of the Board, shall, if feasible, establish a structure and organize procedures for an auction to refinance eligible mortgages on a wholesale or bulk basis.”.
+
+(b) REDUCING TARP FUNDS TO OFFSET COSTS OF PROGRAM CHANGES.—Paragraph (3) of section 115(a) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5225) is amended by inserting “, as such amount is reduced by $1,244,000,000,” after “$700,000,000,000”.
+
+(c) TECHNICAL CORRECTION.—The second section 257 of the National Housing Act (Public Law 110–289; 122 Stat. 2839; 12 U.S.C. 1715z–24) is amended by striking the section heading and inserting the following:
+
+“SEC. 258. PILOT PROGRAM FOR AUTOMATED PROCESS FOR BOR-
+ROWERS WITHOUT SUFFICIENT CREDIT HISTORY.”.
+
+SEC. 203. REQUIREMENTS FOR FHA-APPROVED MORTGAGEES.
+
+(a) MORTGAGEE REVIEW BOARD.—
+(1) IN GENERAL.—Section 202(c)(2) of the National Housing Act (12 U.S.C. 1708(c)) is amended—
+(A) in subparagraph (E) by inserting “and” after the semicolon;
+(B) in subparagraph (F), by striking “; and” and inserting “or their designees.”; and
+(C) by striking subparagraph (G).
+(2) PROHIBITION AGAINST LIMITATIONS ON MORTGAGEE REVIEW BOARD’S POWER TO TAKE ACTION AGAINST MORTGAGEES.—Section 202(c) of the National Housing Act (12 U.S.C. 1708(c)) is amended by adding at the end the following new paragraph:
+“(9) PROHIBITION AGAINST LIMITATIONS ON MORTGAGEE REVIEW BOARD’S POWER TO TAKE ACTION AGAINST MORTGAGEES.—No State or local law, and no Federal law (except a Federal law enacted expressly in limitation of this subsection after the effective date of this sentence), shall preclude or limit the exercise by the Board of its power to take any action authorized under paragraphs (3) and (6) of this subsection against any mortgagee.”.
+(b) LIMITATIONS ON PARTICIPATION AND MORTGAGEE APPROVAL AND USE OF NAME.—Section 202 of the National Housing Act (12 U.S.C. 1708) is amended—
+(1) by redesignating subsections (d), (e), and (f) as subsections (e), (f), and (g), respectively;
+(2) by inserting after subsection (c) the following new subsection:
+“(d) LIMITATIONS ON PARTICIPATION IN ORIGINATION AND MORT-
+GAGEE APPROVAL.—
+“(1) REQUIREMENT.—Any person or entity that is not approved by the Secretary to serve as a mortgagee, as such term is defined in subsection (c)(7), shall not participate in the origination of an FHA-insured loan except as authorized by the Secretary.

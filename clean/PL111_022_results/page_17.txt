@@ -1,0 +1,26 @@
+PUBLIC LAW 111-22—MAY 20, 2009                          123 STAT. 1647
+
+mortgage as an agent of the Secretary during the period that the Secretary acquires and holds the mortgage for the purpose of modifying the terms of the mortgage, provided that the Secretary compensates the existing servicer appropriately, as such compensation is determined by the Secretary consistent, to the maximum extent possible, with section 203(b). If the mortgage is resold pursuant to subparagraph (C)(iii), the Secretary may provide for the existing servicer to continue to service the mortgage or may engage another entity to service the mortgage.”.
+
+(d) IMPLEMENTATION.—The Secretary of Housing and Urban Development may implement the amendments made by this subsection through notice or mortgagee letter.
+
+(e) CHANGE OF STATUS.—The National Housing Act is amended by striking section 532 (12 U.S.C. 1735f-10) and inserting the following new section:
+
+“SEC. 532. CHANGE OF MORTGAGEE STATUS.
+
+“(a) NOTIFICATION.—Upon the occurrence of any action described in subsection (b), an approved mortgagee shall immediately submit to the Secretary, in writing, notification of such occurrence.
+
+“(b) ACTIONS.—The actions described in this subsection are as follows:
+
+“(1) The debarment, suspension or a Limited Denial of Participation (LDP), or application of other sanctions, other exclusions, fines, or penalties to the mortgagee or to any officer, partner, director, principal, manager, supervisor, loan processor, loan underwriter, or loan originator of the mortgagee pursuant to applicable provisions of State or Federal law.
+
+“(2) The revocation of a State-issued mortgage loan originator license issued pursuant to the S.A.F.E. Mortgage Licensing Act of 2008 (12 U.S.C. 5101 et seq.) or any other similar declaration of ineligibility pursuant to State law.”.
+
+(f) CIVIL MONEY PENALTIES.—Section 536 of the National Housing Act (12 U.S.C. 1735f-14) is amended—
+(1) in subsection (b)—
+  (A) in paragraph (1)—
+    (i) in the matter preceding subparagraph (A), by inserting “or any of its owners, officers, or directors” after “mortgagee or lender”;
+    (ii) in subparagraph (H), by striking “title I” and all that follows through “under this Act.” and inserting “title I or II of this Act, or any implementing regula- tion, handbook, or mortgagee letter that is issued under this Act.”; and
+    (iii) by inserting after subparagraph (J) the following:
+      “(K) Violation of section 202(d) of this Act (12 U.S.C. 1708(d)).
+      “(L) Use of ‘Federal Housing Administration’, ‘Department of Housing and Urban Development’, ‘Government National Mortgage Association’, ‘Ginnie Mae’, the acronyms ‘HUD’, ‘FHA’, or ‘GNMA’, or any official seal or logo of the Department of Housing and Urban Development, except as authorized by the Secretary.”.

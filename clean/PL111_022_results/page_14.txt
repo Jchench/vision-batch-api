@@ -1,0 +1,26 @@
+123 STAT. 1644
+
+PUBLIC LAW 111--22—MAY 20, 2009
+
+“(2) ELIGIBILITY FOR APPROVAL.—In order to be eligible for approval by the Secretary, an applicant mortgagee shall not be, and shall not have any officer, partner, director, principal, manager, supervisor, loan processor, loan underwriter, or loan originator of the applicant mortgagee who is—
+	“(A) currently suspended, debarred, under a limited denial of participation (LDP), or otherwise restricted under part 25 of title 24 of the Code of Federal Regulations, 2 Code of Federal Regulations, part 180 as implemented by part 2424, or any successor regulations to such parts, or under similar provisions of any other agency;
+	“(B) under indictment for, or has been convicted of, an offense that reflects adversely upon the applicant’s integrity, competence or fitness to meet the responsibilities of an approved mortgagee;
+	“(C) subject to unresolved findings contained in a Department of Housing and Urban Development or other governmental audit, investigation, or review;
+	“(D) engaged in business practices that do not conform to generally accepted practices of prudent mortgagees or that demonstrate irresponsibility;
+	“(E) convicted of, or who has pled guilty or nolo contendere to, a felony related to participation in the real estate or mortgage loan industry—
+		“(i) during the 7-year period preceding the date of the application for licensing and registration; or
+		“(ii) at any time preceding such date of application, if such felony involved an act of fraud, dishonesty, or a breach of trust, or money laundering;
+	“(F) in violation of provisions of the S.A.F.E. Mortgage Licensing Act of 2008 (12 U.S.C. 5101 et seq.) or any applicable provision of State law; or
+	“(G) in violation of any other requirement as established by the Secretary.
+	“(3) RULEMAKING AND IMPLEMENTATION.—The Secretary shall conduct a rulemaking to carry out this subsection. The Secretary shall implement this subsection not later than the expiration of the 60-day period beginning upon the date of the enactment of this subsection by notice, mortgagee letter, or interim final regulations, which shall take effect upon issuance.”; and
+	(3) by adding at the end the following new subsection:
+
+Deadlines. Notice. Effective date.
+
+Regulations.
+
+	“(h) USE OF NAME.—The Secretary shall, by regulation, require each mortgagee approved by the Secretary for participation in the FHA mortgage insurance programs of the Secretary—
+		“(1) to use the business name of the mortgagee that is registered with the Secretary in connection with such approval in all advertisements and promotional materials, as such terms are defined by the Secretary, relating to the business of such mortgagee in such mortgage insurance programs; and
+		“(2) to maintain copies of all such advertisements and promotional materials, in such form and for such period as the Secretary requires.”
+	(c) PAYMENT FOR LOSS MITIGATION.—Section 204(a)(2) of the National Housing Act (12 U.S.C. 1710(a)(2)) is amended—
+	(1) by inserting “or faces imminent default, as defined by the Secretary” after “default”;

@@ -1,0 +1,20 @@
+123 STAT. 1640          PUBLIC LAW 111-22—MAY 20, 2009
+
+” (3) the term ‘securitization vehicle’ means a trust, special purpose entity, or other legal structure that is used to facilitate the issuing of securities, participation certificates, or similar instruments backed by or referring to a pool of assets that includes residential mortgages (or instruments that are related to residential mortgages such as credit-linked notes).
+"(g) RULE OF CONSTRUCTION.—No provision of subsection (b) or (d) shall be construed as affecting the liability of any servicer or person as described in subsection (d) for actual fraud in the origination or servicing of a loan or in the implementation of a qualified loss mitigation plan, or for the violation of a State or Federal law, including laws regulating the origination of mortgage loans, commonly referred to as predatory lending laws.”.
+
+SEC. 202. CHANGES TO HOPE FOR HOMEOWNERS PROGRAM.
+(a) PROGRAM CHANGES.—Section 257 of the National Housing Act (12 U.S.C. 1715z-23) is amended—
+(1) in subsection (c)—
+(A) in the heading for paragraph (1), by striking “THE BOARD” and inserting “SECRETARY”;
+(B) in paragraph (1), by striking “Board” inserting “Secretary, after consultation with the Board.”;
+(C) in paragraph (1)(A), by inserting “consistent with section 203(b) to the maximum extent possible” before the semicolon; and
+(D) by adding after paragraph (2) the following:
+“(3) DUTIES OF BOARD.—The Board shall advise the Secretary regarding the establishment and implementation of the HOPE for Homeowners Program.”;
+(2) by striking “Board” each place such term appears in subsections (c), (h)(1), (h)(3), (i), (j), (l), (n), (s)(3), and (v) and inserting “Secretary”;
+(3) in subsection (e)—
+(A) by striking paragraph (1) and inserting the following:
+“(1) BORROWER CERTIFICATION.—
+“(A) NO INTENTIONAL DEFAULT OR FALSE INFORMATION.—The mortgagor shall provide a certification to the Secretary that the mortgagor has not intentionally defaulted on the existing mortgage or mortgages or any other substantial debt within the last 5 years and has not knowingly, or willfully and with actual knowledge, furnished material information known to be false for the purpose of obtaining the eligible mortgage to be insured and has not been convicted under Federal or State law for fraud during the 10-year period ending upon the insurance of the mortgage under this section.
+“(B) LIABILITY FOR REPAYMENT.—The mortgagor shall agree in writing that the mortgagor shall be liable to repay to the Secretary any direct financial benefit achieved from the reduction of indebtedness on the existing mortgage or mortgages on the residence refinanced under this section derived from misrepresentations made by the mortgagor in the certifications and documentation required under this paragraph, subject to the discretion of the Secretary.
+“(C) CURRENT BORROWER DEBT-TO-INCOME RATIO.—As of the date of application for a commitment to insure or

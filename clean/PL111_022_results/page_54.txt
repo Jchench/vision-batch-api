@@ -1,0 +1,16 @@
+123 STAT. 1684          PUBLIC LAW 111–22—MAY 20, 2009
+
+shall not otherwise be considered as homeless for purposes of this subtitle.
+“(B) AT RISK OF HOMELESSNESS.—Subparagraph (A) may not be construed to prevent any unaccompanied youth and homeless families and children defined as homeless under section 103(a)(6) from qualifying for, and being treated for purposes of this subtitle as, at risk of homelessness or from eligibility for any projects, activities, or services carried out using amounts provided under this subtitle for which individuals or families that are at risk of homelessness are eligible.”.
+
+SEC. 1302. ELIGIBLE ACTIVITIES.
+The McKinney-Vento Homeless Assistance Act is amended by striking section 423 (42 U.S.C. 11383) and inserting the following new section:
+“SEC. 423. ELIGIBLE ACTIVITIES.
+“(a) IN GENERAL.—Grants awarded under section 422 to qualified applicants shall be used to carry out projects that serve homeless individuals or families that consist of one or more of the following eligible activities:
+“(1) Construction of new housing units to provide transitional or permanent housing.
+“(2) Acquisition or rehabilitation of a structure to provide transitional or permanent housing, other than emergency shelter, or to provide supportive services.
+“(3) Leasing of property, or portions of property, not owned by the recipient or project sponsor involved, for use in providing transitional or permanent housing, or providing supportive services.
+“(4) Provision of rental assistance to provide transitional or permanent housing to eligible persons. The rental assistance may include tenant-based, project-based, or sponsor-based rental assistance. Project-based rental assistance, sponsor-based rental assistance, and operating cost assistance contracts carried out by project sponsors receiving grants under this section may, at the discretion of the applicant and the project sponsor, have an initial term of 15 years, with assistance for the first 5 years paid with funds authorized for appropriation under this Act, and assistance for the remainder of the term treated as a renewal of an expiring contract as provided in section 429. Project-based rental assistance may include rental assistance to preserve existing permanent supportive housing for homeless individuals and families.
+“(5) Payment of operating costs for housing units assisted under this subtitle or for the preservation of housing that will serve homeless individuals and families and for which another form of assistance is expiring or otherwise no longer available.
+“(6) Supportive services for individuals and families who are currently homeless, who have been homeless in the prior six months but are currently residing in permanent housing, or who were previously homeless and are currently residing in permanent supportive housing.
+“(7) Provision of rehousing services, including housing search, mediation or outreach to property owners, credit repair, providing security or utility deposits, rental assistance for a

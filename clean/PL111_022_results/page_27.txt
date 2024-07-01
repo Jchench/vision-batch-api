@@ -1,0 +1,20 @@
+PUBLIC LAW 111-22—MAY 20, 2009
+
+123 STAT. 1657
+
+(F) require each manager of a public-private investment fund to develop a robust ethics policy that includes methods to ensure compliance with such policy;
+(G) require strict investor screening procedures for public-private investment funds; and
+(H) require each manager of a public-private fund to identify for the Secretary, on a periodic basis, each investor that, individually or together with affiliates, directly or indirectly, holds equity interests equal to at least 10 percent of the equity interest of the fund including if such interests are held in a vehicle formed for the purpose of directly or indirectly investing in the fund.
+
+(2) INTERACTION BETWEEN PUBLIC-PRIVATE INVESTMENT FUNDS AND THE TERM-ASSET BACKED SECURITIES LOAN FACILITY.—The Secretary shall consult with the Special Inspector General and shall issue regulations governing the interaction of the Public-Private Investment Program, the Term-Asset Backed Securities Loan Facility, and other similar public-private investment programs. Such regulations shall address concerns regarding the potential for excessive leverage that could result from interactions between such programs.
+
+(3) REPORT.—Not later than 60 days after the date of the establishment of a program described in paragraph (1), the Special Inspector General shall submit a report to Congress on the implementation of this section.
+
+(c) ADDITIONAL APPROPRIATIONS FOR THE SPECIAL INSPECTOR GENERAL.— 
+(1) IN GENERAL.—Of amounts made available under section 115(a) of the Emergency Economic Stabilization Act of 2008 (Public Law 110-343), $15,000,000 shall be made available to the Special Inspector General, which shall be in addition to amounts otherwise made available to the Special Inspector General.
+
+(2) PRIORITIES.—In utilizing funds made available under this section, the Special Inspector General shall prioritize the performance of audits or investigations of recipients of nonrecourse Federal loans made under any program that is funded in whole or in part by funds appropriated under the Emergency Economic Stabilization Act of 2008, to the extent that such priority is consistent with other aspects of the mission of the Special Inspector General. Such audits or investigations shall determine the existence of any collusion between the loan recipient and the seller or originator of the asset used as loan collateral, or any other conflict of interest that may have led the loan recipient to deliberately overstate the value of the asset used as loan collateral.
+(d) RULE OF CONSTRUCTION.—Notwithstanding any other provision of law, nothing in this section shall be construed to apply to any activity of the Federal Deposit Insurance Corporation in connection with insured depository institutions, as described in section 13(c)(2)(B) of the Federal Deposit Insurance Act.
+
+(e) DEFINITION.—In this section, the term “public-private investment fund” means a financial vehicle that is—
+(1) established by the Federal Government to purchase pools of loans, securities, or assets from a financial institution described in section 101(a)(1) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5211(a)(1)); and

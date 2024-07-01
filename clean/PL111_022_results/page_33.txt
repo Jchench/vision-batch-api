@@ -1,0 +1,29 @@
+PUBLIC LAW 111--22--MAY 20, 2009                 123 STAT. 1663
+
+(2) in paragraph (2), by inserting “, copies of any record,” after “records”; and
+(3) by adding at the end the following:
+“(3)(A) For purposes of conducting audits and examinations under subsection (e), the Comptroller General shall have access, upon request, to any information, data, schedules, books, accounts, financial records, reports, files, electronic communications, or other papers, things or property belonging to or in use by-- 
+“(i) any entity established by any action taken by the Board described under subsection (e); 
+“(ii) any entity receiving assistance from any action taken by the Board described under subsection (e), to the extent that the access and request relates to that assistance; and 
+“(iii) the officers, directors, employees, independent public accountants, financial advisors and any and all representatives of any entity described under clause (i) or (ii), to the extent that the access and request relates to that assistance;
+(B) The Comptroller General shall have access as provided under subparagraph (A) at such time as the Comptroller General may request.
+(C) Each contract, term sheet, or other agreement between the Board or any Federal reserve bank (or any entity established by the Board or any Federal reserve bank) and an entity receiving assistance from any action taken by the Board described under subsection (e) shall provide for access by the Comptroller General in accordance with this paragraph.”.
+
+(d) Audits Of Certain Actions Of the Board of Governors Of The Federal Reserve System.--Section 714 of title 31, United States Code, is amended by adding at the end the following:
+“(e) Notwithstanding subsection (b), the Comptroller General may conduct audits, including onsite examinations when the Comptroller General determines such audits and examinations are appropriate, of any action taken by the Board under the third undesignated paragraph of section 13 of the Federal Reserve Act (12 U.S.C. 343); with respect to a single and specific partnership or corporation.”.
+
+DIVISION B--HOMELESSNESS REFORM
+SEC. 1001. SHORT TITLE; TABLE OF CONTENTS.
+(a) SHORT TITLE.--This division may be cited as the “Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009”.
+(b) TABLE OF CONTENTS.--The table of contents for this division is as follows: 
+                     DIVISION B--HOMELESSNESS REFORM
+Sec. 1001. Short title; table of contents.
+Sec. 1002. Findings and purposes.
+Sec. 1003. Definition of homelessness.
+Sec. 1004. United States Interagency Council on Homelessness.
+
+                TITLE I--HOUSING ASSISTANCE GENERAL PROVISIONS
+Sec. 1101. Definitions.
+Sec. 1102. Community homeless assistance planning boards.
+
+Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009. 42 USC 11301 note.

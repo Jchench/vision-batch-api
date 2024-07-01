@@ -1,0 +1,57 @@
+123 STAT. 1638                   PUBLIC LAW 111–22—MAY 20, 2009
+
+SEC. 105. NEIGHBORHOOD STABILIZATION PROGRAM REFINEMENTS.
+    (a) IN GENERAL.—Section 2301(c) of the Foreclosure Prevention 
+Act of 2008 (42 U.S.C. 5301 note) is amended—
+        (1) by redesignating paragraph (3) as paragraph (4); and
+        (2) by inserting after paragraph (2) the following new para-
+    graph:
+    ‘‘(3) EXCEPTION FOR CERTAIN STATES.—Each State that has 
+    received the minimum allocation of amounts pursuant to the 
+    requirement under section 2302 may, to the extent such State 
+    has fulfilled the requirements of paragraph (2), distribute any 
+    remaining amounts to areas with homeowners at risk of fore-
+    closure or in foreclosure without regard to the percentage of 
+    home foreclosures in such areas.’’.
+    (b) RETROACTIVE EFFECTIVE DATE.—The amendment made by 
+subsection (a) shall take effect as if enacted on the date of enactment 
+of the Foreclosure Prevention Act of 2008 (Public Law 110–289).
+
+               TITLE II—FORECLOSURE MITIGATION 
+                     AND CREDIT AVAILABILITY
+
+SEC. 201. SERVICER SAFE HARBOR FOR MORTGAGE LOAN MODIFICA-
+                     TIONS.
+    (a) CONGRESSIONAL FINDINGS.—Congress finds the following:
+        (1) Increasing numbers of mortgage foreclosures are not 
+    only depriving many Americans of their homes, but are also 
+    destabilizing property values and negatively affecting State 
+    and local economies as well as the national economy.
+        (2) In order to reduce the number of foreclosures and 
+    to stabilize property values, local economies, and the national 
+    economy, servicers must be given—
+            (A) authorization to—
+                (i) modify mortgage loans and engage in other 
+            loss mitigation activities consistent with applicable 
+            guidelines issued by the Secretary of the Treasury 
+            or his designee under the Emergency Economic Sta-
+            bilization Act of 2008; and
+                (ii) refinance mortgage loans under the Hope for 
+            Homeowners program; and
+            (B) a safe harbor to enable such servicers to exercise 
+        these authorities.
+    (b) SAFE HARBOR.—Section 129A of the Truth in Lending Act 
+(15 U.S.C. 1639a) is amended to read as follows:
+
+‘‘SEC. 129. DUTY OF SERVICERS OF RESIDENTIAL MORTGAGES.
+    ‘‘(a) IN GENERAL.—Notwithstanding any other provision of law, 
+whenever a servicer of residential mortgages agrees to enter into 
+a qualified loss mitigation plan with respect to 1 or more residential 
+mortgages originated before the date of enactment of the Helping 
+Families Save Their Homes Act of 2009, including mortgages held 
+in a securitization or other investment vehicle—
+        ‘‘(1) to the extent that the servicer owes a duty to investors 
+    or other parties to maximize the net present value of such 
+    mortgages, the duty shall be construed to apply to all such 
+    investors and parties, and not to any individual party or group 
+    of parties; and

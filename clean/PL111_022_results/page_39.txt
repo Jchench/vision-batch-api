@@ -1,0 +1,31 @@
+PUBLIC LAW 111-22—MAY 20, 2009          123 STAT. 1669
+
+TITLE I—HOUSING ASSISTANCE
+GENERAL PROVISIONS
+
+SEC. 1101. DEFINITIONS.
+Subtitle A of title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11361 et seq.) is amended—
+(1) by striking the subtitle heading and inserting the following:
+
+"Subtitle A—General Provisions";
+
+(2) by redesignating sections 401 and 402 (42 U.S.C. 11361, 11362) as sections 403 and 406, respectively; and
+(3) by inserting before section 403 (as so redesignated by paragraph (2) of this section) the following new section:
+  "SEC. 401. DEFINITIONS.
+  "For purposes of this title:
+    "(1) AT RISK OF HOMELESSNESS.—The term ‘at risk of homelessness’ means, with respect to an individual or family, that the individual or family—
+      "(A) has income below 30 percent of median income for the geographic area;
+      "(B) has insufficient resources immediately available to attain housing stability; and
+      "(C)(i) has moved frequently because of economic reasons;
+        "(ii) is living in the home of another because of economic hardship;
+        "(iii) has been notified that their right to occupy their current housing or living situation will be terminated;
+        "(iv) lives in a hotel or motel;
+        "(v) lives in severely overcrowded housing;
+        "(vi) is exiting an institution; or
+        "(vii) otherwise lives in housing that has characteristics associated with instability and an increased risk of homelessness.
+    Such term includes all families with children and youth defined as homeless under other Federal statutes.
+    "(2) CHRONICALLY HOMELESS.—
+      "(A) IN GENERAL.—The term ‘chronically homeless’ means, with respect to an individual or family, that the individual or family—
+        "(i) is homeless and lives or resides in a place not meant for human habitation, a safe haven, or in an emergency shelter;
+        "(ii) has been homeless and living or residing in a place not meant for human habitation, a safe haven, or in an emergency shelter continuously for at least 1 year or on at least 4 separate occasions in the last 3 years; and
+        "(iii) has an adult head of household (or a minor head of household if no adult is present in the household) with a diagnosable substance use disorder, serious mental illness, developmental disability (as

@@ -1,0 +1,20 @@
+123 STAT. 1646             PUBLIC LAW 111-22—MAY 20, 2009
+
+insurance fund, in connection with any activities that the mortgagee is required to undertake concerning repayment by the mortgagor of the amount owed to the Secretary.’.
+        (3) ASSIGNMENT.—Section 230(c) of the National Housing Act (12 U.S.C. 1715u(c)) is amended—
+            (A) by inserting “(1)” after “(c)”;
+            (B) by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively;
+            (C) in paragraph (1)(B) (as so redesignated)—
+                (i) by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively;
+                (ii) in the matter preceding clause (i) (as so redesignated), by striking “under a program under this subsection” and inserting “under this paragraph”; and
+                (iii) in clause (i) as so redesignated), by inserting “or facing imminent default, as defined by the Secretary” after “default”;
+            (D) in paragraph (1)(C) (as so redesignated), by striking “under a program under this subsection” and inserting “under this paragraph”; and
+            (E) by adding at the end the following:
+            “(2) ASSIGNMENT AND LOAN MODIFICATION.—
+                “(A) AUTHORITY.—The Secretary may encourage loan modifications for eligible delinquent mortgages or mortgages facing imminent default, as defined by the Secretary,  through the payment of insurance benefits and assignment of the mortgage to the Secretary and subsequence modification of the terms of the mortgage according to a loan modification approved by the mortgagee.
+                “(B) PAYMENT OF BENEFITS AND ASSIGNMENT.—In carrying out this paragraph, the Secretary may pay insurance benefits for a mortgage, in the amount determined in accordance with section 204(a)(5), without reduction for any amounts modified, but only upon the assignment, transfer, and delivery to the Secretary of all rights, interests, claims, evidence, and records with respect to the mortgage, as specified in clauses (i) through (iv) of section 204(a)(1)(A).
+                “(C) DISPOSITION.—After modification of a mortgage pursuant to this paragraph, the Secretary may provide insurance under this title for the mortgage. The Secretary may subsequently—
+                    “(i) re-assign the mortgage to the mortgagee under terms and conditions as are agreed to by the mortgagee and the Secretary;
+                    “(ii) act as a Government National Mortgage Association issuer, or contract with an entity for such purpose, in order to pool the mortgage into a Government National Mortgage Association security; or
+                    “(iii) re-sell the mortgage in accordance with any program that has been established for purchase by the Federal Government of mortgages insured under this title, and the Secretary may coordinate standards for interest rate reductions available for loan modification with interest rates established for such purchase.
+            “(D) LOAN SERVICING.—In carrying out this paragraph, the Secretary may require the existing servicer of a mortgage assigned to the Secretary to continue servicing the

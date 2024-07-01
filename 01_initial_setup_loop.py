@@ -3,10 +3,6 @@ import base64
 import requests
 import os
 
-# Read API key from file
-with open('api_key.txt', 'r') as file:
-    api_key = file.read().strip()
-
 # Function to encode the image
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
@@ -24,38 +20,35 @@ def verify_image(image_path):
         raise ValueError(f"File size exceeds 20 MB: {file_size / (1024 * 1024)} MB")
     return True
 
-# Function to process images in a folder
-def get_image_paths(folder_path):
-    image_paths = []
-    for root, _, files in os.walk(folder_path):
-        for file in files:
-            if file.lower().endswith(('.png', '.jpg', '.jpeg', '.tiff', '.bmp', '.gif', '.webp')):
-                image_paths.append(os.path.join(root, file))
-    return image_paths
+# Folder containing the images
+image_folder = "PL110_289_test"
 
-def process_images_in_folder(folder_path):
-    image_paths = get_image_paths(folder_path)
-    encoded_images = []
-    failures = []
-    for image_path in image_paths:
-        try:
-            verify_image(image_path)
-            encoded_images.append((image_path, encode_image(image_path)))
-        except ValueError as e:
-            print(f"Error with image {image_path}: {e}")
-            failures.append(image_path)
-    return encoded_images, failures
+# Get list of image paths from the folder
+image_paths = [os.path.join(image_folder, file) for file in os.listdir(image_folder) if file.lower().split('.')[-1] in ['jpeg', 'png', 'gif', 'webp']]
 
-def upload_image(encoded_image, headers):
-    payload = {
-        "model": "gpt-4o",
-        "messages": [
+# OpenAI API Key
+with open('api_key.txt', 'r') as file:
+    api_key = file.read().strip()
+
+headers = {
+    "Content-Type": "application/json",
+    "Authorization": f"Bearer {api_key}"
+}
+
+# Process each image in the folder
+for image_path in image_paths:
+    try:
+        verify_image(image_path)
+        encoded_image = encode_image(image_path)
+
+        # Construct the payload for the single image
+        messages = [
             {
                 "role": "user",
                 "content": [
                     {
                         "type": "text",
-                        "text": "Transcribe these images. Do not include any other text besides the transcription."
+                        "text": "Transcribe this image. Do not include any other text besides the transcription."
                     },
                     {
                         "type": "image_url",
@@ -66,56 +59,38 @@ def upload_image(encoded_image, headers):
                 ]
             }
         ]
-    }
-    response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
-    return response
 
-def process_images_by_batches(encoded_images, headers):
-    batch_record = {}
-    failures = []
+        payload = {
+            "model": "gpt-4o",
+            "messages": messages
+        }
 
-    for idx, (image_path, encoded_image) in enumerate(encoded_images):
-        response = upload_image(encoded_image, headers)
-        
+        response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
+
+        # Check if the response is successful
         if response.status_code == 200:
-            batch_record[image_path] = f"Batch {idx + 1}"
+            # Parse the response as JSON
+            response_data = response.json()
+            
+            # Extract the content from the response
+            content = response_data['choices'][0]['message']['content']
+
+            # Define the folder and file path for saving the transcription
+            folder_path = 'clean/PL110_289_results'
+            os.makedirs(folder_path, exist_ok=True)
+
+            # Use the original image file name for the text file
+            file_name = os.path.splitext(os.path.basename(image_path))[0] + '.txt'
+            file_path = os.path.join(folder_path, file_name)
+
+            # Save the content to a text file
+            with open(file_path, 'w') as file:
+                file.write(content)
+
+            print(f"Content saved to {file_path}")
         else:
-            print(f"Failed to process image {image_path}: {response.status_code}, {response.text}")
-            failures.append(image_path)
+            # Print an error message if the request failed
+            print(f"Failed to retrieve data for {image_path}: {response.status_code}, {response.text}")
 
-    return batch_record, failures
-
-def resubmit_failed_images(failures, headers):
-    for image_path in failures:
-        encoded_image = encode_image(image_path)
-        response = upload_image(encoded_image, headers)
-        if response.status_code == 200:
-            print(f"Successfully resubmitted image {image_path}")
-        else:
-            print(f"Failed to resubmit image {image_path}: {response.status_code}, {response.text}")
-
-# Usage example
-folder_path = "PL110_289_test"
-headers = {
-    "Content-Type": "application/json",
-    "Authorization": f"Bearer {api_key}"
-}
-
-encoded_images, initial_failures = process_images_in_folder(folder_path)
-batch_record, failures = process_images_by_batches(encoded_images, headers)
-
-# Log batch record to reconstruct later
-print("Batch Record:", batch_record)
-
-# Handle resubmission of failed images
-if failures:
-    print("Resubmitting failed images...")
-    resubmit_failed_images(failures, headers)
-
-# Save the batch record
-batch_record_path = os.path.join('clean', 'PL110_289_results', 'batch_record.json')
-os.makedirs(os.path.dirname(batch_record_path), exist_ok=True)
-with open(batch_record_path, 'w') as file:
-    json.dump(batch_record, file)
-
-print(f"Batch record saved to {batch_record_path}")
+    except ValueError as e:
+        print(f"Error with image {image_path}: {e}")

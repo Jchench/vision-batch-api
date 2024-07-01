@@ -1,0 +1,134 @@
+PUBLIC LAW 107–204—JULY 30, 2002
+
+116 STAT. 805
+
+SEC. 902. ATTEMPTS AND CONSPIRACIES TO COMMIT CRIMINAL FRAUD OFFENSES.
+    (a) IN GENERAL.—Chapter 63 of title 18, United States Code, is amended by inserting after section 1348 as added by this Act the following:
+        “§ 1349. Attempt and conspiracy
+        “Any person who attempts or conspires to commit any offense under this chapter shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.”.
+    (b) CLERICAL AMENDMENT.—The table of sections at the beginning of chapter 63 of title 18, United States Code, is amended by adding at the end the following new item:
+        “1349. Attempt and conspiracy.”.
+
+SEC. 903. CRIMINAL PENALTIES FOR MAIL AND WIRE FRAUD.
+    (a) MAIL FRAUD.—Section 1341 of title 18, United States Code, is amended by striking “five” and inserting “20”.
+    (b) WIRE FRAUD.—Section 1343 of title 18, United States Code, is amended by striking “five” and inserting “20”.
+
+SEC. 904. CRIMINAL PENALTIES FOR VIOLATIONS OF THE EMPLOYEE RETIREMENT INCOME SECURITY ACT OF 1974.
+    Section 501 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1131) is amended—
+        (1) by striking “$5,000” and inserting “$100,000”;
+        (2) by striking “one year” and inserting “10 years”; and
+        (3) by striking “$100,000” and inserting “$500,000”.
+
+SEC. 905. AMENDMENT TO SENTENCING GUIDELINES RELATING TO CERTAIN WHITE-COLLAR OFFENSES.
+
+    (a) DIRECTIVE TO THE UNITED STATES SENTENCING COMMISSION.—Pursuant to its authority under section 994(p) of title 18, United States Code, and in accordance with this section, the United States Sentencing Commission shall review and, as appropriate, amend the Federal Sentencing Guidelines and related policy statements to implement the provisions of this Act.
+    (b) REQUIREMENTS.—In carrying out this section, the Sentencing Commission shall—
+        (1) ensure that the sentencing guidelines and policy statements reflect the serious nature of the offenses and the penalties set forth in this Act, the growing incidence of serious fraud offenses which are identified above, and the need to modify the sentencing guidelines and policy statements to deter, prevent, and punish such offenses;
+        (2) consider the extent to which the guidelines and policy statements adequately address whether the guideline offense levels and enhancements for violations of the sections amended by this Act are sufficient to deter and punish such offenses, and specifically, are adequate in view of the statutory increases in penalties contained in this Act;
+        (3) assure reasonable consistency with other relevant directives and sentencing guidelines;
+        (4) account for any additional aggravating or mitigating circumstances that might justify exceptions to the generally applicable sentencing ranges;
+
+116 STAT. 806             PUBLIC LAW 107–204—JULY 30, 2002
+        (5) make any necessary conforming changes to the sentencing guidelines; and
+        (6) assure that the guidelines adequately meet the purposes of sentencing, as set forth in section 3553(a)(2) of title 18, United States Code.
+    (c) EMERGENCY AUTHORITY AND DEADLINE FOR COMMISSION ACTION.—The United States Sentencing Commission is requested to promulgate the guidelines or amendments provided for under this section as soon as practicable, and in any event not later than 180 days after the date of enactment of this Act, in accordance with the procedures set forth in section 21(a) of the Sentencing Reform Act of 1987, as though the authority under that Act had not expired.
+
+SEC. 906. CORPORATE RESPONSIBILITY FOR FINANCIAL REPORTS.
+    (a) IN GENERAL.—Chapter 63 of title 18, United States Code, is amended by inserting after section 1349, as created by this Act, the following:
+        “§ 1350. Failure of corporate officers to certify financial reports
+            (a) CERTIFICATION OF PERIODIC FINANCIAL REPORTS.—Each periodic report containing financial statements filed by an issuer with the Securities Exchange Commission pursuant to section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a) or 78o(d)) shall be accompanied by a written statement by the chief executive officer and chief financial officer (or equivalent thereof) of the issuer.
+            (b) CONTENT.—The statement required under subsection (a) shall certify that the periodic report containing the financial statements fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a) or 78o(d)) and that information contained in the periodic report fairly presents, in all material respects, the financial condition and results of operations of the issuer.
+            (c) CRIMINAL PENALTIES.—Whoever—
+                (1) certifies any statement as set forth in subsections (a) and (b) of this section knowing that the periodic report accompanying the statement does not comport with all the requirements set forth in this section shall be fined not more than $1,000,000 or imprisoned not more than 10 years, or both; or
+                (2) willfully certifies any statement as set forth in subsections (a) and (b) of this section knowing that the periodic report accompanying the statement does not comport with all the requirements set forth in this section shall be fined not more than $5,000,000, or imprisoned not more than 20 years, or both.”.
+    (b) CLERICAL AMENDMENT.—The table of sections at the beginning of chapter 63 of title 18, United States Code, is amended by adding at the end the following:
+        “1350. Failure of corporate officers to certify financial reports.”.
+
+116 STAT. 807             PUBLIC LAW 107–204—JULY 30, 2002
+TITLE X—CORPORATE TAX RETURNS
+
+SEC. 1001. SENSE OF THE SENATE REGARDING THE SIGNING OF CORPORATE TAX RETURNS BY CHIEF EXECUTIVE OFFICERS.
+    It is the sense of the Senate that the Federal income tax return of a corporation should be signed by the chief executive officer of such corporation.
+
+TITLE XI—CORPORATE FRAUD ACCOUNTABILITY
+
+SEC. 1101. SHORT TITLE.
+    This title may be cited as the “Corporate Fraud Accountability Act of 2002”.
+
+SEC. 1102. TAMPERING WITH A RECORD OR OTHERWISE IMPEDING AN OFFICIAL PROCEEDING.
+    Section 1512 of title 18, United States Code, is amended—
+        (1) by redesignating subsections (c) through (i) as subsections (d) through (i), respectively; and
+        (2) by inserting after subsection (b) the following new subsection:
+            “(c) Whoever corruptly—
+                (1) alters, destroys, mutilates, or conceals a record, document, or other object, or attempts to do so, with the intent to impair the object’s integrity or availability for use in an official proceeding; or
+                (2) otherwise obstructs, influences, or impedes any official proceeding, or attempts to do so,
+            shall be fined under this title or imprisoned not more than 20 years, or both.”.
+
+SEC. 1103. TEMPORARY FREEZE AUTHORITY FOR THE SECURITIES AND EXCHANGE COMMISSION.
+    (a) IN GENERAL.—Section 21C(c) of the Securities Exchange Act of 1934 (15 U.S.C. 78u–3(c)) is amended by adding at the end the following:
+        “(3) TEMPORARY FREEZE.—
+            “(A) IN GENERAL.—
+                “(i) ISSUANCE OF TEMPORARY ORDER.—Whenever, during the course of a lawful investigation involving possible violations of the Federal securities laws by an issuer of publicly traded securities or any of its directors, officers, partners, controlling persons, agents, or employees, it shall appear to the Commission that it is likely that the issuer will make extraordinary payments (whether compensation or otherwise) to any of the foregoing persons, the Commission may petition a Federal district court for a temporary order requiring the issuer to escrow, subject to court supervision, those payments in an interest-bearing account for 45 days.
+                “(ii) STANDARD.—A temporary order shall be entered under clause (i), only after notice and opportunity for a hearing, unless the court determines that
+
+116 STAT. 808             PUBLIC LAW 107–204—JULY 30, 2002
+notice and hearing prior to entry of the order would be impracticable or contrary to the public interest.
+                “(iii) EFFECTIVE PERIOD.—A temporary order issued under clause (i) shall—
+                    “(I) become effective immediately;
+                    “(II) be served upon the parties subject to it; and
+                    “(III) unless set aside, limited or suspended by a court of competent jurisdiction, shall remain effective and enforceable for 45 days.
+                “(iv) EXTENSIONS AUTHORIZED.—The effective period of an order under this subparagraph may be extended by the court upon good cause shown for not longer than 45 additional days, provided that the combined period of the order shall not exceed 90 days.
+            “(B) PROCESS ON DETERMINATION OF VIOLATIONS.—
+                “(i) VIOLATIONS CHARGED.—If the issuer or other person described in subparagraph (A) is charged with any violation of the Federal securities laws before the expiration of the effective period of a temporary order under subparagraph (A) (including any applicable extension period), the order shall remain in effect, subject to court approval, until the conclusion of any legal proceedings related thereto, and the affected issuer or other person, shall have the right to petition the court for review of the order.
+                “(ii) VIOLATIONS NOT CHARGED.—If the issuer or other person described in subparagraph (A) is not charged with any violation of the Federal securities laws before the expiration of the period of the temporary period (or the expiration of any extension period, as applicable), and the disputed payments (with accrued interest) shall be returned to the issuer or other affected person.”.
+    (b) TECHNICAL AMENDMENT.—Section 21C(c)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78u–3(c)(2)) is amended by striking “This” and inserting “paragraph (1)”.
+
+SEC. 1104. AMENDMENT TO THE FEDERAL SENTENCING GUIDELINES.
+    (a) REQUEST FOR IMMEDIATE CONSIDERATION BY THE UNITED STATES SENTENCING COMMISSION.—Pursuant to its authority under section 994(p) of title 28, United States Code, and in accordance with this section, the United States Sentencing Commission is requested to—
+        (1) promptly review the sentencing guidelines applicable to securities and accounting fraud and related offenses;
+        (2) expeditiously consider the promulgation of new sentencing guidelines or amendments to existing sentencing guidelines to provide an enhancement for officers or directors of publicly traded corporations who commit fraud and related offenses; and
+        (3) submit to Congress an explanation of actions taken by the Sentencing Commission pursuant to paragraph (2) and 
+
+116 STAT. 809             PUBLIC LAW 107–204—JULY 30, 2002
+
+any additional policy recommendations the Sentencing Commission may have for combating offenses described in paragraph (1).
+    (b) CONSIDERATIONS IN REVIEW.—In carrying out this section, the Sentencing Commission is requested to—
+        (1) ensure that the sentencing guidelines and policy statements reflect the serious nature of securities, pension, and accounting fraud and the need for aggressive and appropriate law enforcement action to prevent such offenses;
+        (2) assure reasonable consistency with other relevant directives and with other guidelines;
+        (3) account for any aggravating or mitigating circumstances that might justify exceptions, including circumstances for which the sentencing guidelines currently provide sentencing enhancements;
+        (4) ensure that guideline offense levels and enhancements for an obstruction of justice offense are adequate in cases where documents or other physical evidence are actually destroyed or fabricated;
+        (5) ensure that the guideline offense levels and enhancements under United States Sentencing Guideline 2B1.1 (as in effect on the date of enactment of this Act) are sufficient to deter and punish that type of offense and are sufficient to automatically provide, for a fraud offense when the number of victims adversely involved is significantly greater than 50;
+        (6) make any necessary conforming changes to the sentencing guidelines; and
+        (7) assure that the guidelines adequately meet the purposes of sentencing as set forth in section 3553 (a)(2) of title 18, United States Code.
+    (c) EMERGENCY AUTHORITY AND DEADLINE FOR COMMISSION ACTION.—The United States Sentencing Commission is requested to promulgate the guidelines or amendments provided for under this section as soon as practicable, and in any event not later than the 180 days after the date of enactment of this Act, in accordance with the procedures set forth in section 21(a) of the Sentencing Reform Act of 1987, as though the authority under that Act had not expired.
+
+SEC. 1105. AUTHORITY OF THE COMMISSION TO PROHIBIT PERSONS FROM SERVING AS OFFICERS OR DIRECTORS.
+    (a) SECURITIES EXCHANGE ACT OF 1934.—Section 21C of the Securities Exchange Act of 1934 (15 U.S.C. 78u–3) is amended by adding at the end the following:
+        “(f) AUTHORITY OF THE COMMISSION TO PROHIBIT PERSONS FROM SERVING AS OFFICERS OR DIRECTORS.—In any cease-and-desist proceeding under subsection (a), the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 10(b) or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 12, or that is required to file reports pursuant to section 15(d), if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.”.
+    (b) SECURITIES ACT OF 1933.—Section 8A of the Securities Act of 1933 (15 U.S.C. 77h–1) is amended by adding at the end
+the following:
+
+116 STAT. 810             PUBLIC LAW 107–204—JULY 30, 2002
+        “(f) AUTHORITY OF THE COMMISSION TO PROHIBIT PERSONS FROM SERVING AS OFFICERS OR DIRECTORS.—In any cease-and-desist proceeding under subsection (a), the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 17(a)(1) or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 12, or that is required to file reports pursuant to section 15(d) of this Act, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.”.
+
+SEC. 1106. INCREASED CRIMINAL PENALTIES UNDER SECURITIES EXCHANGE ACT OF 1934.
+    Section 32(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78ff(a)) is amended—
+        (1) by striking “$1,000,000, or imprisoned not more than 10 years” and inserting “$5,000,000, or imprisoned not more than 20 years”; and
+        (2) by striking “$2,500,000” and inserting “$25,000,000”.
+
+SEC. 1107. RETALIATION AGAINST INFORMANTS.
+Penalties.
+    (a) IN GENERAL.—Section 1513 of title 18, United States Code, is amended by adding at the end the following:
+        “(e) Whoever knowingly, with the intent to retaliate, takes any action harmful to any person, including interference with the lawful employment or livelihood of any person, for providing to a law enforcement officer any truthful information relating to the commission or possible commission of any Federal offense, shall be fined under this title or imprisoned not more than 10 years, or both.”.
+
+Approved July 30, 2002.
+
+LEGISLATIVE HISTORY—H.R. 3763 (S. 2673):
+HOUSE REPORTS: Nos. 107–414 (Comm. on Financial Services) and 107–610 (Comm. of Conference).
+SENATE REPORTS: No. 107–205 accompanying S. 2673 (Comm. on Banking, Housing, and Urban Affairs).
+CONGRESSIONAL RECORD, Vol. 148 (2002):
+Apr. 24, considered and passed House.
+July 15, considered and passed Senate, amended, in lieu of S. 2673.
+July 25, House and Senate agreed to conference report.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 38 (2002):
+July 30, Presidential remarks and statement.

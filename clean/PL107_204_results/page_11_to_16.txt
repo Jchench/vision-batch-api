@@ -1,0 +1,144 @@
+PUBLIC LAW 107–204—JULY 30, 2002
+
+116 STAT. 755
+to report more frequently, as necessary to update the information contained in its application for registration under this section, and to provide to the Board such additional information as the Board or the Commission may specify, in accordance with subsection (b)(2).
+
+(e) PUBLIC AVAILABILITY.—Registration applications and annual reports required by this subsection, or such portions of such applications or reports as may be designated under rules of the Board, shall be made available for public inspection, subject to rules of the Board or the Commission, and to applicable laws relating to the confidentiality of proprietary, personal, or other information contained in such applications or reports, provided that, in all events, the Board shall protect from public disclosure information reasonably identified by the subject accounting firm as proprietary information.
+
+(f) REGISTRATION AND ANNUAL FEES.—The Board shall assess and collect a registration fee and an annual fee from each registered public accounting firm, in amounts that are sufficient to recover the costs of processing and reviewing applications and annual reports.
+
+SEC. 103. AUDITING, QUALITY CONTROL, AND INDEPENDENCE STANDARDS AND RULES.
+
+(a) AUDITING, QUALITY CONTROL, AND ETHICS STANDARDS.— 
+
+(1) IN GENERAL.—The Board shall, by rule, establish, including, to the extent it determines appropriate, through adoption of standards proposed by 1 or more professional groups of accountants designated pursuant to paragraph (3)(A) or advisory groups convened pursuant to paragraph (4), and amend or otherwise modify or alter, such auditing and related attestation standards, such quality control standards, and ethics standards to be used by registered public accounting firms in the preparation and issuance of audit reports, as required by this Act or the rules of the Commission, or as may be necessary or appropriate in the public interest or for the protection of investors.
+
+(2) RULE REQUIREMENTS.—In carrying out paragraph (1), the Board— 
+
+(A) shall include in the auditing standards that it adopts, requirements that each registered public accounting firm shall— 
+
+(i) prepare, and maintain for a period of not less than 7 years, audit work papers, and other information related to any audit report, in sufficient detail to support the conclusions reached in such report;
+(ii) provide a concurring or second partner review and approval of such audit report (and other related information), and concurring approval in its issuance, by a qualified person (as prescribed by the Board) associated with the public accounting firm, other than the person in charge of the audit, or by an independent reviewer (as prescribed by the Board); and
+(iii) describe in each audit report the scope of the auditor’s testing of the internal control structure and procedures of the issuer, required by section 404(b), and present (in such report or in a separate report)—
+
+116 STAT. 756
+
+(I) the findings of the auditor from such testing;
+(II) an evaluation of whether such internal control structure and procedures— 
+(aa) include maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets of the issuer;
+(bb) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the issuer are being made only in accordance with authorizations of management and directors of the issuer; and
+(III) a description, at a minimum, of material weaknesses in such internal controls, and of any material noncompliance found on the basis of such testing.
+
+(B) shall include, in the quality control standards that it adopts with respect to the issuance of audit reports, requirements for every registered public accounting firm relating to—
+
+(i) monitoring of professional ethics and independence from issuers on behalf of which the firm issues audit reports;
+(ii) consultation with such firm on accounting and auditing questions;
+(iii) supervision of audit work;
+(iv) hiring, professional development, and advancement of personnel;
+(v) the acceptance and continuation of engagements;
+(vi) internal inspection; and
+(vii) such other requirements as the Board may prescribe, subject to subsection (a)(1).
+
+(3) AUTHORITY TO ADOPT OTHER STANDARDS.— 
+
+(A) IN GENERAL.—In carrying out this subsection, the Board—
+
+(i) may adopt as its rules, subject to the terms of section 107, any portion of any statement of auditing standards or other professional standards that the Board determines satisfy the requirements of paragraph (1), and that were proposed by 1 or more professional groups of accountants that shall be designated or recognized by the Board, by rule, for such purpose, pursuant to this paragraph or 1 or more advisory groups convened pursuant to paragraph (4); and
+(ii) notwithstanding clause (i), shall retain full authority to modify, supplement, revise, or subsequently amend, modify, or repeal, in whole or in part, any portion of any statement described in clause (i).
+
+(B) INITIAL AND TRANSITIONAL STANDARDS.—The Board shall adopt standards described in subparagraph (A)(i) as initial or transitional standards, to the extent the Board determines necessary, prior to a determination of the
+
+116 STAT. 757
+
+Commission under section 101(d), and such standards shall be separately approved by the Commission at the time of that determination, without regard to the procedures required by section 107 that otherwise would apply to the approval of rules of the Board.
+
+(4) ADVISORY GROUPS.—The Board shall convene, or authorize its staff to convene, such expert advisory groups as may be appropriate, which may include practicing accountants and other experts, as well as representatives of other interested groups, subject to such rules as the Board may prescribe to prevent conflicts of interest, to make recommendations concerning the content (including proposed drafts) of auditing, quality control, ethics, independence, or other standards required to be established under this section.
+
+(b) INDEPENDENCE STANDARDS AND RULES.—The Board shall establish such rules as may be necessary or appropriate in the public interest or for the protection of investors, to implement, or as authorized under, title II of this Act.
+
+(c) COOPERATION WITH DESIGNATED PROFESSIONAL GROUPS OF ACCOUNTANTS AND ADVISORY GROUPS.— 
+
+(1) IN GENERAL.—The Board shall cooperate on an ongoing basis with professional groups of accountants designated under subsection (a)(3)(A) and advisory groups convened under subsection (a)(4) in the examination of the need for changes in any standards subject to its authority under subsection (a), recommend issues for inclusion on the agendas of such groups, and take such other steps as it deems appropriate to increase the effectiveness of the standard setting process.
+(2) BOARD RESPONSES.—The Board shall respond in a timely fashion to requests from designated professional groups of accountants and advisory groups referred to in paragraph (1) for any changes in standards over which the Board has authority.
+(d) EVALUATION OF STANDARD SETTING PROCESS.—The Board shall include in the annual report required by section 101(h) the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a), and its pending issues agenda for future standard setting projects.
+
+SEC. 104. INSPECTIONS OF REGISTERED PUBLIC ACCOUNTING FIRMS.
+
+(a) IN GENERAL.—The Board shall conduct a continuing program of inspections to assess the degree of compliance of each registered public accounting firm and associated persons of that firm with this Act, the rules of the Board, the rules of the Commission, or professional standards, in connection with its performance of audits, issuance of audit reports, and related matters involving issuers.
+
+(b) INSPECTION FREQUENCY.—
+
+(1) IN GENERAL.—Subject to paragraph (2), inspections required by this section shall be conducted—
+
+(A) annually with respect to each registered public accounting firm that regularly provides audit reports for more than 100 issuers; and
+
+116 STAT. 758
+
+(B) not less frequently than once every 3 years with respect to each registered public accounting firm that regularly provides audit reports for 100 or fewer issuers.
+
+(2) ADJUSTMENTS TO SCHEDULES.—The Board may, by rule, adjust the inspection schedules set under paragraph (1) if the Board finds that different inspection schedules are consistent with the purposes of this Act, the public interest, and the protection of investors. The Board may conduct special inspections at the request of the Commission or upon its own motion.
+(c) PROCEDURES.—The Board shall, in each inspection under this section, and in accordance with its rules for such inspections—
+
+(1) identify any act or practice or omission to act by the registered public accounting firm, or by any associated person thereof, revealed by such inspection that may be in violation of this Act, the rules of the Board, the rules of the Commission, the firm’s own quality control policies, or professional standards; 
+(2) report any such act, practice, or omission, if appropriate, to the Commission and each appropriate State regulatory authority; and
+(3) begin a formal investigation or take disciplinary action, if appropriate, with respect to any such violation, in accordance with this Act and the rules of the Board.
+
+(d) CONDUCT OF INSPECTIONS.—In conducting an inspection of a registered public accounting firm under this section, the Board shall—
+
+(1) inspect and review selected audit and review engagements of the firm (which may include audit engagements that are the subject of ongoing litigation or other controversy between the firm and 1 or more third parties), performed at various offices and by various associated persons of the firm, as selected by the Board;
+(2) evaluate the sufficiency of the quality control system of the firm, and the manner of the documentation and communication of that system by the firm; and
+(3) perform such other testing of the audit, supervisory, and quality control procedures of the firm as are necessary or appropriate in light of the purpose of the inspection and responsibilities of the Board.
+
+(e) RECORD RETENTION.—The rules of the Board may require the retention by registered public accounting firms for inspection purposes of records whose retention is not otherwise required by section 103 or the rules issued thereunder.
+
+(f) PROCEDURES FOR REVIEW.—The rules of the Board shall provide a procedure for the review of and response to a draft inspection report by the registered public accounting firm under inspection. The Board shall take such action with respect to such response as it considers appropriate (including revising the draft report or continuing or supplementing its inspection activities before issuing a final report), but the text of any such response, appropriately redacted to protect information reasonably identified by the accounting firm as confidential, shall be attached to and made part of the inspection report.
+
+(g) REPORT.—A written report of the findings of the Board for each inspection under this section, subject to subsection (h), shall be—
+
+116 STAT. 759
+(1) transmitted, in appropriate detail, to the Commission and each appropriate State regulatory authority, accompanied by any letter or comments by the Board or the inspector, and any letter of response from the registered public accounting firm; and
+(2) made available in appropriate detail to the public (subject to section 105(b)(5)(A), and to the protection of such confidential and proprietary information as the Board may determine to be appropriate, or as may be required by law), except that no portions of the inspection report that deal with criticisms of or potential defects in the quality control systems of the firm under inspection shall be made public if those criticisms or defects are addressed by the firm, to the satisfaction of the Board, not later than 12 months after the date of the inspection report.
+
+(h) INTERIM COMMISSION REVIEW.—
+
+(1) REVIEWABLE MATTERS.—A registered public accounting firm may seek review by the Commission, pursuant to such rules as the Commission shall promulgate, if the firm—
+
+(A) has provided the Board with a response, pursuant to rules issued by the Board under subsection (f), to the substance of particular items in a draft inspection report and disagrees with the assessments contained in any final report prepared by the Board following such response; or
+(B) disagrees with the determination of the Board that criticisms or defects identified in an inspection report have not been addressed to the satisfaction of the Board within 12 months of the date of the inspection report, for purposes of subsection (g)(2).
+
+(2) TREATMENT OF REVIEW.—Any decision of the Commission with respect to a review under paragraph (1) shall not be reviewable under section 25 of the Securities Exchange Act of 1934 (15 U.S.C. 78y), or deemed to be ‘‘final agency action’’ for purposes of section 704 of title 5, United States Code.
+(3) TIMING.—Review under paragraph (1) may be sought during the 30-day period following the date of the event giving rise to the review under subparagraph (A) or (B) of paragraph (1).
+
+SEC. 105. INVESTIGATIONS AND DISCIPLINARY PROCEEDINGS.
+
+(a) IN GENERAL.—The Board shall establish, by rule, subject to the requirements of this section, fair procedures for the investigation and disciplining of registered public accounting firms and associated persons of such firms.
+
+(b) INVESTIGATIONS.—
+
+(1) AUTHORITY.—In accordance with the rules of the Board, the Board may conduct an investigation of any act or practice, or omission to act, by a registered public accounting firm, any associated person of such firm, or both, that may violate any provision of this Act, the rules of the Board, the provisions of the securities laws relating to the preparation and issuance of audit reports and the obligations and liabilities of accountants with respect thereto, including the rules of the Commission issued under this Act, or professional standards, regardless of how the act, practice, or omission is brought to the attention of the Board.
+
+116 STAT. 760
+
+(2) TESTIMONY AND DOCUMENT PRODUCTION.—In addition to such other actions as the Board determines to be necessary or appropriate, the rules of the Board may—
+
+(A) require the testimony of the firm or of any person associated with a registered public accounting firm, with respect to any matter that the Board considers relevant or material to an investigation;
+(B) require the production of audit work papers and any other document or information in the possession of a registered public accounting firm or any associated person thereof, wherever domiciled, that the Board considers relevant or material to the investigation, and may inspect the books and records of such firm or associated person to verify the accuracy of any documents or information supplied;
+(C) request the testimony of, and production of any document in the possession of, any other person, including any client of a registered public accounting firm that the Board considers relevant or material to an investigation under this section, with appropriate notice, subject to the needs of the investigation, as permitted under the rules of the Board; and
+(D) provide for procedures to seek issuance by the Commission, in a manner established by the Commission, of a subpoena to require the testimony of, and production of any document in the possession of, any person, including any client of a registered public accounting firm that the Board considers relevant or material to an investigation under this section, as permitted under the rules of the Board.
+
+(3) NONCOOPERATION WITH INVESTIGATIONS.—
+
+(A) IN GENERAL.—If a registered public accounting firm or any associated person thereof refuses to testify, produce documents, or otherwise cooperate with the Board in connection with an investigation under this section, the Board may—
+
+(i) suspend or bar such person from being associated with a registered public accounting firm, or require the registered public accounting firm to end such association;
+(ii) suspend or revoke the registration of the registered public accounting firm; and
+(iii) invoke such other lesser sanctions as the Board considers appropriate, and as specified by rule of the Board. 
+
+(B) PROCEDURE.—Any action taken by the Board under this paragraph shall be subject to the terms of section 107(c).
+
+(4) COORDINATION AND REFERRAL OF INVESTIGATIONS.—
+
+(A) COORDINATION.—The Board shall notify the Commission of any pending Board investigation involving a potential violation of the securities laws, and thereafter coordinate its work with the work of the Commission’s Division of Enforcement, as necessary to protect an ongoing Commission investigation.
+(B) REFERRAL.—The Board may refer an investigation under this section—
+
+(i) to the Commission;

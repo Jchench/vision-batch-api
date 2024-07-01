@@ -1,0 +1,181 @@
+PUBLIC LAW 107–204—JULY 30, 2002 116 STAT. 785  
+
+States for a disgorgement fund described in subsection (a). Such gifts, bequests, and devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the disgorgement fund and shall be available for allocation in accordance with subsection (a).  
+  
+(c) STUDY REQUIRED.—  
+(1) SUBJECT OF STUDY.—The Commission shall review and analyze—  
+(A) enforcement actions by the Commission over the five years preceding the date of the enactment of this Act that have included proceedings to obtain civil penalties or disgorgements to identify areas where such proceedings may be utilized to efficiently, effectively, and fairly provide restitution for injured investors; and  
+
+(B) other methods to more efficiently, effectively, and fairly provide restitution to injured investors, including methods to improve the collection rates for civil penalties and disgorgements.  
+
+(2) REPORT REQUIRED.—The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate within 180 days after of the date of the enactment of this Act, and shall use such findings to revise its rules and regulations as necessary. The report shall include a discussion of regulatory or legislative actions that are recommended or that may be necessary to address concerns identified in the study.  
+
+(d) CONFORMING AMENDMENTS.—Each of the following provisions is amended by inserting ‘‘, except as otherwise provided in section 308 of the Sarbanes-Oxley Act of 2002’’ after ‘‘Treasury of the United States’’:  
+
+(1) Section 21(d)(3)(C)(i) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(d)(3)(C)(i)).  
+(2) Section 21A(d)(1) of such Act (15 U.S.C. 78u–1(d)(1)).  
+(3) Section 20(d)(3)(A) of the Securities Act of 1933 (15 U.S.C. 77t(d)(3)(A)).  
+(4) Section 42(e)(3)(A) of the Investment Company Act of 1940 (15 U.S.C. 80a–41(e)(3)(A)).  
+(5) Section 209(e)(3)(A) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–9(e)(3)(A)).  
+  
+(e) DEFINITION.—As used in this section, the term ‘‘disgorgement fund’’ means a fund established in any administrative or judicial proceeding described in subsection (a).  
+  
+TITLE IV—ENHANCED FINANCIAL DISCLOSURES  
+  
+SEC. 401. DISCLOSURES IN PERIODIC REPORTS.  
+  
+(a) DISCLOSURES REQUIRED.—Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following:  
+  
+‘‘(i) ACCURACY OF FINANCIAL REPORTS.—Each financial report that contains financial statements, and that is required to be presented in accordance with (or reconciled to) generally accepted accounting principles under this title and filed with the Commission shall reflect all material correcting adjustments that have been  
+
+
+
+116 STAT. 786  PUBLIC LAW 107–204—JULY 30, 2002  
+
+identified by a registered public accounting firm in accordance with generally accepted accounting principles and the rules and regulations of the Commission.  
+  
+‘‘(j) OFF-BALANCE SHEET TRANSACTIONS.—Not later than 180 days after the date of enactment of the Sarbanes-Oxley Act of 2002, the Commission shall issue final rules providing that each annual and quarterly financial report required to be filed with the Commission shall disclose all material off-balance sheet transactions, arrangements, obligations (including contingent obligations), and other relationships of the issuer with unconsolidated entities or other persons, that may have a material current or future effect on financial condition, changes in financial condition, results of operations, liquidity, capital expenditures, capital resources, or significant components of revenues or expenses.’’.  
+  
+(b) COMMISSION RULES ON PRO FORMA FIGURES.—Not later than 180 days after the date of enactment of the Sarbanes-Oxley Act fo 2002, the Commission shall issue final rules providing that pro forma financial information included in any periodic or other report filed with the Commission pursuant to the securities laws, or in any public disclosure or press or other release, shall be presented in a manner that—  
+(1) does not contain an untrue statement of a material fact or omit to state a material fact necessary in order to make the pro forma financial information, in light of the circumstances under which it is presented, not misleading; and  
+
+(2) reconciles it with the financial condition and results of operations of the issuer under generally accepted accounting principles.  
+  
+(c) STUDY AND REPORT ON SPECIAL PURPOSE ENTITIES.—  
+  
+(1) STUDY REQUIRED.—The Commission shall, not later than 1 year after the effective date of adoption of off-balance sheet disclosure rules required by section 13(j) of the Securities Exchange Act of 1934, as added by this section, complete a study of filings by issuers and their disclosures to determine—  
+(A) the extent of off-balance sheet transactions, including assets, liabilities, leases, losses, and the use of special purpose entities; and  
+(B) whether generally accepted accounting principles or financial statements of issuers reflecting the economics of such off-balance sheet transactions to investors in a transparent fashion.  
+
+Deadline.  
+Deadline.   
+
+(2) REPORT AND RECOMMENDATIONS.—Not later than 6 months after the date of completion of the study required by paragraph (1), the Commission shall submit a report to the President, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, setting forth—  
+(A) the amount or an estimate of the amount of offbalance sheet transactions, including assets, liabilities, leases, and losses of, and the use of special purpose entities by, issuers filing periodic reports pursuant to section 13 or 15 of the Securities Exchange Act of 1934;  
+(B) the extent to which special purpose entities are used to facilitate off-balance sheet transactions;  
+
+116 STAT. 787  
+
+PUBLIC LAW 107–204—JULY 30, 2002   
+(C) whether generally accepted accounting principles or the rules of the Commission result in financial statements of issuers reflecting the economics of such transactions to investors in a transparent fashion;  
+(D) whether generally accepted accounting principles specifically result in the consolidation of special purpose entities sponsored by an issuer in cases in which the issuer has the majority of the risks and rewards of the special purpose entity; and  
+
+
+
+(E) any recommendations of the Commission for improving the transparency and quality of reporting offbalance sheet transactions in the financial statements and disclosures required to be filed by an issuer with the Commission.  
+
+SEC. 402. ENHANCED CONFLICT OF INTEREST PROVISIONS.  
+  
+(a) PROHIBITION ON PERSONAL LOANS TO EXECUTIVES.—Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m), as amended by this Act, is amended by adding at the end the following:
+
+‘‘(k) PROHIBITION ON PERSONAL LOANS TO EXECUTIVES.—  
+‘‘(1) IN GENERAL.—It shall be unlawful for any issuer (as defined in section 2 of the Sarbanes-Oxley Act of 2002), directly or indirectly, including through any subsidiary, to extend or maintain credit, to arrange for the extension of credit, or to renew an extension of credit, in the form of a personal loan to or for any director or executive officer (or equivalent thereof) of that issuer. An extension of credit maintained by the issuer on the date of enactment of this subsection shall not be subject to the provisions of this subsection, provided that there is no material modification to any term of any such extension of credit or any renewal of any such extension of credit on or after that date of enactment.  
+‘‘(2) LIMITATION.—Paragraph (1) does not preclude any home improvement and manufactured home loan (as that term is defined in section 5 of the Home Owners’ Loan Act (12 U.S.C. 1464)), consumer credit (as defined in section 103 of the Truth in Lending Act (15 U.S.C. 1602)), or any extension of credit under an open end credit plan (as defined in section 103 of the Truth in Lending Act (15 U.S.C. 1602)), or a charge card (as defined in section 127(c)(4)(e) of the Truth in Lending Act (15 U.S.C. 1637(c)(4)(e)), or any extension of credit by a broker or dealer registered under section 15 of this title to an employee of that broker or dealer to buy, trade, or carry securities, that is permitted under rules or regulations of the Board of Governors of the Federal Reserve System pursuant to section 7 of this title (other than an extension of credit that would be used to purchase the stock of that issuer), that is—  
+‘‘(A) made or provided in the ordinary course of the consumer credit business of such issuer;  
+‘‘(B) of a type that is generally made available by such issuer to the public; and  
+‘‘(C) made by such issuer on market terms, or terms that are no more favorable than those offered by the issuer to the general public for such extensions of credit.  
+‘‘(3) RULE OF CONSTRUCTION FOR CERTAIN LOANS.—Paragraph (1) does not apply to any loan made or maintained   
+
+116 STAT. 788  
+
+PUBLIC LAW 107–204—JULY 30, 2002  
+  
+by an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)), if the loan is subject to the insider lending restrictions of section 22(h) of the Federal Reserve Act (12 U.S.C. 375b).’’.  
+ 
+SEC. 403. DISCLOSURES OF TRANSACTIONS INVOLVING MANAGEMENT AND PRINCIPAL STOCKHOLDERS.  
+  
+(a) AMENDMENT.—Section 16 of the Securities Exchange Act of 1934 (15 U.S.C. 78p) is amended by striking the heading of such section and subsection (a) and inserting the following:  
+
+‘‘SEC. 16. DIRECTORS, OFFICERS, AND PRINCIPAL STOCKHOLDERS.  
+‘‘(a) DISCLOSURES REQUIRED.—
+‘‘(1) DIRECTORS, OFFICERS, AND PRINCIPAL STOCKHOLDERS REQUIRED TO FILE.—Every person who is directly or indirectly the beneficial owner of more than 10 percent of any equity security (other than an exempted security) which is registered pursuant to section 12, or who is a director or an officer of the issuer of such security, shall file the statements required by this subsection with the Commission (and, if such security is registered on a national securities exchange, also with the exchange).  
+‘‘(2) TIME OF FILING.—The statements required by this subsection shall be filed—  
+‘‘(A) at the time of the registration of such security on a national securities exchange or by the effective date of a registration statement filed pursuant to section 12(g);  
+‘‘(B) within 10 days after he or she becomes such beneficial owner, director, or officer;  
+
+Deadline.  
+15 USC 78p.  
+
+PUBLIC LAW 107–204—JULY 30, 2002  
+"(C) if there has been a change in such ownership, or if such person shall have purchased or sold a securitybased swap agreement (as defined in section 206(b) of the Gramm-Leach-Bliley Act (15 U.S.C. 78c note)) involving such equity security, before the end of the second business day following the day on which the subject transaction has been executed, or at such other time as the Commission shall establish, by rule, in any case in which the Commission determines that such 2-day period is not feasible.  
+‘‘(3) CONTENTS OF STATEMENTS.—A statement filed—  
+‘‘(A) under subparagraph (A) or (B) of paragraph (2) shall contain a statement of the amount of all equity securities of such issuer of which the filing person is the beneficial owner; and  
+‘‘(B) under subparagraph (C) of such paragraph shall 
+indicate ownership by the filing person at the date of filing, any such changes in such ownership, and such purchases and sales of the security-based swap agreements as have occurred since the most recent such filing under such subparagraph.  
+‘‘(4) ELECTRONIC FILING AND AVAILABILITY.—Beginning not later than 1 year after the date of enactment of the Sarbanes- Oxley Act of 2002—  
+‘‘(A) a statement filed under subparagraph (C) of paragraph (2) shall be filed electronically;   
+Deadline.  
+‘‘(B) the Commission shall provide each statement on a publicly accessible Internet site not later than the end of the business day following that filing; and  15 USC 78p note  
+  
+116 STAT. 789  
+  
+‘‘(C) the issuer (if the issuer maintains a corporate website) shall provide that statement on that corporate website, not later than the end of the business day following that filing.”  
+  
+(b) EFFECTIVE DATE.—The amendment made by this section shall be effective 30 days after the date of the enactment of this Act.  
+  
+15 USC 78p note.  
+
+SEC. 404. MANAGEMENT ASSESSMENT OF INTERNAL CONTROLS.  
+  
+15 USC 7262.  
+
+(a) RULES REQUIRED.—The Commission shall prescribe rules requiring each annual report required by section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 78o(d)) to contain an internal control report, which shall—  
+(1) state the responsibility of management for establishing and maintaining an adequate internal control structure and procedures for financial reporting; and  
+(2) contain an assessment, as of the end of the most recent fiscal year of the issuer, of the effectiveness of the internal control structure and procedures of the issuer for financial reporting.  
+(b) INTERNAL CONTROL EVALUATION AND REPORTING.—With respect to the internal control assessment required by subsection (a), each registered public accounting firm that prepares or issues the audit report for the issuer shall attest to, and report on, the assessment made by the management of the issuer.  An attestation made under this subsection shall be made in accordance with standards for attestation engagements issued or adopted by the Board. Any such attestation shall not be the subject of a separate engagement.  
+ 
+SEC. 405. EXEMPTION.  
+  
+15 USC 7263. Regulations.  
+
+Nothing in section 401, 402, or 404, the amendments made by those sections; or the rules of the Commission under those sections shall apply to any investment company registered under section 8 of the Investment Company Act of 1940 (115 U.S.C. 80a–8).  
+
+SEC. 406. CODE OF ETHICS FOR SENIOR FINANCIAL OFFICERS.  
+
+(a) CODE OF ETHICS DISCLOSURE.—The Commission shall issue rules to require each issuer, together with periodic reports required pursuant to section 13(a) or 15(d) of the Securities Exchange Act of 1934, to disclose whether or not, and if not, the reason therefor, such issuer has adopted a code of ethics for senior financial officers, applicable to its principal financial officer and comptroller or principal accounting officer, or persons performing similar functions.  
+
+(b) CHANGES IN CODES OF ETHICS.—The Commission shall revise its regulations concerning matters requiring prompt disclosure on Form 8–K (or any successor thereto) to require the immediate disclosure, by means of the filing of such form, dissemination by the Internet or by other electronic means, by any issuer of any change in or waiver of the code of ethics for senior financial officers.  
+  
+Regulations.  
+(c) DEFINITION.—In this section, the term ‘‘code of ethics’’ means such standards as are reasonably necessary to promote—  
+  
+15 USC 7264. Regulations.  
+  
+(1) honest and ethical conduct, including the ethical handling of actual or apparent conflicts of interest between personal and professional relationships;  
+  
+116 STAT. 790  
+  
+‘‘PUBLIC LAW 107–204—JULY 30, 2002  
+  
+(2) full, fair, accurate, timely, and understandable disclosure in the periodic reports required to be filed by the issuer; and  
+(3) compliance with applicable governmental rules and regulations.  
+
+(d) DEADLINE FOR RULEMAKING.—The Commission shall—  
+(1) propose rules to implement this section, not later than 90 days after the date of enactment of this Act; and  
+(2) issue final rules to implement this section, not later than 180 days after that date of enactment.  
+  
+15 USC 7265. Regulations.  
+
+SEC. 407. DISCLOSURE OF AUDIT COMMITTEE FINANCIAL EXPERT.  
+  
+(a) RULES DEFINING ‘‘FINANCIAL EXPERT’’.—The Commission shall issue rules, as necessary or appropriate in the public interest and consistent with the protection of investors, to require each issuer, together with periodic reports required pursuant to sections 13(a) and 15(d) or the Securities Exchange Act of 1934, to disclose whether or not, and if not, the reasons therefore, the audit committee of that issuer is comprised of at least 1 member who is a financial expert, as such term is defined by the Commission.  
+(b) CONSIDERATIONS.—In defining the term ‘‘financial expert’’ for purposes of subsection (a), the Commission shall consider whether a person has, through education and experience as a public accountant or auditor or a principal financial officer, comptroller, or principal accounting officer of an issuer, or from a position involving the performance or similar functions—  
+(1) an understanding of generally accepted accounting principles and financial statements;  
+(2) experience in—  
+(A) the preparation or auditing of financial statements of generally comparable issuers; and  
+(B) the application of such principles in connection with the accounting for estimates, accruals, and reserves;  
+(3) experience with internal accounting controls; and  
+(4) an understanding of audit committee functions.  
+  
+(c) DEADLINE FOR RULEMAKING.—The Commission shall—  
+(1) propose rules to implement this section, not later than 90 days after the date of enactment of this Act; and  
+(2) issue final rules to implement this section, not later than 180 days after that date of enactment.  
+  
+15 USC 7266. Regulations.  
+
+SEC. 408. ENHANCED REVIEW OF PERIODIC DISCLOSURES BY ISSUERS.  
+  
+(a) REGULAR AND SYSTEMATIC REVIEW.—The Commission shall review disclosures made by issuers reporting under section 13(a) of the Securities Exchange Act of 1934 (including reports filed on Form 10–K), and which have a class of securities listed on a national securities exchange or traded on an automated quotation facility of a national securities association, on a regular and systematic basis for the protection of investors. Such review shall include a review of an issuer’s financial statement.  
+(b) REVIEW CRITERIA. - For purposes of scheduling the reviews required by subsection (a), the Commission shall consider, among other issues:
+(1) issuers that have issued material restatements of financial statements;
+(2) issuers that experience significant volatility in their stock price as related to other market capitalization;

@@ -1,0 +1,97 @@
+PUBLIC LAW 107-204—JULY 30, 2002 116 STAT. 765
+
+(or firms) for purposes of registration under, and oversight by the Board in accordance with, this title.
+(B) PRODUCTION OF AUDIT WORKPAPERS.—
+(1) CONSENT BY FOREIGN FIRMS.—If a foreign public accounting firm issues an opinion or otherwise performs mate-rial services upon which a registered public accounting firm relies in issuing all or part of any audit report or any opinion contained in an audit report, that foreign public accounting firm shall be deemed to have consented—
+(A) to produce its audit workpapers for the Board or the Commission in connection with any investigation by either body with respect to that audit report; and
+(B) to be subject to the jurisdiction of the courts of the United States for purposes of enforcement of any request for production of such workpapers.
+(2) CONSENT BY DOMESTIC FIRMS.—A registered public accounting firm that relies upon the opinion of a foreign public accounting firm that relies upon the opinion of a foreign public accounting firm, as described in paragraph (1), shall be deemed—
+(A) to have consented to supplying the audit workpapers of that foreign public accounting firm in response to a request for production by the Board or the Commission; and
+(B) to have secured the agreement of that foreign public accounting firm to such production, as a condition of its reliance on the opinion of that foreign public accounting firm.
+(c) EXEMPTION AUTHORITY.—The Commission, and the Board, subject to the approval of the Commission, may, by rule, regulation, or order, and as the Commission (or Board) determines necessary or appropriate in the public interest or for the protection of investors, either unconditionally or upon specified terms and conditions exempt any foreign public accounting firm, or any class of such firms, from any provision of this Act or the rules of the Board or the Commission issued under this Act.
+(d) DEFINITION.—In this section, the term “foreign public accounting firm” means a public accounting firm that is organized and operates under the laws of a foreign government or political subdivision thereof.
+
+SEC. 107. COMMISSION OVERSIGHT OF THE BOARD.
+(a) GENERAL OVERSIGHT RESPONSIBILITY.—The Commission shall have oversight and enforcement authority over the Board, as provided in this Act. The provisions of section 17(a)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78q(a)(1)), and of section 17(b)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78q(b)(1)) shall apply to the Board as fully as if the Board were a “registered securities association” for purposes of those sections 17(a)(1) and 17(b)(1).
+(b) RULES OF THE BOARD.—
+(1) DEFINITIONS.—In this section, the term “proposed rule” means any proposed rule of the Board, and any modification of any such rule.
+(2) PRIOR APPROVAL REQUIRED.—No rule of the Board shall become effective without prior approval of the Commission in accordance with this section, other than as provided in section 103(a)(3)(B) with respect to initial or transitional standards.
+
+15 USC 7217.
+
+116 STAT. 766
+
+PUBLIC LAW 107-204—JULY 30, 2002
+(3) APPROVAL CRITERIA.—The Commission shall approve a proposed rule, if it finds that the rule is consistent with the requirements of this Act and the securities laws, or is necessary or appropriate in the public interest or for the protec-tion of investors.
+(4) PROPOSED RULE PROCEDURES.—The provisions of paragraphs (1) through (3) of section 19(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78s(b)) shall govern the pro-posed rules of the Board, as fully as if the Board were a “registered securities association” for purposes of that section 19(b), except that, for purposes of this paragraph—
+(A) the phrase “consistent with the requirements of this title and the rules and regulations thereunder applicable to such organization” in section 19(b)(2) of that Act shall be deemed to read “consistent with the require-ments of title I of the Sarbanes-Oxley Act of 2002, and the rules and regulations issued thereunder applicable to such organization, or as necessary or appropriate in the public interest or for the protection of investors”; and
+(B) the phrase “otherwise in furtherance of the pur-poses of this title” in section 19(b)(3)(C) of that Act shall be deemed to read “otherwise in furtherance of the purposes of title I of the Sarbanes-Oxley Act of 2002”.
+(5) COMMISSION AUTHORITY TO AMEND RULES OF THE BOARD.—The provisions of section 19(c) of the Securities Exchange Act of 1934 (15 U.S.C. 78s(c)) shall govern the abroga-tion, deletion, or addition to portions of the rules of the Board by the Commission as fully as if the Board were a “registered securities association” for purposes of that section 19(c), except that the phrase “to conform its rules to the requirements of this title and the rules and regulations thereunder applicable to such organization, or otherwise in furtherance of the pur-poses of this title” in section 19(c) of that Act shall, for purposes of this paragraph, be deemed to read “to assure the fair administration of the Public Company Accounting Oversight Board, conform the rules promulgated by that Board to the requirements of title I of the Sarbanes-Oxley Act of 2002, or otherwise further the purposes of that Act, the securities laws, and the rules and regulations thereunder applicable to that Board”.
+(c) COMMISSION REVIEW OF DISCIPLINARY ACTION TAKEN BY THE BOARD.—
+(1) NOTICE OF SANCTION.—The Board shall promptly file notice with the Commission of any final sanction on any reg-istered public accounting firm or on any associated person thereof, in such form and containing such information as the Commission, by rule, may prescribe.
+(2) REVIEW OF SANCTIONS.—The provisions of sections 19(d)(2) and 19(e)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78s (d)(2) and (e)(1)) shall govern the review by the Commission of final disciplinary sanctions imposed by the Board (including sanctions imposed under section 105(b)(3) of this Act for noncooperation in an investigation of the Board), as fully as if the Board were a self-regulatory organization and the Commission were the appropriate regulatory agency for such organization for purposes of those sections 19(d)(2) and 19(e)(1), except that, for purposes of this paragraph—
+(A) section 105(e) of this Act (rather than that section 19(d)(2)) shall govern the extent to which application for, or institution by the Commission on its own motion of review of any disciplinary action of the Board operates as a stay of such action;
+(B) references in that section 19(e)(1) to “members” of such an organization shall be deemed to be references to registered public accounting firms;
+(C) the phrase “consistent with the purposes of this title” in that section 19(e)(1) shall be deemed to read “con-sistent with the purposes of this title and title I of the Sarbanes-Oxley Act of 2002”;
+(D) references to rules of the Municipal Securities Rule-making Board in that section 19(e)(1) shall not apply; and
+(E) the reference to section 19(e)(2) of the Securities Exchange Act of 1934 shall refer instead to section 107(c)(3) of this Act.
+(3) COMMISSION MODIFICATION AUTHORITY.—The Commis-sion may enhance, modify, cancel, reduce, or require the remiss-sion of a sanction imposed by the Board upon a registered public accounting firm or associated person thereof, if the Commission, having due regard for the public interest and the protection of investors, finds, after a proceeding in accord-ance with this subsection, that the sanction—
+(A) is not necessary or appropriate in furtherance of this Act or the securities laws;
+(B) is excessive, oppressive, inadequate, or otherwise not appropriate to the finding or the basis on which the sanction was imposed.
+(d) CENSURE OF THE BOARD; OTHER SANCTIONS.—
+(1) RESCISSION OF BOARD AUTHORITY.—The Commission, by rule, consistent with the public interest, the protection of investors, and the other purposes of this Act and the securities laws, may relieve the Board of any responsibility to enforce compliance with any provision of this Act, the securities laws, the rules of the Board, or professional standards.
+(2) CENSURE OF THE BOARD; LIMITATIONS.—The Commission may, by order, as it determines necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this Act or the securities laws, censure or impose limitations upon the activities, func-tions, and operations of the Board, if the Commission finds, on the record, after notice and opportunity for a hearing, that the Board—
+(A) has violated or is unable to comply with any provi-sion of this Act, the rules of the Board, or the securities laws; or
+(B) without reasonable justification or excuse, has failed to enforce compliance with any such provision or rule, or any professional standard by a registered public accounting firm or an associated person thereof.
+(3) CENSURE OF BOARD MEMBERS; REMOVAL FROM OFFICE.— The Commission may, as necessary or appropriate in the public interest, for the protection of investors, or otherwise in further- ance of the purposes of this Act or the securities laws, remove from office or censure any member of the Board, if the Commis-sion finds, on the record, after notice and opportunity for a hearing, that such member—
+(A) has willfully violated any provision of this Act, the rules of the Board, or the securities laws;
+(B) has willfully abused the authority of that member; or
+(C) without reasonable justification or excuse, has failed to enforce compliance with any such provision or rule, or any professional standard by any registered public accounting firm or any associated person thereof.
+
+15 USC 7219.
+
+SEC. 108. ACCOUNTING STANDARDS.
+(a) AMENDMENT TO SECURITIES ACT OF 1933.—Section 19 of the Securities Act of 1933 (15 U.S.C. 77s) is amended—
+(1) by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and
+(2) by inserting after subsection (a) the following:
+“(b) RECOGNITION OF ACCOUNTING STANDARDS.—
+“(1) IN GENERAL.—In carrying out its authority under sub-section (a) and under section 13(b) of the Securities Exchange Act of 1934, the Commission may recognize, as ‘generally accepted’ for purposes of the securities laws, any accounting principles established by a standard setting body—
+“(A) that—
+“(i) is organized as a private entity;
+“(ii) has, for administrative and operational pur-poses, a board of trustees (or equivalent body) serving in the public interest, the majority of whom are not, concurrent with their service on such board, and have not been during the 2-year period preceding such service, associated persons of any registered public accounting firm;
+/“(iii) is funded as provided in section 109 of the Sarbanes-Oxley Act of 2002;
+“(iv) has adopted procedures to ensure prompt consideration, by majority vote of its members, of changes to accounting principles necessary to reflect emerging accounting issues and changing business practices; and
+“(v) considers, in adopting accounting principles, the need to keep standards current in order to reflect changes in the business environment, the extent to which international convergence on high quality accounting standards is necessary or appropriate in the public interest and for the protection of investors; and
+“(B) that the Commission determines has the capacity to assist the Commission in fulfilling the requirements of subsection (a) and section 13(b) of the Securities Exchange Act of 1934, because, at a minimum, the standard setting body is capable of improving the accuracy and effectiveness of financial reporting and the protection of investors under the securities laws.
+
+PUBLIC LAW 107-204—JULY 30, 2002
+
+116 STAT. 769
+“(2) ANNUAL REPORT.—A standard setting body described in paragraph (1) shall submit an annual report to the Commis-sion and the public, containing audited financial statements of that standard setting body.”.
+(b) COMMISSION AUTHORITY.—The Commission shall promul-gate such rules and regulations to carry out section 19(b) of the Securities Act of 1933, as added by this section, as it deems nec-essary or appropriate in the public interest or for the protection of investors.
+(c) NO EFFECT ON COMMISSION POWERS.—Nothing in this Act, including this section and the amendment made by this section, shall be construed to impair or limit the authority of the Commis-sion to establish accounting principles or standards for purposes of enforcement of the securities laws.
+(d) STUDY AND REPORT ON ADOPTING PRINCIPLES-BASED ACCOUNT-ING.—
+(1) STUDY.—
+(A) IN GENERAL.—The Commission shall conduct a study on the adoption by the United States financial reporting system of a principles-based accounting system.
+(B) STUDY TOPICS.—The study required by subpara-graph (A) shall include an examination of—
+(i) the extent to which principles-based accounting and financial reporting exists in the United States;
+(ii) the length of time required for change from a rules-based to a principles-based financial reporting system;
+(iii) the feasibility and proposed methods by which a principles-based system may be implemented; and
+(iv) a thorough economic analysis of the implementation of a principles-based system.
+(2) REPORT.—Not later than 1 year after the date of enact-ment of this Act, the Commission shall submit a report on the results of the study required by paragraph (1) to the Com-mittee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+
+SEC. 109. FUNDING.
+(a) IN GENERAL.—The Board, and the standard setting body designated pursuant to section 19(b) of the Securities Act of 1933, as amended by section 108, shall be funded as provided in this section.
+(b) ANNUAL BUDGETS.—The Board and the standard setting body referred to in subsection (a) shall each establish a budget for each fiscal year, which shall be reviewed and approved according to their respective internal procedures not less than 1 month prior to the commencement of the fiscal year to which the budget pertains (or at the beginning of the Board’s first fiscal year, which may be a short fiscal year). The budget of the Board shall be subject to approval by the Commission. The budget for the first fiscal year of the Board shall be prepared and approved promptly fol-lowing the appointment of the initial five Board members, to permit action by the Board of the organizational tasks contemplated by section 101(d).
+(c) SOURCES AND USES OF FUNDS.—
+(1) RECOVERABLE BUDGET EXPENSES.—The budget of the Board (reduced by any registration or annual fees received under section 102(e) for the year preceding the year for which the budget is being computed, and all of the budget of the standard setting body referred to in subsection (a), for each fiscal year of each of those 2 entities, shall be payable from annual accounting support fees, in accordance with sub-sections (d) and (e). Accounting support fees and other receipts of the Board and of such standard-setting body shall not be considered public monies of the United States.
+(2) FUNDS GENERATED FROM THE COLLECTION OF MONETARY PENALTIES.—Subject to the availability in advance in an appro-priations Act, and notwithstanding subsection (i), all funds collected by the Board as the result of the assessment of monetary penalties shall be used to fund a merit scholarship program for undergraduate and graduate students enrolled in accredited accounting degree programs, which program is to be adminis-tered by the Board or by an entity or agent identified by the Board.
+(d) ANNUAL ACCOUNTING SUPPORT FEE FOR THE BOARD.—
+(1) ESTABLISHMENT OF FEE.—The Board shall establish, with the approval of the Commission, a reasonable annual accounting support fee (or a formula for the computation thereof), as may be necessary or appropriate to establish and maintain the Board. Such fee may also cover costs incurred in subsection (g), allocations for pensions, and other post-employment benefits for Board members and employees, as may be permitted by the Commission, or for expenses other-wise expected to require funding before the Board is able to assess such fees in the next fiscal period.
+(2) ASSESSMENTS.—The rules of the Board under paragraph (1) shall provide for the equitable allocation, assessment, and collection by the Board (or an agent appointed by the Board) of the fee established under paragraph (1), among issuers, in accordance with subsection (g), allowing for differentiation among classes of issuers, as appropriate.
+(e) ANNUAL ACCOUNTING SUPPORT FEE FOR STANDARD SETTING BODY.—The annual accounting support fee for the standard setting body referred to in subsection (a)—
+(1) shall be allocated in accordance with subsection (g), assessed and collected against each issuer, on behalf of the standard setting body, by 1 or more appropriate designated collection agents, as may be necessary or appropriate to pay for the budget and provide for the expenses of that standard setting body, and to provide for an independent, stable source of funding for such body, subject to review by the Commission; and
+(2) may differentiate among different classes of issuers.
+
+(f) LIMITATION ON FEE.—The amount of fees collected under this section for a fiscal year on behalf of the Board or the standards setting body, as the case may be, shall not exceed the recoverable budget expenses of the Board or body, respectively (which may include operating, capital, and accrued items), referred to in sub-section (c)(1).
+(g) ALLOCATION OF ACCOUNTING SUPPORT FEES AMONG ISSUERS— Any amount due from issuers (or a particular class of issuers) under this section to fund the budget of the Board or standard setting body referred to in subsection (a) shall be allocated among and payable by each issuer (or each issuer in

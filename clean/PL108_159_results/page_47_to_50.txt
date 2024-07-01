@@ -1,0 +1,104 @@
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+117 STAT. 1997
+
+end; (C) by inserting ‘‘or reseller’’ before the period at the end;
+(2) in paragraph (2)(A)—
+(A) by inserting ‘‘or a reseller’’ after ‘‘dispute from any consumer’’; and
+(B) by inserting ‘‘or reseller’’ before the period at the end; and
+(3) in paragraph (2)(B), by inserting ‘‘or the reseller’’ after ‘‘from the consumer’’.
+
+(b) REINVESTIGATION REQUIREMENT APPLICABLE TO RESELLERS.—Section 611 of the Fair Credit Reporting Act (15 U.S.C. 1681i), as amended by this Act, is amended by adding at the end the following:
+‘‘(f) REINVESTIGATION REQUIREMENT APPLICABLE TO RESELLERS.—
+‘‘(1) EXEMPTION FROM GENERAL REINVESTIGATION REQUIREMENT.—Except as provided in paragraph (2), a reseller shall be exempt from the requirements of this section.
+‘‘(2) ACTION REQUIRED UPON RECEIVING NOTICE OF A DISPUTE.—If a reseller receives a notice from a consumer of a dispute concerning the completeness or accuracy of any item
+of information contained in a consumer report on such consumer produced by the reseller, the reseller shall, within 5 business days of receiving the notice, and free of charge—
+‘‘(A) determine whether the item of information is incomplete or inaccurate as a result of an act or omission of the reseller; and
+‘‘(B) if—
+
+‘‘(i) the reseller determines that the item of information is incomplete or inaccurate as a result of an act or omission of the reseller, not later than 20 days after receiving the notice, correct the information in the consumer report or delete it; or
+‘‘(ii) if the reseller determines that the item of information is not incomplete or inaccurate as a result of an act or omission of the reseller, convey the notice of the dispute, together with all relevant information provided by the consumer, to each consumer reporting agency that provided the reseller with the information that is the subject of the dispute, using an address or a notification mechanism specified by the consumer reporting agency for such notices.
+
+‘‘(3) RESPONSIBILITY OF CONSUMER REPORTING AGENCY TO NOTIFY CONSUMER THROUGH RESELLER.—Upon the completion of a reinvestigation under this section of a dispute concerning the completeness or accuracy of any information in the file of a consumer by a consumer reporting agency that received notice of the dispute from a reseller under paragraph (2)—
+
+‘‘(A) the notice by the consumer reporting agency under paragraph (6), (7), or (8) of subsection (a) shall be provided to the reseller in lieu of the consumer; and
+‘‘(B) the reseller shall immediately reconvey such notice to the consumer, including any notice of a deletion by telephone in the manner required under paragraph (8)(A).
+
+‘‘(4) RESELLER REINVESTIGATIONS.—No provision of this subsection shall be construed as prohibiting a reseller from conducting a reinvestigation of a consumer dispute directly.’’.
+
+
+117 STAT. 1998
+
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+(c) TECHNICAL AND CONFORMING AMENDMENT.—Section 611(a)(2)(B) of the Fair Credit Reporting Act (15 U.S.C. 1681i(a)(2)(B)) is amended in the subparagraph heading by striking ‘‘FROM CONSUMER’’.
+
+SEC. 317. REASONABLE REINVESTIGATION REQUIRED.
+
+Section 611(a)(1)(A) of the Fair Credit Reporting Act (15 U.S.C. 1681i(a)(1)(A)) is amended by striking ‘‘shall reinvestigate free of charge’’ and inserting ‘‘shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate’’.
+
+SEC. 318. FTC STUDY OF ISSUES RELATING TO THE FAIR CREDIT REPORTING ACT.
+
+(a) STUDY REQUIRED.—
+(1) IN GENERAL.—The Commission shall conduct a study on ways to improve the operation of the Fair Credit Reporting Act.
+(2) AREAS FOR STUDY.—In conducting the study under paragraph (1), the Commission shall review—
+(A) the efficacy of increasing the number of points of identifying information that a credit reporting agency is required to match to ensure that a consumer is the correct individual to whom a consumer report relates before
+releasing a consumer report to a user, including—
+(i) the extent to which requiring additional points of such identifying information to match would—
+(I) enhance the accuracy of credit reports; and
+(II) combat the provision of incorrect consumer reports to users;
+(ii) the extent to which requiring an exact match of the first and last name, social security number, and address and ZIP Code of the consumer would enhance the likelihood of increasing credit report accuracy; and
+(iii) the effects of allowing consumer reporting agencies to use partial matches of social security numbers and name recognition software on the accuracy of credit reports;
+(B) requiring notification to consumers when negative information has been added to their credit reports, including—
+(i) the potential impact of such notification on the ability of consumers to identify errors on their credit reports; and
+(ii) the potential impact of such notification on the ability of consumers to remove fraudulent information from their credit reports;
+(C) the effects of requiring that a consumer who has experienced an adverse action based on a credit report receives a copy of the same credit report that the creditor relied on in taking the adverse action, including—
+(i) the extent to which providing such reports to consumers would increase the ability of consumers to identify errors in their credit reports; and
+(ii) the extent to which providing such reports to consumers would increase the ability of consumers
+
+
+117 STAT. 1999
+
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+to remove fraudulent information from their credit reports;
+(D) any common financial transactions that are not generally reported to the consumer reporting agencies, but would provide useful information in determining the credit worthiness of consumers; and
+(E) any actions that might be taken within a voluntary reporting system to encourage the reporting of the types of transactions described in subparagraph (D).
+(3) COSTS AND BENEFITS.—With respect to each area of study described in paragraph (2), the Commission shall consider the extent to which such requirements would benefit consumers, balanced against the cost of implementing such provisions.
+(b) REPORT REQUIRED.—Not later than 1 year after the date of enactment of this Act, the chairman of the Commission shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives containing a detailed summary of the findings and conclusions of the study under this section, together with such recommendations for legislative or administrative actions as may be appropriate.
+
+SEC. 319. FTC STUDY OF THE ACCURACY OF CONSUMER REPORTS.
+
+(a) STUDY REQUIRED.—Until the final report is submitted under subsection (b)(2), the Commission shall conduct an ongoing study of the accuracy and completeness of information contained in consumer reports or maintained by consumer reporting agen
+cies and methods for improving the accuracy and completeness of such information.
+(b) BIENNIAL REPORTS REQUIRED.—
+(1) INTERIM REPORTS.—The Commission shall submit an interim report to the Congress on the study conducted under subsection (a) at the end of the 1-year period beginning on the date of enactment of this Act and biennially thereafter for 8 years.
+(2) FINAL REPORT.—The Commission shall submit a final report to the Congress on the study conducted under subsection (a) at the end of the 2-year period beginning on the date on which the final interim report is submitted to the Congress under paragraph (1).
+(3) CONTENTS.—Each report submitted under this subsection shall contain a detailed summary of the findings and conclusions of the Commission with respect to the study required under subsection (a) and such recommendations for legislative and administrative action as the Commission may determine to be appropriate.
+
+TITLE IV—LIMITING THE USE AND SHARING OF MEDICAL INFORMATION IN THE FINANCIAL SYSTEM
+
+SEC. 411. PROTECTION OF MEDICAL INFORMATION IN THE FINANCIAL SYSTEM.
+
+(a) IN GENERAL.—Section 604(g) of the Fair Credit Reporting Act (15 U.S.C. 1681b(g)) is amended to read as follows:
+
+
+117 STAT. 2000
+
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+‘‘(g) PROTECTION OF MEDICAL INFORMATION.—
+‘‘(1) LIMITATION ON CONSUMER REPORTING AGENCIES.—A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless—
+‘‘(A) if furnished in connection with an insurance transaction, the consumer affirmatively consents to the furnishing of the report;
+‘‘(B) if furnished for employment purposes or in connection with a credit transaction—
+‘‘(i) the information to be furnished is relevant to process or effect the employment or credit transaction; and
+‘‘(ii) the consumer provides specific written consent for the furnishing of the report that describes in clear and conspicuous language the use for which the information will be furnished; or
+‘‘(C) the information to be furnished pertains solely to transactions, accounts, or balances relating to debts arising from the receipt of medical services, products, or devises, where such information, other than account status or amounts, is restricted or reported using codes that do not identify, or do not provide information sufficient to infer, the specific provider or the nature of such services, products, or devices, as provided in section 605(a)(6).
+
+‘‘(2) LIMITATION ON CREDITORS.—Except as permitted pursuant to paragraph (3)(C) or regulations prescribed under paragraph (5)(A), a creditor shall not obtain or use medical information pertaining to a consumer in connection with any determination of the consumer’s eligibility, or continued eligibility, for credit.
+‘‘(3) ACTIONS AUTHORIZED BY FEDERAL LAW, INSURANCE ACTIVITIES AND REGULATORY DETERMINATIONS.—Section 603(d)(3) shall not be construed so as to treat information or any communication of information as a consumer report if the information or communication is disclosed—
+‘‘(A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and Health Information Regulation issued by the National Association
+of Insurance Commissioners (as in effect on January 1, 2003);
+
+‘‘(B) for any purpose permitted without authorization under the Standards for Individually Identifiable Health Information promulgated by the Department of Health and Human Services pursuant to the Health Insurance Portability and Accountability Act of 1996, or referred to under section 1179 of such Act, or described in section 502(e) of Public Law 106–102; or
+‘‘(C) as otherwise determined to be necessary and appropriate, by regulation or order and subject to paragraph (6), by the Commission, any Federal banking agency or the National Credit Union Administration (with respect to any financial institution subject to the jurisdiction of such agency or Administration under paragraph (1), (2), or (3) of section 621(b), or the applicable State insurance

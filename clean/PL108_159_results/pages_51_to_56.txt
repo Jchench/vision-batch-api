@@ -1,0 +1,229 @@
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+117 STAT. 2001
+
+authority (with respect to any person engaged in providing insurance or annuities).
+
+ ‘‘(4) LIMITATION ON REDISCLOSURE OF MEDICAL INFORMA- TION.—Any person that receives medical information pursuant to paragraph (1) or (3) shall not disclose such information to any other person, except as necessary to carry out the pur- pose for which the information was initially disclosed, or as otherwise permitted by statute, regulation, or order.
+
+‘‘(5) REGULATIONS AND EFFECTIVE DATE FOR PARAGRAPH (2).—
+
+‘‘(A) REGULATIONS REQUIRED.—Each Federal banking agency and the National Credit Union Administration shall, subject to paragraph (6) and after notice and oppor- tunity for comment, prescribe regulations that permit transactions under paragraph (2) that are determined to be necessary and appropriate to protect legitimate oper- ational, transactional, risk, consumer, and other needs (and which shall include permitting actions necessary for administrative verification purposes), consistent with the intent of paragraph (2) to restrict the use of medical information for inappropriate purposes.
+
+‘‘(B) FINAL REGULATIONS REQUIRED.—The Federal banking agencies and the National Credit Union Adminis- tration shall issue the regulations required under subpara- graph (A) in final form before the end of the 6-month period beginning on the date of enactment of the Fair and Accurate Credit Transactions Act of 2003.
+
+ ‘‘(6) COORDINATION WITH OTHER LAWS.—No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.’’.
+
+ (b) RESTRICTION ON SHARING OF MEDICAL INFORMATION.—Sec- tion 603(d) of the Fair Credit Reporting Act (15 U.S.C. 1681a(d)) is amended—
+
+(1) in paragraph (2), by striking ‘‘The term’’ and inserting ‘‘Except as provided in paragraph (3), the term’’; and
+(2) by adding at the end the following new paragraph:
+
+‘‘(3) RESTRICTION ON SHARING OF MEDICAL INFORMATION.— Except for information or any communication of information disclosed as provided in section 604(g)(3), the exclusions in paragraph (2) shall not apply with respect to information dis- closed to any person related by common ownership or affiliated by corporate control, if the information is—
+
+ ‘‘(A) medical information;
+
+‘‘(B) an individualized list or description based on the payment transactions of the consumer for medical products or services; or
+
+‘‘(C) an aggregate list of identified consumers based on payment transactions for medical products or services.’’.
+
+ (c) DEFINITION.—Section 603(i) of the Fair Credit Reporting Act (15 U.S.C. 1681a(i)) is amended to read as follows:
+ ‘‘(i) MEDICAL INFORMATION.—The term ‘medical information’—
+
+ ‘‘(1) means information or data, whether oral or recorded, in any form or medium, created by or derived from a health care provider or the consumer, that relates to—
+
+‘‘(A) the past, present, or future physical, mental, or behavioral health or condition of an individual; 
+
+117 STAT. 2002
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+
+ ‘‘(B) the provision of health care to an individual; or
+        
+‘‘(C) the payment for the provision of health care to an individual.
+
+ ‘‘(2) does not include the age or gender of a consumer, demographic information about the consumer, including a con- sumer’s residence address or e-mail address, or any other information about a consumer that does not relate to the phys- ical, mental, or behavioral health or condition of a consumer, including the existence or value of any insurance policy.’’.
+
+(d) EFFECTIVE DATES.—This section shall take effect at the end of the 180-day period beginning on the date of enactment of this Act, except that paragraph (2) of section 604(g) of the Fair Credit Reporting Act (as amended by subsection (a) of this section) shall take effect on the later of—
+
+(1) the end of the 90-day period beginning on the date on which the regulations required under paragraph (5)(B) of such section 604(g) are issued in final form; or
+
+(2) the date specified in the regulations referred to in paragraph (1).
+
+SEC. 412. CONFIDENTIALITY OF MEDICAL CONTACT INFORMATION IN CONSUMER REPORTS.
+
+ (a) DUTIES OF MEDICAL INFORMATION FURNISHERS.—Section 623(a) of the Fair Credit Reporting Act (15 U.S.C. 1681s–2(a)), as amended by this Act, is amended by adding at the end the following:
+
+ ‘‘(9) DUTY TO PROVIDE NOTICE OF STATUS AS MEDICAL INFORMATION FURNISHER.—A person whose primary business is providing medical services, products, or devices, or the per- son’s agent or assignee, who furnishes information to a con- sumer reporting agency on a consumer shall be considered a medical information furnisher for purposes of this title, and shall notify the agency of such status.’’.
+
+ (b) RESTRICTION OF DISSEMINATION OF MEDICAL CONTACT INFORMATION.—Section 605(a) of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)) is amended by adding at the end the following:
+
+ ‘‘(6) The name, address, and telephone number of any med- ical information furnisher that has notified the agency of its status, unless—
+
+ ‘‘(A) such name, address, and telephone number are restricted or reported using codes that do not identify, or provide information sufficient to infer, the specific pro- vider or the nature of such services, products, or devices to a person other than the consumer; or
+      
+ ‘‘(B) the report is being provided to an insurance com- pany for a purpose relating to engaging in the business of insurance other than property and casualty insurance.’’.
+
+ (c) NO EXCEPTIONS ALLOWED FOR DOLLAR AMOUNTS.—Section 605(b) of the Fair Credit Reporting Act (15 U.S.C. 1681c(b)) is amended by striking ‘‘The provisions of subsection (a)(1) through (5)’’ and inserting ‘‘The provisions of paragraphs (1) through (5) of subsection (a),’’
+
+ (d) COORDINATION WITH OTHER LAWS.—No provision of any amendment made by this section shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
+
+117 STAT. 2003
+
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+(e) FTC REGULATION OF CODING OF TRADE NAMES.—Section 621 of the Fair Credit Reporting Act (15 U.S.C. 1681s), as amended by this Act, is amended by adding at the end the following:
+
+   ‘‘(g) FTC REGULATION OF CODING OF TRADE NAMES.—If the Commission determines that a person described in paragraph (9) of section 623(a) has not met the requirements of such paragraph, the Commission shall take action to ensure the person’s compliance with such paragraph, which may include issuing model guidelines or prescribing reasonable policies and procedures, as necessary to ensure that such person complies with such paragraph.’’.
+
+(f) TECHNICAL AND CONFORMING AMENDMENTS.—Section 604(g) of the Fair Credit Reporting Act (15 U.S.C. 1681b(g)), as amended by section 411 of this Act, is amended—
+       
+(1) in paragraph (1), by inserting ‘‘(other than medical contact information treated in the manner required under section 605(a)(6))’’ after ‘‘a consumer report that contains medical information’’; and
+       
+(2) in paragraph (2), by inserting ‘‘(other than medical information treated in the manner required under section 605(a)(6))’’ after ‘‘a creditor shall not obtain or use medical information’’.
+
+ (g) EFFECTIVE DATE.—The amendments made by this section shall take effect at the end of the 15-month period beginning on the date of enactment of this Act.
+
+TITLE V—FINANCIAL LITERACY AND EDUCATION IMPROVEMENT
+
+ SEC. 511. SHORT TITLE.
+
+This title may be cited as the ‘‘Financial Literacy and Education Improvement Act’’.
+
+ SEC. 512. DEFINITIONS.
+
+ As used in this title—
+       
+(1) the term ‘‘Chairperson’’ means the Chairperson of the Financial Literacy and Education Commission; and
+       
+(2) the term ‘‘Commission’’ means the Financial Literacy and Education Commission established under section 513.
+
+SEC. 513. ESTABLISHMENT OF FINANCIAL LITERACY AND EDUCATION COMMISSION.
+
+   
+(a) IN GENERAL.—There is established a commission to be known as the ‘‘Financial Literacy and Education Commission’’
+   
+(b) PURPOSE.—The Commission shall serve to improve the financial literacy and education of persons in the United States through development of a national strategy to promote financial literacy and education.
+   
+(c) MEMBERSHIP.—
+
+(1) COMPOSITION.—The Commission shall be composed of—
+
+(A) the Secretary of the Treasury;
+
+(B) the respective head of each of the Federal banking agencies (as defined in section 3 of the Federal Deposit Insurance Act), the National Credit Union Administration, the Securities and Exchange Commission, each of the Departments of Education, Agriculture, Defense, Health and Human Services, Housing and Urban Development.
+
+ 117 STAT. 2004 PUBLIC LAW 108–159—DEC. 4, 2003
+
+ Labor, and Veterans Affairs, the Federal Trade Commis- sion, the General Services Administration, the Small Busi- ness Administration, the Social Security Administration, the Commodity Futures Trading Commission, and the Office of Personnel Management; and
+   
+(C) at the discretion of the President, not more than 5 individuals appointed by the President from among the administrative heads of any other Federal agencies, depart- ments, or other Federal Government entities, whom the President determines to be engaged in a serious effort to improve financial literacy and education.
+
+(2) ALTERNATES.—Each member of the Commission may designate an alternate if the member is unable to attend a meeting of the Commission. Such alternate shall be an indi- vidual who exercises significant decisionmaking authority.
+
+(d) CHAIRPERSON.—The Secretary of the Treasury shall serve as the Chairperson.
+   
+(e) MEETINGS.—The Commission shall hold, at the call of the Chairperson, at least 1 meeting every 4 months. All such meetings shall be open to the public. The Commission may hold, at the call of the Chairperson, such other meetings as the Chairperson sees fit to carry out this title.
+   
+(f) QUORUM.—A majority of the members of the Commission shall constitute a quorum, but a lesser number of members may hold hearings.
+   
+(g) INITIAL MEETING.—The Commission shall hold its first meeting not later than 60 days after the date of enactment of this Act.
+
+SEC. 514. DUTIES OF THE COMMISSION.
+
+   
+(a) DUTIES.—
+       
+(1) IN GENERAL.—The Commission, through the authority of the members referred to in section 513(c), shall take such actions as it deems necessary to streamline, improve, or aug- ment the financial literacy and education programs, grants, and materials of the Federal Government, including curricula for all Americans.
+        
+(2) AREAS OF EMPHASIS.—To improve financial literacy and education, the Commission shall emphasize, among other ele- ments, basic personal income and household money manage- ment and planning skills, including how to—
+                
+(A) create household budgets, initiate savings plans, and make strategic investment decisions for education, retirement, home ownership, wealth building, or other savings goals;
+               
+(B) manage spending, credit, and debt, including credit card debt, effectively;
+                
+(C) increase awareness of the availability and signifi- cance of credit reports and credit scores in obtaining credit, the importance of their accuracy (and how to correct inac- curacies), their effect on credit terms, and the effect of common financial decisions may have on credit scores;
+
+(D) ascertain fair and favorable credit terms;
+
+(E) avoid abusive, predatory, or deceptive credit offers and financial products;
+
+(F) under stand, evaluate, and compare financial prod- ucts, services, and opportunities;
+
+117 STAT. 2005 PUBLIC LAW 108–159—DEC. 4, 2003
+
+(G) under stand resources that ought to be easily acces- sible and affordable, and that inform and educate investors as to their rights and avenues of recourse when an investor believes his or her rights have been violated by unpro- fessional conduct of market intermediaries;
+               
+(H) increase awareness of the particular financial needs and financial transactions (such as the sending of remittances) of consumers who are targeted in multilingual financial literacy and education programs and improve the development and distribution of multilingual financial lit- eracy and education materials;
+
+(I) promote bringing individuals who lack basic banking services into the financial mainstream by opening and maintaining an account with a financial institution;
+
+(J) improve financial literacy and education through all other related skills, including personal finance and related economic education, with the primary goal of pro- grams not simply to improve knowledge, but rather to improve consumers’ financial choices and outcomes.
+  
+(b) WEBSITE.—
+       
+(1) IN GENERAL.—The Commission shall establish and maintain a website, such as the domain name ‘‘FinancialLiteracy.gov’’, or a similar domain name.
+       
+(2) PURPOSES.—The website established under paragraph (1) shall—
+               
+(A) serve as a clearinghouse of information about Fed- eral financial literacy and education programs;
+              
+(B) provide a coordinated entry point for accessing information about all Federal publications, grants, and materials promoting enhanced financial literacy and edu- cation;
+
+(C) offer information on all Federal grants to promote financial literacy and education, and on how to target, apply for, and receive a grant that is most appropriate under the circumstances;
+
+(D) as the Commission considers appropriate, feature website links to efforts that have no commercial content and that feature information about financial literacy and education programs, materials, or campaigns; and
+
+(E) offer such other information as the Commission finds appropriate to share with the public in the fulfillment of its purpose.
+
+(c) TOLL-FREE HOTLINE.—The Commission shall establish a toll-free telephone number that shall be made available to members of the public seeking information about issues pertaining to finan- cial literacy and education.
+
+(d) DEVELOPMENT AND DISSEMINATION OF MATERIALS.—The Commission shall—
+
+(1) develop materials to promote financial literacy and edu- cation; and 
+
+(2) disseminate such materials to the general public.
+
+(e) COORDINATION OF EFFORTS.—The Commission shall take such steps as are necessary to coordinate and promote financial literacy and education efforts at the State and local level, including promoting partnerships among Federal, State, and local govern- ments, nonprofit organizations, and private enterprises.
+
+ 117 STAT. 2006 PUBLIC LAW 108–159—DEC. 4, 2003
+    
+(f) NATIONAL STRATEGY.—
+
+ (1) IN GENERAL.—The Commission shall—
+                          
+(A) not later than 18 months after the date of enact- ment of this Act, develop a national strategy to promote basic financial literacy and education among all American consumers; and
+                          
+(B) coordinate Federal efforts to implement the strategy developed under subparagraph (A).
+       
+(2) STRATEGY.—The strategy to promote basic financial lit- eracy and education required to be developed under paragraph (1) shall provide for—
+                
+(A) participation by State and local governments and private, nonprofit, and public institutions in the creation and implementation of such strategy;
+                
+(B) the development of methods—
+                       
+(i) to increase the general financial education level of current and future consumers of financial services and products; and
+                       
+(ii) to enhance the general understanding of finan- cial services and products;
+                
+(C) review of Federal activities designed to promote financial literacy and education, and development of a plan to improve coordination of such activities;
+                
+(D) the identification of areas of overlap and duplica- tion among Federal financial literacy and education activi- ties and proposed means of eliminating any such overlap and duplication.
+
+(3) NATIONAL STRATEGY REVIEW.—The Commission shall, not less than annually, review the national strategy developed under this subsection and make such changes and recommenda- tions as it deems necessary.
+   
+(g) CONSULTATION.—The Commission shall actively consult with a variety of representatives from private and nonprofit organiza- tions and State and local agencies, as determined appropriate by the Commission.
+
+(h) REPORTS.—
+
+(1) IN GENERAL.—Not later than 18 months after the date of the first meeting of the Commission, and annually thereafter, the Commission shall issue a report, the Strategy for Assuring Financial Empowerment (‘‘SAFE Strategy’’), to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Represent- atives on the progress of the Commission in carrying out this title.
+       
+(2) CONTENTS.—The report required under paragraph (1) shall include—
+                
+(A) the national strategy for financial literacy and edu- cation, as described under subsection (f);
+               
+(B) information concerning the implementation of the duties of the Commission under subsections (a) through (g);
+               
+(C) an assessment of the success of the Commission in implementing the national strategy developed under subsection (f);
+
+(D) an assessment of the availability, utilization, and impact of Federal financial literacy and education mate- rials;

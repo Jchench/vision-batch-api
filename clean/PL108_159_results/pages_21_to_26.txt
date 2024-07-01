@@ -1,0 +1,123 @@
+PUBLIC LAW 108–159—DEC. 4, 2003 117 STAT. 1971
+
+“(B) CONTENT OF SUMMARY.—The summary of rights prepared under subparagraph (A) shall include a description of—
+“(i) the right of a consumer to obtain a copy of a consumer report under subsection (a) from each consumer reporting agency;
+“(ii) the frequency and circumstances under which a consumer is entitled to receive a consumer report without charge under section 612;
+“(iii) the right of a consumer to dispute information in the file of the consumer under section 611;
+“(iv) the right of a consumer to obtain a credit score from a consumer reporting agency, and a description of how to obtain a credit score;
+“(v) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency without charge, as provided in the regulations of the Commission prescribed under section 211(c) of the Fair and Accurate Credit Transactions Act of 2003; and
+“(vi) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency described in section 603(w), as provided in the regulations of the Commission prescribed under section 612(a)(1)(C).
+“(C) AVAILABILITY OF SUMMARY OF RIGHTS.—The Commission shall—
+“(i) actively publicize the availability of the summary of rights prepared under this paragraph;
+“(ii) conspicuously post on its Internet website the availability of such summary of rights; and
+“(iii) promptly make such summary of rights available to consumers, on request.
+
+“(2) SUMMARY OF RIGHTS REQUIRED TO BE INCLUDED WITH AGENCY DISCLOSURES.—A consumer reporting agency shall provide to a consumer, with each written disclosure by the agency to the consumer under this section—
+“(A) the summary of rights prepared by the Commission under paragraph (1);
+“(B) in the case of a consumer reporting agency described in section 603(p), a toll-free telephone number established by the agency, at which personnel are accessible to consumers during normal business hours;
+“(C) a list of all Federal agencies responsible for enforcing any provision of this title, and the address and any appropriate phone number of each such agency, in a form that will assist the consumer in selecting the appropriate agency;
+“(D) a statement that the consumer may have additional rights under State law, and that the consumer may wish to contact a State or local consumer protection agency or a State attorney general (or the equivalent thereof) to learn of those rights; and
+“(E) a statement that a consumer reporting agency is not required to remove accurate derogatory information from the file of a consumer, unless the information is outdated under section 605 or cannot be verified.”.
+
+117 STAT. 1972 PUBLIC LAW 108–159—DEC. 4, 2003
+
+(d) RULEMAKING REQUIRED.—
+(1) IN GENERAL.—The Commission shall prescribe regulations applicable to consumer reporting agencies described in section 603(p) of the Fair Credit Reporting Act, to require the establishment of—
+(A) a centralized source through which consumers may obtain a consumer report from each such consumer reporting agency, using a single request, and without charge to the consumer, as provided in section 612(a) of the Fair Credit Reporting Act (as amended by this section); and
+(B) a standardized form for a consumer to make such a request for a consumer report by mail or through an Internet website.
+(2) CONSIDERATIONS.—In prescribing regulations under paragraph (1), the Commission shall consider—
+(A) the significant demands that may be placed on consumer reporting agencies in providing such consumer reports;
+(B) appropriate means to ensure that consumer reporting agencies can satisfactorily meet those demands, including the efficacy of a system of staggering the availability to consumers of such consumer reports; and
+(C) the ease by which consumers should be able to contact consumer reporting agencies with respect to access to such consumer reports.
+(3) CENTRALIZED SOURCE.—The centralized source for a request for a consumer report from a consumer required by this subsection shall provide for—
+(A) a toll-free telephone number for such purpose;
+(B) use of an Internet website for such purpose; and
+(C) a process for requests by mail for such purpose.
+(4) TRANSITION.—The regulations of the Commission under paragraph (1) shall provide for an orderly transition by consumer reporting agencies described in section 603(p) of the Fair Credit Reporting Act to the centralized source for consumer report distribution required by section 612(a)(1)(B), as amended by this section, in a manner that—
+(A) does not temporarily overwhelm such consumer reporting agencies with requests for disclosures of consumer reports beyond their capacity to deliver; and
+(B) does not deny creditors, other users, and consumers access to consumer reports on a time-sensitive basis for specific purposes, such as home purchases or suspicions of identity theft, during the transition period.
+(5) TIMING.—Regulations required by this subsection shall—
+(A) be issued in final form not later than 6 months after the date of enactment of this Act; and
+(B) become effective not later than 6 months after the date on which they are issued in final form.
+(6) SCOPE OF REGULATIONS.—
+(A) IN GENERAL.—The Commission shall, by rule, determine whether to require a consumer reporting agency that compiles and maintains files on consumers on substantially a nationwide basis, other than one described in section
+
+PUBLIC LAW 108–159—DEC. 4, 2003 117 STAT. 1973
+
+603(p) of the Fair Credit Reporting Act, to make free consumer reports available upon consumer request, and if so, whether such consumer reporting agencies should make such free reports available through the centralized source described in paragraph (1)(A).
+(B) CONSIDERATIONS.—Before making any determination under subparagraph (A), the Commission shall consider—
+(i) the number of requests for consumer reports to, and the number of consumer reports generated by, the consumer reporting agency, in comparison with the consumer reporting agencies described in subsections (p) and (w) of section 603 of the Fair Credit Reporting Act;
+(ii) the overall scope of the operations of the consumer reporting agency;
+(iii) the needs of consumers for access to consumer reports provided by consumer reporting agencies free of charge;
+(iv) the costs of providing access to consumer reports by consumer reporting agencies free of charge; and
+(v) the effects on the ongoing competitive viability of such consumer reporting agencies if such free access is required.
+
+SEC. 212. DISCLOSURE OF CREDIT SCORES.
+(a) STATEMENT ON AVAILABILITY OF CREDIT SCORES.—Section 609(a) of the Fair Credit Reporting Act (15 U.S.C. 1681g(a)) is amended by adding at the end the following new paragraph:
+“(6) If the consumer requests the credit file and not the credit score, a statement that the consumer may request and obtain a credit score.”.
+(b) DISCLOSURE OF CREDIT SCORES.—Section 609 of the Fair Credit Reporting Act (15 U.S.C. 1681g), as amended by this Act, is amended by adding at the end the following:
+“(f) DISCLOSURE OF CREDIT SCORES.—
+“(1) IN GENERAL.—Upon the request of a consumer for a credit score, a consumer reporting agency shall supply to the consumer a statement indicating that the information and credit scoring model may be different than the credit score that may be used by the lender, and a notice which shall include—
+“(A) the current credit score of the consumer or the most recent credit score of the consumer that was previously calculated by the credit reporting agency for a purpose related to the extension of credit;
+“(B) the range of possible credit scores under the model used;
+“(C) all of the key factors that adversely affected the credit score of the consumer in the model used, the total number of which shall not exceed 4, subject to paragraph (9);
+“(D) the date on which the credit score was created; and
+
+117 STAT. 1974 PUBLIC LAW 108–159—DEC. 4, 2003
+
+“(E) the name of the person or entity that provided the credit score or credit file upon which the credit score was created.
+“(2) DEFINITIONS.—For purposes of this subsection, the following definitions shall apply:
+“(A) CREDIT SCORE.—The term ‘credit score’—
+“(i) means a numerical value or a categorization derived from a statistical tool or modeling system used by a person who makes or arranges a loan to predict the likelihood of certain credit behaviors, including default (and the numerical value or the categorization derived from such analysis may also be referred to as a ‘risk predictor’ or ‘risk score’); and
+“(ii) does not include—
+“(I) any mortgage score or rating of an automated underwriting system that considers one or more factors in addition to credit information, including the loan to value ratio, the amount of down payment, or the financial assets of a consumer; or
+“(II) any other elements of the underwriting process or underwriting decision.
+“(B) KEY FACTORS.—The term ‘key factors’ means all relevant elements or reasons adversely affecting the credit score for the particular individual, listed in the order of their importance based on their effect on the credit score.
+“(3) TIMEFRAME AND MANNER OF DISCLOSURE.—The information required by this subsection shall be provided in the same timeframe and manner as the information described in subsection (a).
+“(4) APPLICABILITY TO CERTAIN USES.—This subsection shall not be construed so as to compel a consumer reporting agency to develop or disclose a score if the agency does not—
+“(A) distribute scores that are used in connection with residential real property loans; or
+“(B) develop scores that assist credit providers in understanding the general credit behavior of a consumer and predicting the future credit behavior of the consumer.
+“(5) APPLICABILITY TO CREDIT SCORES DEVELOPED BY ANOTHER PERSON.—
+“(A) IN GENERAL.—This subsection shall not be construed to require a consumer reporting agency that distributes credit scores developed by another person or entity to provide a further explanation of them, or to process a dispute arising pursuant to section 611, except that the consumer reporting agency shall provide the consumer with the name and address and website for contacting the person or entity who developed the score or developed the methodology of the score.
+“(B) EXCEPTION.—This paragraph shall not apply to a consumer reporting agency that develops or modifies scores that are developed by another person or entity.
+“(6) MAINTENANCE OF CREDIT SCORES NOT REQUIRED.—This subsection shall not be construed to require a consumer reporting agency to maintain credit scores in its files.
+“(7) COMPLIANCE IN CERTAIN CASES.—In complying with this subsection, a consumer reporting agency shall—
+
+PUBLIC LAW 108–159—DEC. 4, 2003 117 STAT. 1975
+
+“(A) supply the consumer with a credit score that is derived from a credit scoring model that is widely distributed to users by that consumer reporting agency in connection with residential real property loans or with a credit score that assists the consumer in understanding the credit scoring assessment of the credit behavior of the consumer and predictions about the future credit behavior of the consumer; and
+“(B) a statement indicating that the credit score provided may be different than that used by the lender.
+“(8) FAIR AND REASONABLE FEE.—A consumer reporting agency may charge a fair and reasonable fee, as determined by the Commission, for providing the information required under this subsection.
+“(9) USE OF ENQUIRIES AS A KEY FACTOR.—If a key factor that adversely affects the credit score of a consumer consists of the number of enquiries made with respect to a consumer report, that factor shall be included in the disclosure pursuant to paragraph (1)(C) without regard to the numerical limitation in such paragraph.”.
+(c) DISCLOSURE OF CREDIT SCORES BY CERTAIN MORTGAGE LENDERS.—Section 609 of the Fair Credit Reporting Act (15 U.S.C. 1681g), as amended by this Act, is amended by adding at the end the following:
+“(g) DISCLOSURE OF CREDIT SCORES BY CERTAIN MORTGAGE LENDERS.—
+“(1) IN GENERAL.—Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f), in connection with an application initiated or sought by a consumer for a closed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this section referred to as the ‘lender’) shall provide the following to the consumer as soon as reasonably practicable:
+“(A) INFORMATION REQUIRED UNDER SUBSECTION (f).—
+“(i) IN GENERAL.—A copy of the information identified in subsection (f) that was obtained from a consumer reporting agency or was developed and used by the user of the information.
+“(ii) NOTICE UNDER SUBPARAGRAPH (D).—In addition to the information provided to it by a third party that provided the credit score or scores, a lender is only required to provide the notice contained in subparagraph (D).
+“(B) DISCLOSURES IN CASE OF AUTOMATED UNDERWRITING SYSTEM.—
+“(i) IN GENERAL.—If a person that is subject to this subsection uses an automated underwriting system to underwrite a loan, that person may satisfy the obligation to provide a credit score by disclosing a credit score and associated key factors supplied by a consumer reporting agency.
+“(ii) NUMERICAL CREDIT SCORE.—However, if a numerical credit score is generated by an automated underwriting system used by an enterprise, and that score is disclosed to the person, the score shall be
+
+117 STAT. 1976 PUBLIC LAW 108–159—DEC. 4, 2003
+
+disclosed to the consumer consistent with subparagraph (C).
+“(iii) ENTERPRISE DEFINED.—For purposes of this subparagraph, the term ‘enterprise’ has the same meaning as in paragraph (6) of section 1303 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992.
+“(C) DISCLOSURES OF CREDIT SCORES OBTAINED FROM A CONSUMER REPORTING AGENCY.—A person that is subject to the provisions of this subsection and that uses a credit score, other than a credit score provided by a consumer reporting agency, may satisfy the obligation to provide a credit score by disclosing a credit score and associated key factors supplied by a consumer reporting agency.
+“(D) NOTICE TO HOME LOAN APPLICANTS.—A copy of the following notice, which shall include the name, address, and telephone number of each consumer reporting agency providing a credit score that was used:
+
+‘NOTICE TO THE HOME LOAN APPLICANT
+
+‘In connection with your application for a home loan, the lender must disclose to you the score that a consumer reporting agency distributed to users and the lender used in connection with your home loan, and the key factors affecting your credit scores.
+
+‘The credit score is a computer generated summary calculated at the time of the request and based on information that a consumer reporting agency or lender has on file. The scores are based on data about your credit history and payment patterns. Credit scores are important because they are used to assist the lender in determining whether you will obtain a loan. They may also be used to determine what interest rate you may be offered on the mortgage. Credit scores can change over time, depending on your conduct, how your credit history and payment patterns change, and how credit scoring technologies change.
+
+‘Because the score is based on information from your credit history, it is very important that you review the credit-related information that is being furnished to make sure it is accurate. Credit records may vary from one company to another.
+
+‘If you have questions about your credit score or the credit information that is furnished to you, contact the consumer reporting agency at the address and telephone number provided with this notice, or contact the lender, if the lender developed or generated the credit score. The consumer reporting agency plays no part in the decision to take any action on the loan application and is unable to provide you with specific reasons for the decision on a loan application.
+
+‘If you have questions concerning the terms of the loan, contact the lender.’.
+
+“(E) ACTIONS NOT REQUIRED UNDER THIS SUBSECTION.—This subsection shall not require any person to—
+“(i) explain the information provided pursuant to subsection (f);
+“(ii) disclose any information other than a credit score or key factors, as defined in subsection (f);

@@ -1,0 +1,132 @@
+PUBLIC LAW 107–204—JULY 30, 2002
+
+116 STAT. 795
+
+any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.’’.
+“(b) SECURITIES ACT OF 1933.—Section 20 of the Securities Act of 1933 (15 U.S.C. 77t) is amended by adding at the end the following:
+‘‘(g) AUTHORITY OF A COURT TO PROHIBIT PERSONS FROM PARTICIPATING IN AN OFFERING OF PENNY STOCK.—
+‘‘(1) IN GENERAL.—In any proceeding under subsection (a) against any person participating in, or, at the time of the alleged misconduct, who was participating in, an offering of penny stock, the court may prohibit that person from participating in an offering of penny stock, conditionally or unconditionally, and permanently or for such period of time as the court shall determine.
+‘‘(2) DEFINITION.—For purposes of this subsection, the term ‘person participating in an offering of penny stock’ includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.’’.
+
+SEC. 604. QUALIFICATIONS OF ASSOCIATED PERSONS OF BROKERS AND DEALERS.
+(a) BROKERS AND DEALERS.—Section 15(b)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78o) is amended—
+(1) by striking subparagraph (F) and inserting the following:
+‘‘(F) is subject to any order of the Commission barring or suspending the right of the person to be associated with a broker or dealer.’’; and
+(2) in subparagraph (G), by striking the period at the end and inserting the following: ‘‘; or
+‘‘(H) is subject to any final order of a State securities commission (or any agency or officer performing like functions), State authority that supervises or examines banks, savings associations, or credit unions, State insurance commission (or any agency or office performing like functions), an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(q))), or the National Credit Union Administration, that—
+‘‘(i) bars such person from association with an entity regulated by such commission, authority, agency, or officer, or from engaging in the business of securities, insurance, banking, savings association activities, or credit union activities; or
+
+116 STAT. 796
+
+PUBLIC LAW 107–204—JULY 30, 2002
+
+‘‘(ii) constitutes a final order based on violations of any laws or regulations that prohibit fraudulent, manipulative, or deceptive conduct.’’.
+(b) INVESTMENT ADVISERS.—Section 203(e) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3(e)) is amended—
+(1) by striking paragraph (7) and inserting the following: ‘‘(7) is subject to any order of the Commission barring or suspending the right of the person to be associated with an investment adviser.’’;
+(2) in paragraph (8), by striking the period at the end and inserting ‘‘; or’’; and
+(3) by adding at the end the following: ‘‘(9) is subject to any final order of a State securities commission (or any agency or officer performing like functions), State authority that supervises or examines banks, savings associations, or credit unions, State insurance commission (or any agency or office performing like functions), an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(q))), or the National Credit Union Administration, that—
+‘‘(A) bars such person from association with an entity regulated by such commission, authority, agency, or officer, or from engaging in the business of securities, insurance, banking, savings association activities, or credit union activities; or
+‘‘(B) constitutes a final order based on violations of any laws or regulations that prohibit fraudulent, manipulative, or deceptive conduct.’’.
+(c) CONFORMING AMENDMENTS.—
+(1) SECURITIES EXCHANGE ACT OF 1934.—The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended—
+(A) in section 3(a)(39)(F) (15 U.S.C. 78c(a)(39)(F))—
+(i) by striking ‘‘or (G)’’ and inserting ‘‘(H), or (G)’’; and
+(ii) by inserting ‘‘, or is subject to an order or finding,’’ before ‘‘enumerated’’;
+(B) in each of sections 15(b)(6)(A)(i) (15 U.S.C. 78o(b)(6)(A)(i)), paragraphs (2) and (4) of section 15C(e) (15 U.S.C. 78o–5(e)), and subparagraphs (A) and (C) of section 15C(c)(1) (15 U.S.C. 78o–5(c)(1))—
+(i) by striking ‘‘or (G)’’ each place that term appears and inserting ‘‘(H), or (G)’’; and
+(ii) by striking ‘‘or omission’’ each place that term appears, and inserting ‘‘, or is subject to an order or finding,’’; and
+(C) in each of paragraphs (3)(A) and (4)(C) of section 17A(c) (15 U.S.C. 78q–1(c))—
+(i) by striking ‘‘or (G)’’ each place that term appears and inserting ‘‘(H), or (G)’’; and
+(ii) by inserting ‘‘, or is subject to an order or finding,’’ before ‘‘enumerated’’ each place that term appears.
+(2) INVESTMENT ADVISERS ACT OF 1940.—Section 203(f) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3(f)) is amended—
+(A) by striking ‘‘or (8)’’ and inserting ‘‘(8), or (9)’’; and
+(B) by inserting ‘‘or (3)’’ after ‘‘paragraph (2)’’.
+
+116 STAT. 797
+
+PUBLIC LAW 107–204—JULY 30, 2002
+
+TITLE VII—STUDIES AND REPORTS
+
+SEC. 701. GAO STUDY AND REPORT REGARDING CONSOLIDATION OF PUBLIC ACCOUNTING FIRMS.
+(a) STUDY REQUIRED.—The Comptroller General of the United States shall conduct a study—
+(1) to identify—
+(A) the factors that have led to the consolidation of public accounting firms since 1989 and the consequent reduction in the number of firms capable of providing audit services to large national and multi-national business organizations that are subject to the securities laws;
+(B) the present and future impact of the condition described in subparagraph (A) on capital formation and securities markets, both domestic and international; and
+(C) solutions to any problems identified under subparagraph (B), including ways to increase competition and the number of firms capable of providing audit services to large national and multinational business organizations that are subject to the securities laws;
+(2) of the problems, if any, faced by business organizations that have resulted from limited competition among public accounting firms, including—
+(A) higher costs;
+(B) lower quality of services;
+(C) impairment of auditor independence; or
+(D) lack of choice; and
+(3) whether and to what extent Federal or State regulations impede competition among public accounting firms.
+(b) CONSULTATION.—In planning and conducting the study under this section, the Comptroller General shall consult with—
+(1) the Commission;
+(2) the regulatory agencies that perform functions similar to the Commission within the other member countries of the Group of Seven Industrialized Nations;
+(3) the Department of Justice; and
+(4) any other public or private sector organization that the Comptroller General considers appropriate.
+(c) REPORT REQUIRED.—Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit a report on the results of the study required by this section to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+
+SEC. 702. COMMISSION STUDY AND REPORT REGARDING CREDIT RATING AGENCIES.
+(a) STUDY REQUIRED.—
+(1) IN GENERAL.—The Commission shall conduct a study of the role and function of credit rating agencies in the operation of the securities market.
+(2) AREAS OF CONSIDERATION.—The study required by this subsection shall examine—
+(A) the role of credit rating agencies in the evaluation of issuers of securities;
+
+116 STAT. 798
+
+PUBLIC LAW 107–204—JULY 30, 2002
+
+(B) the importance of that role to investors and the functioning of the securities markets;
+(C) any impediments to the accurate appraisal by credit rating agencies of the financial resources and risks of issuers of securities;
+(D) any barriers to entry into the business of acting as a credit rating agency, and any measures needed to remove such barriers;
+(E) any measures which may be required to improve the dissemination of information concerning such resources and risks when credit rating agencies announce credit ratings; and
+(F) any conflicts of interest in the operation of credit rating agencies and measures to prevent such conflicts or ameliorate the consequences of such conflicts.
+(b) REPORT REQUIRED.—The Commission shall submit a report on the study required by subsection (a) to the President, the Committee on Financial Services of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate not later than 180 days after the date of enactment of this Act.
+
+SEC. 703. STUDY AND REPORT ON VIOLATORS AND VIOLATIONS.
+(a) STUDY.—The Commission shall conduct a study to determine, based upon information for the period from January 1, 1998, to December 31, 2001—
+(1) the number of securities professionals, defined as public accountants, public accounting firms, investment bankers, investment advisers, brokers, dealers, attorneys, and other securities professionals practicing before the Commission—
+(A) who have been found to have aided and abetted a violation of the Federal securities laws, including rules or regulations promulgated thereunder (collectively referred to in this section as ‘‘Federal securities laws’’), but who have not been sanctioned, disciplined, or otherwise penalized as a primary violator in any administrative action or civil proceeding, including in any settlement of such an action or proceeding (referred to in this section as ‘‘aiders and abettors’’); and
+(B) who have been found to have been primary violators of the Federal securities laws;
+(2) a description of the Federal securities laws violations committed by aiders and abettors and by primary violators, including—
+(A) the specific provision of the Federal securities laws violated;
+(B) the specific sanctions and penalties imposed upon such aiders and abettors and primary violators, including the amount of any monetary penalties assessed upon and collected from such persons;
+(C) the occurrence of multiple violations by the same person or persons, either as an aider or abettor or as a primary violator; and
+(D) whether, as to each such violator, disciplinary sanctions have been imposed, including any censure, suspension, temporary bar, or permanent bar to practice before the Commission; and 
+
+PUBLIC LAW 107–204—JULY 30, 2002
+
+116 STAT. 799
+
+(3) the amount of disgorgement, restitution, or any other fines or payments that the Commission has assessed upon and collected from, aiders and abettors and from primary violators. 
+(b) REPORT.—A report based upon the study conducted pursuant to subsection (a) shall be submitted to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives not later than 6 months after the date of enactment of this Act.
+
+SEC. 704. STUDY OF ENFORCEMENT ACTIONS. 
+(a) STUDY REQUIRED.—The Commission shall review and analyze all enforcement actions by the Commission involving violations of reporting requirements imposed under the securities laws, and restatements of financial statements, over the 5-year period preceding the date of enactment of this Act, to identify areas of reporting that are most susceptible to fraud, inappropriate manipulation, or inappropriate earnings management, such as revenue recognition and the accounting treatment of off-balance sheet special purpose entities. 
+(b) REPORT REQUIRED.—The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, not later than 180 days after the date of enactment of this Act, and shall use such findings to revise its rules and regulations, as necessary. The report shall include a discussion of regulatory or legislative steps that are recommended or that are necessary to address concerns identified in the study.
+
+SEC. 705. STUDY OF INVESTMENT BANKS.
+(a) GAO STUDY.—The Comptroller General of the United States shall conduct a study on whether investment banks and financial advisers assisted public companies in manipulating their earnings and obfuscating their true financial condition. The study should address the rule of investment banks and financial advisers— 
+(1) in the collapse of the Enron Corporation, including with respect to the design and implementation of derivatives transactions, transactions involving special purpose vehicles, and other financial arrangements that may have had the effect of altering the company’s reported financial statements in ways that obscured the true financial picture of the company;
+(2) in the failure of Global Crossing, including with respect to transactions involving swaps of fiberoptic cable capacity, in the designing transactions that may have had the effect of altering the company’s reported financial statements in ways that obscured the true financial picture of the company; and
+(3) generally, in creating and marketing transactions which may have been designed solely to enable companies to manipulate revenue streams, obtain loans, or move liabilities off balance sheets without altering the economic and business risks faced by the companies or any other mechanism to obscure a company’s financial picture.
+(b) REPORT.—The Comptroller General shall report to Congress not later than 180 days after the date of enactment of this Act on the results of the study required by this section. The report shall include a discussion of regulatory or legislative steps that are recommended or that may be necessary to address concerns identified in the study.
+
+116 STAT. 800
+
+PUBLIC LAW 107–204—JULY 30, 2002
+
+TITLE VIII—CORPORATE AND CRIMINAL FRAUD ACCOUNTABILITY
+
+SEC. 801. SHORT TITLE.
+This title may be cited as the ‘‘Corporate and Criminal Fraud Accountability Act of 2002’’.
+SEC. 802. CRIMINAL PENALTIES FOR ALTERING DOCUMENTS.
+(a) IN GENERAL.—Chapter 73 of title 18, United States Code, is amended by adding at the end the following:
+‘‘§ 1519. Destruction, alteration, or falsification of records in Federal investigations and bankruptcy 
+‘‘Whoever knowingly alters, destroys, mutilates, conceals, covers up, falsifies, or makes a false entry in any record, document, or tangible object with the intent to impede, obstruct, or influence the investigation or proper administration of any matter within the jurisdiction of any department or agency of the United States or any case filed under title 11, or in relation to or contemplation of any such matter or case, shall be fined under this title, imprisoned not more than 20 years, or both.
+‘‘§ 1520. Destruction of corporate audit records 
+‘‘(a)(1) Any accountant who conducts an audit of an issuer of securities to which section 10A(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78j–1(a)) applies, shall maintain all audit or review workpapers for a period of 5 years from the end of the fiscal period in which the audit or review was concluded.
+‘‘(2) The Securities and Exchange Commission shall promulgate, within 180 days, after adequate notice and an opportunity for comment, such rules and regulations, as are reasonably necessary, relating to the retention of relevant records such as workpapers, documents that form the basis of an audit or review, memoranda, correspondence, communications, other documents, and records (including electronic records) which are created, sent, or received in connection with an audit or review and contain conclusions, opinions, analyses, or financial data relating to such an audit or review, which is conducted by any accountant who conducts an audit of an issuer of securities to which section 10A(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78j–1(a)) applies. The Commission may, from time to time, amend or supplement the rules and regulations issued under this section, after adequate notice and an opportunity for comment, in order to ensure that such rules and regulations adequately comport with the purposes of this section.
+‘‘(b) Whoever knowingly and willfully violates subsection (a)(1), or any rule or regulation promulgated by the Securities and Exchange Commission under subsection (a)(2), shall be fined under this title, imprisoned not more than 10 years, or both.
+‘‘(c) Nothing in this section shall be deemed to diminish or relieve any person of any other duty or obligation imposed by Federal or State law or regulation to maintain, or refrain from destroying, any document.’’

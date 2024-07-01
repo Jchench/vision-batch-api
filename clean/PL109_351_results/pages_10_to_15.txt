@@ -1,0 +1,143 @@
+120 STAT. 1974             PUBLIC LAW 109–351—OCT. 13, 2006
+
+SEC. 402. REPEAL OF OVERLAPPING RULES GOVERNING PURCHASED MORTGAGE SERVICING RIGHTS.
+     Section 5(o) of the Home Owners’ Loan Act (12 U.S.C. 1464(o)) is amended—
+         (1) by striking paragraph (4) and inserting the following:
+                      ‘‘(4) [Repealed].’’; and
+         (2) in paragraph (9)(A), by striking ‘‘intangible assets, plus’’ and all that follows through the period at the end inserting ‘‘intangible assets.’’.
+
+SEC. 403. CLARIFYING CITIZENSHIP OF FEDERAL SAVINGS ASSOCIATIONS FOR FEDERAL COURT JURISDICTION.
+     Section 5 of the Home Owners’ Loan Act (12 U.S.C. 1464) is amended by adding at the end the following:
+         ‘‘(x) HOME STATE CITIZENSHIP.––In determining whether a Federal court has diversity jurisdiction over a case in which a Federal savings association is a party, the Federal savings association shall be considered to be a citizen only of the State in which such savings association has its home office.’’.
+
+SEC. 404. REPEAL OF LIMITATION ON LOANS TO ONE BORROWER.
+     Section 5(u)(2)(A) of the Home Owners’ Loan Act (12 U.S.C. 1464(u)(2)(A)) is amended—
+         (1) in clause (i)—
+             (A) by striking ‘‘for any’’ and inserting ‘‘For any’’; and
+             (B) by striking ‘‘; or’’ and inserting a period; and
+         (2) in clause (ii)—
+             (A) by striking ‘‘to develop domestic’’ and inserting ‘‘To develop domestic’’;
+             (B) by striking subclause (I); and
+             (C) by redesignating subclauses (II) through (V) as subclauses (I) through (IV), respectively.
+
+
+TITLE V––CREDIT UNION PROVISIONS
+
+SEC. 501. LEASES OF LAND ON FEDERAL FACILITIES FOR CREDIT UNIONS.
+     (a) IN GENERAL.––Section 124 of the Federal Credit Union Act (12 U.S.C. 1770) is amended—
+         (1) by striking ‘‘Upon application by any credit union’’ and inserting ‘‘Notwithstanding any other provision of law, upon application by any credit union’’;
+         (2) by inserting ‘‘on lands reserved for the use of, and under the exclusive or concurrent jurisdiction of, the United States or’’ after ‘‘officer or agency of the United States charged with the allotment of space’’;
+         (3) by inserting ‘‘lease land or’’ after ‘‘such officer or agency may in his or its discretion’’; and
+         (4) by inserting ‘‘or the facility built on the leased land’’ after ‘‘credit union to be served by the allotment of space’’.
+     (b) CLERICAL AMENDMENT.––The section heading for section 124 of the Federal Credit Union Act (12 U.S.C. 1770) is amended by inserting ‘‘OR FEDERAL LAND’’ after ‘‘BUILDINGS’’.
+
+120 STAT. 1975             PUBLIC LAW 109–351—OCT. 13, 2006
+
+SEC. 502. INCREASE IN GENERAL 12-YEAR LIMITATION OF TERM OF FEDERAL CREDIT UNION LOANS TO 15 YEARS.
+     Section 107(5) of the Federal Credit Union Act (12 U.S.C. 1757(5)) is amended in the matter preceding subparagraph (A), by striking ‘‘to make loans, the maturities of which shall not exceed twelve years’’ and inserting ‘‘to make loans, the maturities of which shall not exceed 15 years,’’.
+
+SEC. 503. CHECK CASHING AND MONEY TRANSFER SERVICES OFFERED WITHIN THE FIELD OF MEMBERSHIP.
+     Section 107(12) of the Federal Credit Union Act (12 U.S.C. 1757(12)) is amended to read as follows:
+         ‘‘(12) in accordance with regulations prescribed by the Board—
+               ‘‘(A) to sell, to persons in the field of membership, negotiable checks (including travelers checks), money orders, and other similar money transfer instruments (including international and domestic electronic fund transfers); and
+               ‘‘(B) to cash checks and money orders and receive international and domestic electronic fund transfers for persons in the field of membership for a fee;’’.
+
+SEC. 504. CLARIFICATION OF DEFINITION OF NET WORTH UNDER CERTAIN CIRCUMSTANCES FOR PURPOSES OF PROMPT CORRECTIVE ACTION.
+     Section 216(o)(2)(A) of the Federal Credit Union Act (12 U.S.C. 1790d(o)(2)(A)) is amended—
+         (1) by inserting ‘‘the’’ before ‘‘retained earnings balance’’; and
+         (2) by inserting ‘‘, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined’’ before the semicolon at the end.
+
+SEC. 505. AMENDMENTS RELATING TO NONFEDERALLY INSURED CREDIT UNIONS.
+     (a) IN GENERAL.––Subsection (a) of section 43 of the Federal Deposit Insurance Act (12 U.S.C. 1831t(a)) is amended by adding at the end the following new paragraph:
+               ‘‘(3) ENFORCEMENT BY APPROPRIATE STATE SUPERVISOR.—
+                     Any appropriate State supervisor of a private deposit insurer, and any appropriate State supervisor of a depository institution which receives deposits that are insured by a private deposit insurer, may examine and enforce compliance with this subsection under the applicable regulatory authority of such supervisor.’’.
+     (b) AMENDMENT RELATING TO DISCLOSURES REQUIRED, PERIODIC STATEMENTS, AND ACCOUNT RECORDS.—Section 43(b)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1831t(b)(1)) is amended by striking ‘‘or similar instrument evidencing a deposit’’ and inserting ‘‘or share certificate.’’.
+     (c) AMENDMENTS RELATING TO DISCLOSURES REQUIRED, ADVERTISING, PREMISES.—Section 43(b)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1831t(b)(2)) is amended to read as follows:
+         ‘‘(2) ADVERTISING; PREMISES.—
+               ‘‘(A) IN GENERAL.––Include clearly and conspicuously in all advertising, except as provided in subparagraph (B),
+
+120 STAT. 1976             PUBLIC LAW 109–351—OCT. 13, 2006
+
+and at each station or window where deposits are normally received, its principal place of business and all its branches where it accepts deposits or opens accounts (excluding automated teller machines or point of sale terminals), and on its main Internet page, a notice that the institution is not federally insured.
+               ‘‘(B) EXCEPTIONS.—The following need not include a notice that the institution is not federally insured:
+                     ‘‘(i) Any sign, document, or other item that contains the name of the depository institution, its logo, or its contact information, but only if the sign, document, or item does not include any information about the institution’s products or services or information otherwise promoting the institution.
+                     ‘‘(ii) Small utilitarian items that do not mention deposit products or insurance if inclusion of the notice would be impractical.’’.
+     (d) AMENDMENTS RELATING TO ACKNOWLEDGMENT OF DISCLOSURE.—Section 43(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1831t(b)(3)) is amended to read as follows:
+         ‘‘(3) ACKNOWLEDGMENT OF DISCLOSURE.—
+               ‘‘(A) NEW DEPOSITORS OBTAINED OTHER THAN THROUGH A CONVERSION OR MERGER.—With respect to any depositor who was not a depositor at the depository institution before the effective date of the Financial Services Regulatory Relief Act of 2006, and who is not a depositor as described in subparagraph (B), receive any deposit for the account of such depositor only if the depositor has signed a written acknowledgement that—
+                     ‘‘(i) the institution is not federally insured; and
+                     ‘‘(ii) if the institution fails, the Federal Government does not guarantee that the depositor will get back the depositor’s money.
+               ‘‘(B) NEW DEPOSITORS OBTAINED THROUGH A CONVERSION OR MERGER.—With respect to a depositor at a federally insured depository institution that converts to, or is merged into, a depository institution lacking federal insurance after the effective date of the Financial Services Regulatory Relief Act of 2006, receive any deposit for the account of such depositor only if—
+                     ‘‘(i) the depositor has signed a written acknowledgement described in subparagraph (A); or
+                     ‘‘(ii) the institution makes an attempt, as described in subparagraph (D) and sent by mail no later than 45 days after the effective date of the conversion or merger, to obtain the acknowledgment.
+               ‘‘(C) CURRENT DEPOSITORS.—Receive any deposit after the effective date of the Financial Services Regulatory Relief Act of 2006 for the account of any depositor who was a depositor on that date only if—
+                     ‘‘(i) the depositor has signed a written acknowledgment described in subparagraph (A); or
+                     ‘‘(ii) the institution has complied with the provisions of subparagraph (E) which are applicable as of the date of the deposit.
+
+120 STAT. 1977            PUBLIC LAW 109–351—OCT. 13, 2006
+
+               ‘‘(D) ALTERNATIVE PROVISION OF NOTICE TO NEW DEPOSITORS OBTAINED THROUGH A CONVERSION OR MERGER.—
+                     ‘‘(i) IN GENERAL.––Transmit to each depositor who has not signed a written acknowledgement described in subparagraph (A)––
+                           ‘‘(I) a conspicuous card containing the information described in clauses (i) and (ii) of subparagraph (A), and a line for the signature of the depositor; and
+                           ‘‘(II) accompanying materials requesting the depositor to sign the card, and return the signed card to the institution.
+               ‘‘(E) ALTERNATIVE PROVISION OF NOTICE TO CURRENT DEPOSITORS.—
+                     ‘‘(i) IN GENERAL.––Transmit to each depositor who was a depositor before the effective date of the Financial Services Regulatory Relief Act of 2006, and has not signed a written acknowledgement described in subparagraph (A)––
+                           ‘‘(I) a conspicuous card containing the information described in clauses (i) and (ii) of subparagraph (A), and a line for the signature of the depositor; and
+                           ‘‘(II) accompanying materials requesting the depositor to sign the card, and return the signed card to the institution.
+                     ‘‘(ii) MANNER AND TIMING OF NOTICE.—
+                           ‘‘(I) FIRST NOTICE.––Make the transmission described in clause (i) via mail not later than three months after the effective date of the Financial Services Regulatory Relief Act of 2006.
+                           ‘‘(II) SECOND NOTICE.––Make a second transmission described in clause (i) via mail not less than 30 days and not more than three months after a transmission to the deposit in accordance with subclause (I), if the institution has not, by the date of such mailing, received from the depositor a card referred to in clause (i) which has been signed by the depositor.’’.
+     (e) AMENDMENTS RELATING TO MANNER AND CONTENT OF DISCLOSURE.––Section 43(c) of the Federal Deposit Insurance Act (12 U.S.C. 1831t(c)) is amended to read as follows:
+         ‘‘(c) MANNER AND CONTENT OF DISCLOSURE.––To ensure that current and prospective customers understand the risks involved in foregoing Federal deposit insurance, the Federal Trade Commission, by regulation or order, shall prescribe the manner and content of disclosure required under this section, which shall be presented in such format and use such type size and manner as to be simple and easy to understand.’’.
+     (f) REPEAL OF PROVISION PROHIBITING NONDEPOSITORY INSTITUTIONS FROM ACCEPTING DEPOSITS.––Section 43 of the Federal Deposit Insurance Act (12 U.S.C. 1831t) is amended––
+         (1) by striking subsection (e); and
+         (2) by redesignating subsections (f) and (g) as subsections (e) and (f), respectively.
+
+120 STAT. 1978             PUBLIC LAW 109–351––OCT. 13, 2006
+
+(g) REPEAL OF FTC AUTHORITY TO ENFORCE INDEPENDENT AUDIT REQUIREMENT; CONCURRENT STATE ENFORCEMENT.––Subsection (f) (as redesignated by subsection (e) of this section) of section 43 of the Federal Deposit Insurance Act (12 U.S.C. 1831t(f)) is amended to read as follows:
+     ‘‘(f) ENFORCEMENT.––
+               ‘‘(1) LIMITED FTC ENFORCEMENT AUTHORITY.––Compliance with the requirements of subsections (b), (c) and (e), and any regulation prescribed or order under any such subsection, shall be enforced under the Federal Trade Commission Act by the Federal Trade Commission.
+               ‘‘(2) BROAD STATE ENFORCEMENT AUTHORITY.––
+                     ‘‘(A) IN GENERAL.––Subject to subparagraph (C), an appropriate State supervisor of a depository institution lacking Federal deposit insurance may examine and enforce compliance with the requirements of this section, and any regulation prescribed under this section.
+                     ‘‘(B) STATE POWERS.––For purposes of bringing any action to enforce compliance with this section, no provision of this section shall be construed as preventing an appropriate State supervisor of a depository institution lacking Federal deposit insurance from exercising any powers conferred on such official by the laws of such State. 
+                     ‘‘(C) LIMITATION ON STATE ACTION WHILE FEDERAL ACTION PENDING.––If the Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisor may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Commission for any violation of this section that is alleged in that complaint.’’.
+
+
+TITLE VI––DEPOSITORY INSTITUTION PROVISIONS
+
+SEC. 601. REPORTING REQUIREMENTS RELATING TO INSIDER LENDING.
+     (a) REPORTING REQUIREMENTS REGARDING LOANS TO EXECUTIVE OFFICERS OF MEMBER BANKS.––Section 22(g) of the Federal Reserve Act (12 U.S.C. 375a) is amended––
+         (1) by striking paragraphs (6) and (9); and
+         (2) by redesignating paragraphs (7), (8), and (10) as paragraphs (6), (7), and (8), respectively.
+     (b) REPORTING REQUIREMENTS REGARDING LOANS FROM CORRESPONDENT BANKS TO EXECUTIVE OFFICERS AND SHAREHOLDERS OF INSURED BANKS.––Section 106(b)(2) of the Bank Holding Company Act Amendments of 1970 (12 U.S.C. 1972(2)) is amended––
+         (1) by striking subparagraph (G); and
+         (2) by redesignating subparagraphs (H) and (I) as subparagraphs (G) and (H), respectively.
+
+SEC. 602. INVESTMENTS BY INSURED SAVINGS ASSOCIATIONS IN BANK SERVICE COMPANIES AUTHORIZED.
+     (a) IN GENERAL.––Sections 2 and 3 of the Bank Service Company Act (12 U.S.C. 1862, 1863) are each amended by striking
+
+120 STAT. 1979  PUBLIC LAW 109–351–OCT. 13, 2006
+
+    “insured bank” each place that term appears and inserting “insured depository institution”.
+    (b) TECHNICAL AND CONFORMING AMENDMENTS.–
+        (1) BANK SERVICE COMPANY ACT DEFINITIONS.–Section 1(b) of the Bank Service Company Act (12 U.S.C. 1861(b)) is amended–
+            (A) in paragraph (4)–
+                (i) by inserting “, except when such term appears in connection with the term ‘insured depository institution’,” after “means”; and
+                (ii) by striking “Federal Home Loan Bank Board” and inserting “Director of the Office of Thrift Supervision”;
+            (B) by striking paragraph (5) and inserting the following:
+                “(5) INSURED DEPOSITORY INSTITUTION.–The term ‘insured depository institution’ has the same meaning as in section 3(c) of the Federal Deposit Insurance Act.”;
+            (C) by striking “and” at the end of paragraph (7);
+            (D) by striking the period at the end of paragraph (8) and inserting “; and”;
+            (E) by adding at the end the following:
+                “(9) The terms ‘State depository institution’, ‘Federal depository institution’, ‘State savings association’ and ‘Federal savings association’ have the same meanings as in section 3 of the Federal Deposit Insurance Act.”;
+            (F) in paragraph (2), in subparagraphs (A)(ii) and (B)(ii), by striking “insured banks” each place that term appears and inserting “insured depository institutions”; and
+            (G) in paragraph (8)–
+                (i) by striking “insured bank” and inserting “insured depository institution”; and
+                (ii) by striking “insured banks” each place that term appears and inserting “insured depository institutions”.
+        (2) AMOUNT OF INVESTMENT.–Section 2 of the Bank Service Act (12 U.S.C. 1862) is amended by inserting “or savings associations, other than the limitation on amount of investment by a Federal savings association contained in section 5(t)(4)(B) of the Home Owners’ Loan Act” after “relating to banks”.
+        (3) LOCATION OF SERVICES.–Section 4 of the Bank Service Act (12 U.S.C. 1864) is amended–
+            (A) in subsection (b), by inserting “as permissible under subsection (c), (d), or (e)” after “Except”;
+            (B) in subsection (c), by inserting “or State savings association” after “State bank” each place that term appears; 
+            (C) in subsection (d), by inserting “or Federal savings association” after “national bank” each place that term appears;
+            (D) by striking subsection (e) and inserting the following:

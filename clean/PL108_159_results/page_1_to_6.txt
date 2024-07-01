@@ -1,0 +1,141 @@
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+FAIR AND ACCURATE CREDIT TRANSACTIONS ACT OF 2003
+
+117 STAT. 1952 PUBLIC LAW 108–159—DEC. 4, 2003 Dec. 4, 2003
+[H.R. 2622]
+Fair and Accurate Credit Transactions Act of 2003. 15 USC 1601 note.
+Public Law 108–159 108th Congress An Act To amend the Fair Credit Reporting Act, to prevent identity theft, improve resolution of consumer disputes, improve the accuracy of consumer records, make improvements in the use of, and consumer access to, credit information, and for other purposes. 
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, 
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+(a) SHORT TITLE.—This Act may be cited as the ‘‘Fair and Accurate Credit Transactions Act of 2003’’. 
+(b) TABLE OF CONTENTS.—The table of contents for this Act is as follows: 
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions. Sec. 3. Effective dates. 
+TITLE I—IDENTITY THEFT PREVENTION AND CREDIT HISTORY RESTORATION
+Subtitle A—Identity Theft Prevention
+Sec. 111. Amendment to definitions. 
+Sec. 112. Fraud alerts and active duty alerts. 
+Sec. 113. Truncation of credit card and debit card account numbers. 
+Sec. 114. Establishment of procedures for the identification of possible instances of identity theft. 
+Sec. 115. Authority to truncate social security numbers. 
+Subtitle B—Protection and Restoration of Identity Theft Victim Credit History
+Sec. 151. Summary of rights of identity theft victims. 
+Sec. 152. Blocking of information resulting from identity theft. 
+Sec. 153. Coordination of identity theft complaint investigations. 
+Sec. 154. Prevention of repollution of consumer reports. 
+Sec. 155. Notice by debt collectors with respect to fraudulent information. 
+Sec. 156. Statute of limitations. 
+Sec. 157. Study on the use of technology to combat identity theft. 
+TITLE II—IMPROVEMENTS IN USE OF AND CONSUMER ACCESS TO CREDIT INFORMATION
+Sec. 211. Free consumer reports. 
+Sec. 212. Disclosure of credit scores. 
+Sec. 213. Enhanced disclosure of the means available to opt out of prescreened lists. 
+Sec. 214. Affiliate sharing. 
+Sec. 215. Study of effects of credit scores and credit-based insurance scores on availability and affordability of financial products. 
+Sec. 216. Disposal of consumer report information and records. 
+Sec. 217. Requirement to disclose communications to a consumer reporting agency. 
+TITLE III—ENHANCING THE ACCURACY OF CONSUMER REPORT INFORMATION
+Sec. 311. Risk-based pricing notice.
+
+117 STAT. 1953 PUBLIC LAW 108–159—DEC. 4, 2003 
+Sec. 312. Procedures to enhance the accuracy and integrity of information furnished to consumer reporting agencies. 
+Sec. 313. FTC and consumer reporting agency action concerning complaints. 
+Sec. 314. Improved disclosure of the results of reinvestigation. 
+Sec. 315. Reconciling addresses. 
+Sec. 316. Notice of dispute through reseller. 
+Sec. 317. Reasonable reinvestigation required. 
+Sec. 318. FTC study of issues relating to the Fair Credit Reporting Act. 
+Sec. 319. FTC study of the accuracy of consumer reports. 
+TITLE IV—LIMITING THE USE AND SHARING OF MEDICAL INFORMATION IN THE FINANCIAL SYSTEM
+Sec. 411. Protection of medical information in the financial system. 
+Sec. 412. Confidentiality of medical contact information in consumer reports. 
+TITLE V—FINANCIAL LITERACY AND EDUCATION IMPROVEMENT
+Sec. 511. Short title. 
+Sec. 512. Definitions. 
+Sec. 513. Establishment of Financial Literacy and Education Commission. 
+Sec. 514. Duties of the Commission. 
+Sec. 515. Powers of the Commission. 
+Sec. 516. Commission personnel matters. 
+Sec. 517. Studies by the Comptroller General. 
+Sec. 518. The national public service multimedia campaign to enhance the state of financial literacy. 
+Sec. 519. Authorization of appropriations.
+TITLE VI—PROTECTING EMPLOYEE MISCONDUCT INVESTIGATIONS
+Sec. 611. Certain employee investigation communications excluded from definition of consumer report. 
+TITLE VII—RELATION TO STATE LAWS
+Sec. 711. Relation to State laws. 
+TITLE VIII—MISCELLANEOUS
+Sec. 811. Clerical amendments.
+SEC. 2. DEFINITIONS. 15 USC 1681 note.
+As used in this Act—
+(1) the term ‘‘Board’’ means the Board of Governors of the Federal Reserve System;
+(2) the term ‘‘Commission’’, other than as used in title V, means the Federal Trade Commission; 
+(3) the terms ‘‘consumer’’, ‘‘consumer report’’, ‘‘consumer reporting agency’’, ‘‘creditor’’, ‘‘Federal banking agencies’’, and ‘‘financial institution’’ have the same meanings as in section 603 of the Fair Credit Reporting Act, as amended by this Act; and 
+(4) the term ‘‘affiliates’’ means persons that are related by common ownership or affiliated by corporate control.
+SEC. 3. EFFECTIVE DATES. 
+Except as otherwise specifically provided in this Act and the amendments made by this Act—
+(1) before the end of the 2-month period beginning on the date of enactment of this Act, the Board and the Commission shall jointly prescribe regulations in final form establishing effective dates for each provision of this Act; and 
+(2) the regulations prescribed under paragraph (1) shall establish effective dates that are as early as possible, while allowing a reasonable time for the implementation of the provisions of this Act, but in no case shall any such effective date be later than 10 months after the date of issuance of such regulations in final form.
+
+117 STAT. 1954 PUBLIC LAW 108–159—DEC. 4, 2003
+TITLE I—IDENTITY THEFT PREVENTION AND CREDIT HISTORY RESTORATION 
+Subtitle A—Identity Theft Prevention
+SEC. 111. AMENDMENT TO DEFINITIONS.
+Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) is amended by adding at the end the following:
+‘‘(q) DEFINITIONS RELATING TO FRAUD ALERTS.— 
+‘‘(1) ACTIVE DUTY MILITARY CONSUMER.—The term ‘active duty military consumer’ means a consumer in military service who—
+‘‘(A) is on active duty (as defined in section 101(d)(1) of title 10, United States Code) or is a reservist performing duty under a call or order to active duty under a provision of law referred to in section 101(a)(13) of title 10, United States Code; and 
+‘‘(B) is assigned to service away from the usual duty station of the consumer. 
+‘‘(2) FRAUD ALERT; ACTIVE DUTY ALERT.—The terms ‘fraud alert’ and ‘active duty alert’ mean a statement in the file of a consumer that—
+‘‘(A) notifies all prospective users of a consumer report relating to the consumer that the consumer may be a victim of fraud, including identity theft, or is an active duty military consumer, as applicable; and
+‘‘(B) is presented in a manner that facilitates a clear and conspicuous view of the statement described in subparagraph (A) by any person requesting such consumer report.
+‘‘(3) IDENTITY THEFT.—The term ‘identity theft’ means a fraud committed using the identifying information of another person, subject to such further definition as the Commission may prescribe, by regulation.
+‘‘(4) IDENTITY THEFT REPORT.—The term ‘identity theft report’ has the meaning given that term by rule of the Commission, and means, at a minimum, a report—
+‘‘(A) that alleges an identity theft;
+‘‘(B) that is a copy of an official, valid report filed by a consumer with an appropriate Federal, State, or local law enforcement agency, including the United States Postal Inspection Service, or such other government agency deemed appropriate by the Commission; and 
+‘‘(C) the filing of which subjects the person filing the report to criminal penalties relating to the filing of false information if, in fact, the information in the report is false.
+‘‘(5) NEW CREDIT PLAN.—The term ‘new credit plan’ means a new account under an open end credit plan (as defined in section 103(i) of the Truth in Lending Act) or a new credit transaction not under an open end credit plan.
+‘‘(r) CREDIT AND DEBIT RELATED TERMS—
+‘‘(1) CARD ISSUER.—The term ‘card issuer’ means—
+‘‘(A) a credit card issuer, in the case of a credit card; and
+117 STAT. 1955 PUBLIC LAW 108–159—DEC. 4, 2003
+‘‘(B) a debit card issuer, in the case of a debit card.
+‘‘(2) CREDIT CARD.—The term ‘credit card’ has the same meaning as in section 103 of the Truth in Lending Act. 
+‘‘(3) DEBIT CARD.—The term ‘debit card’ means any card issued by a financial institution to a consumer for use in initiating an electronic fund transfer from the account of the consumer at such financial institution, for the purpose of transferring money between accounts or obtaining money, property, labor, or services.
+‘‘(4) ACCOUNT AND ELECTRONIC FUND TRANSFER.—The terms ‘account’ and ‘electronic fund transfer’ have the same meanings as in section 903 of the Electronic Fund Transfer Act.
+‘‘(5) CREDIT AND CREDITOR.—The terms ‘credit’ and ‘creditor’ have the same meanings as in section 702 of the Equal Credit Opportunity Act.
+‘‘(s) FEDERAL BANKING AGENCY.—The term ‘Federal banking agency’ has the same meaning as in section 3 of the Federal Deposit Insurance Act. 
+‘‘(t) FINANCIAL INSTITUTION.—The term ‘financial institution’ means a State or National bank, a State or Federal savings and loan association, a mutual savings bank, a State or Federal credit union, or any other person that, directly or indirectly, holds a transaction account (as defined in section 19(b) of the Federal Reserve Act) belonging to a consumer. 
+‘‘(u) RESELLER.—The term ‘reseller’ means a consumer reporting agency that—
+‘‘(1) assembles and merges information contained in the database of another consumer reporting agency or multiple consumer reporting agencies concerning any consumer for purposes of furnishing such information to any third party, to the extent of such activities; and
+‘‘(2) does not maintain a database of the assembled or merged information from which new consumer reports are produced.
+‘‘(v) COMMISSION.—The term ‘Commission’ means the Federal Trade Commission.
+‘‘(w) NATIONWIDE SPECIALTY CONSUMER REPORTING AGENCY.— The term ‘nationwide specialty consumer reporting agency’ means a consumer reporting agency that compiles and maintains files on consumers on a nationwide basis relating to—
+‘‘(1) medical records or payments; 
+‘‘(2) residential or tenant history; 
+‘‘(3) check writing history; 
+‘‘(4) employment history; or 
+‘‘(5) insurance claims.’’.
+
+SEC. 112. FRAUD ALERTS AND ACTIVE DUTY ALERTS.
+(a) FRAUD ALERTS.—The Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended by inserting after section 605 the following:
+‘‘§ 605A. Identity theft prevention; fraud alerts and active duty alerts
+15 USC 1681c–1.
+15 USC 1681c–1.
+‘‘(a) ONE-CALL FRAUD ALERTS.—
+‘‘(1) INITIAL ALERTS.—Upon the direct request of a consumer, or an individual acting on behalf of or as a personal representative of a consumer, who asserts in good faith a suspicion that the consumer has been or is about to become a
+
+117 STAT. 1956 PUBLIC LAW 108–159—DEC. 4, 2003
+victim of fraud or related crime, including identity theft, a consumer reporting agency described in section 603(p) that maintains a file on the consumer and has received appropriate proof of the identity of the requester shall—
+‘‘(A) include a fraud alert in the file of that consumer, and also provide that alert along with any credit score generated in using that file, for a period of not less than 90 days, beginning on the date of such request, unless the consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose; and
+‘‘(B) refer the information regarding the fraud alert under this paragraph to each of the other consumer reporting agencies described in section 603(p), in accordance with procedures developed under section 621(f).
+‘‘(2) ACCESS TO FREE REPORTS.—In any case in which a consumer reporting agency includes a fraud alert in the file of a consumer pursuant to this subsection, the consumer reporting agency shall—
+Deadline.
+‘‘(A) disclose to the consumer that the consumer may request a free copy of the file of the consumer pursuant to section 612(d); and
+‘‘(B) provide to the consumer all disclosures required to be made under section 609, without charge to the consumer, not later than 3 business days after any request described in subparagraph (A). 
+‘‘(b) EXTENDED ALERTS.—
+‘‘(1) IN GENERAL.—Upon the direct request of a consumer, or an individual acting on behalf of or as a personal representative of a consumer, who submits an identity theft report to a consumer reporting agency described in section 603(p) that maintains a file on the consumer, if the agency has received appropriate proof of the identity of the requester, the agency shall—
+‘‘(A) include a fraud alert in the file of that consumer, and also provide that alert along with any credit score generated in using that file, during the 7-year period beginning on the date of such request, unless the consumer or such representative requests that such fraud alert be removed before the end of such period and the agency has received appropriate proof of the identity of the requester for such purpose;
+‘‘(B) during the 5-year period beginning on the date of such request, exclude the consumer from any list of consumers prepared by the consumer reporting agency and provided to any third party to offer credit or insurance to the consumer as part of a transaction that was not initiated by the consumer, unless the consumer or such representative requests that such exclusion be rescinded before the end of such period; and
+‘‘(C) refer the information regarding the extended fraud alert under this paragraph to each of the other consumer reporting agencies described in section 603(p), in accordance with procedures developed under section 621(f).
+‘‘(2) ACCESS TO FREE REPORTS.—In any case in which a consumer reporting agency includes a fraud alert in the file

@@ -1,0 +1,132 @@
+120 STAT. 1980
+
+PUBLIC LAW 109-351—OCT. 13, 2006
+
+   ‘‘(e) PERFORMANCE WHERE STATE BANK AND NATIONAL BANK
+ARE SHAREHOLDERS OR MEMBERS.—A bank service company may perform—
+   ‘‘(1) only those services that each depository institution shareholder or member is otherwise authorized to perform under any applicable Federal or State law; and
+   ‘‘(2) such services only at locations in a State in which each such shareholder or member is authorized to perform such services.’’; and
+   (E) in subsection (f), by inserting ‘‘or savings associa-
+tions’’ after ‘‘location of banks’’.
+   (4) PRIOR APPROVAL OF INVESTMENTS.—Section 5 of the Bank Service Company Act (12 U.S.C. 1865) is amended—
+   (A) in subsection (a)—
+   (i) by striking ‘‘insured bank’’ and inserting ‘‘insured depository institution’’; and
+   (ii) by striking ‘‘bank’s’’; and
+   (iii) by inserting before the period ‘‘for the insured depository institution’’;
+   (B) in subsection (b)—
+   (i) by striking ‘‘insured bank’’ and inserting ‘‘insured depository institution’’;
+   (ii) by inserting ‘‘authorized only’’ after ‘‘performs any service’’; and 
+   (iii) by inserting ‘‘authorized only’’ after ‘‘performs any activity’’; and
+   (C) in subsection (c)—
+   (i) by striking ‘‘the bank or banks’’ and inserting ‘‘any insured depository institution’’;
+   (ii) by striking ‘‘capability’’ of the bank’’ and inserting ‘‘capability of the insured depository institution’’.
+   (5) REGULATION AND EXAMINATION.—Section 7 of the Bank Service Company Act (12 U.S.C. 1867) is amended—
+   (A) in subsection (b), by striking ‘‘insured bank’’ and inserting ‘‘insured depository institution’’; and
+   (B) in subsection (c)—
+   (i) by striking ‘‘a bank’’ each place that term appears and inserting ‘‘a depository institution’’; and
+   (ii) by striking ‘‘the bank’’ each place that term appears and inserting ‘‘the depository institution’’.
+	SEC. 603. AUTHORIZATION FOR MEMBER BANK TO USE PASS-THROUGH
+		RESERVE ACCOUNTS.
+Section 19(c)(1)(B) of the Federal Reserve Act (12 U.S.C. 461(c)(1)(B)) is amended by striking ‘‘which is not a member bank’’.
+	SEC. 604. STREAMLINING REPORTS OF CONDITION.
+Section 7(a) of the Federal Deposit Insurance Act (12 U.S.C. 1817(a)) is amended by adding at the end the following:
+   ‘‘(11) STREAMLINING REPORTS OF CONDITION.—
+   ‘‘(A) REVIEW OF INFORMATION AND SCHEDULES.—Before the end of the 1-year period beginning on the date of enactment of the Financial Services Regulatory Relief Act of 2006 and before the end of each 5-year period thereafter, each Federal banking agency shall, in conjunction with the other relevant Federal banking agencies, review the information and schedules that are required to be filed 120 STAT. 1981
+
+PUBLIC LAW 109-351—OCT. 13, 2006
+
+   by an insured depository institution in a report of condition required under paragraph (3).
+   ‘‘(B) REDUCTION OR ELIMINATION OF INFORMATION FOUND TO BE UNNECESSARY.—After completing the review required by subparagraph (A), a Federal banking agency, in conjunction with the other relevant Federal banking agencies, shall reduce or eliminate any requirement to file information or schedules under paragraph (3) (other than information or schedules that are otherwise required by law) if the agency determines that the continued collec- tion of such information or schedules is no longer necessary or appropriate.’’.
+	SEC. 605. EXPANSION OF ELIGIBILITY FOR 18-MONTH EXAMINATION
+		SCHEDULE FOR COMMUNITY BANKS.
+Section 10(d)(4)(A) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)(4)(A)) is amended by striking ‘‘$250,000,000’’ and inserting ‘‘$500,000,000’’.
+	SEC. 606. STREAMLINING DEPOSITORY INSTITUTION MERGER
+		APPLICATION REQUIREMENTS.
+   (a) IN GENERAL.—Section 18(c)(4) of the Federal Deposit Insur-
+ance Act (12 U.S.C. 1828(c)(4)) is amended to read as follows:
+       ‘‘(4) REPORTS ON COMPETITIVE FACTORS.—
+   ‘‘(A) REQUEST FOR REPORT.—In the interests of uniform standards and subject to subparagraph (B), before acting on any application for approval of a merger transaction, the responsible agency shall—
+       ‘‘(i) request a report on the competitive factors involved from the Attorney General of the United States; and
+   ‘‘(ii) provide a copy of the request to the Corporation (when the Corporation is not the responsible agency).
+       ‘‘(B) FURNISHING OF REPORT.—The report requested under subparagraph (A) shall be furnished by the Attorney General to the responsible agency—
+       ‘‘(i) not later than 30 calendar days after the date on which the Attorney General received the request; or
+       ‘‘(ii) not later than 10 calendar days after such date, if the requesting agency advises the Attorney General that an emergency exists requiring expeditious action.
+       ‘‘(C) EXCEPTIONS.—A responsible agency may not be required to request a report under subparagraph (A) if—
+       ‘‘(i) the responsible agency finds that it must act immediately in order to prevent the probable failure of 1 of the insured depository institutions involved in the merger transaction; or
+     ‘‘(ii) the merger transaction involves solely an insured depository institution and 1 or more of the affiliates of such depository institution.’’.
+   (b) TECHNICAL AND CONFORMING AMENDMENTS.—Section
+18(c)(6) of the Federal Deposit Insurance Act (12 U.S.C. 1828(c)(6)) is amended—
+   (1) in the second sentence, by striking ‘‘banks or savings associations involved and reports on the competitive factors 120 STAT. 1982
+
+PUBLIC LAW 109-351—OCT. 13, 2006
+
+have’’ and inserting ‘‘insured depository institutions involved, or if the proposed merger transaction is solely between an insured depository institution and 1 or more of its affiliates, and the report on the competitive factors has’’; and
+   (2) by striking the penultimate sentence and inserting the following: ‘‘If the agency has advised the Attorney General under paragraph (4)(B)(ii) of the existence of an emergency requiring expeditious action and has requested a report on the competitive factors within 10 days, the transaction may not be consummated before the fifth calendar day after the date of approval by the agency.’’.
+	SEC. 607. NONWAIVER OF PRIVILEGES.
+   (a) INSURED DEPOSITORY INSTITUTIONS.—Section 18 of the Fed-
+eral Deposit Insurance Act (12 U.S.C. 1828) is amended by adding at the end the following:
+       ‘‘(x) PRIVILEGES NOT AFFECTED BY DISCLOSURE TO BANKING
+AGENCY OR SUPERVISOR.—
+       ‘‘(1) IN GENERAL.—The submission by any person of any information to any Federal banking agency, State bank super- visor, or foreign banking authority for any purpose in the course of any supervisory or regulatory process of such agency, supervisor, or authority shall not be construed as waiving, destroying, or otherwise affecting any privilege such person may claim with respect to such information under Federal or State law as to any person or entity other than such agency, supervisor, or authority.
+       ‘‘(2) RULE OF CONSTRUCTION.—No provision of paragraph (1) may be construed as implying or establishing that—
+       ‘‘(A) any person waives any privilege applicable to information that is submitted or transferred under any circumstance to which paragraph (1) does not apply; or
+       ‘‘(B) any person would waive any privilege applicable to any information by submitting the information to any Federal banking agency, State bank supervisor, or foreign banking authority, but for this subsection.’’
+   (b) INSURED CREDIT UNIONS.—Section 205 of the Federal Credit Union Act (12 U.S.C. 1785) is amended by adding at the end the following:
+       ‘‘(j) PRIVILEGES NOT AFFECTED BY DISCLOSURE TO BANKING
+AGENCY OR SUPERVISOR.—
+       ‘‘(1) IN GENERAL.—The submission by any person of any information to the Administration, any State credit union supervisor, or foreign banking authority for any purpose in the course of any supervisory or regulatory process of such Board, supervisor, or authority shall not be construed as waiving, destroying, or otherwise affecting any privilege such person may claim with respect to such information under Fed- eral or State law as to any person or entity other than such Board, supervisor, or authority.
+       ‘‘(2) RULE OF CONSTRUCTION.—No provision of paragraph (1) may be construed as implying or establishing that—
+       ‘‘(A) any person waives any privilege applicable to information that is submitted or transferred under any circumstance to which paragraph (1) does not apply; or
+       ‘‘(B) any person would waive any privilege applicable to any information by submitting the information to the 120 STAT. 1983
+
+PUBLIC LAW 109-351—OCT. 13, 2006
+
+Administration, any State credit union supervisor, or for- eign banking authority, but for this subsection.’’.
+	SEC. 608. CLARIFICATION OF APPLICATION REQUIREMENTS FOR
+		OPTIONAL CONVERSION FOR FEDERAL SAVINGS
+		ASSOCIATIONS.
+   (a) HOME OWNERS’ LOAN ACT.—Section 5(i)(5) of the Home Owners’ Loan Act (12 U.S.C. 1464(i)(5)) is amended to read as follows:
+       ‘‘(5) CONVERSION TO NATIONAL OR STATE BANK.—
+       ‘‘(A) IN GENERAL.—Any Federal savings association chartered and in operation before the date of enactment of the Gramm-Leach-Bliley Act, with branches in operation before such date of enactment in 1 or more States, may convert, at its option, with the approval of the Comptroller of the Currency for each national bank, and with the approval of the appropriate State bank supervisor and the appropriate Federal banking agency for each State bank, into 1 or more national or State banks, each of which may encompass 1 or more of the branches of the Federal savings association in operation before such date of enactment in 1 or more States subject to subparagraph (B).
+       ‘‘(B) CONDITIONS OF CONVERSION.—The authority in subparagraph (A) shall apply only if each resulting national or State bank—
+       ‘‘(i) will meet all financial, management, and cap- ital requirements applicable to the resulting national or State bank; and
+       ‘‘(ii) if more than 1 national or State bank results from a conversion under this subparagraph, has received approval from the Federal Deposit Insurance Corporation under section 5(a) of the Federal Deposit Insurance Act.
+       ‘‘(C) NO MERGER APPLICATION UNDER FDIA REQUIRED.— No application under section 18(c) of the Federal Deposit Insurance Act shall be required for a conversion under this paragraph.
+       ‘‘(D) DEFINITIONS.—For purposes of this paragraph, the terms ‘State bank’ and ‘State bank supervisor’ have the same meanings as in section 3 of the Federal Deposit Insurance Act.’’.
+   (b) FEDERAL DEPOSIT INSURANCE ACT.—Section 4(c) of the Fed-
+eral Deposit Insurance Act (12 U.S.C. 1814(c)) is amended—
+       (1) by inserting ‘‘of this Act and section 5(i)(5) of the Home Owners’ Loan Act’’ after ‘‘Subject to section 5(d)’’; and
+       (2) in paragraph (2), after ‘‘insured State,’’ by inserting ‘‘or Federal’’.
+	SEC. 609. EXEMPTION FROM DISCLOSURE OF PRIVACY POLICY FOR
+		ACCOUNTANTS.
+   (a) IN GENERAL.—Section 503 of the Gramm-Leach-Bliley Act (15 U.S.C. 6803) is amended by adding at the end the following:
+       ‘‘(d) EXEMPTION FOR CERTIFIED PUBLIC ACCOUNTANTS.—
+       ‘‘(1) IN GENERAL.—The disclosure requirements of sub- section (a) do not apply to any person, to the extent that the person is—
+       ‘‘(A) a certified public accountant; 120 STAT. 1984
+
+PUBLIC LAW 109-351—OCT. 13, 2006
+
+ ‘‘(B) certified or licensed for such purpose by a State; and
+ ‘‘(C) subject to any provision of law, rule, or regulation issued by a legislative or regulatory body of the State, including rules of professional conduct or ethics, that pro- hibits disclosure of nonpublic personal information without the knowing and expressed consent of the consumer.
+ ‘‘(2) LIMITATION.—Nothing in this subsection shall be con- strued to exempt or otherwise exclude any depository institution that is affiliated or becomes affiliated with a certified public accountant described in paragraph (1) from any provision of this section.
+ ‘‘(3) DEFINITIONS.—For purposes of this subsection, the term ‘State’ means any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, or the Northern Mariana Islands.’’.
+   (b) CLERICAL AMENDMENTS.—Section 503 of the Gramm-Leach- Bliley Act (15 U.S.C. 6803) is amended—
+   (1) by redesignating subsection (b) as subsection (c); and
+   (2) in subsection (a), by striking ‘‘Such disclosures’’ and inserting the following:
+   ‘‘(b) REGULATIONS.—Disclosures required by subsection (a)’’.
+	SEC. 610. INFLATION ADJUSTMENT FOR THE SMALL DEPOSITORY
+		INSTITUTION EXCEPTION UNDER THE DEPOSITORY
+		INSTITUTION MANAGEMENT INTERLOCKS ACT.
+Section 203(1) of the Depository Institution Management Inter- locks Act (12 U.S.C. 3202(1)) is amended by striking ‘‘$20,000,000’’ and inserting ‘‘$50,000,000’’.
+	SEC. 611. MODIFICATION TO CROSS MARKETING RESTRICTIONS.
+Section 4(n)(5)(B) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(n)(5)(B)) is amended by striking ‘‘subsection (k)(4)(I)’’ and inserting ‘‘subparagraph (H) or (I) of subsection (k)(4)’’.
+		TITLE VII—BANKING AGENCY
+PROVISIONS
+	SEC. 701. STATUTE OF LIMITATIONS FOR JUDICIAL REVIEW OF APPOINTMENT OF A RECEIVER FOR DEPOSITORY
+		INSTITUTIONS.
+    (a) NATIONAL BANKS.—Section 2 of the National Bank Receiver- ship Act (12 U.S.C. 191) is amended—
+   (1) by amending the section heading to read as follows:
+‘‘SEC. 2. APPOINTMENT OF RECEIVER FOR A NATIONAL BANK.
+    ‘‘(a) IN GENERAL.—The Comptroller of the Currency’’; and
+   (2) by adding at the end the following:
+   ‘‘(b) JUDICIAL REVIEW.—If the Comptroller of the Currency appoints a receiver under subsection (a), the national bank may, within 30 days thereafter, bring an action in the United States district court for the judicial district in which the home office of such bank is located, or in the United States District Court for the District of Columbia, for an order requiring the Comptroller of the Currency to remove the receiver, and the court shall, upon

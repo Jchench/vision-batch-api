@@ -1,0 +1,141 @@
+PUBLIC LAW 109–351—OCT. 13, 2006 120 STAT. 1985
+
+the merits, dismiss such action or direct the Comptroller of the Currency to remove the receiver.”.
+
+(b) INSURED DEPOSITORY INSTITUTIONS.—Section 11(c)(7) of the Federal Deposit Insurance Act (12 U.S.C. 1821(c)(7)) is amended to read as follows: 
+    “(7) JUDICIAL REVIEW.—If the Corporation is appointed (including the appointment of the Corporation as receiver by the Board of Directors) as conservator or receiver of a depository institution under paragraph (4), (9), or (10), the depository institution may, not later than 30 days thereafter, bring an action in the United States district court for the judicial district in which the home office of such depository institution is located, or in the United States District Court for the District of Columbia, for an order requiring the Corporation to be removed as the conservator or receiver (regardless of how such appointment was made), and the court shall, upon the merits, dismiss such action or direct the Corporation to be removed as the conservator or receiver.”.
+
+(c) EFFECTIVE DATE.—The amendments made by subsections (a) and (b) shall apply with respect to conservators or receivers appointed on or after the date of enactment of this Act.
+
+SEC. 702. ENHANCING THE SAFETY AND SOUNDNESS OF INSURED DEPOSITORY INSTITUTIONS. 
+    (a) CLARIFICATION RELATING TO THE ENFORCEABILITY OF AGREEMENTS AND CONDITIONS.—The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by adding at the end the following new section: 
+
+“SEC. 50. ENFORCEMENT OF AGREEMENTS. 
+    “(a) IN GENERAL.—Notwithstanding clause (i) or (ii) of section 8(b)(6)(A) or section 38(e)(2)(E)(i), the appropriate Federal banking agency for a depository institution may enforce, under section 8, the terms of—
+        “(1) any condition imposed in writing by the agency on the depository institution or an institution-affiliated party in connection with any action on any application, notice, or other request concerning the depository institution; or
+        “(2) any written agreement entered into between the agency and the depository institution or an institution-affiliated party. 
+    “(b) RECEIVERSHIPS AND CONSERVATORSHIPS.—After the appointment of the Corporation as the receiver or conservator for a depository institution, the Corporation may enforce any condition or agreement described in paragraph (1) or (2) of subsection (a) imposed on or entered into with such institution or institution-affiliated party through an action brought in an appropriate United States district court.”.
+
+(b) PROTECTION OF CAPITAL OF INSURED DEPOSITORY INSTITUTIONS.—Section 18(u)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1828(u)(1)) is amended—
+    (1) by striking subparagraph (B);
+    (2) by redesignating subparagraph (C) as subparagraph (B); and 
+    (3) in subparagraph (A), by adding “and” at the end.
+
+(c) CONFORMING AMENDMENTS.—Section 8(b) of the Federal Deposit Insurance Act (12 U.S.C. 1818(b)) is amended—
+    (1) in paragraph (3), by striking “This subsection and subsections (c) through (s) and subsection (u) of this section” and
+
+120 STAT. 1986            PUBLIC LAW 109–351—OCT.
+        13, 2006 inserting “This subsection, subsections (c) through (s) and subsection (u) of this section, and section 50 of this Act” and 
+    (2) in paragraph (4), by striking “This subsection and subsections (c) through (s) and subsection (u) of this section” and inserting “This subsection, subsections (c) through (s) and subsection (u) of this section, and section 50 of this Act”.
+
+SEC. 703. CROSS GUARANTEE AUTHORITY. 
+    Section 5(e)(9)(A) of the Federal Deposit Insurance Act (12 U.S.C. 1815(e)(9)(A)) is amended to read as follows:
+        “(A) such institutions are controlled by the same company; or”.
+
+SEC. 704. GOLDEN PARACHUTE AUTHORITY AND NONBANK HOLDING COMPANIES.
+    Section 18(k) of the Federal Deposit Insurance Act (12 U.S.C. 1828(k)) is amended—
+    (1) in paragraph (2)(A), by striking “or depository institution holding company” and inserting “or covered company”;
+    (2) in paragraph (2), by striking subparagraph (B), and inserting the following:
+        “(B) Whether there is a reasonable basis to believe that the institution-affiliated party is substantially responsible for—
+            “(i) the insolvency of the depository institution or covered company;
+            “(ii) the appointment of a conservator or receiver for the depository institution; or
+            “(iii) the troubled condition of the depository institution (as defined in the regulations prescribed pursuant to section 32(f)).”;
+    (3) in paragraph (2)(F), by striking “depository institution holding company” and inserting “covered company,”; 
+    (4) in paragraph (3) in the matter preceding subparagraph (A), by striking “depository institution holding company” and inserting “covered company,”;
+    (5) in paragraph (3)(A), by striking “holding company” and inserting “covered company”; 
+    (6) in paragraph (4)—
+        (A) by striking “depository institution holding company” each place that term appears and inserting “covered company”; and
+        (B) by striking “holding company” each place that term appears (other than in connection with the term referred to in subparagraph (A)) and inserting “covered company”;
+    (7) in paragraph (5)(A), by striking “depository institution holding company” and inserting “covered company”;
+    (8) in paragraph (5), by adding at the end the following:
+        “(D) COVERED COMPANY.—The term ‘covered company’ means any depository institution holding company (including any company required to file a report under section 4(f)(6) of the Bank Holding Company Act of 1956), or any other company that controls an insured depository institution.”; and
+    (9) in paragraph (6)—
+        (A) by striking “depository institution holding company” and inserting “covered company,”; and
+
+120 STAT. 1987            PUBLIC LAW 109–351—OCT. 13, 2006
+        (B) by striking “or holding company” and inserting “or covered company”. 
+
+SEC. 705. AMENDMENTS RELATING TO CHANGE IN BANK CONTROL.
+    Section 7(j) of the Federal Deposit Insurance Act (12 U.S.C. 1817(j)) is amended—
+    (1) in paragraph (1)(D)—
+        (A) by striking “is needed to investigate” and inserting is needed—
+            “(i) to investigate”;
+        (B) by striking “United States Code.” and inserting “United States Code; or”; and
+        (C) by adding at the end the following:
+            “(ii) to analyze the safety and soundness of any plans or proposals described in paragraph (6)(E) or the future prospects of the institution.”; and 
+    (2) in paragraph (7)(C), by striking “the financial condition of any acquiring person” and inserting “either the financial condition of any acquiring person or the future prospects of the institution”.
+
+SEC. 706. AMENDMENT TO PROVIDE THE FEDERAL RESERVE BOARD WITH DISCRETION CONCERNING THE IMPUTATION OF CONTROL OF SHARES OF A COMPANY BY TRUSTEES.
+    Section 2(g)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(g)(2)) is amended by inserting before the period at the end “, unless the Board determines that such treatment is not appropriate in light of the facts and circumstances of the case and the purposes of this Act”.
+
+SEC. 707. INTERAGENCY DATA SHARING.
+    (a) FEDERAL BANKING AGENCIES.—Section 7(a)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1817(a)(2)) is amended by adding at the end the following:
+        “(C) DATA SHARING WITH OTHER AGENCIES AND PERSONS.—In addition to reports of examination, reports of condition, and other reports required to be regularly provided to the Corporation (with respect to all insured depository institutions, including a depository institution for which the Corporation has been appointed conservator or receiver) or an appropriate State bank supervisor (with respect to a State depository institution) under subparagraph (A) or (B), a Federal banking agency may, in the discretion of the agency, furnish any report of examination or other confidential supervisory information concerning any depository institution or other entity examined by such agency under authority of any Federal law, to—
+            “(i) any other Federal or State agency or authority with supervisory or regulatory authority over the depository institution or other entity;
+            “(ii) any officer, director, or receiver of such depository institution or entity; and
+            “(iii) any other person that the Federal banking agency determines to be appropriate.”.
+
+    (b) NATIONAL CREDIT UNION ADMINISTRATION.—Section 202(a) of the Federal Credit Union Act (12 U.S.C. 1782(a)) is amended by adding at the end the following:
+
+120 STAT. 1988            PUBLIC LAW 109–351—OCT. 13, 2006
+        “(8) DATA SHARING WITH OTHER AGENCIES AND PERSONS.—In addition to reports of examination, reports of condition, and other reports required to be regularly provided to the Board with respect to all insured credit unions, including a credit union for which the Corporation has been appointed conservator or liquidating agent) or an appropriate State commission, board, or authority having supervision of a State-chartered credit union, the Board may, in the discretion of the Board, furnish any report of examination or other confidential supervisory information concerning any credit union or other entity examined by the Board under authority of any Federal law, to—
+            “(A) any other Federal or State agency or authority with supervisory or regulatory authority over the credit union or other entity;
+            “(B) any officer, director, or receiver of such credit union or entity; and
+            “(C) any other person that the Board determines to be appropriate.”.
+
+SEC. 708. CLARIFICATION OF EXTENT OF SUSPENSION, REMOVAL, AND PROHIBITION AUTHORITY OF FEDERAL BANKING AGENCIES IN CASES OF CERTAIN CRIMES BY INSTITUTION-AFFILIATED PARTIES.
+    (a) INSURED DEPOSITORY INSTITUTIONS.—
+        (1) IN GENERAL.—Section 8(g)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1818(g)(1)) is amended—
+            (A) in subparagraph (A)—
+                (i) by striking “is charged in any information, indictment, or complaint, with the commission of or participation in” and inserting “is the subject of any information, indictment, or complaint, involving the commission of or participation in”;
+                (ii) by striking “may pose a threat to the interests of the depository institution’s depositors or may threaten to impair public confidence in the depository institution,” and insert “posed, poses, or may pose a threat to the interests of the depositors or, of threat ened, threatens, or may threaten to impair public confidence in, any relevant depository institution (as defined in subparagraph (E));”;
+                (iii) by striking “affairs of the depository institution” and inserting “affairs of any depository institution”;
+            (B) in subparagraph (B)(i), by striking “the depository institution” and inserting “any depository institution that the subject of the notice is affiliated with at the time the notice is issued”;
+            (C) in subparagraph (C)(i)—
+                (i) by striking “may pose a threat to the interests of the depository institution’s depositors or may threaten to impair public confidence in the depository institution,” and insert “posed, poses, or may pose a threat to the interests of the depositors or, of threat ened, threatens, or may threaten to impair public confidence in, any relevant depository institution (as defined in subparagraph (E));”;
+                (ii) by striking “affairs of the depository institution” and inserting “affairs of any depository institution”;
+            (D) in subparagraph (C)(ii), by striking “the depository institution” and inserting “any depository institution”;
+            (E) in subparagraph (D)(i), by striking “the depository institution the subject of the order is” and inserting “any depository institution the subject of the order is affiliated with at the time the order is issued”; and
+            (F) by adding at the end the following:
+                “(E) RELEVANT DEPOSITORY INSTITUTION.—For purposes of this subsection, the term ‘relevant depository institution’ means any depository institution of which the party is or was an institution-affiliated party at the time at which—
+                    “(i) the information, indictment, or complaint described in subparagraph (A) was issued; or
+                    “(ii) the notice is issued under subparagraph (A) or the order is issued under subparagraph (C)(i).”.
+
+        (2) CLERICAL AMENDMENT.—The subsection heading for section 8(g) of the Federal Deposit Insurance Act (12 U.S.C. 1818(g)) is amended to read as follows:
+            “(g) SUSPENSION, REMOVAL, AND PROHIBITION FROM PARTICIPATION ORDERS IN THE CASE OF CERTAIN CRIMINAL OFFENSES.—”.
+
+    (b) INSURED CREDIT UNIONS.—
+        (1) IN GENERAL.—Section 206(i)(1) of the Federal Credit Union Act (12 U.S.C. 1786(i)(1)) is amended—
+            (A) in subparagraph (A), by striking “the credit union” each place that term appears and inserting “any credit union”;
+            (B) in subparagraph (B)(i), by inserting “of which the subject of the order is, or most recently was, an institution-affiliated party” before the period at the end;
+            (C) in subparagraph (C)—
+                (i) by striking “the credit union” each place such term appears and inserting “any credit union”; and
+                (ii) by striking “the credit union’s” and inserting “any credit union’s”;
+            (D) in subparagraph (D)(i), by striking “upon such credit union” and inserting “upon the credit union of which the subject of the order is, or most recently was, an institution-affiliated party”; and
+            (E) by adding at the end the following:
+                “(E) CONTINUATION OF AUTHORITY.—The Board may issue an order under this paragraph with respect to an individual who is an institution-affiliated party at a credit union at the time of an offense described in subparagraph (A) without regard to—
+                    “(i) whether such individual is an institution-affiliated party at any credit union at the time the order is considered or issued by the Board; or
+                    “(ii) whether the credit union at which the individual was an institution-affiliated party at the time of the offense remains in existence at the time the order is considered or issued by the Board.”.
+
+120 STAT. 1990            PUBLIC LAW 109–351—OCT. 13, 2006
+        (2) CLERICAL AMENDMENT.—Section 206(i) of the Federal Credit Union Act (12 U.S.C. 1786(i)) is amended by striking “(i)” at the beginning and inserting the following:
+                “(i) SUSPENSION, REMOVAL, AND PROHIBITION FROM PARTICIPA- TION ORDERS IN THE CASE OF CERTAIN CRIMINAL OFFENSES.—”.
+
+SEC. 709. PROTECTION OF CONFIDENTIAL INFORMATION RECEIVED BY FEDERAL BANKING REGULATORS FROM FOREIGN BANKING SUPERVISORS. 
+    Section 15 of the International Banking Act of 1978 (12 U.S.C. 3109) is amended by adding at the end the following:
+        “(c) CONFIDENTIAL INFORMATION RECEIVED FROM FOREIGN SUPERVISORS.— 
+            “(1) IN GENERAL.—Except as provided in paragraph (3), a Federal banking agency may not be compelled to disclose information received from a foreign regulatory or supervisory authority if—
+                “(A) The Federal banking agency determines that the foreign regulatory or supervisory authority has, in good faith, determined and represented in writing to such Federal banking agency that public disclosure of the information would violate the laws applicable to that foreign regulatory or supervisory authority; and
+                “(B) The relevant Federal banking agency obtained such information pursuant to—
+                    “(i) such procedures as the Federal banking agency may establish for use in connection with the administration and enforcement of Federal banking laws; or
+                    “(ii) a memorandum of understanding or other similar arrangement between the Federal banking agency and the foreign regulatory or supervisory authority.
+            “(2) TREATMENT UNDER TITLE 5, UNITED STATES CODE.— For purposes of section 552 of title 5, United States Code, this subsection shall be treated as a statute described in subsection (b)(3)(B) of such section.
+            “(3) SAVINGS PROVISION.—No provision of this section shall be construed as—
+                “(A) authorizing any Federal banking agency to withhold any information from any duly authorized committee of the House of Representatives or the Senate; or
+                “(B) preventing any Federal banking agency from complying with an order of a court of the United States in an action commenced by the United States or such agency.
+        “(4) FEDERAL BANKING AGENCY DEFINED.—For purposes of this subsection, the term ‘Federal banking agency’ means the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Director of the Office of Thrift Supervision.”.
+
+SEC. 710. PROHIBITION ON PARTICIPATION BY CONVICTED INDIVIDUALS. 
+    (a) EXTENSION OF AUTOMATIC PROHIBITION.—Section 19 of the Federal Deposit Insurance Act (12 U.S.C. 1829) is amended by adding at the end the following new subsections:
+        “(d) BANK HOLDING COMPANIES.—
+            “(1) IN GENERAL.—Subsections (a) and (b) shall apply to any company (other than a foreign bank) that is a bank holding 

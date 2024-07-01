@@ -1,0 +1,233 @@
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+117 STAT. 1991
+
+information contained in a consumer report on the consumer, based on a direct request of a consumer.
+
+‘‘(B) CONSIDERATIONS.—In prescribing regulations under subparagraph (A), the agencies shall weigh—
+
+‘‘(i) the benefits to consumers with the costs on furnishers and the credit reporting system;
+
+‘‘(ii) the impact on the overall accuracy and integrity of consumer reports of any such requirements;
+
+‘‘(iii) whether direct contact by the consumer with the furnisher would likely result in the most expeditious resolution of any such dispute; and
+
+‘‘(iv) the potential impact on the credit reporting process if credit repair organizations, as defined in section 403(3), including entities that would be a credit repair organization, but for section 403(3)(B)(i), are able to circumvent the prohibition in subparagraph (G).
+
+‘‘(C) APPLICABILITY.—Subparagraphs (D) through (G) shall apply in any circumstance identified under the regulations promulgated under subparagraph (A).
+
+‘‘(D) SUBMITTING A NOTICE OF DISPUTE.—A consumer who seeks to dispute the accuracy of information shall provide a dispute notice directly to such person at the address specified by the person for such notices that—
+
+‘‘(i) identifies the specific information that is being disputed;
+
+‘‘(ii) explains the basis for the dispute; and
+
+‘‘(iii) includes all supporting documentation required by the furnisher to substantiate the basis of the dispute.
+
+‘‘(E) DUTY OF PERSON AFTER RECEIVING NOTICE OF DISPUTE.—After receiving a notice of dispute from a consumer pursuant to subparagraph (D), the person that provided the information in dispute to a consumer reporting agency shall—
+
+‘‘(i) conduct an investigation with respect to the disputed information;
+
+‘‘(ii) review all relevant information provided by the consumer with the notice;
+
+‘‘(iii) complete such person’s investigation of the dispute and report the results of the investigation to the consumer before the expiration of the period under section 611(a)(1) within which a consumer reporting agency would be required to complete its action if the consumer had elected to dispute the information under that section; and
+
+‘‘(iv) if the investigation finds that the information reported was inaccurate, promptly notify each consumer reporting agency to which the person furnished the inaccurate information of that determination and provide to the agency any correction to that information that is necessary to make the information provided by the person accurate.
+
+‘‘(F) FRIVOLOUS OR IRRELEVANT DISPUTE.—
+
+‘‘(i) IN GENERAL.—This paragraph shall not apply if the person receiving a notice of a dispute from a
+
+117 STAT. 1992
+
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+consumer reasonably determines that the dispute is frivolous or irrelevant, including—
+
+‘‘(I) by reason of the failure of a consumer to provide sufficient information to investigate the disputed information; or
+
+‘‘(II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b), with respect to which the person has already performed the person’s duties under this paragraph or subsection (b), as applicable.
+
+Deadline.
+
+‘‘(ii) NOTICE OF DETERMINATION.—Upon making any determination under clause (i) that a dispute is frivolous or irrelevant, the person shall notify the consumer of such determination not later than 5 business days after making such determination, by mail or, if authorized by the consumer for that purpose, by any other means available to the person.
+
+‘‘(iii) CONTENTS OF NOTICE.—A notice under clause (ii) shall include—
+
+‘‘(I) the reasons for the determination under clause (i); and
+
+‘‘(II) identification of any information required to investigate the disputed information, which may consist of a standardized form describing the general nature of such information.
+
+‘‘(G) EXCLUSION OF CREDIT REPAIR ORGANIZATIONS.— This paragraph shall not apply if the notice of the dispute is submitted by, prepared on behalf of the consumer by, or is submitted on a form supplied to the consumer by, a credit repair organization, as defined in section 403(3), or any entity that would be a credit repair organization, but for section 403(3)(B)(i).’’.
+
+(d) FURNISHER LIABILITY EXCEPTION.—Section 623(a)(5) of the Fair Credit Reporting Act (15 U.S.C. 1681s–2(a)(5)) is amended—
+
+(1) by striking ‘‘A person’’ and inserting the following:
+
+‘‘(A) IN GENERAL.—A person’’;
+
+(2) by inserting ‘‘date of delinquency on the account, which shall be the’’ before ‘‘month’’;
+
+(3) by inserting ‘‘on the account’’ before ‘‘that immediately preceded’’; and
+
+(4) by adding at the end the following:
+
+‘‘(B) RULE OF CONSTRUCTION.—For purposes of this paragraph only, and provided that the consumer does not dispute the information, a person that furnishes information on a delinquent account that is placed for collection, charged for profit or loss, or subjected to any similar action, complies with this paragraph, if—
+
+‘‘(i) the person reports the same date of delinquency as that provided by the creditor to which the account was owed at the time at which the commencement of the delinquency occurred, if the creditor previously reported that date of delinquency to a consumer reporting agency;
+
+117 STAT. 1993
+
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+‘‘(ii) the creditor did not previously report the date of delinquency to a consumer reporting agency, and the person establishes and follows reasonable procedures to obtain the date of delinquency from the creditor or another reliable source and reports that date to a consumer reporting agency as the date of delinquency; or
+
+‘‘(iii) the creditor did not previously report the date of delinquency to a consumer reporting agency and the date of delinquency cannot be reasonably obtained as provided in clause (ii), the person establishes and follows reasonable procedures to ensure the date reported as the date of delinquency precedes the date on which the account is placed for collection, charged to profit or loss, or subjected to any similar action, and reports such date to the credit reporting agency’’.
+
+(e) LIABILITY AND ENFORCEMENT.—
+
+(1) CIVIL LIABILITY.—Section 623 of the Fair Credit Reporting Act (15 U.S.C. 1681s–2) is amended by striking subsections (c) and (d) and inserting the following:
+
+‘‘(c) LIMITATION ON LIABILITY.—Except as provided in section 621(c)(1)(B), sections 616 and 617 do not apply to any violation of—
+
+‘‘(1) subsection (a) of this section, including any regulations issued thereunder;
+
+‘‘(2) subsection (e) of this section, except that nothing in this paragraph shall limit, expand, or otherwise affect liability under section 616 or 617, as applicable, for violations of subsection (b) of this section; or
+
+‘‘(3) subsection (e) of section 615.
+
+‘‘(d) LIMITATION ON ENFORCEMENT.—The provisions of law described in paragraphs (1) through (3) of subsection (c) (other than with respect to the exceptions described in paragraph (2) of subsection (c)) shall be enforced exclusively as provided under section 621 by the Federal agencies and officials and the State officials identified in section 621.’’.
+
+(2) STATE ACTIONS.—Section 621(c) of the Fair Credit Reporting Act (15 U.S.C. 1681s(c)) is amended—
+
+(A) in paragraph (1)(B)(ii), by striking ‘‘of section 623(a)’’ and inserting ‘‘described in any of paragraphs (1) through (3) of section 623(c)’’; and
+
+(B) in paragraph (5)—
+
+(i) in each of subparagraphs (A) and (B), by striking ‘‘of section 623(a)(1)’’ each place that term appears and inserting ‘‘described in any of paragraphs (1) through (3) of section 623(c)’’; and
+
+(ii) by amending the paragraph heading to read as follows:
+
+‘‘(5) LIMITATIONS ON STATE ACTIONS FOR CERTAIN VIOLATIONS.—’’.
+
+15 USC 1681n note.
+
+(f) RULE OF CONSTRUCTION.—Nothing in this section, the amendments made by this section, or any other provision of this Act shall be construed to affect any liability under section 616 or 617 of the Fair Credit Reporting Act (15 U.S.C. 1681n, 1681o) that existed on the day before the date of enactment of this Act.
+
+117 STAT. 1994
+
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+SEC. 313. FTC AND CONSUMER REPORTING AGENCY ACTION CONCERNING COMPLAINTS.
+
+Records.
+
+(a) IN GENERAL.—Section 611 of the Fair Credit Reporting Act (15 U.S.C. 1681i) is amended by adding at the end the following:
+
+‘‘(e) TREATMENT OF COMPLAINTS AND REPORT TO CONGRESS.—
+
+‘‘(1) IN GENERAL.—The Commission shall—
+
+‘‘(A) compile all complaints that it receives that a file of a consumer that is maintained by a consumer reporting agency described in section 603(p) contains incomplete or inaccurate information, with respect to which, the consumer appears to have disputed the completeness or accuracy with the consumer reporting agency or otherwise utilized the procedures provided by subsection (a); and
+
+‘‘(B) transmit each such complaint to each consumer reporting agency involved.
+
+‘‘(2) EXCLUSION.—Complaints received or obtained by the Commission pursuant to its investigative authority under the Federal Trade Commission Act shall not be subject to paragraph (1).
+
+‘‘(3) AGENCY RESPONSIBILITIES.—Each consumer reporting agency described in section 603(p) that receives a complaint transmitted by the Commission pursuant to paragraph (1) shall—
+
+‘‘(A) review each such complaint to determine whether all legal obligations imposed on the consumer reporting agency under this title (including any obligation imposed by an applicable court or administrative order) have been met with respect to the subject matter of the complaint;
+
+‘‘(B) provide reports on a regular basis to the Commission regarding the determinations of and actions taken by the consumer reporting agency, if any, in connection with its review of such complaints; and
+
+Records.
+
+‘‘(C) maintain, for a reasonable time period, records regarding the disposition of each such complaint that is sufficient to demonstrate compliance with this subsection.
+
+‘‘(4) RULEMAKING AUTHORITY.—The Commission may prescribe regulations, as appropriate to implement this subsection.
+
+‘‘(5) ANNUAL REPORT.—The Commission shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives an annual report regarding information gathered by the Commission under this subsection.’’.
+
+15 USC 1681i note.
+
+(b) PROMPT INVESTIGATION OF DISPUTED CONSUMER INFORMATION.—
+
+(1) STUDY REQUIRED.—The Board and the Commission shall jointly study the extent to which, and the manner in which, consumer reporting agencies and furnishers of consumer information to consumer reporting agencies are complying with the procedures, time lines, and requirements under the Fair Credit Reporting Act for the prompt investigation of the disputed accuracy of any consumer information, the completeness of the information provided to consumer reporting agencies, and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.
+
+Deadline.
+
+(2) REPORT REQUIRED.—Before the end of the 12-month period beginning on the date of enactment of this Act, the
+
+117 STAT. 1995
+
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+Board and the Commission shall jointly submit a progress report to the Congress on the results of the study required under paragraph (1).
+
+(3) CONSIDERATIONS.—In preparing the report required under paragraph (2), the Board and the Commission shall consider information relating to complaints compiled by the Commission under section 611(e) of the Fair Credit Reporting Act, as added by this section.
+
+(4) RECOMMENDATIONS.—The report required under paragraph (2) shall include such recommendations as the Board and the Commission jointly determine to be appropriate for legislative or administrative action, to ensure that—
+
+‘‘(A) consumer disputes with consumer reporting agencies over the accuracy or completeness of information in a consumer’s file are promptly and fully investigated and any incorrect, incomplete, or unverifiable information is corrected or deleted immediately thereafter;
+
+‘‘(B) furnishers of information to consumer reporting agencies maintain full and prompt compliance with the duties and responsibilities established under section 623 of the Fair Credit Reporting Act; and
+
+‘‘(C) consumer reporting agencies establish and maintain appropriate internal controls and management review procedures for maintaining full and continuous compliance with the procedures, time lines, and requirements under the Fair Credit Reporting Act for the prompt investigation of the disputed accuracy of any consumer information and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.
+
+SEC. 314. IMPROVED DISCLOSURE OF THE RESULTS OF REINVESTIGATION.
+
+Notification.
+
+(a) IN GENERAL.—Section 611(a)(6)(A) of the Fair Credit Reporting Act (15 U.S.C. 1681i(a)(6)(A)) is amended by striking ‘‘shall’’ and all that follows through the end of the subparagraph and inserting the following: ‘‘shall—
+
+‘‘(i) promptly delete that item of information from the file of the consumer, or modify that item of information, as appropriate, based on the results of the reinvestigation; and
+
+‘‘(ii) promptly notify the furnisher of that information that the information has been modified or deleted from the file of the consumer.’’.
+
+(b) FURNISHER REQUIREMENTS RELATING TO INACCURATE, INCOMPLETE, OR UNVERIFIABLE INFORMATION.—Section 623(b)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681s–2(b)(1)) is amended—
+
+(1) in subparagraph (C), by striking ‘‘and’’ at the end;
+
+(2) in subparagraph (D), by striking the period at the end and inserting the following: ‘‘; and
+
+‘‘(E) if an item of information disputed by a consumer is found to be inaccurate or incomplete or cannot be verified after any reinvestigation under paragraph (1), for purposes
+
+117 STAT. 1996
+
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+of reporting to a consumer reporting agency only, as appropriate, based on the results of the reinvestigation promptly—
+
+‘‘(i) modify that item of information;
+
+‘‘(ii) delete that item of information; or
+
+‘‘(iii) permanently block the reporting of that item of information.’’.
+
+SEC. 315. RECONCILING ADDRESSES.
+
+Section 605 of the Fair Credit Reporting Act (15 U.S.C. 1681c), as amended by this Act, is amended by adding at the end the following:
+
+‘‘(h) NOTICE OF DISCREPANCY IN ADDRESS.—
+
+‘‘(1) IN GENERAL.—If a person has requested a consumer report relating to a consumer from a consumer reporting agency described in section 603(p), the request includes an address for the consumer that substantially differs from the addresses in the file of the consumer, and the agency provides a consumer report in response to the request, the consumer reporting agency shall notify the requester of the existence of the discrepancy.
+
+‘‘(2) REGULATIONS.—
+
+‘‘(A) REGULATIONS REQUIRED.—The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 621, prescribe regulations providing guidance regarding reasonable policies and procedures that a user of a consumer report should employ when such user has received a notice of discrepancy under paragraph (1).
+
+‘‘(B) POLICIES AND PROCEDURES TO BE INCLUDED.—The regulations prescribed under subparagraph (A) shall describe reasonable policies and procedures for use by a user of a consumer report—
+
+‘‘(i) to form a reasonable belief that the user knows the identity of the person to whom the consumer report pertains; and
+
+‘‘(ii) if the user establishes a continuing relationship with the consumer, and the user regularly and in the ordinary course of business furnishes information to the consumer reporting agency from which the notice of discrepancy pertaining to the consumer was obtained, to reconcile the address of the consumer with the consumer reporting agency by furnishing such address to such consumer reporting agency as part of information regularly furnished by the user for the period in which the relationship is established.’’.
+
+SEC. 316. NOTICE OF DISPUTE THROUGH RESELLER.
+
+(a) REQUIREMENT FOR REINVESTIGATION OF DISPUTED INFORMATION UPON NOTICE FROM A RESELLER.—Section 611(a) of the Fair Credit Reporting Act (15 U.S.C. 1681i(a)(1)(A)) is amended—
+
+(1) in paragraph (1)(A)—
+
+(A) by striking ‘‘If the completeness’’ and inserting ‘‘Subject to subsection (f), if the completeness’’;
+
+(B) by inserting ‘‘, or indirectly through a reseller,’’ after ‘‘notifies the agency directly’’; and

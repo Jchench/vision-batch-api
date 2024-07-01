@@ -1,0 +1,136 @@
+PUBLIC LAW 107–204—JULY 30,2002
+
+116 STAT. 775
+
+any capacity in the audit of that issuer during the 1-year period preceding the date of the initiation of the audit.’’.
+
+SEC. 207. STUDY OF MANDATORY ROTATION OF REGISTERED PUBLIC ACCOUNTING FIRMS.
+	(a) STUDY AND REVIEW REQUIRED.—The Comptroller General of the United States shall conduct a study and review of the potential effects of requiring the mandatory rotation of registered public accounting firms.
+	(b) REPORT REQUIRED.—Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the results of the study and review required by this section.
+	(c) DEFINITION.—For purposes of this section, the term “mandatory rotation” refers to the imposition of a limit on the period of years in which a particular registered public accounting firm may be the auditor of record for a particular issuer.
+
+SEC. 208. COMMISSION AUTHORITY.
+	(a) COMMISSION REGULATIONS.—Not later than 180 days after the date of enactment of this Act, the Commission shall issue final regulations to carry out each of subsections (g) through (l) of section 10A of the Securities Exchange Act of 1934, as added by this title.
+	(b) AUDITOR INDEPENDENCE.—It shall be unlawful for any registered public accounting firm (or an associated person thereof, as applicable) to prepare or issue any audit report with respect to any issuer, if the firm or associated person engages in any activity with respect to that issuer prohibited by any of subsections (g) through (l) of section 10A of the Securities Exchange Act of 1934, as added by this title, or any rule or regulation of the Commission or of the Board issued thereunder.
+
+SEC. 209. CONSIDERATIONS BY APPROPRIATE STATE REGULATORY AUTHORITIES.
+
+	In supervising nonregistered public accounting firms and their associated persons, appropriate State regulatory authorities should make an independent determination of the proper standards applicable, particularly taking into consideration the size and nature of the business of the accounting firms they supervise and the size and nature of the business of the clients of those firms. The standards applied by the Board under this Act should not be presumed to be applicable for purposes of this section for small and medium sized nonregistered public accounting firms.
+
+TITLE III—CORPORATE RESPONSIBILITY
+
+SEC. 301. PUBLIC COMPANY AUDIT COMMITTEES.
+
+	Section 10A of the Securities Exchange Act of 1934 (15 U.S.C. 78f) is amended by adding at the end the following:
+		‘‘(m) STANDARDS RELATING TO AUDIT COMMITTEES.—
+		‘‘(1) COMMISSION RULES.—
+
+116 STAT. 776
+
+PUBLIC LAW 107–204—JULY 30, 2002
+
+	‘‘(A) IN GENERAL.—Effective not later than 270 days after the date of enactment of this subsection, the Commission shall, by rule, direct the national securities exchanges and national securities associations to prohibit the listing of any security of an issuer that is not in compliance with the requirements of any portion of paragraphs (2) through (6).
+		‘‘(B) OPPORTUNITY TO CURE DEFECTS.—The rules of the Commission under subparagraph (A) shall provide for appropriate procedures for an issuer to have an opportunity to cue any defects that would be the basis for a prohibition under subparagraph (A), before the imposition of such prohibition.		
+		‘‘(2) RESPONSIBILITIES RELATING TO REGISTERED PUBLIC ACCOUNTING FIRMS.—The audit committee of each issuer, in its capacity as a committee of the board of directors, shall be directly responsible for the appointment, compensation, and oversight of the work of any registered public accounting firm employed by that issuer (including resolution of disagreements between management and the auditor regarding financial reporting) for the purpose of preparing or issuing an audit report or related work, and each such registered public accounting firm shall report directly to the audit committee.
+		‘‘(3) INDEPENDENCE.—
+		‘‘(A) IN GENERAL.—Each member of the audit committee of the issuer shall be a member of the board of directors of the issuer, and shall otherwise be independent.
+		‘‘(B) CRITERIA.—In order to be considered to be independent for purposes of this paragraph, a member of an audit committee of an issuer may not, other than in his or her capacity as a member of the audit committee, the board of directors, or any other board committee—
+		‘‘(i) accept any consulting, advisory, or other compensatory fee from the issuer; or
+		‘‘(ii) be an affiliated person of the issuer or any subsidiary thereof.
+
+		‘‘(C) EXEMPTION AUTHORITY.—The Commission may exempt from the requirements of subparagraph (B) a particular relationship with respect to audit committee members, as the Commission determines appropriate in light of the circumstances.
+
+		‘‘(4) COMPLAINTS.—Each audit committee shall establish procedures for—
+		‘‘(A) the receipt, retention, and treatment of complaints received by the issuer regarding accounting, internal accounting controls, or auditing matters; and
+		‘‘(B) the confidential, anonymous submission by employees of the issuer of concerns regarding questionable accounting or auditing matters.
+
+		‘‘(5) AUTHORITY TO ENGAGE ADVISERS.—Each audit committee shall have the authority to engage independent counsel and other advisers, as it determines necessary to carry out its duties.
+
+		‘‘(6) FUNDING.—Each issuer shall provide for appropriate funding, as determined by the audit committee in its capacity as a committee of the board of directors, for payment of compensation—
+
+116 STAT. 777
+
+PUBLIC LAW 107–204—JULY 30, 2002
+
+	‘‘(A) to the registered public accounting firm employed by the issuer for the purpose of rendering or issuing an audit report;
+		‘‘(B) to any advisers employed by the audit committee under paragraph (5).’’.
+
+SEC. 302. CORPORATE RESPONSIBILITY FOR FINANCIAL REPORTS.
+
+	(a) REGULATIONS REQUIRED.—The Commission shall, by rule, require, for each company filing periodic reports under section 13(a) or 15(d) of the Seurities Exchange Act of 1934 (15 U.S.C. 78m, 78o(d)), that the principal executive officer or officers and the principal financial officer or officers, or persons performing similar functions, certify in each annual or quarterly report filed or submitted under either such section of such Act that—
+		(1) the signing officer has reviewed the report;
+		(2) based on the officer’s knowledge, the report does not contain any untrue statement of a material fact or omit to state a math different order to make the statements made, in light of the circumstances under which such statements were made, not misleading;
+		(3) based on such officer’s knowledge, the financial statements, and other financial information included in the report, fairly present in all material respects the financial condition and results of operations of the issuer as of, and for, the periods presented in the report;
+		(4) the signing officers—
+			(A) are responsible for establishing and maintaining internal controls;
+			(B) have designed such internal controls to ensure that material information relating to the issuer and its consolidated subsidiaries is made known to such officers by others within those entities, particularly during the period in which the periodic reports are being prepared;
+			(C) have evaluated the effectiveness of the issuer’s internal controls as of a date within 90 days prior to the report; and
+			(D) have presented in the report their conclusions about the effectiveness of their internal controls based on their evaluation as of that date;
+		(5) the signing officers have disclosed to the issuer’s auditors and the audit committee of the board of directors (or persons fulfilling the equivalent function)—
+			(A) all significant deficiencies in the design or operation of from controls which could adversely affect the issuer’s ability to record, process, summarize, and report financial data and have identified for the issuer’s auditors any material weaknesses in internal controls; and
+			(B) any fraud, whether or not material, that involves management or other employees who have a significant role in the issuer’s internal controls; and
+		(6) the signing officers have indicated in the report whether or not there were significant changes in internal controls or other factors that could significantly affect internal controls subsequent to the date of their evaluation, including any corrective actions with regard to significant deficiencies and material weaknesses.
+
+116 STAT. 778
+
+PUBLIC LAW 107–204—JULY 30, 2002
+
+	(b) FOREIGN REINCORPORATIONS HAVE NO EFFECT.—Nothing in this section 302 shall be interpreted or applied in any way to allow any issuer to lessen the legal force of the statement required under this section 302, buy an issuer having reincorporated or having engaged in any other transaction that resulted in the transfer of the corporate domicile or offices of the issuer from inside the United States to outside of the United States.
+	(c) DEADLINE.—The rules required by subsection (a) shall be effective not later than 30 days after the date of enactment of this Act.
+
+SEC. 303 IMPROPER INFLUENCE ON CONDUCT OF AUDITS.
+	(a) RULES TO PROHIBIT.—It shall be unlawful, in contravention of such rules or regulations as the Commission shall prescribe as necessary and appropriate in the public interest or for the protection of investors, for any officer or director of an issuer, or any other person action under the direction thereof, to take any action to fraudulently influence, coerce, manipulate, or mislead any independent public or certified accountant engaged in the performance of an audit of the financial statements of that issuer for the purpose of rendering such financial statements materially misleading.
+	(b) ENFORCEMENT.—In any civil proceeding, the Commission shall have exclusive authority to enforce this section and any rule or regulation issued under this section.
+
+	(c) NO PREEMPTION OF OTHER LAW.—The provisions of subsection (a) shall be in addition to, and shall not supersede or preempt, any other provision of law or any rule or regulation issued thereunder.
+
+	(d) DEADLINE FOR RULEMAKING.—The Commission shall—
+		(1) propose the rules or regulations required by this section, not layer than 90 days after the date of enactment of this Act; and
+		(2) issue final rules or regulations required by this section, not later than 270 days after the date of enactment of this Act.
+
+SEC. 304. FORFEITURE OF CERTAIN BONUSES AND PROFITS.
+	(a) ADDITIONAL COMPENSATION PRIOR TO NONCOMPLIANCE WITH COMMISSION FINANCIAL REPORTING REQUIREMENTS.—If an issuer is required to prepare an accounting restatement due to the material noncompliance of the issuer, as a result of misconduct, with any financing reporting requirement under the securities laws, the chief executive officer and chief financial officer of the issuer shall reimburse the issuer for—
+		(1) any bonus or other incentive-based or equity-based compensation received by that person from the issuer during the 12-month period following the first public issuance or filing with the Commission (whichever first occurs) of the financial document embodying such financial reporting requirement; and
+		(2) any profits realized from the sale of securities of the issuer during that 12-month period.
+	(b) COMMISSION EXEMPTION AUTHORITY.—The Commission may exempt any person from the application of subsection (a), as it deems necessary and appropriate.
+
+SEC. 305. OFFICER AND DIRECTOR BARS AND PENALTIES.
+	(a) UNFITNESS STANDARD.—
+
+116 STAT. 779
+
+PUBLIC LAW 107–204—JULY 30, 2002
+
+		(1) SECURITIES EXCHANGE ACT OF 1934.—Section 21(d)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(d)(2)) is amended by striking “substantial unfitness” and inserting “unfitness”.
+		(2) SECURITIES ACT OF 1933.—Section 20(e) of the Securities Act of 1933 (15 U.S.C. 77t(e)) is amended by striking “substantial unfitness” and inserting “unfitness”.
+		(b) EQUITABLE RELIEF.—Section 21(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(d)) is amended by adding at the end the following:
+		‘‘(5) EQUITABLE RELIEF.—In any action or proceeding brought or instituted by the Commission under any provision of the securities laws, the Commission may seek, and any Federal court may grant, any equitable relief that may be appropriate or necessary for the benefit for investors.’’.
+
+SEC. 306. INSIDER TRADES DURING PENSION FUND BLACKOUT PERIODS.
+	(a) PROHIBITION OF INSIDER TRADING DURING PENSION FUND BLACKOUT PERIODS.—
+		(1) IN GENERAL.—Except to the extent otherwise provided by rule of the Commission pursuant to paragraph (3), it shall be unlawful for any director or executive officer of an issuer to purchase, sale, or otherwise acquire or transfer any equity security of the issuer (other than an exempted security), during any blackout period with respect to such equity security if such director or officer acquires such equity security in connection with his or her service or employment as a director or executive officer.
+		(2) REMEDY.—
+			(A) IN GENERAL.—Any profit realized by a director or executive officer referred to in paragraph (1) from any purchase, sale, or other acquisition or transfer in violation of this subsection shall injure to and be recoverable by the issuer, irrespective of any intention on the part of such director or executive officer in entering into the transaction.
+			(B) ACTIONS TO RECOVER PROFITS.—An action to recover profits in accordance with this subsection may be instituted at law or in equity in any court of competent jurisdiction by the issuer, or by the owner of any security of the issuer in the name and in behalf of the issuer if the issuer fails or refuses to bring such action within 60 days after the date of request, or fails diligently to prosecute the action thereafter, except that no such suit shall be brought more than 2 years after the date on which such profit was realized.
+		(3) RULEMAKING AUTHORIZED.—The Commission shall, in consultation with the Secretary of Labor, issue such rules to clarify the application of this subsection and to prevent evasion thereof. Such rules shall provide for the application of the requirements of paragraph (1) with respect to entities treated as a single employer with respect to an issuer under section 414(b), (c), (m), or (o) of the Internal Revenue Code of 1986 to the extent necessary to clarify the application of such requirement and to prevent evasion thereof. Such rules may also provide for
+
+116 STAT. 780
+
+PUBLIC LAW 107–204—JULY 30, 2002
+
+appropriate exceptions from the requirements of this subsection, including exceptions for purchases pursant to an automatic dividend reinvestment program or purchases or sales made pursuant to an advance election.
+
+	(4) BLACKOUT PERIOD.—For purposes of this subsection, the term “blackout period”, with respect to the equity securities of any issuer—
+		(A) means any period of more than 3 consecutive business days during which the ability of not fewer than 50 percent of the participants of beneficiaries under all individual account plans maintained by the issuer to purchase, sell, or otherwise acquire or transfer an interest in any equity of such issuer held in such an individual account plan is temporarily suspended by the issuer or by a fidusciary of the plan; and
+		(B) does not include, under regulations which may only be prescribed by the Commission—
+			(i) a regularly scheduled period in which the participants and beneficiaries may not purchase, sell, or otherwise acquire or transfer an interest in any equity of such issuer, if such period is—
+				(I) incorporated into the individual account plan; and
+				(II) timely disclosed to employees before becoming participants under the individual account plan or as a subsequent amendment to the plan; or
+			(ii) any suspension described in subparagraph (A) that is imposed solely in connection with persons becoming participants or beneficiaries, or ceasing to be participants or beneficiaries, in an individual account plan by reason of a corporate merger, acquisition, divestiture, or similar transaction involving the plan or plan sponsor.
+					
+	(5) INDIVIDUAL ACCOUNT PLAN.—For purposes of this section, the term ‘‘individual account plan’’ has the meaning provided in section 3(34) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(34)), except that such term shall not include a one-participant retirement plan (within the meaning of section 101(i)(8)(B) of such Act (29 U.S.C. 1021(i)(8)(B))).
+
+	(6) NOTICE TO DIRECTORS, EXECUTIVE OFFICERS, AND THE COMMISSION.—In any case in which a director or executive officer is subject to the requirements of this subsection in connection with a blackout period (as defined in paragraph (4)) with respect to any equity securities, the issuer of such equity securities shall timely notify such director or executive officer and the Securities and Exchange Commission of such blackout period.
+
+	(b) NOTICE REQUIREMENTS TO PARTICIPANTS AND BENEFICIARIES UNDER ERISA.—
+		(1) IN GENERAL.—Section 101 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1021) is amended by redesignating the second subsection (h) as subsection (j), and by inserting after the first subsection (h) the following new subsection:

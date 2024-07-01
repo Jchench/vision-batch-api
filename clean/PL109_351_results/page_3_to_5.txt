@@ -1,0 +1,132 @@
+PUBLIC LAW 109–351—OCT. 13, 2006
+120 STAT. 1967
+
+TITLE VI—DEPOSITORY INSTITUTION PROVISIONS
+
+Sec. 601. Reporting requirements relating to insider lending.
+Sec. 602. Investments by insured savings associations in bank service companies authorized.
+Sec. 603. Authorization for member bank to use pass-through reserve accounts.
+Sec. 604. Streamlining reports of condition.
+Sec. 605. Expansion of eligibility for 18-month examination schedule for community banks.
+Sec. 606. Streamlining depository institution merger application requirements.
+Sec. 607. Nonwaiver of privileges.
+Sec. 608. Clarification of application requirements for optional conversion for Federal savings associations.
+Sec. 609. Exemption from disclosure of privacy policy for accountants.
+Sec. 610. Inflation adjustment for the small depository institution exception under the Depository Institution Management Interlocks Act.
+Sec. 611. Modification to cross marketing restrictions.
+
+TITLE VII—BANKING AGENCY PROVISIONS
+
+Sec. 701. Statute of limitations for judicial review of appointment of a receiver for depository institutions.
+Sec. 702. Enhancing the safety and soundness of insured depository institutions.
+Sec. 703. Cross guarantee authority.
+Sec. 704. Golden parachute authority and nonbank holding companies.
+Sec. 705. Amendments relating to change in bank control.
+Sec. 706. Amendment to provide the Federal Reserve Board with discretion concerning the imputation of control of shares of a company by trustees.
+Sec. 707. Interagency data sharing.
+Sec. 708. Clarification of extent of suspension, removal, and prohibition authority of Federal banking agencies in cases of certain crimes by institution-affiliated parties.
+Sec. 709. Protection of confidential information received by Federal banking regulators from foreign banking supervisors.
+Sec. 710. Prohibition on participation by convicted individuals.
+Sec. 711. Coordination of State examination authority.
+Sec. 712. Deputy Director, succession authority for Director of the Office of Thrift Supervision.
+Sec. 713. Office of Thrift Supervision representation on Basel Committee on Banking Supervision.
+Sec. 714. Federal Financial Institutions Examination Council.
+Sec. 715. Technical amendments relating to insured institutions.
+Sec. 716. Clarification of enforcement authority.
+Sec. 717. Federal banking agency authority to enforce deposit insurance conditions.
+Sec. 718. Receiver or conservator consent requirement.
+Sec. 719. Acquisition of FICO scores.
+Sec. 720. Elimination of criminal indictments against receiverships.
+Sec. 721. Resolution of deposit insurance disputes.
+Sec. 722. Recordkeeping.
+Sec. 723. Preservation of records.
+Sec. 724. Technical amendments to information sharing provision in the Federal Deposit Insurance Act.
+Sec. 725. Technical and conforming amendments relating to banks operating under the Code of Law for the District of Columbia.
+Sec. 726. Technical corrections to the Federal Credit Union Act.
+Sec. 727. Repeal of obsolete provisions of the Bank Holding Company Act of 1956.
+Sec. 728. Development of model privacy forms.
+
+TITLE VIII—FAIR DEBT COLLECTION PRACTICES ACT AMENDMENTS
+
+Sec. 801. Exception for certain bad check enforcement programs.
+Sec. 802. Other amendments.
+
+TITLE IX—CASH MANAGEMENT MODERNIZATION
+
+Sec. 901. Collateral modernization.
+
+TITLE X—STUDIES AND REPORTS
+
+Sec. 1001. Study and report by the Comptroller General on the currency transaction report filing system.
+Sec. 1002. Study and report on institution diversity and consolidation.
+---------------------------------------------------------------------------
+
+120 STAT. 1968
+
+PUBLIC LAW 109–351—OCT. 13, 2006
+
+TITLE I—BROKER RELIEF
+
+SEC. 101. JOINT RULEMAKING REQUIRED FOR REVISED DEFINITION 
+OF BROKER IN THE SECURITIES EXCHANGE ACT OF 1934.
+
+(a) FINAL RULES REQUIRED.—
+    (1) AMENDMENT TO SECURITIES EXCHANGE ACT.—Section 3(a)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(4)) is amended by adding at the end the following:
+    “(F) JOINT RULEMAKING REQUIRED.—The Commission and the Board of Governors of the Federal Reserve System shall jointly adopt a single set of rules or regulations to implement the exceptions in subparagraph (B).”.
+    Deadline.
+    15 USC 78c note.
+    (2) TIMING.—Not later than 180 days after the date of the enactment of this Act, the Securities and Exchange Commission (in this section referred to as the “Commission”) and the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the “Board”) shall jointly issue a proposed single set of rules or regulations to define the term “broker” in accordance with section 3(a)(4) of the Securities Exchange Act of 1934, as amended by this subsection.
+    (3) RULEMAKING SUPERSEDES PREVIOUS RULEMAKING.—A final single set of rules or regulations jointly adopted in accordance with this section shall supersede any other proposed or final rule issued by the Commission on or after the date of enactment of section 201 of the Gramm-Leach-Bliley Act with regard to the exceptions to the definition of the term “broker” in section 3(a)(4)(B) of the Securities Exchange Act of 1934, as amended by this section and section 201 of the Gramm-Leach-Bliley Act.
+(b) CONSULTATION.—Prior to jointly adopting the single set of final rules or regulations required by this section, the Commission and the Board shall consult with and seek the concurrence of the Federal banking agencies concerning the content of such rule-making in implementing section 3(a)(4)(B) of the Securities Exchange Act of 1934, as amended by this section and section 201 of the Gramm-Leach-Bliley Act.
+(c) DEFINITION.—For purposes of this section, the term “Federal banking agencies” means the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the Federal Deposit Insurance Corporation.
+
+TITLE II—MONETARY POLICY PROVISIONS
+
+SEC. 201. AUTHORIZATION FOR THE FEDERAL RESERVE TO PAY 
+INTEREST ON RESERVES.
+
+(a) IN GENERAL.—Section 19(b) of the Federal Reserve Act (12 U.S.C. 461(b)) is amended by adding at the end the following:
+“(12) EARNINGS ON BALANCES.—
+“(A) IN GENERAL.—Balances maintained at a Federal Reserve bank by or on behalf of a depository institution may receive earnings to be paid by the Federal Reserve bank at least once each calendar quarter, at a rate or rates not to exceed the general level of short-term interest rates.
+----------------------------------------------------------------------------------
+120 STAT. 1969
+
+PUBLIC LAW 109–351—OCT. 13, 2006
+
+“(B) REGULATIONS RELATING TO PAYMENTS AND DISTRIBUTIONS.—The Board may prescribe regulations concerning—
+“(i) the payment of earnings in accordance with this paragraph;
+“(ii) the distribution of such earnings to the depository institutions which maintain balances at such banks, or on whose behalf such balances are maintained; and
+“(iii) the responsibilities of depository institutions, Federal Home Loan Banks, and the National Credit Union Administration Central Liquidity Facility with respect to the crediting and distribution of earnings attributable to balances maintained, in accordance with subsection (c)(1)(A), in a Federal Reserve bank by any such entity on behalf of depository institutions.
+“(C) DEPOSITORY INSTITUTIONS DEFINED.—For purposes of this paragraph, the term ‘depository institution’, in addition to the institutions described in paragraph (1)(A), includes any trust company, corporation organized under section 25A or having an agreement with the Board under section 25, or any branch or agency of a foreign bank (as defined in section 1(b) of the International Banking Act of 1978).”.
+(b) CONFORMING AMENDMENT.—Section 19(b) of the Federal 
+    Reserve Act (12 U.S.C. 461) is amended—
+    (1) in subsection (b)(4)—
+    (A) by striking subparagraph (C); and
+    (B) by redesignating subparagraphs (D) and (E) as subparagraphs (C) and (D), respectively; and
+    (2) in subsection (c)(1)(A), by striking ‘‘subsection (b)(4)(C)’’ and inserting ‘‘subsection (b)’’.
+
+SEC. 202. INCREASED FLEXIBILITY FOR THE FEDERAL RESERVE 
+BOARD TO ESTABLISH RESERVE REQUIREMENTS.
+
+Section 19(b)(2)(A) of the Federal Reserve Act (12 U.S.C. 
+461(b)(2)(A)) is amended—
+    (1) in clause (i), by striking “the ratio of 3 per centum” 
+        and inserting “a ratio of not greater than 3 percent (and which
+        may be zero)”; and
+    (2) in clause (ii), by striking “and not less than 8 per 
+        centum,” and inserting “(and which may be zero),”.
+
+SEC. 203. EFFECTIVE DATE.
+
+The amendments made by this title shall take effect October 1, 2011.
+
+TITLE III—NATIONAL BANK 
+PROVISIONS
+
+SEC. 301. VOTING IN SHAREHOLDER ELECTIONS.
+
+Section 5144 of the Revised Statutes of the United States 
+(12 U.S.C. 61) is amended—
+    (1) by striking “or to cumulate” and inserting “or, if so 
+        provided by the articles of association of the national bank,
+        to cumulate”; and

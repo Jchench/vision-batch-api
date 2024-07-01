@@ -1,0 +1,193 @@
+PUBLIC LAW 109-351—OCT. 13, 2006
+
+120 STAT. 2005
+
+“(II) the alleged offender has failed to pay the bad check after demand for payment, pursuant to State law, is made for payment of the check amount;
+
+“(v) includes as part of an initial written communication with an alleged offender a clear and conspicuous statement that—
+
+“(I) the alleged offender may dispute the validity of any alleged bad check violation;
+
+“(II) where the alleged offender knows, or has reasonable cause to believe, that the alleged bad check violation is the result of theft or forgery of the check, identity theft, or other fraud that is not the result of the conduct of the alleged offender, the alleged offender may file a report with the appropriate law enforcement agency; and
+
+“(III) if the alleged offender notifies the private entity or the district attorney in writing, not later than 30 days after being contacted for the first time pursuant to clause (iv), that there is a dispute pursuant to this subsection, before further restitution efforts are pursued, the district attorney or an employee of the district attorney authorized to make such a determination makes a determination that there is probable cause to believe that a crime has been committed; and
+
+“(vi) charges only fees in connection with services under the contract that have been authorized by contract with the State or district attorney.
+
+“(b) CERTAIN CHECKS EXCLUDED.—A check is described in this subsection if the check involves, or is subsequently found to involve—
+
+“(1) a postdated check presented in connection with a payday loan, or other similar transaction, where the payee of the check knew that the issuer had insufficient funds at the time the check was made, drawn, or delivered;
+
+“(2) a stop payment order where the issuer acted in good faith and with reasonable cause in stopping payment on the check;
+
+“(3) a check dishonored because of an adjustment to the issuer’s account by the financial institution holding such account without providing notice to the person at the time the check was made, drawn, or delivered;
+
+“(4) a check for partial payment of a debt where the payee had previously accepted partial payment for such debt;
+
+“(5) a check issued by a person who was not competent, or was of legal age, to enter into a legal contractual obligation at the time the check was made, drawn, or delivered; or
+
+“(6) a check issued to pay an obligation arising from a transaction that was illegal in the jurisdiction of the State district attorney at the time the check was made, drawn, or delivered.
+
+“(c) DEFINITIONS.—For purposes of this section, the following definitions shall apply:
+
+Deadline.
+
+Applicability.
+
+120 STAT. 2006
+
+PUBLIC LAW 109-351—OCT. 13, 2006
+
+“(1) STATE OR DISTRICT ATTORNEY.—The term ‘State or district attorney’ means the chief elected or appointed prosecuting attorney in a district, county (as defined in section 2 of title 1, United States Code), municipality, or comparable jurisdiction, including State attorneys general who act as chief elected or appointed prosecuting attorneys in a district, county (as so defined), municipality, or comparable jurisdiction, who may be referred to by a variety of titles such as district attorneys, prosecuting attorneys, commonwealth’s attorneys, solicitors, county attorneys, and state’s attorneys, and who are responsible for the prosecution of State crimes and violations of jurisdiction-specific local ordinances.
+
+“(2) CHECK.—The term ‘check’ has the same meaning as in section 3(6) of the Check Clearing for the 21st Century Act.
+
+“(3) BAD CHECK VIOLATION.—The term ‘bad check violation’ means a violation of the applicable State criminal law relating to the writing of dishonored checks.”.
+
+(b) CLERICAL AMENDMENT.—The table of sections for the Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.) is amended—
+
+(1) by redesignating the item relating to section 818 as section 819; and
+
+(2) by inserting after the item relating to section 817 the following new item:
+
+“818. Exception for certain bad check enforcement programs operated by private entities.”.
+
+SEC. 802. OTHER AMENDMENTS.
+
+(a) LEGAL PLEADINGS.—Section 809 of the Fair Debt Collection Practices Act (15 U.S.C. 1692g) is amended by adding at the end the following new subsection:
+
+“(d) LEGAL PLEADINGS.—A communication in the form of a formal pleading in a civil action shall not be treated as an initial communication for purposes of subsection (a).”.
+
+(b) NOTICE PROVISIONS.—Section 809 of the Fair Debt Collection Practices Act (15 U.S.C. 1692g) is amended by adding after subsection (d) (as added by subsection (a) of this section) the following new subsection:
+
+“(e) NOTICE PROVISIONS.—The sending or delivery of any form or notice which does not relate to the collection of a debt and is expressly required by the Internal Revenue Code of 1986, title V of Gramm-Leach-Bliley Act, or any provision of Federal or State law relating to notice of data security breach or privacy, or any regulation prescribed under any such provision of law, shall not be treated as an initial communication in connection with debt collection for purposes of this section.”.
+
+(c) ESTABLISHMENT OF RIGHT TO COLLECT WITHIN THE FIRST 30 DAYS.—Section 809(b) of the Fair Debt Collection Practices Act (15 U.S.C 1692g(b)) is amended by adding at the end the following sentences: “Collection activities and communications that do not otherwise violate this title may continue during the 30-day period referred to in subsection (a) unless the consumer has notified the debt collector in writing that the debt, or any portion of the  debt, is disputed or that the consumer requests the name and 
+
+address of the original creditor. Any collection activities and communication during the 30-day period may not overshadow or be inconsistent with the disclosure of the consumer’s right to dispute the debt or request the name and address of the original creditor.”.
+
+120 STAT. 2007
+
+PUBLIC LAW 109-351—OCT. 13, 2006
+
+TITLE IX—CASH MANAGEMENT MODERNIZATION
+
+SEC. 901. COLLATERAL MODERNIZATION.
+
+(a) IN GENERAL.—Section 9301(2) of title 31, United States Code, is amended to read as follows:
+
+“(2) ‘eligible obligation’ means any security designated as acceptable in lieu of a surety bond by the Secretary of the Treasury.”.
+
+(b) USE OF ELIGIBLE OBLIGATIONS INSTEAD OF SURETY BONDS.— Section 9303(a)(2) of title 31, United States Code, is amended to read as follows:
+
+“(2) as determined by the Secretary of the Treasury, have a market value that is equal to or greater than the amount of the required surety bond; and”.
+
+(c) TECHNICAL AMENDMENTS.—Section 9303 of title 31, United States Code, is amended—
+
+(1) in the section heading, by striking “Government obligations” and inserting “eligible obligations”;
+
+(2) in subsection (f), by striking “Government obligations” and inserting “eligible obligations”;
+
+(3) by striking “a Government obligation” each place that term appears and inserting “an eligible obligation”; and
+
+(4) by striking “Government obligation” each place that term appears and inserting “eligible obligation”.
+
+TITLE X—STUDIES AND REPORTS
+
+SEC. 1001. STUDY AND REPORT BY THE COMPTROLLER GENERAL ON THE CURRENCY TRANSACTION REPORT FILING SYSTEM.
+
+(a) IN GENERAL.—The Comptroller General of the United States shall conduct a study on the volume of currency transaction reports filed with the Secretary of the Treasury under section 5313(a) of title 31, United States Code.
+
+(b) PURPOSE.—The purpose of the study required under subsection (a) shall be—
+
+(1) to evaluate, on the basis of actual filing data, patterns of currency transaction reports filed by depository institutions of all sizes and locations; and
+
+(2) to identify whether and the extent to which the filing rules for currency transaction reports described in section 5313(a) of title 31, United States Code—
+
+(A) are burdensome; and
+
+(B) can or should be modified to reduce such burdens without harming the usefulness of such filing rules to Federal, State, and local anti-terrorism, law enforcement, and regulatory operations.
+
+(c) PERIOD COVERED.—The study required under subsection (a) shall cover the period beginning at least 3 calendar years prior to the date of enactment of this section.
+
+120 STAT. 2008
+
+PUBLIC LAW 109-351—OCT. 13, 2006
+
+(d) CONTENT.—The study required under subsection (a) shall include a detailed evaluation of—
+
+(1) the extent to which depository institutions are availing themselves of the exemption system for the filing of currency transaction reports set forth in section 103.22(d) of title 31, Code of Federal Regulations, as in effect during the study period (in this section referred to as the “exemption system”), including specifically, for the study period—
+
+(A) the number of currency transaction reports filed (out of the total annual numbers) involving companies that are listed on the New York Stock Exchange or the NASDAQ National Market;
+
+(B) the number of currency transaction reports filed by the 100 largest depository institutions in the United States by asset size, and thereafter in tiers of 100, by asset size;
+
+(C) the number of currency transaction reports filed by the 200 smallest depository institutions in the United States, including the number of such currency transaction reports involving companies listed on the New York Stock Exchange or the NASDAQ National Market; and
+
+(D) the number of currency transaction reports that would have been filed during the filing period if the exemption system had been used by all depository institutions in the United States;
+
+(2) what types of depository institutions are using the exemption system, and the extent to which such exemption system is used;
+
+(3) difficulties that limit the willingness or ability of depository institutions to reduce their currency transaction reports reporting burden by making use of the exemption system, including considerations of cost, especially in the case of small depository institutions;
+
+(4) the extent to which bank examination difficulties have limited the use of the exemption system, especially with respect to—
+
+(A) the exemption of privately-held companies permitted under such exemption system; and
+
+(B) whether, on a sample basis, the reaction of bank examiners to implementation of such exemption system is justified or inhibits use of such exemption system without an offsetting compliance benefit;
+
+(5) ways to improve the use of the exemption system by depository institutions, including making such exemption system mandatory in order to reduce the volume of currency transaction reports unnecessarily filed; and
+
+(6) the usefulness of currency transaction reports filed to law enforcement agencies, taking into account—
+
+(A) advances in information technology;
+
+(B) the impact, including possible loss of investigative data, that various changes in the exemption system would have on the usefulness of such currency transaction reports; and
+
+(C) changes that could be made to the exemption system without affecting the usefulness of currency transaction reports.
+
+120 STAT. 2009
+
+PUBLIC LAW 109-351—OCT. 13, 2006
+
+(e) ASSISTANCE.—The Secretary of the Treasury shall provide such information processing and other assistance, including from the Commissioner of the Internal Revenue Service and the Director of the Financial Crimes Enforcement Network, to the Comptroller General in analyzing currency transaction report filings for the study period described in subsection (c), as is necessary to provide the information required by subsection (a).
+
+(f) VIEWS.—The study required under subsection (a) shall, if appropriate, include a discussion of the views of a representative sample of Federal, State, and local law enforcement and regulatory officials and officials of depository institutions of all sizes.
+
+(g) RECOMMENDATIONS.—The study required under subsection (a) shall, if appropriate, include recommendations for changes to the exemption system that would reflect a reduction in unnecessary cost to depository institutions, assuming reasonably full implementation of such exemption system, without reducing the usefulness of the currency transaction report filing system to anti-terrorism, law enforcement, and regulatory operations.
+
+(h) REPORT.—Not later than 15 months after the date of enactment of this section, the Comptroller General shall submit a report on the study required under subsection (a) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+
+SEC. 1002. STUDY AND REPORT ON INSTITUTION DIVERSITY AND CONSOLIDATION.
+
+(a) STUDY.—The Comptroller General of the United States shall conduct a study regarding—
+
+(1) the vast diversity in the size and complexity of institutions in the banking and financial services sector, including the differences in capital, market share, geographical limitations, product offerings, and general activities;
+
+(2) the differences in powers among the depository institution charters, including—
+
+(A) identification of the historical trends in the evolution of depository institution charters;
+
+(B) an analysis of the impact of charter differences to the overall safely and soundness of the banking industry, and the effectiveness of the applicable depository institution regulator; and
+
+(C) an analysis of the impact that the availability of options for depository institution charters on the development of the banking industry;
+
+(3) the impact that differences of size and overall complexity among financial institutions makes with respect to regulatory oversight, efficiency, safety and soundness, and charter options for financial institutions; and
+
+(4) the aggregate cost and breakdown associated with regulatory compliance for banks, savings associations, credit unions, or any other financial institution, including potential disproportionate impact that the cost of compliance may pose on smaller institutions, given the percentage of personnel that the institution must dedicate solely to compliance.
+(b) CONSIDERATIONS.—In conducting the study under subsection (a), the Comptroller General shall consider the efficacy and efficiency of the consolidation of financial regulators, as well as charter simplification and homogenization.
+
+120 STAT. 2010
+
+PUBLIC LAW 109-351—OCT. 13, 2006
+
+(c) REPORT.—Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the results of the study required by this section.
+
+Approved October 13, 2006.
+LEGISLATIVE HISTORY—S. 2856:
+
+SENATE REPORTS: No. 109–256 (Comm. on Banking, Housing, and Urban Affairs).
+CONGRESSIONAL RECORD, Vol. 152 (2006): 
+   May 25, considered and passed Senate.
+   Sept. 27, considered and passed House, amended.
+   Sept. 29, Senate concurred in House amendment.

@@ -1,0 +1,125 @@
+PUBLIC LAW 107—204—JULY 30, 2002
+
+116 STAT. 801
+
+(b) CLERICAL AMENDMENT.—The table of sections at the beginning of chapter 73 of title 18, United States Code, is amended by adding at the end the following new items:
+
+“1519. Destruction, alteration, or falsification of records in Federal investigations and bankruptcy.
+“1520. Destruction of corporate audit records.”.
+
+SEC. 803. DEBTS NONDISCHARGEABLE IF INCURRED IN VIOLATION OF SECURITIES FRAUD LAWS.
+
+Section 523(a) of title 11, United States Code, is amended—
+(1) in paragraph (17), by striking “or” after the semicolon;
+(2) in paragraph (18), by striking the period at the end and inserting “; or”; and
+(3) by adding at the end, the following:
+“(19) that—
+“(A) is for—
+“(i) the violation of any of the Federal securities laws (as that term is defined in section 3(a)(47) of the Securities Exchange Act of 1934), any of the State securities laws, or any regulation or order issued under such Federal or State securities laws; or
+“(ii) common law fraud, deceit, or manipulation in connection with the purchase or sale of any security; and
+“(B) results from—
+“(i) any judgment, order, consent order, or decree entered in any Federal or State judicial or administrative proceeding;
+“(ii) any settlement agreement entered into by the debtor; or
+“(iii) any court or administrative order for any damages, fine, penalty, citation, restitutionary payment, disgorgement payment, attorney fee, cost, or other payment owed by the debtor.”.
+
+SEC. 804. STATUTE OF LIMITATIONS FOR SECURITIES FRAUD.
+
+(a) IN GENERAL.—Section 1658 of title 28, United States Code, is amended—
+(1) by inserting “(a)” before “Except”; and
+(2) by adding at the end the following:
+“(b) Notwithstanding subsection (a), a private right of action that involves a claim of fraud, deceit, manipulation, or contrivance in contravention of a regulatory requirement concerning the securities laws, as defined in section 3(a)(47) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(47)), may be brought not later than the earlier of—
+“(1) 2 years after the discovery of the facts constituting the violation; or
+“(2) 5 years after such violation.”.
+(b) EFFECTIVE DATE.—The limitations period provided by section 1658(b) of title 28, United States Code, as added by this section, shall apply to all proceedings addressed by this section that are commenced on or after the date of enactment of this Act.
+(c) NO CREATION OF ACTIONS.—Nothing in this section shall create a new, private right of action.
+
+28 USC 1658 note.
+
+116 STAT. 802
+
+PUBLIC LAW 107—204—JULY 30, 2002
+
+28 USC 994 note.
+
+SEC. 805. REVIEW OF FEDERAL SENTENCING GUIDELINES FOR OBSTRUCTION OF JUSTICE AND EXTENSIVE CRIMINAL FRAUD.
+
+(a) ENHANCEMENT OF FRAUD AND OBSTRUCTION OF JUSTICE SENTENCES.—Pursuant to section 994 of title 28, United States Code, and in accordance with this section, the United States Sentencing Commission shall review and amend, as appropriate, the Federal Sentencing Guidelines and related policy statements to ensure that—
+(1) the base offense level and existing enhancements contained in United States Sentencing Guideline 2J1.2 relating to obstruction of justice are sufficient to deter and punish that activity;
+(2) the enhancements and specific offense characteristics relating to obstruction of justice are adequate in cases where—
+(A) the destruction, alteration, or fabrication of evidence involves—
+(i) a large amount of evidence, a large number of participants, or is otherwise extensive;
+(ii) the selection of evidence that is particularly probative or essential to the investigation; or
+(iii) more than minimal planning; or
+(B) the offense involved abuse of a special skill or a position of trust;
+(3) the guideline offense levels and enhancements for violations of sections 1519 or 1520 of title 18, United States Code, as added by this title, are sufficient to deter and punish that activity;
+(4) a specific offense characteristic enhancing sentencing is provided under United States Sentencing Guideline 2B1.1 (as in effect on the date of enactment of this Act) for a fraud offense that endangers the solvency or financial security of a substantial number of victims; and
+(5) the guidelines that apply to organizations in United States Sentencing Guidelines, chapter 8, are sufficient to deter and punish organizational criminal misconduct.
+(b) EMERGENCY AUTHORITY AND DEADLINE FOR COMMISSION ACTION.—The United States Sentencing Commission is requested to promulgate the guidelines or amendments provided for under this section as soon as practicable, and in any event not later than 180 days after the date of enactment of this Act, in accordance with the procedures set forth in section 219(a) of the Sentencing Reform Act of 1987, as though the authority under that Act had not expired.
+
+Deadline.
+
+SEC. 806. PROTECTION FOR EMPLOYEES OF PUBLICLY TRADED COMPANIES WHO PROVIDE EVIDENCE OF FRAUD.
+
+(a) IN GENERAL.—Chapter 73 of title 18, United States Code, is amended by inserting after section 1514 the following:
+
+“§ 1514A. Civil action to protect against retaliation in fraud cases
+“(a) WHISTLEBLOWER PROTECTION FOR EMPLOYEES OF PUBLICLY TRADED COMPANIES.—No company with a class of securities registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 781), or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(d)),
+
+
+116 STAT. 803
+
+PUBLIC LAW 107—204—JULY 30, 2002
+
+or any officer, employee, contractor, subcontractor, or agent of such company, may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee in the terms and conditions of employment because of any lawful act done by the employee—
+(1) to provide information, cause information to be provided, or otherwise assist in an investigation regarding any conduct which the employee reasonably believes constitutes a violation of section 1341, 1343, 1344, or 1348, any rule or regulation of the Securities and Exchange Commission, or any provision of Federal law relating to fraud against shareholders, when the information or assistance is provided to or the investigation is conducted by—
+(A) a Federal regulatory or law enforcement agency;
+(B) any Member of Congress or any committee of Congress; or
+(C) a person with supervisory authority over the employee (or such other person working for the employer who has the authority to investigate, discover, or terminate misconduct); or
+(2) to file, cause to be filed, testify, participate in, or otherwise assist in a proceeding filed or about to be filed (with any knowledge of the employer) relating to an alleged violation of section 1341, 1343, 1344, or 1348, any rule or regulation of the Securities and Exchange Commission, or any provision of Federal law relating to fraud against shareholders.
+“(b) ENFORCEMENT ACTION.—
+(1) IN GENERAL.—A person who alleges discharge or other discrimination by any person in violation of subsection (a) may seek relief under subsection (c), by—
+(A) filing a complaint with the Secretary of Labor; or
+(B) if the Secretary has not issued a final decision within 180 days of the filing of the complaint and there is no showing that such delay is due to the bad faith of the claimant, bringing an action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
+(2) PROCEDURE.—
+(A) IN GENERAL.—An action under paragraph (1)(A) shall be governed under the rules and procedures set forth in section 42121(b) of title 49, United States Code.
+(B) EXCEPTION.—Notification made under section 42121(b)(1) of title 49, United States Code, shall be made to the person named in the complaint and to the employer.
+(C) BURDENS OF PROOF.—An action brought under paragraph (1)(B) shall be governed by the legal burdens of proof set forth in section 42121(b) of title 49, United States Code.
+(D) STATUTE OF LIMITATIONS.—An action under paragraph (1) shall be commenced not later than 90 days after the date on which the violation occurs.
+
+Deadline.
+
+(c) REMEDIES.—
+(1) IN GENERAL.—An employee prevailing in any action under subsection (b)(1) shall be entitled to all relief necessary to make the employee whole.
+
+116 STAT. 804
+
+PUBLIC LAW 107—204—JULY 30, 2002
+
+“(2) COMPENSATORY DAMAGES.—Relief for any action under paragraph (1) shall include—
+(A) reinstatement with the same seniority status that the employee would have had, but for the discrimination;
+(B) the amount of back pay, with interest; and
+(C) compensation for any special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
+“(d) RIGHTS RETAINED BY EMPLOYEE.—Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law, or under any collective bargaining agreement.”.
+(b) CLERICAL AMENDMENT.—The table of sections at the beginning of chapter 73 of title 18, United States Code, is amended by inserting after the item relating to section 1514 the following new item:
+“1514A. Civil action to protect against retaliation in fraud cases.”.
+
+SEC. 807. CRIMINAL PENALTIES FOR DEFRAUDING SHAREHOLDERS OF PUBLICLY TRADED COMPANIES.
+
+(a) IN GENERAL.—Chapter 63 of title 18, United States Code, is amended by adding at the end the following:
+“§ 1348. Securities fraud
+“Whoever knowingly executes, or attempts to execute, a scheme or artifice—
+(1) to defraud any person in connection with any security of an issuer with a class of securities registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 781) or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(d)); or
+(2) to obtain, by means of false or fraudulent pretenses, representations, or promises, any money or property in connection with the purchase or sale of any security of an issuer with a class of securities registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 781) or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(d));
+shall be fined under this title, or imprisoned not more than 25 years, or both.”.
+(b) CLERICAL AMENDMENT.—The table of sections at the beginning of chapter 63 of title 18, United States Code, is amended by adding at the end the following new item:
+“1348. Securities fraud.”.
+
+TITLE IX—WHITE-COLLAR CRIME PENALTY ENHANCEMENTS
+
+SEC. 901. SHORT TITLE.
+
+This title may be cited as the “White-Collar Crime Penalty Enhancement Act of 2002”.
+
+White-Collar Crime Penalty Enhancement Act of 2002.
+
+18 USC 1341 note.

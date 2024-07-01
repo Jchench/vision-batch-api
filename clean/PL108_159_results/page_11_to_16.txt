@@ -1,0 +1,120 @@
+PUBLIC LAW 108-159—DEC. 4, 2003 117 STAT. 1961
+
+to a credit or deposit account that has been inactive for more than 2 years, the creditor or financial institution shall follow reasonable policies and procedures that provide for notice to be given to a consumer in a manner reasonably designed to reduce the likelihood of identity theft with respect to such account.
+"(3) CONSISTENCY WITH VERIFICATION REQUIREMENTS.— Guidelines established pursuant to paragraph (1) shall not be inconsistent with the policies and procedures required under section 5318(1) of title 31, United States Code."
+
+SEC. 115. AUTHORITY TO TRUNCATE SOCIAL SECURITY NUMBERS.
+Section 609(a)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681g(a)(1)) is amended by striking "except that nothing" and inserting the following: "except that—
+"(A) if the consumer to whom the file relates requests that the first 5 digits of the social security number (or similar identification number) of the consumer not be included in the disclosure and the consumer reporting agency has received appropriate proof of the identity of the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
+"(B) nothing"
+
+Subtitle B—Protection and Restoration of Identity Theft Victim Credit History
+
+SEC. 151. SUMMARY OF RIGHTS OF IDENTITY THEFT VICTIMS.
+(a) IN GENERAL.—Section 609 of the Fair Credit Reporting Act (15 U.S.C. 1681g) is amended by adding at the end the following:
+"(d) SUMMARY OF RIGHTS OF IDENTITY THEFT VICTIMS.—
+"(1) IN GENERAL.—The Commission, in consultation with the Federal banking agencies and the National Credit Union Administration, shall prepare a model summary of the rights of consumers under this title with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
+"(2) SUMMARY OF RIGHTS AND CONTACT INFORMATION.— Beginning 60 days after the date on which the model summary of rights is prescribed in final form by the Commission pursuant to paragraph (1), if any consumer contacts a consumer reporting agency and expresses a belief that the consumer is a victim of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor, the consumer reporting agency shall, in addition to any other action that the agency may take, provide the consumer with a summary of rights that contains all of the information required by the Commission under paragraph (1), and information on how to contact the Commission to obtain more detailed information.
+"(e) INFORMATION AVAILABLE TO VICTIMS.—
+"(1) IN GENERAL.—For the purpose of documenting fraudulent transactions resulting from identity theft, not later than 30 days after the date of receipt of a request from a victim in accordance with paragraph (3), and subject to verification of the identity of the victim and the claim of identity theft in accordance with paragraph (2), a business entity that has provided credit to, provided for consideration products, goods, or services to, accepted payment from, or otherwise entered into a commercial transaction for consideration with, a person who has allegedly made unauthorized use of the means of identification of the victim, shall provide a copy of application and business transaction records in the control of the business entity, whether maintained by the business entity or by another person on behalf of the business entity, evidencing any transaction alleged to be a result of identity theft to—
+"(A) the victim;
+"(B) any Federal, State, or local government law enforcement agency or officer specified by the victim in such a request; or
+"(C) any law enforcement agency investigating the identity theft and authorized by the victim to take receipt of records provided under this subsection.
+"(2) VERIFICATION OF IDENTITY AND CLAIM.—Before a business entity provides any information under paragraph (1), unless the business entity, at its discretion, otherwise has a high degree of confidence that it knows the identity of the victim making a request under paragraph (1), the victim shall provide to the business entity—
+"(A) as proof of positive identification of the victim, at the election of the business entity—
+"(i) the presentation of a government-issued identification card;
+"(ii) personally identifying information of the same type as was provided to the business entity by the unauthorized person; or
+"(iii) personally identifying information that the business entity typically requests from new applicants or for new transactions, at the time of the victim's request for information, including any documentation described in clauses (i) and (ii); and
+"(B) as proof of a claim of identity theft, at the election of the business entity—
+"(i) a copy of a police report evidencing the claim of the victim of identity theft; and
+"(ii) a properly completed—
+"(I) copy of a standardized affidavit of identity theft developed and made available by the Commission; or
+"(II) an affidavit of fact that is acceptable to the business entity for that purpose.
+"(3) PROCEDURES.—The request of a victim under paragraph (1) shall—
+"(A) be in writing;
+"(B) be mailed to an address specified by the business entity, if any; and
+"(C) if asked by the business entity, include relevant information about any transaction alleged to be a result of identity theft to facilitate compliance with this section including—
+117 STAT. 1963
+PUBLIC LAW 108-159—DEC. 4, 2003
+
+"(i) if known by the victim (or if readily obtainable by the victim), the date of the application or transaction; and
+"(ii) if known by the victim (or if readily obtainable by the victim), any other identifying information such as an account or transaction number.
+"(4) NO CHARGE TO VICTIM.—Information required to be provided under paragraph (1) shall be so provided without charge.
+"(5) AUTHORITY TO DECLINE TO PROVIDE INFORMATION.— A business entity may decline to provide information under paragraph (1) if, in the exercise of good faith, the business entity determines that—
+"(A) this subsection does not require disclosure of the information;
+"(B) after reviewing the information provided pursuant to paragraph (2), the business entity does not have a high degree of confidence in knowing the true identity of the individual requesting the information;
+"(C) the request for the information is based on a misrepresentation of fact by the individual requesting the information relevant to the request for information; or
+"(D) the information requested is Internet navigational data or similar information about a person's visit to a website or online service.
+"(6) LIMITATION ON CIVIL LIABILITY.—No business entity may be held civilly liable under any provision of Federal, State, or other law for disclosure, made in good faith pursuant to this subsection.
+"(7) LIMITATION ON CIVIL LIABILITY.—No business entity may be held civilly liable under any provision of Federal, State, or other law for disclosure, made in good faith pursuant to this subsection.
+"(8) NO NEW RECORDKEEPING OBLIGATION.—Nothing in this subsection creates an obligation on the part of a business entity to obtain, retain, maintain information or records that are not otherwise required to be obtained, retained, or maintained in the ordinary course of its business or under other applicable law.
+"(9) RULE OF CONSTRUCTION.—
+"(A) IN GENERAL.—No provision of subtitle A of title V of Public Law 106-102, prohibiting the disclosure of financial information by a business entity to third parties shall be used to deny disclosure of information to the victim under this subsection.
+"(B) LIMITATION.—Except as provided in subparagraph (A), nothing in this subsection permits a business entity to disclose information, including information to law enforcement under subparagraphs (B) and (C) of paragraph (1), that the business entity is otherwise prohibited from disclosing under any other applicable provision of Federal or State law.
+"(10) AFFIRMATIVE DEFENSE.—In any civil action brought to enforce this subsection, it is an affirmative defense (which the defendant must establish by a preponderance of the evidence) for a business entity to file an affidavit or answer stating that—
+117 STAT. 1964
+PUBLIC LAW 108-159—DEC. 4, 2003
+
+"(A) the business entity has made a reasonably diligent search of its available business records; and
+"(B) the records requested under this subsection do not exist or are not reasonably available.
+"(11) DEFINITION OF VICTIM.—For purposes of this subsection, the term 'victim' means a consumer whose means of identification or financial information has been used or transferred (or has been alleged to have been used or transferred) without the authority of that consumer, with the intent to commit, or to aid or abet, an identity theft or a similar crime.
+"(12) EFFECTIVE DATE.—This subsection shall become effective 180 days after the date of enactment of this subsection.
+"(13) EFFECTIVENESS STUDY.—Not later than 18 months after the date of enactment of this subsection, the Comptroller General of the United States shall submit a report to Congress assessing the effectiveness of this provision."
+
+(2) RELATION TO STATE LAWS.—Section 625(b)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681t(b)(1)), as so redesignated) is amended by adding at the end the following new subparagraph:
+"(G) section 609(e), relating to information available to victims under section 609(e);".
+(b) PUBLIC CAMPAIGN TO PREVENT IDENTITY THEFT.—Not later than 2 years after the date of enactment of this Act, the Commission shall establish and implement a media and distribution campaign to teach the public how to prevent identity theft. Such campaign shall include television, radio, and print public service announcements, video cassettes, interactive digital video discs (DVD's) or compact audio discs (CD's), and Internet resources.
+
+SEC. 152. BLOCKING OF INFORMATION RESULTING FROM IDENTITY THEFT.
+(a) IN GENERAL.—The Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended by inserting after section 605A, as added by this Act, the following:
+
+"§ 605B. Block of information resulting from identity theft.
+"(a) BLOCK.—Except as otherwise provided in this section, a consumer reporting agency shall block the reporting of any information in the file of a consumer that the consumer identifies as information that resulted from an alleged identity theft, not later than 4 business days after the date of receipt by such agency of—
+"(1) appropriate proof of the identity of the consumer;
+"(2) a copy of an identity theft report;
+"(3) the identification of such information by the consumer; and
+"(4) a statement by the consumer that the information is not information relating to any transaction by the consumer.
+"(b) NOTIFICATION.—A consumer reporting agency shall promptly notify the furnisher of information identified by the consumer under subsection (a)—
+
+"(1) that the information may be a result of identity theft;
+"(2) that an identity theft report has been filed;
+"(3) that a block has been requested under this section; and
+PUBLIC LAW 108-159—DEC. 4, 2003 117 STAT. 1965
+
+"(4) of the effective dates of the block.
+"(c) AUTHORITY TO DECLINE OR RESCIND.—
+"(1) IN GENERAL.—A consumer reporting agency may decline to block, or may rescind any block of, information relating to a consumer under this section, if the consumer reporting agency reasonably determines that—
+"(A) the information was blocked in error or a block was requested by the consumer in error;
+"(B) the information was blocked, or a block was requested by the consumer, on the basis of a material misrepresentation of fact by the consumer relevant to the request to block; or
+"(C) the consumer obtained possession of goods, services, or money as a result of the blocked transaction or transactions.
+"(2) NOTIFICATION TO CONSUMER.—If a block of information is declined or rescinded under this subsection, the affected consumer shall be notified promptly, in the same manner as consumers are notified of the reinsertion of information under section 611(a)(5)(B).
+"(3) SIGNIFICANCE OF BLOCK.—For purposes of this subsection, if a consumer reporting agency rescinds a block, the presence of information in the file of a consumer prior to the blocking of such information is not evidence of whether the consumer knew or should have known that the consumer obtained possession of any goods, services, or money as a result of the block.
+"(d) EXCEPTION FOR RESELLERS.—
+"(1) NO RESELLER FILE.—This section shall not apply to a consumer reporting agency, if the consumer reporting agency—
+"(A) is a reseller;
+"(B) is not, at the time of the request of the consumer under subsection (a), otherwise furnishing or reselling a consumer report concerning the information identified by the consumer; and
+"(C) informs the consumer, by any means, that the consumer may report the identity theft to the Commission to obtain consumer information regarding identity theft.
+"(2) RESELLER WITH FILE.—The sole obligation of the consumer reporting agency under this section, with regard to any request of a consumer under this section, shall be to block the information identified by the consumer reported by the consumer reporting agency from any subsequent use, if—
+"(A) the consumer, in accordance with the provisions of subsection (a), identifies, to a consumer reporting agency, information in the file of the consumer that resulted from identity theft; and
+"(B) the consumer reporting agency is a reseller of the identified information.
+"(3) NOTICE.—In carrying out its obligation under paragraph (2), the reseller shall promptly provide a notice to the consumer of the decision to block the file. Such notice shall contain the name, address, and telephone number of each consumer reporting agency from which the consumer information was obtained for resale.
+117 STAT. 1966
+PUBLIC LAW 108-159—DEC. 4, 2003
+
+"(e) EXCEPTION FOR VERIFICATION COMPANIES.—The provisions of this section do not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, except that, beginning 4 business days after receipt of information described in paragraphs (1) through (3) of subsection (a), a check services company shall not report to a national consumer reporting agency described in section 603(P), any information identified in the subject identity theft report as resulting from identity theft.
+"(f.) ACCESS TO BLOCKED INFORMATION BY LAW ENFORCEMENT AGENCIES.—No provision of this section shall be construed as requiring a consumer reporting agency to prevent a Federal, State, or local law enforcement agency from accessing blocked information in a consumer file to which the agency could otherwise obtain access under this title."
+(b) CLERICAL AMENDMENT.—The table of sections for the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended by inserting after the item relating to section 605 the following new items:
+"605A. Identity theft prevention; fraud alerts and active duty alerts.
+"605B. Block of information resulting from identity theft.".
+
+SEC. 153. COORDINATION OF IDENTITY THEFT COMPLAINT INVESTIGATIONS.
+Section 621 of the Fair Credit Reporting Act (15 U.S.C. 1681s) is amended by adding at the end the following:
+"(f.) COORDINATION OF CONSUMER COMPLAINT INVESTIGATIONS.—
+"(1) IN GENERAL.—Each consumer reporting agency described in section 603(p) shall develop and maintain procedures for the referral to each other such agency of any consumer complaint received by the agency alleging identity theft, or requesting a fraud alert under section 605A or block under section 605B.
+"(2) MODEL FORM AND PROCEDURE FOR REPORTING IDENTITY THEFT.—The Commission, in consultation with the Federal banking agencies and the National Credit Union Administration, shall develop a model form and model procedures to be used by consumers who are victims of identity theft for contacting and informing creditors and consumer reporting agencies of the fraud.
+"(3) ANNUAL SUMMARY REPORTS.—Each consumer reporting agency described in section 603(p) shall submit an annual summary report to the Commission on consumer complaints received by the agency on identity theft or fraud alerts.".
+
+SEC. 154. PREVENTION OF REPOLLUTION OF CONSUMER REPORTS.
+(a) PREVENTION OF REINSERTION OF ERRONEOUS INFORMATION.—Section 623(a) of the Fair Credit Reporting Act (15 U.S.C. 1681s-2(a)) is amended by adding at the end the following:
+"(6) DUTIES OF FURNISHERS UPON NOTICE OF IDENTITY THEFT-RELATED INFORMATION.—
+"(A) REASONABLE PROCEDURES.—A person that furnishes information to any consumer reporting agency shall have in place reasonable procedures to respond to any notification that it receives from a consumer reporting agency under section 605B relating to information resulting

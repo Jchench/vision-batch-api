@@ -1,0 +1,97 @@
+120 STAT. 1970            PUBLIC LAW 109–351—OCT. 13, 2006
+
+(2) by striking the comma after ‘‘his shares shall equal’’.
+
+SEC. 302. SIMPLIFYING DIVIDEND CALCULATIONS FOR NATIONAL BANKS.
+
+(a) IN GENERAL.—Section 5199 of the Revised Statutes of the United States (12 U.S.C. 60) is amended to read as follows:
+‘‘SEC. 5199. NATIONAL BANK DIVIDENDS.
+‘‘(a) IN GENERAL.—Subject to subsection (b), the directors of any national bank may declare a dividend of so much of the undivided profits of the bank as the directors judge to be expedient.
+‘‘(b) APPROVAL REQUIRED UNDER CERTAIN CIRCUMSTANCES.— A national bank may not declare and pay dividends in any year in excess of an amount equal to the sum of the total of the net income of the bank for that year and the retained net income of the bank for the preceding 2 years, minus the sum of any transfers required by the Comptroller of the Currency and any transfers required to be made to a fund for the retirement of any preferred stock, unless the Comptroller of the Currency approves the declaration and payment of dividends in excess of such amount.’’.
+(b) CLERICAL AMENDMENT.—The table of sections for chapter three of title LXII of the Revised Statutes of the United States is amended by striking the item relating to section 5199 and inserting the following:
+
+‘‘5199. National bank dividends.’’.
+
+SEC. 303. REPEAL OF OBSOLETE LIMITATION ON REMOVAL AUTHORITY OF THE COMPTROLLER OF THE CURRENCY.
+
+Section 8(e)(4) of the Federal Deposit Insurance Act (12 U.S.C. 1818(e)(4)) is amended by striking the 5th sentence.
+
+SEC. 304. REPEAL OF OBSOLETE PROVISION IN THE REVISED STATUTES.
+
+Section 5143 of the Revised Statutes of the United States (12 U.S.C. 59) is amended to read as follows:
+
+‘‘SEC. 5143. REDUCTION OF CAPITAL.
+‘‘(a) IN GENERAL.—Subject to the approval of the Comptroller of the Currency, a national banking association may, by a vote of shareholders owning, in the aggregate, two-thirds of its capital stock, reduce its capital.
+‘‘(b) SHAREHOLDER DISTRIBUTIONS AUTHORIZED.—As part of its capital reduction plan approved in accordance with subsection (a), and with the affirmative vote of shareholders owning at least two thirds of the shares of each class of its stock outstanding (each voting as a class), a national banking association may distribute cash or other assets to its shareholders.’’.
+
+SEC. 305. ENHANCING THE AUTHORITY FOR BANKS TO MAKE COMMUNITY DEVELOPMENT INVESTMENTS.
+
+(a) NATIONAL BANKS.—The paragraph designated as the ‘‘Eleventh.’’ of section 5136 of the Revised Statutes of the United States (12 U.S.C. 24) is amended to read as follows:
+‘‘Eleventh. To make investments directly or indirectly, each of which promotes the public welfare by benefiting primarily low- and moderate-income communities or families (such as by providing
+
+
+
+120 STAT. 1971              PUBLIC LAW 109–351—OCT. 13, 2006
+
+housing, services, or jobs). An association shall not make any such investment if the investment would expose the association to unlimited liability. The Comptroller of the Currency shall limit an association’s investments in any 1 project and an association’s aggregate investments under this paragraph. An association’s aggregate investments under this paragraph shall not exceed an amount equal to the sum of 5 percent of the association’s capital stock actually paid in and unimpaired and 5 percent of the association’s unimpaired surplus fund, unless the Comptroller determines by order that the higher amount will pose no significant risk to the affected deposit insurance fund, and the association is adequately capitalized. In no case shall an association’s aggregate investments under this paragraph exceed an amount equal to the sum of 15 percent of the association’s capital stock actually paid in and unimpaired and 15 percent of the association’s unimpaired surplus fund. The foregoing standards and limitations apply to investments under this paragraph made by a national bank directly and by its subsidiaries.’’.
+(b) CONFORMING AMENDMENTS FOR STATE MEMBER BANKS.— The 23rd undesignated paragraph of section 9 of the Federal Reserve Act (12 U.S.C. 338a) is amended to read as follows:
+‘‘(23) A State member bank may make investments directly or indirectly, each of which promotes the public welfare by benefiting primarily low- and moderate-income communities or families (such as by providing housing, services, or jobs), subject to the extent permissible under State law. A State member bank shall not make any such investment if the investment would expose the State member bank to unlimited liability. The Board shall limit a State member bank’s investment in any 1 project and a State member bank’s aggregate investments under this paragraph. The aggregate amount of investments of any State member bank under this paragraph may not exceed an amount equal to the sum of 5 percent of the State member bank’s capital stock actually paid in and unimpaired and 5 percent of the State member bank’s unimpaired surplus, unless the Board determines, by order, that a higher amount will pose no significant risk to the affected deposit insurance fund, and the State member bank is adequately capitalized. In no case shall the aggregate amount of investments of any State member bank under this paragraph exceed an amount equal to the sum of 15 percent of the State member bank’s capital stock actually paid in and unimpaired and 15 percent of the State member bank’s unimpaired surplus. The foregoing standards and limitations apply to investments under this paragraph made by a State member bank directly and by its subsidiaries.’’.
+
+                       TITLE IV—SAVINGS ASSOCIATION PROVISIONS
+
+SEC. 401. PARITY FOR SAVINGS ASSOCIATIONS UNDER THE SECURITIES EXCHANGE ACT OF 1934 AND THE INVESTMENT ADVISERS ACT OF 1940.
+
+(a) SECURITIES EXCHANGE ACT OF 1934.—
+(1) DEFINITION OF BANK.—Section 3(a)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(6)) is amended—
+
+120 STAT. 1972              PUBLIC LAW 109–351—OCT. 13, 2006
+
+(A) in subparagraph (A), by inserting ‘‘or a Federal savings association, as defined in section 2(5) of the Home Owners’ Loan Act’’ after ‘‘a banking institution organized under the laws of the United States’’; and
+(B) in subparagraph (C)—
+(i) by inserting ‘‘or savings association, as defined in section 2(4) of the Home Owners’ Loan Act’’ after ‘‘banking institution’’; and
+(ii) by inserting ‘‘or savings associations’’ after ‘‘having supervision over banks’’.
+(2) INCLUSION OF OTS UNDER THE DEFINITION OF APPROPRIATE REGULATORY AGENCY FOR CERTAIN PURPOSES.—Section 3(a)(34) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(34)) is amended—
+(A) in subparagraph (A)—
+(i) in clause (ii), by striking ‘‘(i) or (iii)’’ and inserting ‘‘(i), (iii), or (iv)’’;
+(ii) in clause (iii), by striking ‘‘and’’ at the end;
+(iii) by redesignating clause (iv) as clause (v); and
+(iv) by inserting after clause (iii) the following:
+‘‘(iv) the Director of the Office of Thrift Supervision, in the case of a savings association (as defined in section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b))), the deposits of which are insured by the Federal Deposit Insurance Corporation, or a subsidiary of any such savings association, or a savings and loan holding company; and’’;
+(B) in subparagraph (B)—
+(i) in clause (ii), by striking ‘‘(i) or (iii)’’ and inserting ‘‘(i), (iii), or (iv)’’;
+(ii) in clause (iii), by striking ‘‘and’’ at the end;
+(iii) by redesignating clause (iv) as clause (v); and
+(iv) by inserting after clause (iii) the following:
+‘‘(iv) the Director of the Office of Thrift Supervision, in the case of a savings association (as defined in section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b))), the deposits of which are insured by the Federal Deposit Insurance Corporation, or a savings and loan holding company; and’’;
+(C) in subparagraph (C)—
+(i) in clause (ii), by striking ‘‘(i) or (iii)’’ and inserting ‘‘(i), (iii), or (iv)’’;
+(ii) in clause (iii), by striking ‘‘and’’ at the end;
+(iii) by redesignating clause (iv) as clause (v); and
+(iv) by inserting after clause (iii) the following:
+‘‘(iv) the Director of the Office of Thrift Supervision, in the case of a savings association (as defined in section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b))), the deposits of which are insured by the Federal Deposit Insurance Corporation, or a savings and loan holding 
+
+ 
+
+120 STAT. 1973              PUBLIC LAW 109–351—OCT. 13, 2006
+
+company; and’’;
+(D) in subparagraph (D)—
+(i) in clause (ii), by striking ‘‘and’’ at the end;
+(ii) by redesignating clause (iii) as clause (iv); and
+(iii) by inserting after clause (ii) the following:
+‘‘(iii) the Director of the Office of Thrift Supervision, in the case of a savings association (as defined in section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b))) the deposits of which are insured by the Federal Deposit Insurance Corporation; and’’;
+(E) in subparagraph (F)—
+(i) by redesignating clauses (ii), (iii), and (iv) as clauses (iii), (iv), and (v), respectively; and
+(ii) by inserting after clause (i) the following:
+‘‘(ii) the Director of the Office of Thrift Supervision, in the case of a savings association (as defined in section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b))), the deposits of which are insured by the Federal Deposit Insurance Corporation; and’’;
+(F) by moving subparagraph (H) and inserting such subparagraph immediately after subparagraph (G); and
+(G) by adding at the end of the undesignated matter at the end the following: ‘‘As used in this paragraph, the term ‘savings and loan holding company’ has the same meaning as in section 10(a) of the Home Owners’ Loan Act (12 U.S.C. 1467a(a)).’’.
+(3) CONFORMING EXEMPTION TO REPORTING REQUIREMENT.— Section 23(b)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78w(b)(1)) is amended by inserting ‘‘other than the Office of Thrift Supervision,’’ before ‘‘shall each.’’.
+(b) INVESTMENT ADVISERS ACT OF 1940.—
+(1) DEFINITION OF BANK.—Section 202(a)(2) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(2)) is amended—
+(A) in subparagraph (A), by inserting ‘‘or a Federal savings association, as defined in section 2(5) of the Home Owners’ Loan Act’’ after ‘‘a banking institution organized under the laws of the United States’’; and
+(B) in subparagraph (C)—
+(i) by inserting ‘‘, savings association, as defined in section 2(4) of the Home Owners’ Loan Act,’’ after ‘‘banking institution’’; and
+(ii) by inserting ‘‘or savings associations’’ after ‘‘having supervision over banks’’.
+(2) CONFORMING AMENDMENTS.—Section 210A of the Investment Advisers Act of 1940 (15 U.S.C. 80b–10a) is amended in each of subsections (a)(1)(A)(i), (a)(1)(B), (a)(2), and (b), by striking ‘‘bank holding company’’ each place that term appears and inserting ‘‘bank holding company or savings and loan holding company’’.
+(C) CONFORMING AMENDMENT TO THE INVESTMENT COMPANY ACT OF 1940.—Section 10(c) of the Investment Company Act of 1940 (15 U.S.C. 80a–10(c)) is amended by inserting after ‘‘1956’’ the following: ‘‘or by any savings and loan holding company, together with its affiliates and subsidiaries (as such terms are defined in section 10(a) of the Home Owners’ Loan Act),’’.

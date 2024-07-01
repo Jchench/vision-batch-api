@@ -1,0 +1,176 @@
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+117 STAT. 1981
+
+paragraph (1)(B) is no longer effective, a person may not use information that the person receives in the manner described in paragraph (1) to make any solicitation for marketing purposes to the consumer, unless the consumer receives a notice and an opportunity, using a simple method, to extend the opt-out for another period of at least 5 years, pursuant to the procedures described in paragraph (1).
+
+“(4) SCOPE.—This section shall not apply to a person— 
+“(A) using information to make a solicitation for marketing purposes to a consumer with whom the person has a pre-existing business relationship; 
+“(B) using information to facilitate communications to an individual for whose benefit the person provides employee benefit or other services pursuant to a contract with an employer related to and arising out of the current employment relationship or status of the individual as a participant or beneficiary of an employee benefit plan; 
+“(C) using information to perform services on behalf of another person related by common ownership or affiliated by corporate control, except that this subparagraph shall not be construed as permitting a person to send solicitations on behalf of another person, if such other person would not be permitted to send the solicitation on its own behalf as a result of the election of the consumer to prohibit solicitations under paragraph (1)(B); 
+“(D) using the information in response to a communication initiated by the consumer; 
+“(E) using information in response to solicitations authorized or requested by the consumer; or 
+“(F) if compliance with this section by that person would prevent compliance by that person with any provision of State insurance laws pertaining to unfair discrimination in any State in which the person is lawfully doing business.
+
+“(5) NO RETROACTIVITY.—This subsection shall not prohibit the use of information to send a solicitation to a consumer if such information was received prior to the date on which persons are required to comply with regulations implementing this subsection.
+
+“(b) NOTICE FOR OTHER PURPOSES PERMISSIBLE.—A notice or other disclosure under this section may be coordinated and consolidated with any other notice required to be issued under any other provision of law by a person that is subject to this section, and a notice or other disclosure that is equivalent to the notice required by subsection (a), and that is provided by a person described in subsection (a) to a consumer together with disclosures required by any other provision of law, shall satisfy the requirements of subsection (a).
+
+“(c) USER REQUIREMENTS.—Requirements with respect to the use by a person of information received from another person related to it by common ownership or affiliated by corporate control, such as the requirements of this section, constitute requirements with respect to the exchange of information among persons affiliated by common ownership or common corporate control, within the meaning of section 625(b)(2).
+
+117 STAT. 1982            PUBLIC LAW 108–159—DEC. 4, 2003
+
+“(d) DEFINITIONS.—For purposes of this section, the following definitions shall apply:
+
+“(1) PRE-EXISTING BUSINESS RELATIONSHIP.—The term ‘preexisting business relationship’ means a relationship between a person, or a person’s licensed agent, and a consumer, based on—
+
+“(A) a financial contract between a person and a consumer which is in force;
+
+“(B) the purchase, rental, or lease by the consumer of that person’s goods or services, or a financial transaction (including holding an active account or a policy in force or having another continuing relationship) between the consumer and that person during the 18-month period immediately preceding the date on which the consumer is sent a solicitation covered by this section;
+
+“(C) an inquiry or application by the consumer regarding a product or service offered by that person, during the 3-month period immediately preceding the date on which the consumer is sent a solicitation covered by this section; or 
+
+“(D) any other pre-existing customer relationship defined in the regulations implementing this section.
+
+“(2) SOLICITATION.—The term ‘solicitation’ means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a), and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.”.
+
+(b) RULEMAKING REQUIRED.—
+
+(1) IN GENERAL.—The Federal banking agencies, the National Credit Union Administration, and the Commission, with respect to the entities that are subject to their respective enforcement authority under section 621 of the Fair Credit Reporting Act and the Securities and Exchange Commission, and in coordination as described in paragraph (2), shall prescribe regulations to implement section 624 of the Fair Credit Reporting Act, as added by this section.
+
+(2) COORDINATION.—Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistent and comparable with the regulations prescribed by each other such agency.
+
+(3) CONSIDERATIONS.—In promulgating regulations under this subsection, each agency referred to in paragraph (1) shall—
+
+(A) ensure that affiliate sharing notification methods provide a simple means for consumers to make determinations and choices under section 624 of the Fair Credit Reporting Act, as added by this section;
+
+(B) consider the affiliate sharing notification practices employed on the date of enactment of this Act by persons that will be subject to that section 624; and
+
+(C) ensure that notices and disclosures may be coordinated and consolidated, as provided in subsection (b) of that section 624.
+
+117 STAT. 1983            PUBLIC LAW 108–159—DEC. 4, 2003
+
+(4) TIMING.—Regulations required by this subsection shall—
+
+(A) be issued in final form not later than 9 months after the date of enactment of this Act; and
+
+(B) become effective not later than 6 months after the date on which they are issued in final form.
+
+(c) TECHNICAL AND CONFORMING AMENDMENTS.—
+
+(1) DEFINITIONS.—Section 603(d)(2)(A) of the Fair Credit Reporting Act (15 U.S.C. 1681a(d)(2)(A)) is amended by inserting “subject to section 624,” after “(A)”.
+
+(2) RELATION TO STATE LAWS.—Section 625(b)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681t(b)(1)), as so designated by subsection (a) of this section, is amended—
+
+(A) by striking “or” after the semicolon at the end of subparagraph (E); and
+
+(B) by adding at the end the following new subparagraph:
+
+“(H) section 624, relating to the exchange and use of information to make a solicitation for marketing purposes; or”.
+
+(3) CROSS REFERENCE CORRECTION.—Section 627(d) of the Fair Credit Reporting Act (15 U.S.C. 1681v(d)), as so designated by subsection (a) of this section, is amended by striking “section 625” and inserting “section 626”.
+
+(4) TABLE OF SECTIONS.—The table of sections for title VI of the Consumer Credit Protection Act (15 U.S.C. 1601 et seq.) is amended by striking the items relating to sections 624 through 626 and inserting the following:
+“624. Affiliate sharing. 
+625. Relation to State laws. 
+626. Disclosures to FBI for counterintelligence purposes. 
+627. Disclosures to governmental agencies for counterintelligence purposes.”.
+
+(e) STUDIES OF INFORMATION SHARING PRACTICES.—
+
+(1) IN GENERAL.—The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly conduct regular studies of the consumer information sharing practices by financial institutions and other persons that are creditors or users of consumer reports with their affiliates.
+
+(2) MATTERS FOR STUDY.—In conducting the studies required by paragraph (1), the agencies described in paragraph (1) shall—
+(A) identify—
+(i) the purposes for which financial institutions and other creditors and users of consumer reports share consumer information;
+(ii) the types of information shared by such entities with their affiliates;
+(iii) the number of choices provided to consumers with respect to the control of such sharing, and the degree to and manner in which consumers exercise such choices, if at all; and
+(iv) whether such entities share or may share personally identifiable transaction or experience information with affiliates for purposes—
+
+(I) that are related to employment or hiring, including whether the person that is the subject 
+
+117 STAT. 1984            PUBLIC LAW 108–159—DEC. 4, 2003
+
+of such information is given notice of such sharing, and the specific uses of such shared information; or
+(II) of general publication of such information;
+
+and
+
+(B) specifically examine the information sharing practices that financial institutions and other creditors and users of consumer reports and their affiliates employ for the purpose of making underwriting decisions or credit evaluations of consumers.
+
+(3) REPORTS.—
+
+(A) INITIAL REPORT.—Not later than 3 years after the date of enactment of this Act, the Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly submit a report to the Congress on the results of the initial study conducted in accordance with this subsection, together with any recommendations for legislative or regulatory action.
+(B) FOLLOWUP REPORTS.—The Federal banking agencies, the National Credit Union Administration, and the Commission shall, not less frequently than once every 3 years following the date of submission of the initial report under subparagraph (A), jointly submit a report to the Congress that, together with any recommendations for legislative or regulatory action—
+
+(i) documents any changes in the areas of study referred to in paragraph (2)(A) occurring since the date of submission of the previous report;
+(ii) identifies any changes in the practices of financial institutions and other creditors and users of consumer reports in sharing consumer information with their affiliates for the purpose of making underwriting decisions or credit evaluations of consumers occurring since the date of submission of the previous report; and
+(iii) examines the effects that changes described in clause (ii) have had, if any, on the degree to which such affiliate sharing practices reduce the need for financial institutions, creditors, and other users of consumer reports to rely on consumer reports for such decisions.
+
+15 USC 1681 SEC. 215. STUDY OF EFFECTS OF CREDIT SCORES AND CREDIT-BASED INSURANCE SCORES ON AVAILABILITY AND AFFORDABILITY OF FINANCIAL PRODUCTS.
+note.
+
+(a) STUDY REQUIRED.—The Commission and the Board, in consultation with the Office of Fair Housing and Equal Opportunity of the Department of Housing and Urban Development, shall conduct a study of—
+
+(1) the effects of the use of credit scores and credit-based insurance scores on the availability and affordability of financial products and services, including credit cards, mortgages, auto loans, and property and casualty insurance;
+
+(2) the statistical relationship, utilizing a multivariate analysis that controls for prohibited factors under the Equal Credit Opportunity Act and other known risk factors, between credit
+
+117 STAT. 1985            PUBLIC LAW 108–159—DEC. 4, 2003
+
+scores and credit-based insurance scores and the quantifiable risks and actual losses experienced by businesses;
+(3) the extent to which, if any, the use of credit scoring models, credit scores, and credit-based insurance scores impact on the availability and affordability of credit and insurance to the extent information is currently available or is available through proxies, by geography, income, ethnicity, race, color, religion, national origin, age, sex, marital status, and creed, including the extent to which the consideration or lack of consideration of certain factors by credit scoring systems could result in negative or differential treatment of protected classes under the Equal Credit Opportunity Act, and the extent to which, if any, the use of underwriting systems relying on these models could achieve comparable results through the use of factors with less negative impact; and
+(4) the extent to which credit scoring systems are used by businesses, the factors considered by such systems, and the effects of variables which are not considered by such systems.
+
+(b) PUBLIC PARTICIPATION.—The Commission shall seek public input about the prescribed methodology and research design of the study described in subsection (a), including from relevant Federal regulators, State insurance regulators, community, civil rights, consumer, and housing groups.
+(c) REPORT REQUIRED.—
+
+(1) IN GENERAL.—Before the end of the 24-month period beginning on the date of enactment of this Act, the Commission shall submit a detailed report on the study conducted pursuant to subsection (a) to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+(2) CONTENTS OF REPORT.—The report submitted under paragraph (1) shall include the findings and conclusions of the Commission, recommendations to address specific areas of concern addressed in the study, and recommendations for legislative or administrative action that the Commission determines to be necessary to ensure that credit and credit-based insurance scores are used appropriately and fairly to avoid negative effects.
+SEC. 216. DISPOSAL OF CONSUMER REPORT INFORMATION AND RECORDS.
+
+(a) IN GENERAL.—The Fair Credit Reporting Act (15 U.S.C. 1681 et seq.), as amended by this Act, is amended by adding at the end the following:
+“§ 628. Disposal of records
+
+“(a) REGULATIONS.—
+
+“(1) IN GENERAL.—Not later than 1 year after the date of enactment of this section, the Federal banking agencies, the National Credit Union Administration, and the Commission with respect to the entities that are subject to their respective enforcement authority under section 621, and the Securities and Exchange Commission, and in coordination as described in paragraph (2), shall issue final regulations requiring any person that maintains or otherwise possesses consumer information, or any compilation of consumer information, 
+
+117 STAT. 1986            PUBLIC LAW 108–159—DEC. 4, 2003
+
+derived from consumer reports for a business purpose to properly dispose of any such information or compilation.
+
+“(2) COORDINATION.—Each agency required to prescribe regulations under paragraph (1) shall—
+
+“(A) consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such agency are consistent and comparable with the regulations prescribed by each other such agency; and
+
+“(B) ensure that such regulations are consistent with the requirements and regulations issued pursuant to Public Law 106–102 and other provisions of Federal law.
+
+“(3) EXEMPTION AUTHORITY.—In issuing regulations under this section, the Federal banking agencies, the National Credit Union Administration, the Commission, and the Securities and Exchange Commission may exempt any person or class of persons from application of those regulations, as that agency deems appropriate to carry out the purposes of this section.
+
+“(b) RULE OF CONSTRUCTION.—Nothing in this section shall be construed—
+
+“(1) to require a person to maintain or destroy any record pertaining to a consumer that is not imposed under other law; or
+
+“(2) to alter or affect any requirement imposed under any other provision of law to maintain or destroy such a record.”.
+
+(b) CLERICAL AMENDMENT.—The table of sections for title VI of the Consumer Credit Protection Act (15 U.S.C. 1601 et seq.) is amended by adding after the item relating to section 627, as added by section 214 of this Act, the following:
+“628. Disposal of records. 
+629. Corporate and technological circumvention prohibited.”.
+
+SEC. 217. REQUIREMENT TO DISCLOSE COMMUNICATIONS TO A CONSUMER REPORTING AGENCY.
+
+(a) IN GENERAL.—Section 623(a) of the Fair Credit Reporting Act (15 U.S.C. 1681s–2(a) as amended by this Act, is amended by inserting after paragraph (6), the following new paragraph:
+
+“(7) NEGATIVE INFORMATION.—
+
+“(A) NOTICE TO CONSUMER REQUIRED.—
+
+“(i) IN GENERAL.—If any financial institution that extends credit and regularly and in the ordinary course of business furnishes information to a consumer reporting agency described in section 603(p) furnishes negative information to such an agency regarding credit extended to a customer, the financial institution shall provide a notice of such furnishing of negative information, in writing, to the customer.
+
+“(ii) NOTICE EFFECTIVE FOR SUBSEQUENT SUBMISSIONS.—After providing such notice, the financial institution may submit additional negative information to a consumer reporting agency described in section 603(p) with respect to the same transaction, extension of credit, account, or customer without providing additional notice to the customer.
+
+“(B) TIME OF NOTICE.—
+
+“(i) IN GENERAL.—The notice required under subparagraph (A) shall be provided to the customer prior to, or no later than 30 days after, furnishing

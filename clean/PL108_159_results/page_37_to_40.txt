@@ -1,0 +1,88 @@
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+117 STAT. 1987
+
+the negative information to a consumer reporting agency described in section 603(p).
+‘‘(ii) COORDINATION WITH NEW ACCOUNT DISCLOSURES.—If the notice is provided to the customer prior to furnishing the negative information to a consumer reporting agency, the notice may not be included in the initial disclosures provided under section 127(a) of the Truth in Lending Act.
+‘‘(C) COORDINATION WITH OTHER DISCLOSURES.—The notice required under subparagraph (A)—
+‘‘(i) may be included on or with any notice of default, any billing statement, or any other materials provided to the customer; and
+‘‘(ii) must be clear and conspicuous.
+‘‘(D) MODEL DISCLOSURE.—
+‘‘(i) DUTY OF BOARD TO PREPARE.—The Board shall prescribe a brief model disclosure a financial institution may use to comply with subparagraph (A), which shall not exceed 30 words.
+‘‘(ii) USE OF MODEL NOT REQUIRED.—No provision of this paragraph shall be construed as requiring a financial institution to use any such model form prescribed by the Board.
+‘‘(iii) COMPLIANCE USING MODEL.—A financial institution shall be deemed to be in compliance with subparagraph (A) if the financial institution uses any such model form prescribed by the Board, or the financial institution uses any such model form and rearranges its format.
+‘‘(E) USE OF NOTICE WITHOUT SUBMITTING NEGATIVE INFORMATION.—No provision of this paragraph shall be construed as requiring a financial institution that has provided a customer with a notice described in subparagraph (A) to furnish negative information about the customer to a consumer reporting agency.
+‘‘(F) SAFE HARBOR.—A financial institution shall not be liable for failure to perform the duties required by this paragraph if, at the time of the failure, the financial institution maintained reasonable policies and procedures to comply with this paragraph or the financial institution reasonably believed that the institution is prohibited, by law, from contacting the consumer.
+‘‘(G) DEFINITIONS.—For purposes of this paragraph, the following definitions shall apply:
+‘‘(i) NEGATIVE INFORMATION.—The term ‘negative information’ means information concerning a customer’s delinquencies, late payments, insolvency, or any form of default.
+‘‘(ii) CUSTOMER; FINANCIAL INSTITUTION.—The terms ‘customer’ and ‘financial institution’ have the same meanings as in section 509 Public Law 106–102.’’.
+
+(b) MODEL DISCLOSURE FORM.—Before the end of the 6-month period beginning on the date of enactment of this Act, the Board shall adopt the model disclosure required under the amendment
+Deadline. Federal Register, publication. 15 USC 1681s–2 note.
+
+117 STAT. 1988
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+made by subsection (a) after notice duly given in the Federal Register and an opportunity for public comment in accordance with section 553 of title 5, United States Code.
+
+TITLE III—ENHANCING THE ACCURACY OF CONSUMER REPORT INFORMATION
+
+SEC. 311. RISK-BASED PRICING NOTICE.
+(a) DUTIES OF USERS.—Section 615 of the Fair Credit Reporting Act (15 U.S.C. 1681m), as amended by this Act, is amended by adding at the end the following:
+‘‘(h) DUTIES OF USERS IN CERTAIN CREDIT TRANSACTIONS.—
+‘‘(1) IN GENERAL.—Subject to rules prescribed as provided in paragraph (6), if any person uses a consumer report in connection with an application for, or a grant, extension, or other provision of, credit on material terms that are materially less favorable than the most favorable terms available to a substantial proportion of consumers from or through that person, based in whole or in part on a consumer report, the person shall provide an oral, written, or electronic notice to the consumer in the form and manner required by regulations prescribed in accordance with this subsection.
+‘‘(2) TIMING.—The notice required under paragraph (1) may be provided at the time of an application for, or a grant, extension, or other provision of, credit, at the time of communication of an approval of an application for, or grant, extension, or other provision of, credit, except as provided in the regulations prescribed under paragraph (6).
+‘‘(3) EXCEPTIONS.—No notice shall be required from a person under this subsection if—
+‘‘(A) the consumer applied for specific material terms and was granted those terms, unless those terms were initially specified by the person after the person obtained a consumer report; or
+‘‘(B) the person has provided or will provide a notice to the consumer under subsection (a) in connection with the transaction.
+‘‘(4) OTHER NOTICE NOT SUFFICIENT.—A person that is required to provide a notice under subsection (a) cannot meet that requirement by providing a notice under this subsection.
+‘‘(5) CONTENT AND DELIVERY OF NOTICE.—A notice under this subsection shall, at a minimum—
+‘‘(A) include a statement informing the consumer that the terms offered to the consumer are set based on information from a consumer report;
+‘‘(B) identify the consumer reporting agency furnishing the report;
+‘‘(C) include a statement informing the consumer that the consumer may obtain a copy of a consumer report from that consumer reporting agency without charge; and
+‘‘(D) include the contact information specified by the consumer reporting agency for obtaining such consumer reports (including a toll-free telephone number established by the agency in the case of a consumer reporting agency described in section 603(p)).
+
+117 STAT. 1989
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+‘‘(6) RULEMAKING.—
+‘‘(A) RULES REQUIRED.—The Commission and the Board shall jointly prescribe rules.
+‘‘(B) CONTENT.—Rules required by subparagraph (A) shall address, but are not limited to—
+‘‘(i) the form, content, time, and manner of delivery of any notice under this subsection;
+‘‘(ii) clarification of the meaning of terms used in this subsection, including what credit terms are material, and when credit terms are materially less favorable; 
+‘‘(iii) exceptions to the notice requirement under this subsection for classes of persons or transactions regarding which the agencies determine that notice would not significantly benefit consumers;
+‘‘(iv) a model notice that may be used to comply with this subsection; and
+‘‘(v) the timing of the notice required under paragraph (1), including the circumstances under which the notice must be provided after the terms offered to the consumer were set based on information from a consumer report.
+‘‘(7) COMPLIANCE.—A person shall not be liable for failure to perform the duties required by this section if, at the time of the failure, the person maintained reasonable policies and procedures to comply with this section.
+‘‘(8) ENFORCEMENT.—
+‘‘(A) NO CIVIL ACTIONS.—Sections 616 and 617 shall not apply to any failure by any person to comply with this section.
+‘‘(B) ADMINISTRATIVE ENFORCEMENT.—This section shall be enforced exclusively under section 621 by the Federal agencies and officials identified in that section.’’.
+(b) RELATION TO STATE LAWS.—Section 625(b)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681t(b)(1)), as so designated by section 214 of this Act, is amended by adding at the end the following:
+‘‘(I) section 615(h), relating to the duties of users of consumer reports to provide notice with respect to terms in certain credit transactions;’’.
+
+SEC. 312. PROCEDURES TO ENHANCE THE ACCURACY AND INTEGRITY OF INFORMATION FURNISHED TO CONSUMER REPORTING AGENCIES.
+
+(a) ACCURACY GUIDELINES AND REGULATIONS.—Section 623 of the Fair Credit Reporting Act (15 U.S.C. 1681s–2) is amended by adding at the end the following:
+‘‘(e) ACCURACY GUIDELINES AND REGULATIONS REQUIRED.—
+‘‘(1) GUIDELINES.—The Federal banking agencies, the National Credit Union Administration, and the Commission shall, with respect to the entities that are subject to their respective enforcement authority under section 621, and in coordination as described in paragraph (2)—
+‘‘(A) establish and maintain guidelines for use by each person that furnishes information to a consumer reporting agency regarding the accuracy and integrity of the information relating to consumers that such entities furnish to
+
+117 STAT. 1990
+PUBLIC LAW 108–159—DEC. 4, 2003
+
+consumer reporting agencies, and update such guidelines as often as necessary; and
+‘‘(B) prescribe regulations requiring each person that furnishes information to a consumer reporting agency to establish reasonable policies and procedures for implementing the guidelines established pursuant to subparagraph (A).
+‘‘(2) COORDINATION.—Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistent and comparable with the regulations prescribed by each other such agency.
+‘‘(3) CRITERIA.—In developing the guidelines required by paragraph (1)(A), the agencies described in paragraph (1) shall—
+‘‘(A) identify patterns, practices, and specific forms of activity that can compromise the accuracy and integrity of information furnished to consumer reporting agencies;
+‘‘(B) review the methods (including technological means) used to furnish information relating to consumers to consumer reporting agencies;
+‘‘(C) determine whether persons that furnish information to consumer reporting agencies maintain and enforce policies to assure the accuracy and integrity of information furnished to consumer reporting agencies; and
+‘‘(D) examine the policies and processes that persons that furnish information to consumer reporting agencies employ to conduct reinvestigations and correct inaccurate information relating to consumers that has been furnished to consumer reporting agencies.’’.
+(b) DUTY OF FURNISHERS TO PROVIDE ACCURATE INFORMATION.—Section 623(a)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681s–2(a)(1)) is amended—
+(1) in subparagraph (A), by striking ‘‘knows or consciously avoids knowing that the information is inaccurate’’ and inserting ‘‘knows or has reasonable cause to believe that the information is inaccurate’’; and
+(2) by adding at the end the following:
+‘‘(D) DEFINITION.—For purposes of subparagraph (A), the term ‘reasonable cause to believe that the information is inaccurate’ means having specific knowledge, other than solely allegations by the consumer, that would cause a reasonable person to have substantial doubts about the accuracy of the information.’’.
+(c) ABILITY OF CONSUMER TO DISPUTE INFORMATION DIRECTLY WITH FURNISHER.—Section 623(a) of the Fair Credit Reporting Act (15 U.S.C. 1681s–2(a)), as amended by this Act, is amended by adding at the end the following:
+‘‘(8) ABILITY OF CONSUMER TO DISPUTE INFORMATION DIRECTLY WITH FURNISHER.—
+‘‘(A) IN GENERAL.—The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly prescribe regulations that shall identify the circumstances under which a furnisher shall be required to reinvestigate a dispute concerning the accuracy of
+Regulations.

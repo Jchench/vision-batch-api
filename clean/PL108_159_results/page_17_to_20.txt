@@ -1,0 +1,74 @@
+PUBLIC LAW 108–159—DEC. 4, 2003             117 STAT. 1967
+
+from identity theft, to prevent that person from refur- nishing such blocked information. 
+‘‘(B) INFORMATION ALLEGED TO RESULT FROM IDENTITY THEFT.—If a consumer submits an identity theft report to a person who furnishes information to a consumer reporting agency at the address specified by that person for receiving such reports stating that information main- tained by such person that purports to relate to the con- sumer resulted from identity theft, the person may not furnish such information that purports to relate to the consumer to any consumer reporting agency, unless the person subsequently knows or is informed by the consumer that the information is correct.’’.
+(b) PROHIBITION ON SALE OR TRANSFER OF DEBT CAUSED BY IDENTITY THEFT.—Section 615 of the Fair Credit Reporting Act (15 U.S.C. 1681m), as amended by this Act, is amended by adding at the end the following: 
+‘‘(f) PROHIBITION ON SALE OR TRANSFER OF DEBT CAUSED BY IDENTITY THEFT.— 
+‘‘(1) IN GENERAL.—No person shall sell, transfer for consid- eration, or place for collection a debt that such person has been notified under section 605B has resulted from identity theft.
+‘‘(2) APPLICABILITY.—The prohibitions of this subsection shall apply to all persons collecting a debt described in para- graph (1) after the date of a notification under paragraph (1). 
+‘‘(3) RULE OF CONSTRUCTION.—Nothing in this subsection shall be construed to prohibit—
+‘‘(A) the repurchase of a debt in any case in which the assignee of the debt requires such repurchase because the debt has resulted from identity theft;
+‘‘(B) the securitization of a debt or the pledging of a portfolio of debt as collateral in connection with a bor- rowing; or
+‘‘(C) the transfer of debt as a result of a merger, acquisi- tion, purchase and assumption transaction, or transfer of substantially all of the assets of an entity.’’.
+SEC. 155. NOTICE BY DEBT COLLECTORS WITH RESPECT TO FRAUDU- LENT INFORMATION. 
+Section 615 of the Fair Credit Reporting Act (15 U.S.C. 1681m), as amended by this Act, is amended by adding at the end the following: 
+‘‘(g) DEBT COLLECTOR COMMUNICATIONS CONCERNING IDENTITY THEFT.—If a person acting as a debt collector (as that term is defined in title VIII) on behalf of a third party that is a creditor or other user of a consumer report is notified that any information relating to a debt that the person is attempting to collect may be fraudulent or may be the result of identity theft, that person shall—
+‘‘(1) notify the third party that the information may be fraudulent or may be the result of identity theft; and 
+‘‘(2) upon request of the consumer to whom the debt purportedly relates, provide to the consumer all information 
+PUBLIC LAW 108–159—DEC. 4, 2003             117 STAT. 1968
+
+to which the consumer would otherwise be entitled if the con- sumer were not a victim of identity theft, but wished to dispute the debt under provisions of law applicable to that person.’’.
+SEC. 156. STATUTE OF LIMITATIONS. 
+Section 618 of the Fair Credit Reporting Act (15 U.S.C. 1681p) is amended to read as follows: 
+‘‘§ 618. Jurisdiction of courts; limitation of actions 
+‘‘An action to enforce any liability created under this title may be brought in any appropriate United States district court, without regard to the amount in controversy, or in any other court of competent jurisdiction, not later than the earlier of—
+‘‘(1) 2 years after the date of discovery by the plaintiff of the violation that is the basis for such liability; or
+‘‘(2)  5 years after the date on which the violation that is the basis for such liability occurs.’’.
+SEC. 157. STUDY ON THE USE OF TECHNOLOGY TO COMBAT IDENTITY THEFT.
+(a) STUDY REQUIRED.—The Secretary of the Treasury shall conduct a study of the use of biometrics and other similar tech- nologies to reduce the incidence and costs to society of identity theft by providing convincing evidence of who actually performed a given financial transaction.
+(b) CONSULTATION.—The Secretary of the Treasury shall consult with Federal banking agencies, the Commission, representatives of financial institutions, consumer reporting agencies, Federal, State, and local government agencies that issue official forms or means of identification, State prosecutors, law enforcement agen- cies, the biometric industry, and the general public in formulating and conducting the study required by subsection (a).
+(c) AUTHORIZATION OF APPROPRIATIONS.—There are authorized to be appropriated to the Secretary of the Treasury for fiscal year 2004, such sums as may be necessary to carry out the provisions of this section.
+(d) REPORT REQUIRED.—Before the end of the 180-day period beginning on the date of enactment of this Act, the Secretary shall submit a report to Congress containing the findings and conclusions of the study required under subsection (a), together with such recommendations for legislative or administrative actions as may be appropriate.
+TITLE II—IMPROVEMENTS IN USE OF AND CONSUMER ACCESS TO CREDIT INFORMATION
+SEC. 211. FREE CONSUMER REPORTS.
+(a) IN GENERAL.—Section 612 of the Fair Credit Reporting Act (15 U.S.C. 1681j) is amended—
+(1) by redesignating subsection (a) as subsection (f), and transferring it to the end of the section;
+(2) by inserting before subsection (b) the following: 
+‘‘(a) FREE ANNUAL DISCLOSURE.— 
+‘‘(1) NATIONWIDE CONSUMER REPORTING AGENCIES.— 
+PUBLIC LAW 108–159—DEC. 4, 2003             117 STAT. 1969
+
+‘‘(A) IN GENERAL.—All consumer reporting agencies described in subsections (p) and (w) of section 603 shall make all disclosures pursuant to section 609 once during any 12-month period upon request of the consumer and without charge to the consumer.
+‘‘(B) CENTRALIZED SOURCE.—Subparagraph (A) shall apply with respect to a consumer reporting agency described in section 603(p) only if the request from the consumer is made using the centralized source established for such purpose in accordance with section 211(c) of the Fair and Accurate Credit Transactions Act of 2003.
+‘‘(C) NATIONWIDE SPECIALTY CONSUMER REPORTING AGENCY.—
+‘‘(i) IN GENERAL.—The Commission shall prescribe regulations applicable to each consumer reporting agency described in section 603(w) to require the establishment of a streamlined process for consumers to request consumer reports under subparagraph (A), which shall include, at a minimum, the establishment by each such agency of a toll-free telephone number for such requests.
+‘‘(ii) CONSIDERATIONS.—In prescribing regula- tions under clause (i), the Commission shall consider—
+‘‘(I) the significant demands that may be placed on consumer reporting agencies in providing such consumer reports;
+‘‘(II) appropriate means to ensure that con- sumer reporting agencies can satisfactorily meet those demands, including the efficacy of a system of staggering the availability to consumers of such consumer reports; and 
+‘‘(III) the ease by which consumers should be able to contact consumer reporting agencies with respect to access to such consumer reports.
+‘‘(iii) DATE OF ISSUANCE.—The Commission shall issue the regulations required by this subparagraph in final form not later than 6 months after the date of enactment of the Fair and Accurate Credit Trans- actions Act of 2003.
+‘‘(iv) CONSIDERATION OF ABILITY TO COMPLY.—The regulations of the Commission under this subpara- graph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 603(w)) shall be required to comply with subsection (a), which effective date—
+‘‘(I) shall be established after consideration of the ability of each nationwide specialty consumer reporting agency to comply with subsection (a); and 
+‘‘(II) shall be not later than 6 months after the date on which such regulations are issued in final form (or such additional period not to exceed 3 months, as the Commission determines appropriate).
+(2) TIMING.—A consumer reporting agency shall provide a consumer report under paragraph (1) not later than 15 days
+
+PUBLIC LAW 108–159—DEC. 4, 2003             117 STAT. 1970
+
+after the date on which the request is received under paragraph (1). 
+‘‘(3) REINVESTIGATIONS.—Notwithstanding the time periods specified in section 611(a)(1), a reinvestigation under that sec- tion by a consumer reporting agency upon a request of a con- sumer that is made after receiving a consumer report under this subsection shall be completed not later than 45 days after the date on which the request is received.
+‘‘(4) EXCEPTION FOR FIRST 12 MONTHS OF OPERATION.—This subsection shall not apply to a consumer reporting agency that has not been furnishing consumer reports to third parties on a continuing basis during the 12-month period preceding a request under paragraph (1), with respect to consumers residing nationwide.’’;
+(3) by redesignating subsection (d) as subsection (e); 
+(4) by inserting before subsection (e), as redesignated, the following:
+‘‘(d) FREE DISCLOSURES IN CONNECTION WITH FRAUD ALERTS.—Upon the request of a consumer, a consumer reporting agency described in section 603(p) shall make all disclosures pursuant to section 609 without charge to the consumer, as provided in subsections (a)(2) and (b)(2) of section 605A, as applicable.’’;
+(5) in subsection (e), as redesignated, by striking ‘‘sub- section (a)’’ and inserting ‘‘subsection (f)’’; and 
+(6) in subsection (f), as redesignated, by striking ‘‘Except in the case of’’ and inserting ‘‘Except as provided in sub- sections (b), (c), and (d), a’’ and inserting ‘‘In the case of a request from a consumer for a consumer report that is covered by any of subsections (a) through (d), a’’.
+(b) CIRCUMVENTION PROHIBITED.—The Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended by adding after section 628, as added by section 216 of this Act, the following new section:
+15 USC 1681x.
+‘‘§ 629. Corporate and technological circumvention prohib- ited 
+‘‘The Commission shall prescribe regulations, to become effec- tive not later than 90 days after the date of enactment of this section, to prevent a consumer reporting agency from circumventing or evading treatment as a consumer reporting agency described in section 603(p) for purposes of this title, including—
+‘‘(1) by means of a corporate reorganization or restruc- turing, including a merger, acquisition, dissolution, divestiture, or asset sale of a consumer reporting agency; or 
+‘‘(2) by maintaining or merging public record and credit account information in a manner that is substantially equiva- lent to that described in paragraphs (1) and (2) of section 603(p), in the manner described in section 603(p).’’. 
+(c) SUMMARY OF RIGHTS TO OBTAIN AND DISPUTE INFORMATION IN CONSUMER REPORTS AND TO OBTAIN CREDIT SCORES.—Section 609(c) of the Fair Credit Reporting Act (15 U.S.C. 1681g) is amended to read as follows: 
+‘‘(c) SUMMARY OF RIGHTS TO OBTAIN AND DISPUTE INFORMATION IN CONSUMER REPORTS AND TO OBTAIN CREDIT SCORES.—
+‘‘(1) COMMISSION SUMMARY OF RIGHTS REQUIRED.— 
+‘‘(A) IN GENERAL.—The Commission shall prepare a model summary of the rights of consumers under this title.

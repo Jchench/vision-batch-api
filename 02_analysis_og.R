@@ -94,7 +94,7 @@ process_documents <- function(doc_path_A, doc_path_B, law_name) {
 
 # List of document pairs and law names
 document_pairs <- list(
-  list("machine_readble_1/PL107_204.txt", "clean/PL107_204_results/PL107_204.txt", "PL107_204")
+  list("machine_readble/PL110_289.txt", "clean/PL110_289_results/PL110_289.txt", "PL110_289")
 )
 
 # Process each document pair

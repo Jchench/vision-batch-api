@@ -2,7 +2,7 @@ from pdf2image import convert_from_path
 import os
 
 # Path to the PDF file
-pdf_path = 'pdf/PL104_208.pdf'
+pdf_path = 'pdf/PL116_283.pdf'
 
 # Path to the directory where images will be saved
 output_folder = pdf_path[:-4]  # Remove the .pdf extension for folder name

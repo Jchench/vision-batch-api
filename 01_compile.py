@@ -37,9 +37,9 @@ def compile_texts(folder_path, output_file):
         print(f"Error writing to output file: {e}")
 
 # Specify the folder containing the text files
-folder_path = 'clean/PL111_203_results'
+folder_path = 'clean/PL107_056_results'
 
 # Specify the name of the output file
-output_file = 'clean/PL111_203_results/PL111_203.txt'
+output_file = 'clean/PL107_056_results/PL107_056.txt'
 
 compile_texts(folder_path, output_file)

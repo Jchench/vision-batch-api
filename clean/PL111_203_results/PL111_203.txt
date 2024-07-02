@@ -1383,6 +1383,28 @@ conduct, scope, nature, size, scale, concentration, or interconnectedness of suc
 (1) any recommendations issued by the Council under this section;
 (2) the implementation of, or failure to implement, such recommendation on the part of a primary financial regulatory agency; and
 (3) in any case in which no primary financial regulatory agency exists for the nonbank financial company conducting financial activities or practices referred to in subsection (a),
+124 STAT. 1410
+
+PUBLIC LAW 111–203—JULY 21, 2010
+
+recommendations for legislation that would prevent such activities or practices from threatening the stability of the financial system of the United States.
+(e) EFFECT OF RESCISSION OF IDENTIFICATION.—
+(1) NOTICE.—The Council may recommend to the relevant primary financial regulatory agency that a financial activity or practice no longer requires any standards or safeguards implemented under this section.
+(2) DETERMINATION OF PRIMARY FINANCIAL REGULATORY AGENCY TO CONTINUE.—
+ (A) IN GENERAL.—Upon receipt of a recommendation under paragraph (1), a primary financial regulatory agency that has imposed standards under this section shall determine whether such standards should remain in effect.
+ (B) APPEAL PROCESS.—Each primary financial regulatory agency that has imposed standards under this section shall promulgate regulations to establish a procedure under which entities under its jurisdiction may appeal a determination by such agency under this paragraph that standards imposed under this section should remain in effect.
+
+SEC. 121. MITIGATION OF RISKS TO FINANCIAL STABILITY.
+
+(a) MITIGATORY ACTIONS.—If the Board of Governors determines that a bank holding company with total consolidated assets of $50,000,000,000 or more, or a nonbank financial company supervised by the Board of Governors, poses a grave threat to the financial stability of the United States, the Board of Governors, upon an affirmative vote of not fewer than ⅔ of the voting members of the Council then serving, shall—
+(1) limit the ability of the company to merge with, acquire, consolidate with, or otherwise become affiliated with another company;
+(2) restrict the ability of the company to offer a financial product or products;
+(3) require the company to terminate one or more activities;
+(4) impose conditions on the manner in which the company conducts 1 or more activities; or
+(5) if the Board of Governors determines that the actions described in paragraphs (1) through (4) are inadequate to mitigate a threat to the financial stability of the United States in its recommendation, require the company to sell or otherwise transfer assets or off-balance-sheet items to unaffiliated entities.
+(b) NOTICE AND HEARING.—
+(1) IN GENERAL.—The Board of Governors, in consultation with the Council, shall provide to a company described in subsection (a) written notice that such company is being considered for mitigatory action pursuant to this section, including an explanation of the basis for, and description of, the proposed mitigatory action.
+(2) HEARING.—Not later than 30 days after the date of receipt of notice under paragraph (1), the company may request, in writing, an opportunity for a written or oral hearing before the Board of Governors to contest the proposed mitigatory action. Upon receipt of a timely request, the Board of Governors shall fix a time (not later than 30 days after the date of
 PUBLIC LAW 111–203—JULY 21, 2010	124 STAT. 1411
 
 receipt of the request) and place at which such company may appear, personally or through counsel, to submit written materials (or, at the discretion of the Board of Governors, in consultation with the Council, oral testimony and oral argument). 
@@ -3448,6 +3470,23 @@ PUBLIC LAW 111–203—JULY 21, 2010
 (C) TREATMENT OF BRIDGE FINANCIAL COMPANY.—For purposes of paragraph (9), a bridge financial company shall not be considered to be a financial institution for which a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed, or which is otherwise the subject of a bankruptcy or insolvency proceeding.
 
 (D) BUSINESS DAY DEFINED.—For purposes of this paragraph, the term ‘‘business day’’ means any day other than any Saturday, Sunday, or any day on which either the
+124 STAT. 1492            PUBLIC LAW 111-203—JULY 21, 2010
+
+New York Stock Exchange or the Federal Reserve Bank of New York is closed.
+  (11) DISAFFIRMANCE OR REPUDIATION OF QUALIFIED FINANCIAL CONTRACTS.—In exercising the rights of disaffirmance or repudiation of the Corporation as receiver with respect to any qualified financial contract to which a covered financial company is a party, the Corporation shall either—
+    (A) disaffirm or repudiate all qualified financial contracts between—
+      (i) any person or any affiliate of such person; and
+      (ii) the covered financial company in default; or
+    (B) disaffirm or repudiate none of the qualified financial contracts referred to in subparagraph (A) (with respect to such person or any affiliate of such person).
+  (12) CERTAIN SECURITY AND CUSTOMER INTERESTS NOT 
+        AVOIDABLE.—No provision of this subsection shall be construed as permitting the avoidance of any—
+    (A) legally enforceable or perfected security interest in any of the assets of any covered financial company, except in accordance with subsection (a)(11); or
+    (B) legally enforceable interest in customer property, security entitlements in respect of assets or property held by the covered financial company for any security entitlement holder.
+  (13) AUTHORITY TO ENFORCE CONTRACTS.—
+    (A) IN GENERAL.—The Corporation, as receiver for a covered financial company, may enforce any contract, other than a liability insurance contract of a director or officer, a financial institution bond entered into by the covered financial company, notwithstanding any provision of the contract providing for termination, default, acceleration, or exercise of rights upon, or solely by reason of, insolvency, the appointment of or the exercise of rights or powers by the Corporation as receiver, the filing of the petition pursuant to section 202(a)(1), or the issuance of the recommendations or determination, or any actions or events occurring in connection therewith or as a result thereof, pursuant to section 203.
+    (B) CERTAIN RIGHTS NOT AFFECTED.—No provision of this paragraph may be construed as impairing or affecting any right of the Corporation as receiver to enforce or to recover under a liability insurance contract of a director or officer or financial institution bond under other applicable law.
+      (C) CONSENT REQUIREMENT AND IPSO FACTO CLAUSES.—
+        (i) IN GENERAL.—Except as otherwise provided by this section, no person may exercise any right or power to terminate, accelerate, or declare a default under any contract to which the covered financial company is a party (and no provision in any such contract providing for such default, termination, or acceleration shall be enforceable), or to obtain possession of or exercise control over any property of the covered financial company or affect any contractual rights of the covered financial company, without the consent of the Time period.
 PUBLIC LAW 111–203—JULY 21, 2010
 
 124 STAT. 1493
@@ -6267,6 +6306,38 @@ SEC. 417. COMMISSION STUDY AND REPORT ON SHORT SELLING.
 SEC. 418. QUALIFIED CLIENT STANDARD.
 Section 205(e) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–5(e)) is amended by adding at the end the following: 
 “With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after the date of enactment of the Private Fund Investment Advisers Registration Act of 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.”.
+124 STAT. 1580      PUBLIC LAW 111–203—JULY 21, 2010
+
+15 USC 80b–2 note.
+Effective date.
+SEC. 419. TRANSITION PERIOD.
+Except as otherwise provided in this title, this title and the amendments made by this title shall become effective 1 year after the date of enactment of this Act, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission.
+
+TITLE V—INSURANCE
+Subtitle A—Federal Insurance Office
+
+Federal Insurance Office Act of 2010.
+31 USC 313 note.
+
+SEC. 501. SHORT TITLE.
+This subtitle may be cited as the “Federal Insurance Office Act of 2010”.
+
+SEC. 502. FEDERAL INSURANCE OFFICE.
+(a) ESTABLISHMENT OF OFFICE.—Subchapter I of chapter 3 of subtitle I of title 31, United States Code, is amended—
+(1) by redesignating section 312 as section 315;
+(2) by redesignating section 313 as section 312; and
+(3) by inserting after section 312 (as so redesignated) the following new sections:
+
+“SEC. 313. FEDERAL INSURANCE OFFICE.
+“(a) ESTABLISHMENT.—There is established within the Department of the Treasury the Federal Insurance Office.
+“(b) LEADERSHIP.—The Office shall be headed by a Director, who shall be appointed by the Secretary of the Treasury. The position of Director shall be a career reserved position in the Senior Executive Service, as that position is defined under section 3132 of title 5, United States Code.
+“(c) FUNCTIONS.—
+“(1) AUTHORITY PURSUANT TO DIRECTION OF SECRETARY.—
+The Office, pursuant to the direction of the Secretary, shall have the authority—
+“(A) to monitor all aspects of the insurance industry, including identifying issues or gaps in the regulation of insurers that could contribute to a systemic crisis in the insurance industry or the United States financial system;
+“(B) to monitor the extent to which traditionally underserved communities and consumers, minorities (as such term is defined in section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note)), and low- and moderate-income persons have access to affordable insurance products regarding all lines of insurance, except health insurance;
+“(C) to recommend to the Financial Stability Oversight Council that it designate an insurer, including the affiliates of such insurer, as an entity subject to regulation as a nonbank financial company supervised by the Board of Governors pursuant to title I of the Dodd-Frank Wall Street Reform and Consumer Protection Act;
+“(D) to assist the Secretary in administering the Terrorism Insurance Program established in the Department
 PUBLIC LAW 111-203—JULY 21, 2010 124 STAT. 1581
 
 of the Treasury under the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note);
@@ -13327,6 +13398,21 @@ participant that has a prudential regulator may have
 engaged in conduct that constitutes a violation of the 
 prudential requirements of subsection (e) or rules 
 adopted thereunder, the Commission may recommend
+PUBLIC LAW 111–203—JULY 21, 2010
+
+124 STAT. 1795
+
+in writing to the prudential regulator that the prudential regulator initiate an enforcement proceeding as authorized under this title. The recommendation shall be accompanied by a written explanation of the concerns giving rise to the recommendation.
+‘‘(D) BACKSTOP ENFORCEMENT AUTHORITY.—
+‘‘(i) INITIATION OF ENFORCEMENT PROCEEDING BY PRUDENTIAL REGULATOR.—If the Commission does not initiate an enforcement proceeding before the end of the 90-day period beginning on the date on which the Commission receives a written report under subsection (C)(i), the prudential regulator may initiate an enforcement proceeding.
+‘‘(ii) INITIATION OF ENFORCEMENT PROCEEDING BY COMMISSION.—If the prudential regulator does not initiate an enforcement proceeding before the end of the 90-day period beginning on the date on which the prudential regulator receives a written report under subsection (C)(ii), the Commission may initiate an enforcement proceeding.
+‘‘(2) CENSURE, DENIAL, SUSPENSION, NOTICE AND HEARING.— The Commission, by order, shall censure, place limitations on the activities, functions, or operations of, or revoke the registration of any security-based swap dealer or major security-based swap participant that has registered with the Commission pursuant to subsection (b) if the Commission finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, or revocation is in the public interest and that such security-based swap dealer or major security-based swap participant, or any person associated with such security-based swap dealer or major security-based swap participant effecting or involved in effecting transactions in security-based swaps on behalf of such security-based swap dealer or major security-based swap participant, whether prior or subsequent to becoming so associated—
+‘‘(A) has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), or (E) of paragraph (4) of section 15(b);
+‘‘(B) has been convicted of any offense specified in subparagraph (B) of such paragraph (4) within 10 years of the commencement of the proceedings under this subsection;
+‘‘(C) is enjoined from any action, conduct, or practice specified in subparagraph (C) of such paragraph (4);
+‘‘(D) is subject to an order or a final order specified in subparagraph (F) or (H), respectively, of such paragraph (4); or
+‘‘(E) has been found by a foreign financial regulatory authority to have committed or omitted any act, or violated any foreign statute or regulation, enumerated in subparagraph (G) of such paragraph (4).
+‘‘(3) ASSOCIATED PERSONS.—With respect to any person who is associated, who is seeking to become associated, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a security-based swap dealer or major security-based swap participant for the purpose of effecting or being involved in effecting security-based swaps
 124 STAT. 1796            PUBLIC LAW 111-203—JULY 21, 2010
 
 on behalf of such security-based swap dealer or major security-based swap participant, the Commission, by order, shall censure, place limitations on the activities or functions of such person, or suspend for a period not exceeding 12 months, or bar such person from being associated with a security-based swap dealer or major security-based swap participant, if the Commission finds, on the record after notice and opportunity for a hearing, that such censure, placing of limitations, suspension, or bar is in the public interest and that such person—
@@ -18829,6 +18915,24 @@ been provided to a Federal or State agency; and
 may be construed as limiting the authority of the Director
 to require reports from a person described in subsection (a),
 as permitted under paragraph (1), regarding information owned
+PUBLIC LAW 111-203—JULY 21, 2010
+
+or under the control of such person, regardless of whether such information is maintained, stored, or processed by another person.
+
+(5) REPORTS OF TAX LAW NONCOMPLIANCE.—The Bureau shall provide the Commissioner of Internal Revenue with any report of examination or related information identifying possible tax law noncompliance.
+
+(c) PRIMARY ENFORCEMENT AUTHORITY.—
+(1) THE BUREAU TO HAVE PRIMARY ENFORCEMENT AUTHORITY.—To the extent that the Bureau and another Federal agency are authorized to enforce a Federal consumer financial law, the Bureau shall have primary authority to enforce that Federal consumer financial law with respect to any person described in subsection (a).
+(2) REFERRAL.—Any Federal agency, other than the Federal Trade Commission, that is authorized to enforce a Federal consumer financial law may recommend, in writing, to the Bureau that the Bureau initiate an enforcement proceeding with respect to a person described in subsection (a), as the Bureau is authorized to do by that Federal consumer financial law.
+(3) BACKUP ENFORCEMENT AUTHORITY OF OTHER FEDERAL AGENCY.—If the Bureau does not, before the end of the 120- day period beginning on the date on which the Bureau receives a recommendation under paragraph (2), initiate an enforcement proceeding, the other agency referred to in paragraph (2) may initiate an enforcement proceeding, including performing follow up supervisory and support functions incidental thereto, to assure compliance with such proceeding.
+
+(d) SERVICE PROVIDERS.—A service provider to a person described in subsection (a) shall be subject to the authority of the Bureau under this section, to the same extent as if the Bureau were an appropriate Federal banking agency under section 7(c) of the Bank Service Company Act 12 U.S.C. 1867(c). In conducting any examination or requiring any report from a service provider subject to this subsection, the Bureau shall coordinate with the appropriate prudential regulator.
+
+(e) SIMULTANEOUS AND COORDINATED SUPERVISORY ACTION.—
+(1) EXAMINATIONS.—A prudential regulator and the Bureau shall, with respect to each insured depository institution, insured credit union, or other covered person described in subsection (a) that is supervised by the prudential regulator and the Bureau, respectively—
+(A) coordinate the scheduling of examinations of the insured depository institution, insured credit union, or other covered person described in subsection (a);
+(B) conduct simultaneous examinations of each insured depository institution or insured credit union, unless such institution requests examinations to be conducted separately;
+(C) share each draft report of examination with the other agency and permit the receiving agency a reasonable opportunity (which shall not be less than a period of 30 days after the date of receipt) to comment on the draft report before such report is made final; and
 124 STAT. 1992
 
 PUBLIC LAW 111–203—JULY 21, 2010

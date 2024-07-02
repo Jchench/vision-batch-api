@@ -28,7 +28,8 @@ def verify_image(image_path):
 
 # List of image paths
 image_paths = [
-    "PL107_056/page_26.jpeg"
+    "PL104_208/page_319.jpeg",
+    "PL104_208/page_400.jpeg"
 ]
 
 # Encode and verify each image
@@ -82,7 +83,7 @@ if response.status_code == 200:
     content = response_data['choices'][0]['message']['content']
 
     # Define the folder and file path
-    folder_path = 'clean/PL107_056_results'
+    folder_path = 'clean/PL104_208_results'
     file_path = os.path.join(folder_path, 'content.txt')
 
     # Create the folder if it does not exist

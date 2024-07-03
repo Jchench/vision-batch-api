@@ -23,7 +23,8 @@ def verify_image(image_path):
 
 # Folder containing the images
 image_folder = "pdf_pages/PL069_639"
-results_folder = f"{image_folder}_results"
+base_folder_name = os.path.basename(image_folder)
+results_folder = os.path.join("clean", f"{base_folder_name}_results")
 
 # Create the results folder if it doesn't exist
 os.makedirs(results_folder, exist_ok=True)

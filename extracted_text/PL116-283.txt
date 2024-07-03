@@ -1,0 +1,128 @@
+                                                                                       PUBLIC LAW 116–283—JAN. 1, 2021                                             134 STAT. 4547
+
+                                                                           (2) DEPARTMENT.—The term ‘‘Department’’ means the
+                                                                       Department of Energy.
+                                                                           (3) NATIONAL LABORATORY.—The term ‘‘national laboratory’’
+                                                                       has the meaning given such term in section 2 of the Energy
+                                                                       Policy Act of 2005 (42 U.S.C. 15801).
+                                                                           (4) ELIGIBLE ENTITIES.—The term ‘‘eligible entities’’
+                                                                       means—
+                                                                                (A) an institution of higher education;
+                                                                                (B) a National Laboratory;
+                                                                                (C) a Federal research agency;
+                                                                                (D) a State research agency;
+                                                                                (E) a nonprofit research organization;
+                                                                                (F) a private sector entity; or
+                                                                                (G) a consortium of 2 or more entities described in
+                                                                           subparagraphs (A) through (F).
+                                                                       (k) AUTHORIZATION OF APPROPRIATIONS.—There are authorized
+                                                                   to be appropriated to the Department to carry out this section—
+                                                                           (1) $200,000,000 for fiscal year 2021;
+                                                                           (2) $214,000,000 for fiscal year 2022;
+                                                                           (3) $228,980,000 for fiscal year 2023;
+                                                                           (4) $245,000,000 for fiscal year 2024; and
+                                                                           (5) $262,160,000 for fiscal year 2025.
+
+                                                                    DIVISION F—ANTI-MONEY LAUNDERING                                                                     Anti-Money
+                                                                                                                                                                         Laundering Act
+                                                                                                                                                                         of 2020.
+                                                                   SEC. 6001. SHORT TITLE.                                                                               31 USC 5301
+                                                                                                                                                                         note.
+                                                                       This division may be cited as the ‘‘Anti-Money Laundering
+                                                                   Act of 2020’’.
+                                                                   SEC. 6002. PURPOSES.                                                                                  31 USC 5311
+                                                                                                                                                                         note.
+                                                                          The purposes of this division are—
+                                                                               (1) to improve coordination and information sharing among
+                                                                          the agencies tasked with administering anti-money laundering
+                                                                          and countering the financing of terrorism requirements, the
+                                                                          agencies that examine financial institutions for compliance with
+                                                                          those requirements, Federal law enforcement agencies, national
+                                                                          security agencies, the intelligence community, and financial
+                                                                          institutions;
+                                                                               (2) to modernize anti-money laundering and countering
+                                                                          the financing of terrorism laws to adapt the government and
+                                                                          private sector response to new and emerging threats;
+                                                                               (3) to encourage technological innovation and the adoption
+                                                                          of new technology by financial institutions to more effectively
+                                                                          counter money laundering and the financing of terrorism;
+                                                                               (4) to reinforce that the anti-money laundering and coun-
+                                                                          tering the financing of terrorism policies, procedures, and con-
+                                                                          trols of financial institutions shall be risk-based;
+                                                                               (5) to establish uniform beneficial ownership information
+                                                                          reporting requirements to—
+                                                                                     (A) improve transparency for national security, intel-
+                                                                               ligence, and law enforcement agencies and financial institu-
+                                                                               tions concerning corporate structures and insight into the
+                                                                               flow of illicit funds through those structures;
+dkrause on LAP5T8D0R2PROD with PUBLAWS
+
+
+
+
+                                                                                     (B) discourage the use of shell corporations as a tool
+                                                                               to disguise and move illicit funds;
+
+
+
+
+                                         VerDate Sep 11 2014   06:40 Jan 20, 2022   Jkt 019139   PO 00283   Frm 01161   Fmt 6580   Sfmt 6581   E:\PUBLAW\PUBL283.116   PUBL283
+
+                                                                   134 STAT. 4548                             PUBLIC LAW 116–283—JAN. 1, 2021
+
+                                                                                                            (C) assist national security, intelligence, and law
+                                                                                                       enforcement agencies with the pursuit of crimes; and
+                                                                                                            (D) protect the national security of the United States;
+                                                                                                       and
+                                                                                                       (6) to establish a secure, nonpublic database at FinCEN
+                                                                                                  for beneficial ownership information.
+                                                                   31 USC 5311             SEC. 6003. DEFINITIONS.
+                                                                   note.
+                                                                                                  In this division:
+                                                                                                       (1) BANK SECRECY ACT.—The term ‘‘Bank Secrecy Act’’
+                                                                                                  means—
+                                                                                                            (A) section 21 of the Federal Deposit Insurance Act
+                                                                                                       (12 U.S.C. 1829b);
+                                                                                                            (B) chapter 2 of title I of Public Law 91–508 (12 U.S.C.
+                                                                                                       1951 et seq.); and
+                                                                                                            (C) subchapter II of chapter 53 of title 31, United
+                                                                                                       States Code.
+                                                                                                       (2) ELECTRONIC FUND TRANSFER.—The term ‘‘electronic
+                                                                                                  fund transfer’’ has the meaning given the term in section 903
+                                                                                                  of the Electronic Fund Transfer Act (15 U.S.C. 1693a).
+                                                                                                       (3) FEDERAL FUNCTIONAL REGULATOR.—The term ‘‘Federal
+                                                                                                  functional regulator’’—
+                                                                                                            (A) has the meaning given the term in section 509
+                                                                                                       of the Gramm-Leach-Bliley Act (15 U.S.C. 6809); and
+                                                                                                            (B) includes any Federal regulator that examines a
+                                                                                                       financial institution for compliance with the Bank Secrecy
+                                                                                                       Act.
+                                                                                                       (4) FINANCIAL AGENCY.—The term ‘‘financial agency’’ has
+                                                                                                  the meaning given the term in section 5312(a) of title 31,
+                                                                                                  United States Code, as amended by section 6102 of this division.
+                                                                                                       (5) FINANCIAL INSTITUTION.—The term ‘‘financial institu-
+                                                                                                  tion’’—
+                                                                                                            (A) has the meaning given the term in section 5312
+                                                                                                       of title 31, United States Code; and
+                                                                                                            (B) includes—
+                                                                                                                 (i) an electronic fund transfer network; and
+                                                                                                                 (ii) a clearing and settlement system.
+                                                                                                       (6) FINCEN.—The term ‘‘FinCEN’’ means the Financial
+                                                                                                  Crimes Enforcement Network of the Department of the
+                                                                                                  Treasury.
+                                                                                                       (7) SECRETARY.—The term ‘‘Secretary’’ means the Secretary
+                                                                                                  of the Treasury.
+                                                                                                       (8) STATE BANK SUPERVISOR.—The term ‘‘State bank super-
+                                                                                                  visor’’ has the meaning given the term in section 3 of the
+                                                                                                  Federal Deposit Insurance Act (12 U.S.C. 1813).
+                                                                                                       (9) STATE CREDIT UNION SUPERVISOR.—The term ‘‘State
+                                                                                                  credit union supervisor’’ means a State official described in
+                                                                                                  section 107A(e) of the Federal Credit Union Act (12 U.S.C.
+                                                                                                  1757a(e)).
+dkrause on LAP5T8D0R2PROD with PUBLAWS
+
+
+
+
+                                         VerDate Sep 11 2014   06:40 Jan 20, 2022   Jkt 019139   PO 00283   Frm 01162   Fmt 6580   Sfmt 6581   E:\PUBLAW\PUBL283.116   PUBL283
+

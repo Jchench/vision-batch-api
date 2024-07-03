@@ -1,0 +1,17 @@
+[PUBLIC—No. 66—73D CONGRESS]
+[H.R. 5661]
+AN ACT
+To provide for the safer and more effective use of the assets of banks, to regulate
+interbank control, to prevent the undue diversion of funds into speculative
+operations, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the short title of this Act shall be the “Banking Act of 1933.”
+SEC. 2. As used in this Act and in any provision of law amended by this Act—
+(a) The terms “banks”, “national bank”, “national banking association”, “member bank”, “board”, “district”, and “reserve bank”’ shall have the meanings assigned to them in section 1 of the Federal Reserve Act, as amended.
+(b) Except where otherwise specifically provided, the term “affiliate” shall include any corporation, business trust, association, or other similar organization—
+(1) Of which a member bank, directly or indirectly, owns or controls either a majority of the voting shares or more than 50 per centum of the number of shares voted for the election of its directors, trustees, or other persons exercising similar functions at the preceding election, or controls in any manner the election of a majority of its directors, trustees, or other persons exercising similar functions; or
+(2) Of which control is held, directly or indirectly, through stock ownership or in any other manner, by the shareholders of a member bank who own or control either a majority of the shares of such bank or more than 50 per centum of the number of shares voted for the election of directors of such bank at the preceding election, or by trustees for the benefit of the shareholders of any such bank; or
+(3) Of which a majority of its directors, trustees, or other persons exercising similar functions are directors of any one member bank.
+(c) The term “holding company affiliate” shall include any corporation, business trust, association, or other similar organization—
+(1) Which owns or controls, directly or indirectly, either a majority of the shares of capital stock of a member bank or more than 50 per centum of the number of shares voted for the election of directors of any one bank at the preceding election, or controls in any manner the election of a majority of the directors of any one bank; or
+(2) For the benefit of whose shareholders or members all or substantially all the capital stock of a member bank is held by trustees.

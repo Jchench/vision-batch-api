@@ -3,6 +3,10 @@ import base64
 import requests
 import os
 import time
+import logging
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Function to encode the image
 def encode_image(image_path):
@@ -30,11 +34,14 @@ results_folder = os.path.join("clean", f"{base_folder_name}_results")
 os.makedirs(results_folder, exist_ok=True)
 
 # Get list of image paths from the folder
-image_paths = [os.path.join(image_folder, file) for file in os.listdir(image_folder) if file.lower().split('.')[-1] in ['jpeg', 'png', 'gif', 'webp']]
+image_paths = [os.path.join(image_folder, file) for file in os.listdir(image_folder)]
 
 # OpenAI API Key
 with open('api_key.txt', 'r') as file:
     api_key = file.read().strip()
+
+if not api_key:
+    raise ValueError("API key not found. Set the OPENAI_API_KEY environment variable.")
 
 headers = {
     "Content-Type": "application/json",
@@ -92,16 +99,20 @@ for image_path in image_paths:
                 with open(file_path, 'w') as file:
                     file.write(content)
 
-                print(f"Content saved to {file_path}")
+                logging.info(f"Content saved to {file_path}")
                 break  # Exit the retry loop if successful
             else:
                 # Print an error message if the request failed
-                print(f"Failed to retrieve data for {image_path}: {response.status_code}, {response.text}")
+                logging.error(f"Failed to retrieve data for {image_path}: {response.status_code}, {response.text}")
                 retry_count += 1
-                time.sleep(2)  # Add a delay before retrying
+                time.sleep(2 ** retry_count)  # Exponential backoff before retrying
                 if retry_count == max_retries:
-                    print(f"Max retries reached for {image_path}. Moving to next image.")
+                    logging.error(f"Max retries reached for {image_path}. Moving to next image.")
 
         except ValueError as e:
-            print(f"Error with image {image_path}: {e}")
+            logging.error(f"Error with image {image_path}: {e}")
             break  # Exit the loop if there's an error with the image
+        except requests.exceptions.RequestException as e:
+            logging.error(f"Network error for {image_path}: {e}")
+            retry_count += 1
+            time.sleep(2 ** retry_count)  # Exponential backoff before retrying

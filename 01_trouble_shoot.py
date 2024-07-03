@@ -26,7 +26,7 @@ def verify_image(image_path):
     return True
 
 # List of specific page files to process
-pages_to_process = [
+pages_to_process = ['page_1.jpeg'
 ]
 
 # Folder containing the images

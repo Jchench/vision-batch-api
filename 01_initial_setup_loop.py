@@ -22,7 +22,7 @@ def verify_image(image_path):
     return True
 
 # Folder containing the images
-image_folder = "pdf_pages/PL094_240"
+image_folder = "pdf_pages/PL101_073"
 base_folder_name = os.path.basename(image_folder)
 results_folder = os.path.join("clean", f"{base_folder_name}_results")
 

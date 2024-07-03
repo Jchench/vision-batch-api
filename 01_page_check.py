@@ -12,7 +12,7 @@ def find_missing_files(directory, prefix, extension):
     return missing_files
 
 # Example usage
-directory = 'clean/PL116_283_results'
+directory = 'clean/PL101_073_results'
 prefix = 'page_'
 extension = '.txt'
 

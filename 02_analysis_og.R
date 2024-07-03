@@ -42,10 +42,6 @@ process_documents <- function(doc_path_A, doc_path_B, law_name) {
     "# may not in gpt" = count_may_not_B
   )
   
-  assign(paste0(law_name, "_word_count"), word_count, envir = .GlobalEnv)
-  
-  save(word_count, file = paste0("results/", law_name, "_word_count.rda"))
-  
   # Create tokens for both documents
   tokensA <- tokens(documentA, what = "word")
   tokensB <- tokens(documentB, what = "word")
@@ -75,10 +71,6 @@ process_documents <- function(doc_path_A, doc_path_B, law_name) {
     gpt = proportionB_not_in_A
   )
   
-  assign(paste0(law_name, "_accuracy"), accuracy, envir = .GlobalEnv)
-  
-  save(accuracy, file = paste0("results/", law_name, "_accuracy.rda"))
-  
   # Get examples of 10-grams unique to each document
   unique_to_A <- setdiff(setA, setB)
   unique_to_B <- setdiff(setB, setA)
@@ -90,14 +82,44 @@ process_documents <- function(doc_path_A, doc_path_B, law_name) {
   cat("\nExamples of 10-grams in document B but not in document A:\n")
   print(head(unique_to_B, 10))
   
+  return(list(word_count = word_count, accuracy = accuracy))
 }
 
-# List of document pairs and law names
-document_pairs <- list(
-  list("machine_readble/PL110_289.txt", "clean/PL110_289_results/PL110_289.txt", "PL110_289")
-)
+# Get the list of files in the machine_readble and clean/results folders
+machine_files <- list.files("machine_readble", full.names = TRUE)
+clean_files <- list.files("clean/results", full.names = TRUE)
 
-# Process each document pair
-for (pair in document_pairs) {
-  process_documents(pair[[1]], pair[[2]], pair[[3]])
+# Extract filenames without paths and extensions
+machine_filenames <- basename(machine_files)
+clean_filenames <- basename(clean_files)
+
+# Remove file extensions to match names
+machine_names <- tools::file_path_sans_ext(machine_filenames)
+clean_names <- tools::file_path_sans_ext(clean_filenames)
+
+# Initialize combined tables
+combined_word_counts <- tibble()
+combined_accuracy <- tibble()
+
+# Process matching pairs of documents
+for (i in seq_along(machine_names)) {
+  law_name <- machine_names[i]
+  doc_path_A <- machine_files[i]
+  doc_path_B <- clean_files[which(clean_names == law_name)]
+  
+  if (length(doc_path_B) == 1) { # Proceed only if a single match is found
+    results <- process_documents(doc_path_A, doc_path_B, law_name)
+    combined_word_counts <- bind_rows(combined_word_counts, results$word_count)
+    combined_accuracy <- bind_rows(combined_accuracy, results$accuracy)
+  } else {
+    warning(paste("No match or multiple matches found for:", law_name))
+  }
 }
+
+# Save combined tables
+write_csv(combined_word_counts, "results/combined_word_counts_og.csv")
+write_csv(combined_accuracy, "results/combined_accuracy_og.csv")
+
+# Print combined tables
+print(combined_word_counts)
+print(combined_accuracy)

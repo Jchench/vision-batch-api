@@ -40,6 +40,6 @@ def compile_texts(folder_path, output_file):
 folder_path = 'clean/PL116_283_results'
 
 # Specify the name of the output file
-output_file = 'clean/PL116_283_results/PL116_283.txt'
+output_file = 'clean/results/PL116_283.txt'
 
 compile_texts(folder_path, output_file)

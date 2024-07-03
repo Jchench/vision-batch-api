@@ -32,10 +32,10 @@ process_documents <- function(doc_path_A, doc_path_B, law_name) {
   # Save word counts
   word_count <- tibble(
     law = law_name,
-    "# should" = count_should,
-    "# may" = count_may,
-    "# should not" = count_should_not,
-    "# may not" = count_may_not,
+    "# should in embedd" = count_should,
+    "# may in embedd" = count_may,
+    "# should not in embedd" = count_should_not,
+    "# may not in embedd" = count_may_not,
     "# should in gpt" = count_should_B,
     "# may in gpt" = count_may_B,
     "# should not in gpt" = count_should_not_B,
@@ -67,7 +67,7 @@ process_documents <- function(doc_path_A, doc_path_B, law_name) {
   # Save the results
   accuracy <- tibble(
     law = law_name,
-    machine_readable = proportionA_not_in_B,
+    embedded_text = proportionA_not_in_B,
     gpt = proportionB_not_in_A
   )
   
@@ -85,16 +85,16 @@ process_documents <- function(doc_path_A, doc_path_B, law_name) {
   return(list(word_count = word_count, accuracy = accuracy))
 }
 
-# Get the list of files in the machine_readble and clean/results folders
-machine_files <- list.files("machine_readble", full.names = TRUE)
+# Get the list of files in the embedd_readble and clean/results folders
+embedd_files <- list.files("extracted_text", full.names = TRUE)
 clean_files <- list.files("clean/results", full.names = TRUE)
 
 # Extract filenames without paths and extensions
-machine_filenames <- basename(machine_files)
+embedd_filenames <- basename(embedd_files)
 clean_filenames <- basename(clean_files)
 
 # Remove file extensions to match names
-machine_names <- tools::file_path_sans_ext(machine_filenames)
+embedd_names <- tools::file_path_sans_ext(embedd_filenames)
 clean_names <- tools::file_path_sans_ext(clean_filenames)
 
 # Initialize combined tables
@@ -102,9 +102,9 @@ combined_word_counts <- tibble()
 combined_accuracy <- tibble()
 
 # Process matching pairs of documents
-for (i in seq_along(machine_names)) {
-  law_name <- machine_names[i]
-  doc_path_A <- machine_files[i]
+for (i in seq_along(embedd_names)) {
+  law_name <- embedd_names[i]
+  doc_path_A <- embedd_files[i]
   doc_path_B <- clean_files[which(clean_names == law_name)]
   
   if (length(doc_path_B) == 1) { # Proceed only if a single match is found
@@ -117,8 +117,8 @@ for (i in seq_along(machine_names)) {
 }
 
 # Save combined tables
-write_csv(combined_word_counts, "results/combined_word_counts_og.csv")
-write_csv(combined_accuracy, "results/combined_accuracy_og.csv")
+write_csv(combined_word_counts, "results/combined_word_counts_embedd.csv")
+write_csv(combined_accuracy, "results/combined_accuracy_embedd.csv")
 
 # Print combined tables
 print(combined_word_counts)

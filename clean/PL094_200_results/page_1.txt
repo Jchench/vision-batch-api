@@ -1,0 +1,31 @@
+89 STAT. 1124	                          PUBLIC LAW 94-200-DEC. 31, 1975
+
+Public Law 94-200
+94th Congress
+                                               An Act
+Dec. 31, 1975
+[S. 1281]                 	
+
+To extend the authority for the flexible regulation of interest rates on deposits and share accounts in depository institutions, to extend the National Commission on Electronic Fund Transfers, and to provide for home mortgage disclosure.
+
+Depository institutions, interest rates; National Commission on Electronic Fund Transfers, extension; home mortgage disclosure. 12 USC 461 note. 12 USC 461 note.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+                                        TITLE I-REGULATION OF INTEREST RATES
+
+   SEC. 101. Section 7 of the Act of September 21, 1966 (Public Law 89-597), is amended by striking out "December 31, 1975" and inserting in lieu thereof "March 1, 1977".
+  
+   SEC. 102. (a) An interest rate differential for any category of deposits or accounts which is in effect on December 10, 1975, between (1) any bank (other than a savings bank) the deposits of which are insured by the Federal Deposit Insurance Corporation and (2) any savings and loan, building and loan, or homestead association (including cooperative banks) the deposits or accounts of which are insured by the Federal Savings and Loan Insurance Corporation or any mutual savings bank as defined in section 3(f) of the Federal Deposit Insurance Act (12 U.S.C. 1813(f)) may not be eliminated or reduced unless-
+    
+     (A) written notification is given by the Board of Governors of  the Federal Reserve System to the Congress; and
+     (B) the House of Representatives and the Senate approve, by concurrent resolution, the proposed elimination or reduction of the interest rate differential.
+   
+    (b) In the case of the elimination or reduction of any interest rate differential under subsection (a) with respect to any category of deposits or accounts between (1) any bank (other than a savings bank) the deposits of which are insured by the Federal Deposit Insurance Corporation and (2) any savings and loan, building and loan, or homestead association (including cooperative banks) the deposits or accounts of which are insured by the Federal Savings and Loan Insurance Corporation or any mutual savings bank as defined in section 3(f) of the Federal Deposit Insurance Act (12 U.S.C. 1813(f)), the maximum rate of interest which shall be established for such category of deposits for banks (other than savings banks) the deposits of which are insured by the Federal Deposit Insurance Corporation shall be equal to the highest rate of interest which savings and loan associations the deposits or accounts of which are insured by the Federal Savings and Loan Insurance Corporation were permitted to charge for such category of deposits immediately prior to the elimination or reduction of such interest rate differential.
+
+                      TITLE II-ELECTRONIC FUND TRANSFERS
+
+   Sec. 201. Section 203 (b) of title II of the Act of October 28, 1974 (Public Law 93-495), is amended by-
+12 USC 2403.
+   
+    (1) striking out "within one year of its findings and recommendations" and inserting in lieu thereof "within one year of the date 

@@ -2,6 +2,7 @@ import json
 import base64
 import requests
 import os
+import time
 
 # Function to encode the image
 def encode_image(image_path):
@@ -37,60 +38,69 @@ headers = {
 
 # Process each image in the folder
 for image_path in image_paths:
-    try:
-        verify_image(image_path)
-        encoded_image = encode_image(image_path)
+    retry_count = 0
+    max_retries = 3
+    while retry_count < max_retries:
+        try:
+            verify_image(image_path)
+            encoded_image = encode_image(image_path)
 
-        # Construct the payload for the single image
-        messages = [
-            {
-                "role": "user",
-                "content": [
-                    {
-                        "type": "text",
-                        "text": "Transcribe this image. Do not include any other text besides the transcription."
-                    },
-                    {
-                        "type": "image_url",
-                        "image_url": {
-                            "url": f"data:image/jpeg;base64,{encoded_image}"
+            # Construct the payload for the single image
+            messages = [
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Transcribe this image. Do not include any other text besides the transcription."
+                        },
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                                "url": f"data:image/jpeg;base64,{encoded_image}"
+                            }
                         }
-                    }
-                ]
+                    ]
+                }
+            ]
+
+            payload = {
+                "model": "gpt-4o",
+                "messages": messages
             }
-        ]
 
-        payload = {
-            "model": "gpt-4o",
-            "messages": messages
-        }
+            response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
 
-        response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
+            # Check if the response is successful
+            if response.status_code == 200:
+                # Parse the response as JSON
+                response_data = response.json()
+                
+                # Extract the content from the response
+                content = response_data['choices'][0]['message']['content']
 
-        # Check if the response is successful
-        if response.status_code == 200:
-            # Parse the response as JSON
-            response_data = response.json()
-            
-            # Extract the content from the response
-            content = response_data['choices'][0]['message']['content']
+                # Define the folder and file path for saving the transcription
+                folder_path = 'clean/PL116_283_results'
+                os.makedirs(folder_path, exist_ok=True)
 
-            # Define the folder and file path for saving the transcription
-            folder_path = 'clean/PL116_283_results'
-            os.makedirs(folder_path, exist_ok=True)
+                # Use the original image file name for the text file
+                file_name = os.path.splitext(os.path.basename(image_path))[0] + '.txt'
+                file_path = os.path.join(folder_path, file_name)
 
-            # Use the original image file name for the text file
-            file_name = os.path.splitext(os.path.basename(image_path))[0] + '.txt'
-            file_path = os.path.join(folder_path, file_name)
+                # Save the content to a text file
+                with open(file_path, 'w') as file:
+                    file.write(content)
 
-            # Save the content to a text file
-            with open(file_path, 'w') as file:
-                file.write(content)
+                print(f"Content saved to {file_path}")
+                break  # Exit the retry loop if successful
+            else:
+                # Print an error message if the request failed
+                print(f"Failed to retrieve data for {image_path}: {response.status_code}, {response.text}")
+                retry_count += 1
+                time.sleep(2)  # Add a delay before retrying
+                if retry_count == max_retries:
+                    print(f"Max retries reached for {image_path}. Moving to next image.")
 
-            print(f"Content saved to {file_path}")
-        else:
-            # Print an error message if the request failed
-            print(f"Failed to retrieve data for {image_path}: {response.status_code}, {response.text}")
-
-    except ValueError as e:
-        print(f"Error with image {image_path}: {e}")
+        except ValueError as e:
+            print(f"Error with image {image_path}: {e}")
+            break  # Exit the loop if there's an error with the image

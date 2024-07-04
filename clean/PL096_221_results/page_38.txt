@@ -1,0 +1,24 @@
+PUBLIC LAW 96-221—MAR. 31, 1980	94 STAT. 169
+
+(2) by redesignating the references to sections 127(a)(6), 127(a)(7), 127(a)(8), 127(b)(9), and 127(b)(11) in the next succeeding sentence as references to sections 127(a)(5), 127(a)(6), 127(a)(7), 127(b)(8), and 127(b)(10), respectively.
+(b) The first sentence of section 103(g) of the Truth in Lending Act (15 U.S.C. 1602(g)) is amended to read as follows: "The term 'credit sale' refers to any sale in which the seller is a creditor.".
+
+EXEMPTED TRANSACTIONS
+
+SEC. 603. (a) Section 103(h) of the Truth in Lending Act (15 U.S.C. 1602(h)) is amended by striking out "household, or agricultural" and inserting in lieu thereof "or household".
+(b) Section 103 of the Truth in Lending Act (15 U.S.C. 1602) is amended by redesignating subsections (s) and (t) as subsections (x) and (y), respectively, and by inserting after subsection (r) the following new subsections:
+"(s) The term 'agricultural purposes' includes the production, harvest, exhibition, marketing, transportation, processing, or manufacture of agricultural products by a natural person who cultivates, plants, propagates, or nurtures those agricultural products, including but not limited to the acquisition of farmland, real property with a farm residence, and personal property and services used primarily in farming.
+"Agricultural purposes."
+"(t) The term 'agricultural products' includes agricultural, horticultural, viticultural, and dairy products, livestock, wildlife, poultry, bees, forest products, fish and shellfish, and any products thereof, including processed and manufactured products, and any and all products raised or produced on farms and any processed or manufactured products thereof.".
+"Agricultural products."
+(c) Section 104 of the Truth in Lending Act (15 U.S.C. 1603) is amended—
+(1) by amending paragraph (1) to read as follows:
+"(1) Credit transactions involving extensions of credit primarily for business, commercial, or agricultural purposes, or to government or governmental agencies or instrumentalities, or to organizations.";
+(2) by amending paragraph (3) to read as follows:
+"(3) Credit transactions, other than those in which a security interest is or will be acquired in real property, or in personal property used or expected to be used as the principal dwelling of the consumer, in which the total amount financed exceeds $25,000."; and
+(3) by striking out paragraph (5).
+
+OPEN END CREDIT PLAN
+
+SEC. 604. Section 103(i) of the Truth in Lending Act (15 U.S.C. 1602(i)) is amended to read as follows:
+"(i) The term 'open end credit plan' means a plan under which the creditor reasonably contemplates repeated transactions, which prescribes the terms of such transactions, and which provides for a finance charge which may be computed from time to time on the outstanding unpaid balance. A credit plan which is an open end credit plan within the meaning of the preceding sentence is an open end credit plan even if credit information is verified from time to time.".

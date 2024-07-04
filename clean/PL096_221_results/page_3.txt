@@ -1,0 +1,17 @@
+94 STAT. 134                 PUBLIC LAW 96-221—MAR. 31, 1980
+
+(E) In order to prevent evasions of the reserve requirements imposed by this subsection, after consultation with the Board of Directors of the Federal Deposit Insurance Corporation, the Federal Home Loan Bank Board, and the National Credit Union Administration Board, the Board of Governors of the Federal Reserve System is authorized to determine, by regulation or order, that an account or deposit is a transaction account if such account or deposit may be used to provide funds directly or indirectly for the purpose of making payments or transfers to third persons or others.
+
+(2) RESERVE REQUIREMENTS.—(A) Each depository institution shall maintain reserves against its transaction accounts as the Board may prescribe by regulation solely for the purpose of implementing monetary policy—
+
+      (i) in the ratio of 3 per centum for that portion of its total transaction accounts of $25,000,000 or less, subject to subparagraph (C); and
+      
+      (ii) in the ratio of 12 per centum, or in such other ratio as the Board may prescribe not greater than 14 per centum and not less than 8 per centum, for that portion of its total transaction accounts in excess of $25,000,000, subject to subparagraph (C).
+      
+(B) Each depository institution shall maintain reserves against its nonpersonal time deposits in the ratio of 3 per centum, or in such other ratio not greater than 9 per centum and not less than zero per centum as the Board may prescribe by regulation solely for the purpose of implementing monetary policy.
+
+(C) Beginning in 1981, not later than December 31 of each year the Board shall issue a regulation increasing for the next succeeding calendar year the dollar amount which is contained in subparagraph (A) or which was last determined pursuant to this subparagraph for the purpose of such subparagraph, by an amount obtained by multiplying such dollar amount by 80 per centum of the percentage increase in the total transaction accounts of all depository institutions. The increase in such transaction accounts shall be determined by subtracting the amount of such accounts on June 30 of the preceding calendar year from the amount of such accounts on June 30 of the calendar year involved. In the case of any such 12-month period in which there has been a decrease in the total transaction accounts of all depository institutions, the Board shall issue such a regulation decreasing for the next succeeding calendar year such dollar amount by an amount obtained by multiplying such dollar amount by 80 per centum of the percentage decrease in the total transaction accounts of all depository institutions. The decrease in transaction accounts shall be determined by subtracting the amount of such accounts on June 30 of the calendar year involved from the amount of such accounts on June 30 of the previous calendar year.
+
+(D) Any reserve requirement imposed under this subsection shall be uniformly applied to all transaction accounts at all depository institutions. Reserve requirements imposed under this subsection shall be uniformly applied to nonpersonal time deposits at all depository institutions, except that such requirements may vary by the maturity of such deposits.
+
+(3) WAIVER OF RATIO LIMITS IN EXTRAORDINARY CIRCUMSTANCES.—Upon a finding by at least 5 members of the Board

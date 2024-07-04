@@ -1,0 +1,24 @@
+108 STAT. 2354          PUBLIC LAW 103-328-SEPT. 29, 1994
+
+same extent such provisions of such section apply to a branch of a State bank which resulted from a merger transaction under such section 44.
+     "(C) DE NOVO BRANCH DEFINED.-For purposes of this paragraph, the term 'de novo branch' means a branch of a State bank which-
+     "(i) is originally established by the State bank
+     as a branch; and
+     "(ii) does not become a branch of such bank as
+     a result of-
+          "(I) the acquisition by the bank of an insured
+     depository institution or a branch of an insured
+     depository institution; or
+          "(II) the conversion, merger, or consolidation
+     of any such institution or branch.
+     "(D) HOME STATE DEFINED.-The term 'home State' means the State by which a State bank is chartered.
+     "(E) HOST STATE DEFINED.-The term 'host State' means, with respect to a bank, a State, other than the home State of the bank, in which the bank maintains, or seeks to establish and maintain, a branch.".
+
+SEC. 104. BRANCHING BY FOREIGN BANKS.
+     (a) IN GENERAL.-Section 5(a) of the International Banking Act of 1978 (12 U.S.C. 3103(a)) is amended to read as follows:
+     "(a) INTERSTATE BRANCHING AND AGENCY OPERATIONS.-
+          "(1) FEDERAL BRANCH OR AGENCY.-Subject to the provisions of this Act and with the prior written approval by the Board and the Comptroller of the Currency of an application, a foreign bank may establish and operate a Federal branch or agency in any State outside the home State of such foreign bank to the extent that the establishment and operation of such branch would be permitted under section 5155(g) of the Revised Statutes or section 44 of the Federal Deposit Insurance Act if the foreign bank were a national bank whose home State is the same State as the home State of the foreign bank.
+          "(2) STATE BRANCH OR AGENCY.-Subject to the provisions of this Act and with the prior written approval by the Board and the appropriate State bank supervisor of an application, a foreign bank may establish and operate a State branch or agency in any State outside the home State of such foreign bank to the extent that such establishment and operation would be permitted under section18(d)(4) or 44 of the Federal Deposit Insurance Act if the foreign bank were a State bank whose home State is the same State as the home State of the foreign bank.
+          "(3) CRITERIA FOR DETERMINATION.-In approving an application under paragraph (1) or (2), the Board and (in the case of an application under paragraph (1)) the Comptroller of the Currency-
+               "(A) shall apply the standards applicable to the establishment of a foreign bank office in the United States under section 7(d);
+               "(B) may not approve an application unless the Board and (in the case of an application under paragraph (1)) the Comptroller of the Currency-

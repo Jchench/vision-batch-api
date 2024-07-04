@@ -1,0 +1,18 @@
+107 STAT. 2390
+
+PUBLIC LAW 103-204—DEC. 17, 1993
+
+"(A) MAINTENANCE AND USE OF FUNDS.—The Bank Insurance Fund established under paragraph (5) and the Savings Association Insurance Fund established under paragraph (6) shall each be—
+"(i) maintained and administered by the Corporation;
+"(ii) maintained separately and not commingled; and
+"(iii) used by the Corporation to carry out its insurance purposes in the manner provided in this subsection.
+"(B) LIMITATION ON USE.—Notwithstanding any provision of law other than section 13(c)(4)(G), the Bank Insurance Fund and the Savings Association Insurance Fund shall not be used in any manner to benefit any shareholder of—
+"(i) any insured depository institution for which the Corporation or the Resolution Trust Corporation has been appointed conservator or receiver, in connection with any type of resolution by the Corporation or the Resolution Trust Corporation;
+"(ii) any other insured depository institution in default or in danger of default, in connection with any type of resolution by the Corporation or the Resolution Trust Corporation; or
+"(iii) any insured depository institution, in connection with the provision of assistance under this section or section 13 with respect to such institution, except that this clause shall not prohibit any assistance to any insured depository institution that is not in default, or that is not in danger of default, that is acquiring (as defined in section 13(f)(8)(B)) another insured depository institution.".
+SEC. 12. MAXIMUM DOLLAR LIMITS FOR ELIGIBLE CONDOMINIUM AND SINGLE FAMILY PROPERTIES UNDER RTC AFFORDABLE HOUSING PROGRAM.
+Section 21A(c)(9) of the Federal Home Loan Bank Act (12 U.S.C. 1441a(c)(9)) is amended—
+(1) in subparagraph (D), by striking clause (ii) and inserting the following new clause:
+"(ii) that has an appraised value that does not exceed—
+"(I) $67,500 in the case of a 1-family residence, $76,000 in the case of a 2-family residence, $92,000 in the case of a 3-family residence, and $107,000 in the case of a 4-family residence; or
+"(II) only to the extent or in such amounts as are provided in appropriation Acts for additional costs and losses to the Corporation resulting from this subclause taking effect, the amount provided in section 203(b)(2)(A) of the National Housing Act, except that such amount shall not exceed $101,250 in the case of a 1-family residence, $114,000 in the case of a 2-family residence, $138,000 in the case of a 3-family residence, and $160,500 in the case of a 4-family residence."; and

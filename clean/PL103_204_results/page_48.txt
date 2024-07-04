@@ -1,0 +1,17 @@
+107 STAT. 2416		PUBLIC LAW 103-204—DEC. 17, 1993
+
+Deposit Insurance Corporation may tender such appointment to the Corporation, and the Corporation shall accept such appointment, if the Corporation is authorized to accept such appointment under this section.”.
+
+SEC. 37. EXCEPTIONS FOR CERTAIN TRANSACTIONS.
+12 USC 1821 note.
+(a) TRANSACTIONS INVOLVING CERTAIN INSTITUTIONS.—Section 11(a)(4)(B) of the Federal Deposit Insurance Act shall not prohibit assistance from the Bank Insurance Fund that otherwise meets all the criteria established in section 13(c) of such Act from being provided to an insured depository institution that became wholly-owned, either directly or through a wholly-owned subsidiary, by an entity or instrumentality of a State government during the period beginning on January 1, 1992, and ending on the date of enactment of this Act.
+(b) TRANSACTIONS INVOLVING THE FDIC AS RECEIVER.—Notwithstanding the extension, pursuant to section 27, of the Resolution Trust Corporation’s jurisdiction to be appointed conservator or receiver of certain savings associations after September 30, 1993, no provision of this Act or any amendment made by this Act shall invalidate or otherwise affect—
+(1) any appointment of the Federal Deposit Insurance Corporation as receiver for any savings association that became effective before the date of enactment of this Act; or
+(2) any action taken by the Federal Deposit Insurance Corporation as such receiver before, on, or after such date of enactment.
+
+SEC. 38. BANK DEPOSIT FINANCIAL ASSISTANCE PROGRAM.
+(a) IN GENERAL.—Effective December 19, 1993, section 7(i) of the Federal Deposit Insurance Act (12 U.S.C. 1817(i)) is amended—
+(1) by redesignating paragraph (3) as paragraph (4); and 
+(2) by inserting after paragraph (2), the following new paragraph:
+“(3) BANK DEPOSIT FINANCIAL ASSISTANCE PROGRAM.—Notwithstanding paragraph (1), funds deposited by an insured depository institution pursuant to the Bank Deposit Financial Assistance Program of the Department of Energy shall be separately insured in an amount not to exceed $100,000 for each insured depository institution depositing such funds.”.
+(b) TECHNICAL AND CONFORMING AMENDMENT.—Section 11(a)(1)(C) of the Federal Deposit Insur ance Act (12 U.S.C. 1821(a)(1)(C)) is amended by striking “section 7(i)(1)” and inserting

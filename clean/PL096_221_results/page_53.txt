@@ -1,0 +1,51 @@
+94 STAT. 184        PUBLIC LAW 96-221—MAR. 31, 1980
+        correction of billing errors
+  Sec. 620. (a) Section 161(b) of the Truth in Lending Act (15 U.S.C.
+1666(b)) is amended—
+            (1) by redesignating paragraph (6) as paragraph (7); and
+            (2) by inserting after paragraph (5) the following:
+          "(6) Failure to transmit the statement required under section
+    127(b) of this Act to the last address of the obligor which has been
+    disclosed to the creditor, unless that address was furnished less
+    than twenty days before the end of the billing cycle for which the
+    statement is required.".
+  (b) Section 161(c) of the Truth in Lending Act (15 U.S.C. 1666(c)) is
+amended by inserting ", which may include finance charges on
+amounts in dispute," after "of statements of account".
+                        credit balances
+   Sec. 621. (a) Section 165 of the Truth in Lending Act (15 U.S.C.
+1666d) is amended to read as follows:
+              "$165. Treatment of credit balances
+  "Whenever a credit balance in excess of $1 is created in connection
+with a consumer credit transaction through (1) transmittal of funds
+to a creditor in excess of the total balance due on an account. (2)
+rebates of unearned finance charges or insurance premiums, or (3)
+amounts otherwise owed to or held for the benefit of an obligor, the
+creditor shall—
+       "(A) credit the amount of the credit balance to the consumer's
+   account;
+       "(B) refund any part of the amount of the remaining credit
+   balance, upon request of the consumer; and
+       "(C) make a good faith effort to refund to the consumer by cash,
+   check, or money order any part of the amount of the credit
+   balance remaining in the account for more than six months,
+   except that no further action is required in any case in which the
+   consumer's current location is not known by the creditor and
+   cannot be traced through the consumer's last known address or
+   telephone number.".
+  (b) The table of sections at the beginning of chapter 4 of the Truth
+in Lending Act is amended by striking out the item relating to section
+165 and inserting in lieu thereof the following:
+"165. Treatment of credit balances.".
+                   government exemption
+  Sec. 622. (a) Section 113 of the Truth in Lending Act (15 U.S.C. 1612)
+is amended to read as follows:
+        "$113. Effect on governmental agencies
+  "(a) Any department or agency of the United States which adminis-
+ters a credit program in which it extends, insures, or guarantees
+consumer credit and in which it provides instruments to a creditor
+which contain any disclosures required by this title shall, prior to the
+issuance or continued use of such instruments, consult with the
+Board to assure that such instruments comply with this title.
+  "(b) No civil or criminal penalty provided under this title for any
+violation thereof may be imposed upon the United States or any

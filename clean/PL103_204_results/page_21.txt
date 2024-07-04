@@ -1,0 +1,32 @@
+PUBLIC LAW 103-204—DEC. 17, 1993
+
+SEC. 9. MORATORIUM EXTENSION.
+
+(a) CONVERSION MORATORIUM UNTIL SAIF RECAPITALIZED.—Section 5(d)(2)(A)(ii) of the Federal Deposit Insurance Act (12 U.S.C. 1815(d)(2)(A)(ii)) is amended—
+(1) by striking "before the end" and inserting "before the later of the end"; and
+(2) by inserting "or the date on which the Savings Association Insurance Fund first meets or exceeds the designated reserve ratio for such fund" before the period.
+(b) CLARIFICATION OF DEFINITION.—Section 5(d)(2)(B) of the Federal Deposit Insurance Act (12 U.S.C. 1815(d)(2)(B)) is amended—
+(1) by striking the period at the end of clause (iv) and inserting "; and"; and
+(2) by adding at the end the following:
+"(v) the transfer of deposits—
+"(I) from a Bank Insurance Fund member to a Savings Association Insurance Fund member; or
+"(II) from a Savings Association Insurance Fund member to a Bank Insurance Fund member;
+in a transaction in which the deposit is received from a depositor at an insured depository institution for which a receiver has been appointed and the receiving insured depository institution is acting as agent for the Corporation in connection with the payment of such deposit to the depositor at the institution for which a receiver has been appointed.".
+
+(c) TECHNICAL AND CONFORMING AMENDMENTS.—Section 5(d) of the Federal Deposit Insurance Act (12 U.S.C. 1815(d)) is amended—
+(1) in clauses (ii) and (iii) of paragraph (2)(C); and
+(2) in paragraph (3)(I)(i);
+by striking "5-year period referred to in" and inserting "moratorium period established by".
+
+SEC. 10. REPAYMENT SCHEDULE FOR PERMANENT FDIC BORROWING AUTHORITY.
+
+Section 14(c) of the Federal Deposit Insurance Act (12 U.S.C. 1824(c)) is amended by adding at the end the following new paragraph:
+"(3) INDUSTRY REPAYMENT.—
+"(A) BIF MEMBER PAYMENTS.—No agreement or repayment  schedule under paragraph (1) shall require any payment by a Bank Insurance Fund member for funds obtained under subsection (a) for purposes of the Savings Association Fund.
+"(B) SAIF MEMBER PAYMENTS.—No agreement or repayment schedule under paragraph (1) shall require any payment by a Savings Association Insurance Fund member for funds obtained under subsection (a) for purposes of the Bank Insurance Fund.".
+
+
+SEC. 11. DEPOSIT INSURANCE FUNDS.
+
+Section 11(a)(4) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(4)) is amended to read as follows:
+"(4) GENERAL PROVISIONS RELATING TO FUNDS.—

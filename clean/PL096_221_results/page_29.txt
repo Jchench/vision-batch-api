@@ -1,0 +1,24 @@
+94 STAT. 160                  PUBLIC LAW 96-221—MAR. 31, 1980
+
+"(i) shall be subordinate to all savings accounts, savings certificates, and debt obligations;
+"(ii) shall constitute a claim in liquidation on the general reserves, surplus, and undivided profits of the association remaining after the payment in full of all savings accounts, savings certificates, and debt obligations;
+"(iii) shall be entitled to the payment of dividends; and
+"(iv) may have a fixed or variable dividend rate.
+"(B) The Board shall provide in its rules and regulations for charging losses to the mutual capital certificate, reserves, and other net worth accounts.".
+(b) Section 403(b) of the National Housing Act (12 U.S.C. 1726(b)), is amended by adding at the end thereof the following: "Mutual capital certificates, subordinate to the rights of holders of savings accounts, savings certificates, and the Corporation, shall be deemed to be reserves for the purposes of this subsection in accordance with rules and regulations prescribed by the Corporation. The Corporation shall provide in its rules and regulations for charging losses to the mutual capital certificate, reserves, and other net worth accounts. In the event an insured institution fails to maintain the reserves required by this title, no payment of dividends on such certificates shall be made except with the approval of the Corporation.".
+
+MUTUAL SAVINGS BANKS
+
+Sec. 408. (a) Section 5(a) of the Home Owners' Loan Act of 1938 (12 U.S.C. 1464(a)) is amended—
+(1) by inserting "(1)" after "(a)";
+(2) in the fourth and fifth sentences by striking out "(1)" and "(2)" each place they appear therein and inserting in lieu thereof "(A)" and "(B)", respectively; and
+(3) by adding at the end thereof the following new paragraph:
+"(2) A Federal mutual savings bank may make commercial, corporate, and business loans except that—
+"(A) not more than 5 per centum of the assets of such a bank may be so loaned; and
+"(B) such loans may only be made within the State where the bank is located or within 75 miles of the bank's home office.".
+(b) Section 5(a) of the Home Owners' Loan Act of 1933 (12 U.S.C. 1464(a)) is amended by adding at the end thereof the following new paragraph:
+"(3) In addition to the authority conferred by paragraph (I), Federal mutual savings bank may accept demand deposits in connection with a commercial, corporate, or business loan relationship.".
+
+INSURANCE RESERVES
+
+Sec. 409. The third sentence of section 403(b) of the National Housing Act (12 U.S.C. 1726(b)) is amended by striking out "5 per centum" and inserting in lieu thereof "an amount no greater than 6 per centum nor less than 3 per centum as determined by the Federal Home Loan Bank Board.".

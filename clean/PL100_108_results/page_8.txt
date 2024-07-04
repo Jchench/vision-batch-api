@@ -1,0 +1,17 @@
+117 STAT. 1184          PUBLIC LAW 108-100—OCT. 28, 2003
+
+        (ll) a copy of the original check (including an image or a substitute check) that accurately  represents all of the information on the front and back of the original check, as of the time at which the original check was truncated; and
+        (ii) demonstrated to the consumer that the subsitute check was properly charged to the consumer account.
+
+(2) TIMING OF RECREDIT.—
+  (A) IN GENERAL.—The bank shall recredit the consumer's account for the amount described in paragraph (1) no later than the end of the business day following the business day on which the bank determines the consumer's claim is valid.
+  (B) RECREDIT PENDING INVESTIGATION.—If the bank has not yet determined that the consumer's claim is valid before the end of the 10th business day after the business day on which the consumer submitted the claim, the bank shall recredit the consumer's account for—
+    (i) the lesser of the amount of the substitute check that was charged against the consumer account, or $2,500, together with interest if the account is an interest-bearing account, no later than the end of such 10th business day; and
+    (ii) the remaining amount of the substitute check that was charged against the consumer account, if any, together with interest if the account is an interest-bearing account, no later than the 45th calendar day following the business day on which the consumer submits the claim.
+
+(d) AVAILABILITY OF RECREDIT.—
+  (1) NEXT BUSINESS DAY AVAILABILITY.—Except as provided in paragraph (2), a bank that provides a recredit to a consumer account under subsection (c) shall make the recredited funds available for withdrawal by the consumer by the start of the next business day after the business day on which the bank recredits the consumer's account under subsection (c).
+  (2) SAFEGUARD EXCEPTIONS.— A bank may delay availability to a consumer of a recredit provided under subsection (c)(2)(B)(i) until the start of either the business day following the business day on which the bank determines that the consumer's claim is valid or the 45th calendar day following the business day on which the consumer submits a claim for such recredit in accordance with subsection (b), whichever is earlier, in any of the following circumstances:
+    (A) NEW ACCOUNTS.—The claim is made during the 30-day period beginning on the business day the consumer account was established.
+    (B) REPEATED OVERDRAFTS.—Without regard to the charge that is the subject of the claim for which the recredit was made—
+      (i) on 6 or more business days during the 6-month period ending on the date on which the consumer submits the claim, the balance in the consumer account was negative or would have become negative if checks or other charges to the account had been paid; or

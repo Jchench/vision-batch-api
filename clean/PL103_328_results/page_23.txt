@@ -1,0 +1,23 @@
+108 STAT. 2360                  PUBLIC LAW 103-328—SEPT. 29, 1994
+
+were permissible under regulations that were in effect before the date of enactment of this Act.
+          (6) DEFINITIONS.—For purposes of this subsection—
+                 (A) the term "Federal banking agency" means—
+                           (i) the Comptroller of the Currency with respect to Federal branches of foreign banks; and
+                           (ii) the Federal Deposit Insurance Corporation with respect to State branches of foreign banks; and
+                 (B) the term "uninsured branch" means a branch of a foreign bank that is not an insured branch, as defined in section 3(s)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)(3)).
+          (c) AMENDMENT AFFIRMING THAT CONSUMER PROTECTION LAWS APPLY TO FOREIGN BANKS.—Section 9(b) of the International Banking Act of 1978 (12 U.S.C. 3106a) is amended—
+                (1) in paragraph (1)—
+                       (A) by redesignating subparagraphs (A) and (B) as subparagraphs (B) and (C), respectively; and
+                       (B) by inserting after "which—" the following new subparagraph:
+                      "(A) impose requirements that protect the rights of consumers in financial transactions, to the extent that the branch, agency, or commercial lending company engages in activities that are subject to such laws;"; and
+               (2) in paragraph (2)—
+                      (A) by redesignating subparagraphs (A) and (B) as subparagraphs (B) and (C), respectively; and
+                      (B) by inserting after "which—" the following new subparagraph:
+                      "(A) impose requirements that protect the rights of consumers in financial transactions, to the extent that the branch, agency, or commercial lending company engages in activities that are subject to such laws.";
+          (d) INSURE BANKS IN TERRITORIES NOT TREATED AS FOREIGN BANKS FOR PURPOSES OF RETAIL DEPOSIT-TAKING RULE— Section 6(d) of the International Banking Act of 1978 (12 U.S.C. 3104(d)) (as so redesignated by subsection (a)(1) of this section) is amended by adding at the end the following new paragraph;
+                     "(3) INSURED BANKS IN U.S. TERRITORIES.—For purposes of this subsection, the term 'foreign bank' does not include any bank organized under the laws of any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands the deposits of which are insured by the Federal Deposit Insurance Corporation pursuant to the Federal Deposit Insurance Act."
+          (e) AMENDMENT RELATING TO SHELL BRANCHES—
+               (1) IN GENERAL.— Section 7 of the International Banking Act of 1978 (12 U.S.C. 3105) is amended by adding at the end the following new subsection:
+                     "(k) MANAGEMENT OF SHELL BRANCHES—
+                     "(1) TRANSACTIONS PROHIBITED.—A branch or agency of a foreign bank shall not manage, through an office of the foreign bank which is located outside the United States and is managed or controlled by such branch or agency, any type of activity that a bank organized under the laws of the United States, any State, or the District of Columbia is not permitted

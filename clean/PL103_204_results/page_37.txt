@@ -1,0 +1,39 @@
+PUBLIC LAW 103-204—DEC. 17, 1993 107 STAT. 2405
+
+(1) by redesignating paragraphs (1) and (2) as paragraphs
+(2) and (3); and
+(2) by inserting before paragraph (2), as redesignated, the
+following new paragraph:
+"(1) PERSONS WHO ENGAGED IN IMPROPER CONDUCT WITH,
+OR CAUSED LOSSES TO, DEPOSITORY INSTITUTIONS.— The Corporation shall prescribe regulations which, at a minimum, shall
+prohibit the sale of assets of a failed institution by the Corporation to—
+"(A) any person who—
+"(i) has defaulted, or was a member of a partnership or an officer or director of a corporation that
+has defaulted, on 1 or more obligations the aggregate amount of which exceed $1,000,000, to such failed institution;
+"(ii) has been found to have engaged in fraudulent activity in connection with any obligation referred to in clause (i); and
+"(iii) proposes to purchase any such asset in whole or in part through the use of the proceeds of a loan
+or advance of credit from the Corporation or from
+any institution for which the Corporation has been
+appointed as conservator or receiver;
+"(B) any person who participated, as an officer or director of such failed institution or of any affiliate of such
+institution, in a material way in transactions that resulted
+in a substantial loss to such failed institution;
+"(C) any person who has been removed from, or prohibited from participating in the affairs of, such failed institution pursuant to any final enforcement action by an appropriate Federal banking agency; or
+"(D) any person who has demonstrated a pattern or practice of defalcation regarding obligations to such failed
+institution.".
+(b) TECHNICAL AND CONFORMING AMENDMENTS.—Section 11(p)
+of the Federal Deposit Insurance Act (12 U.S.C. 1821(p)) is
+amended—
+(1) in paragraph (2) (as redesignated by subsection (a))—
+(A) by striking "individual" and inserting "person"; and
+(B) by striking "paragraph (2)" and inserting "paragraph (3)";
+(2) in paragraph (3) (as redesignated by subsection (a))—
+(A) by striking "individual" each place such term
+appears and inserting "person"; and
+(B) by striking "Paragraph (1)" and inserting "Paragraphs (1) and (2)";
+(3) by adding at the end the following new paragraph:
+"(4) DEFINITION OF DEFAULT.—For purposes of this subsection, the term 'default' means a failure to comply with the
+terms of a loan or other obligation to such an extent that
+the property securing the obligation is foreclosed upon."; and
+(4) by striking the heading and inserting the following new heading:
+"(p) CERTAIN SALES OF ASSETS PROHIBITED.—".

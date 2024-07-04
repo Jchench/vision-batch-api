@@ -1,0 +1,29 @@
+107 STAT. 2406			PUBLIC LAW 103-204—DEC. 17, 1993
+
+SEC. 21. WHISTLE BLOWER PROTECTION.
+
+(a) AMENDMENTS TO THE FEDERAL DEPOSIT INSURANCE ACT.—
+Section 33(a) of the Federal Deposit Insurance Act (12 U.S.C. 1831j(a)) is amended—
+(1) in paragraph (1)—
+(A) by striking “regarding” and all that follows through the end of the sentence and inserting the following: “regarding—
+“(A) a possible violation of any law or regulation; or
+“(B) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+by the depository institution or any director, officer, or employee of the institution.”; and
+(B) by adding at the end the following:
+“(f) BURDENS OF PROOF.—The legal burdens of proof that prevail under subchapter III of chapter 12 of title 5, United States Code, shall govern adjudication of protected activities under this section.”; and
+(2) in paragraph (2)—
+(A) by striking “or Federal Reserve bank” and inserting
+“Federal reserve bank, or any person who is performing, directly or indirectly, any function or service on behalf of the Corporation”;
+(B) by striking “any possible violation of any law or regulation by” and inserting “any possible violation of any law or regulation, gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety by”;
+(C) in subparagraph (B), by striking “or” at the end;
+(D) in subparagraph (C), by striking the period at the end and inserting “; or”; and
+(E) by adding at the end the following new subparagraph:
+“(D) the person, or any officer or employee of the person, who employs such employee.”.
+(b) AMENDMENTS TO THE FEDERAL HOME LOAN BANK ACT.—
+Section 21A(q) of the Federal Home Loan Bank Act (12 U.S.C. 1441a(q)) is amended—
+(1) in paragraph (1), by striking “regarding” and all that follows through the end of the sentence and inserting the following: “regarding—
+“(A) a possible violation of any law or regulation; or
+“(B) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+by the Corporation, the Thrift Depositor Protection Oversight Board, or such person or any director, officer, or employee of the Corporation, the Thrift Depositor Protection Oversight Board, or the person.”; and
+(2) by inserting after paragraph (4) the following:
+“(5) BURDENS OF PROOF.—The legal burdens of proof that prevail under subchapter III of chapter 12 of title 5, United States Code, shall govern adjudication of protected activities under this subsection.”.

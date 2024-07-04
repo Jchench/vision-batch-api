@@ -1,0 +1,21 @@
+108 STAT. 2352		PUBLIC LAW 103-328—SEPT. 29, 1994
+
+consolidation or merger is approved pursuant to section 44 of the Federal Deposit Insurance Act.
+		"(b) SCOPE OF APPLICATION.—Subsection (a) shall not apply with respect to any consolidation or merger before June 1, 1997, unless the home State of each bank involved in the transaction has in effect a law described in section 44(a)(3) of the Federal Deposit Insurance Act.
+		"(c) DEFINITIONS.—The terms 'home State' and 'out-of-State bank' have the same meaning as in section 44(f) of the Federal Deposit Insurance Act."
+		(5) HOME OWNERS' LOAN ACT.—Section of 3 of the Home Owners' Loan Act (12 U.S.C. 1452a) is amended—
+			(A) by redesignating subsections (f) through (i) as subsections (g) through (j), respectively; and
+			(B) by inserting after subsection (e), the following new subsection:
+		"(f) STATE HOMESTEAD PROVISIONS.—No provision of this Act or any other provision of law administered by the Director shall be construed as superseding any homestead provision of any State constitution, including any implementing State statute, in effect on the date of enactment of the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994, or any subsequent amendment to such a State constitutional or statutory provision in effect on such date, that exempts the homestead of any person from foreclosure, or forced sale, for the payment of all debts, other than a purchase money obligation relating to the homestead, taxes due on the homestead, or an obligation arising from work and material used in constructing improvements on the homestead."
+
+SEC. 103. STATE "OPT-IN" ELECTION TO PERMIT INTERSTATE BRANCHING THROUGH DE NOVO BRANCHES.
+	(a) NATIONAL BANKS.—Section 5155 of the Revised Statutes (12 U.S.C. 36) is amended by inserting after subsection (f) (as added by section 102(b)) the following new subsection:
+		"(g) STATE 'OPT-IN' ELECTION TO PERMIT INTERSTATE BRANCHING THROUGH DE NOVO BRANCHES.—
+			"(1) IN GENERAL.—Subject to paragraph (2), the Comptroller of the Currency may approve an application by a national bank to establish and operate a de novo branch in a State (other than the bank's home State) in which the bank does not maintain a branch if—
+				"(A) there is in effect in the host State a law that—
+					"(i) applies equally to all banks; and
+					"(ii) expressly permits all out-of-State banks to establish de novo branches in such State; and
+				"(B) the conditions established in, or made applicable to this paragraph by, paragraph (2) are met.
+			"(2) CONDITIONS ON ESTABLISHMENT AND OPERATION OF INTERSTATE BRANCH.—
+				"(A) ESTABLISHMENT.—An application by a national bank to establish and operate a de novo branch in a host State shall be subject to the same requirements and conditions to which an application for an interstate merger transaction is subject under paragraphs (1), (3), and (4) of section 44(b) of the Federal Deposit Insurance Act.
+				"(B) OPERATION.—Subsections (c) and (d)(2) of section 44 of the Federal Deposit Insurance Act shall apply with

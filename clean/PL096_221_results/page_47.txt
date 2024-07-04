@@ -1,0 +1,21 @@
+94 STAT. 178                                PUBLIC LAW 96-221—MAR. 31, 1980
+
+                                 OTHER THAN OPEN END DISCLOSURES
+
+Sec. 614. (a) Section 128(a) of the Truth in Lending Act (15 U.S.C. 1638(a)) is amended to read as follows:
+     “(a) For each consumer credit transaction other than under an open end credit plan, the creditor shall disclose each of the following items, to the extent applicable:
+         “(1) The identity of the creditor required to make disclosure. 
+         “(2)(A) The ‘amount financed’, using that term, which shall be the amount of credit of which the consumer has actual use. This amount shall be computed as follows, but the computations need not be disclosed and shall not be disclosed with the disclosures conspicuously segregated in accordance with subsection (b)(1):
+              “(i) take the principal amount of the loan or the cash price less downpayment and trade-in;
+              “(ii) add any charges which are not part of the finance charge or of the principal amount of the loan and which are financed by the consumer, including the cost of any items excluded from the finance charge pursuant to section 106; and
+              “(iii) subtract any charges which are part of the finance charge but which will be paid by the consumer before or at the time of the consummation of the transaction, or have been withheld from the proceeds of the credit.
+        “(B) In conjunction with the disclosure of the amount financed, a creditor shall provide a statement of the consumer’s right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a ‘yes’ and ‘no’ indication to be initialed by the consumer to indicate whether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subparagraph, ‘itemization of the amount financed’ means a disclosure of the following items, to the extent applicable:
+              “(i) the amount is or will be paid directly to the consumer;
+              “(ii) the amount that is or will be credited to the consumer’s account to discharge obligations owed to the creditor;
+              “(iii) each amount that is or will be paid to third persons by the creditor on the consumer’s behalf, together with an identification of or reference to the third person; and
+              “(iv) the total amount of any charges described in the preceding subparagraph (A)(iii).
+         “(3) The ‘finance charge’, not itemized, using that term.
+         “(4) The finance charge expressed as an ‘annual percentage rate’, using that term. This shall not be required if the amount financed does not exceed $75 and the finance charge does not exceed $5, or if the amount financed exceeds $75 and the finance charge does not exceed $7.50.
+         “(5) The sum of the amount financed and the finance charge, which shall be termed the ‘total of payments’.
+         “(6) The number, amount, and due dates or period of payments scheduled to repay the total of payments.
+         “(7) In a sale of property or services in which the seller is the creditor required to disclose pursuant to section 121(b), the ‘total sale price’, using the term, which shall be the total of the cash

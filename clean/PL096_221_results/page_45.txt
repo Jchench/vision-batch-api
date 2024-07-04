@@ -1,0 +1,19 @@
+94 STAT. 176		PUBLIC LAW 96-221—MAR. 31, 1980
+
+		(5) Section 125(c) of the Truth in Lending Act (15 U.S.C. 1635(c)) is amended by inserting "information, forms, and" after "whom".
+		(6) Section 125 of the Truth in Lending Act (15 U.S.C. 1635) is amended by striking out subsections (e) and (f) and inserting in lieu thereof the following:
+		"(e)(1) This section does not apply to—
+			"(A) a residential mortgage transaction as defined in section 103(w);
+			"(B) a transaction which constitutes a refinancing or consolida- tion (with no new advances) of the principal balance then due and any accrued and unpaid finance charges of an existing extension of credit by the same creditor secured by an interest in the same property;
+			"(C) a transaction in which an agency of a State is the creditor; or
+			"(D) advances under a preexisting open end credit plan if a security interest has already been retained or acquired and such advances are in accordance with a previously established credit limit for such plan.
+		"(2) The provisions of paragraph (1)(D) shall cease to be effective 3 years after the effective date of the Truth in Lending Simplification and Reform Act.
+		"(f) An obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the sale of the property, whichever occurs first, notwithstanding the fact that the information and forms required under this section or any other disclosures required under this chapter have not been delivered to the obligor, except that if (1) any agency empowered to enforce the provisions of this title institutes a proceeding to enforce the provi- sions of this section within three years after the date of consuma- tion of the transaction, (2) such agency finds a violation of section 125, and (3) the obligor's right to rescind is based in whole or in part on any matter involved in such proceeding, then the obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the earlier sale of the property, or upon the expiration of one year following the conclusion of the proceeding, or any judicial review or period for judicial review thereof, whichever is later.
+		"(g) In any action in which it is determined that a creditor has violated this section, in addition to rescission the court may award relief under section 130 for violations of this title not relating to the right to rescind.".
+	(b) Section 103 of the Truth in Lending Act (15 U.S.C. 1602) is amended by inserting after subsection (u) the following:
+		"(v) The term 'dwelling' means a residential structure or mobile home which contains one to four family housing units, or individual units of condominiums or cooperatives.
+		"(w) The term 'residential mortgage transaction' means a transac- tion in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against the con- sumer's dwelling to finance the acquisition or initial construction of such dwelling.".
+											OPEN END DISCLOSURES
+	Dwelling."
+"Residential mortgage transaction."
+		Sec. 613. (a) Section 127(a) of the Truth in Lending Act (15 U.S.C. 1637(a)) is amended—

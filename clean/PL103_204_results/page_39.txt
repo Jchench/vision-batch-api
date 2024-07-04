@@ -1,0 +1,33 @@
+PUBLIC LAW 103-204—DEC. 17, 1993 
+
+107 STAT. 2407
+
+SEC. 22. FDIC ASSET DISPOSITION DIVISION. 
+
+(a) IN GENERAL.—Section 1 of the Federal Deposit Insurance Act (12 U.S.C. 1811) is amended— 
+   (1) by striking "SEC. 1. There is hereby created" and inserting the following: 
+
+"SECTION 1. FEDERAL DEPOSIT INSURANCE CORPORATION. 
+
+"(a) ESTABLISHMENT OF CORPORATION.—There is hereby established"; and 
+   (2) by adding at the end the following new subsection: 
+
+"(b) ASSET DISPOSITION DIVISION.— 
+   (1) ESTABLISHMENT.—The Corporation shall have a separate division of asset disposition. 
+   (2) MANAGEMENT.—The division of asset disposition shall have an administrator who shall be appointed by the Board of Directors. 
+   (3) RESPONSIBILITIES OF DIVISION.—The division of asset disposition shall carry out all of the responsibilities of the Corporation under this Act relating to the liquidation of insured depository institutions and the disposition of assets of such institutions.". 
+(b) EFFECTIVE DATE.—The amendments made by subsection (a) shall become effective on July 1, 1995. 
+
+SEC. 23. PRESIDENTIALLY APPOINTED INSPECTOR GENERAL FOR FDIC. 
+
+(a) AMENDMENTS TO THE INSPECTOR GENERAL ACT OF 1978.—The Inspector General Act of 1978 (5 U.S.C. App.) is amended— 
+   (1) in section 11— 
+       (A) in paragraph (1), by striking "the chief executive officer of the Resolution Trust Corporation," and inserting "the chief executive officer of the Resolution Trust Corporation; and the Chairperson of the Federal Deposit Insurance Corporation"; and 
+       (B) in paragraph (2), by inserting "the Federal Deposit Insurance Corporation," after "Resolution Trust Corporation,"; 
+   (2) by inserting after section 8B the following new section: 
+
+"SEC. 8C. SPECIAL PROVISIONS CONCERNING THE FEDERAL DEPOSIT INSURANCE CORPORATION. 
+
+"(a) DELEGATION.—The Chairperson of the Federal Deposit Insurance Corporation may delegate the authority specified in the second sentence of section 3(a) to the Vice Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation, but may not delegate such authority to any other officer or employee of the Corporation. 
+
+"(b) PERSONNEL.—Notwithstanding paragraphs (7) and (8) of section 6(a), the Inspector General of the Federal Deposit Insurance Corporation may select, appoint, and employ such officers and employees as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General and to obtain the temporary or intermittent services of experts or consultants or an organization of experts or consultants, subject to the applicable laws and regulations that govern such selections, appointments, and employment, and the obtaining of such services, within the Federal Deposit Insurance Corporation.".

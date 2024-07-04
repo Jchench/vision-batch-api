@@ -1,0 +1,32 @@
+117 STAT. 1178          PUBLIC LAW 108–100—OCT. 28, 2003
+
+(B) directed that the exercise of such authority by the Board superseded any State law, including the Uniform Commercial Code, as in effect in any State.
+(3) Check truncation is no less desirable in 2003 for both financial service customers and the financial services industry to reduce costs, improve efficiency in check collections, and expedite funds availability for customers than it was over 15 years ago when Congress first directed the Board to consider establishing such a process.
+(b) PURPOSES.—The purposes of this Act are as follows:
+(1) To facilitate check truncation by authorizing substitute checks.
+(2) To foster innovation in the check collection system without mandating receipt of checks in electronic form.
+(3) To improve the overall efficiency of the Nation’s payments system.
+
+12 USC 5002.                            SEC. 3. DEFINITIONS.
+
+For purposes of this Act, the following definitions shall apply:
+(1) ACCOUNT.—The term ‘‘account’’ means a deposit account at a bank.
+(2) BANK.—The term ‘‘bank’’ means any person that is located in a State and engaged in the business of banking and includes—
+(A) any depository institution (as defined in section 19(b)(1)(A) of the Federal Reserve Act);
+(B) any Federal reserve bank;
+(C) any Federal home loan bank; or
+(D) to the extent it acts as a payor—
+(i) the Treasury of the United States;
+(ii) the United States Postal Service;
+(iii) a State government; or
+(iv) a unit of general local government (as defined in section 602(24) of the Expedited Funds Availability Act).
+
+(3) BANKING TERMS.—
+(A) COLLECTING BANK.—The term ‘‘collecting bank’’ means any bank handling a check for collection except the paying bank.
+(B) DEPOSITARY BANK.—The term ‘‘depositary bank’’ means—
+(i) the first bank to which a check is transferred, even if such bank is also the paying bank or the payee; or
+(ii) a bank to which a check is transferred for deposit in an account at such bank, even if the check is physically received and indorsed first by another bank.
+(C) PAYING BANK.—The term ‘‘paying bank’’ means—
+(i) the bank by which a check is payable, unless the check is payable at or through another bank and is sent to the other bank for payment or collection; or 
+(ii) the bank at or through which a check is payable and to which the check is sent for payment or collection.
+(D) RETURNING BANK.—

@@ -1,0 +1,32 @@
+94 STAT. 148			PUBLIC LAW 96-221—MAR. 31, 1980
+
+National Housing Act (12 U.S.C. 1724(d)), where the appointment of a conservator, receiver, or other legal custodian as set forth in that section became effective prior to the effective date of this section.
+	(c)(1) The second sentence of section 207(c) of the Federal Credit Union Act (12 U.S.C. 1787(c)) is amended by striking out “$40,000” and inserting in lieu thereof “$100,000”.
+	(2) The amendment made by this subsection is not applicable to any claim arising out of the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section.
+	(d) Section 7(d) of the Federal Deposit Insurance Act (12 U.S.C. 1817(d)) is amended—
+	(1) in the first sentence—
+		(A) by inserting “(1)” after “(d)”,
+		(B) by striking out “December 31, 1961” and inserting in lieu thereof “December 31, 1980”; and
+		(C) by striking out “33⅓ per centum” and inserting in lieu thereof “40 per centum”; and
+	(2) by adding at the end thereof the following new paragraph:
+		“(2) Notwithstanding any other provision of this subsection—
+			“(A) whenever the Board of Directors determines that the ratio of the Corporation’s capital account to the estimated insured deposits is less than 1.10 per centum, the Board of Directors shall increase the per centum of net assessment income to be transferred to the Corporation’s capital account by such an amount, but not to exceed 50 per centum, as it determines will result in maintaining that ratio at not less than 1.10 per centum;
+			“(B) whenever the Board of Directors determines that the ratio of the Corporation’s capital account to the estimated insured deposits exceeds 1.25 per centum, the Board of Directors may reduce the per centum of net assessment income to be transferred to the Corporation’s capital account by such an amount as it determines will result in maintaining such ratio at not less than 1.25 per centum; and
+			“(C) whenever the Board of Directors determines that the ratio of the Corporation’s capital account to the estimated insured deposits exceeds 1.40 per centum, the Board of Directors shall reduce the per centum of net assessment income to be transferred to the Corporation’s capital account by such an amount as it determines will result in maintaining that ratio at not more than 1.40 per centum.’”.
+
+Effective date.
+12 USC 1817
+note.
+
+	(e) The amendments made by this section shall take effect on the date of enactment of this Act.	
+
+					CREDIT UNION AMENDMENTS
+
+12 USC 1757.
+
+	Sec. 309. (a) The Federal Credit Union Act is amended—
+		(1) in section 107(5)(A)(i)—
+			(A) by inserting “, including an individual cooperative unit,’” immediately following  “dwelling”; and
+			(B) by inserting “(except that a loan on an individual cooperative unit shall be adequately secured as defined by the Board)” after “thirty years”;
+12 USC 1795d.
+		(2) by striking out section 305(b)(3) and inserting in lieu thereof the following:

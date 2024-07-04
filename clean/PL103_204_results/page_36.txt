@@ -1,0 +1,22 @@
+107 STAT. 2404            PUBLIC LAW 103-204—DEC. 17, 1993
+
+(E) PROHIBITION REQUIRED IN CERTAIN CASES.—The standards established under subparagraph (A) shall require the Corporation to prohibit any person who has—
+"(i) been convicted of any felony;
+"(ii) been removed from, or prohibited from participating in the affairs of, any insured depository institution pursuant to any final enforcement action by any appropriate Federal banking agency;
+"(iii) demonstrated a pattern or practice of defalcation regarding obligations to insured depository institutions; or
+"(iv) caused a substantial loss to Federal deposit insurance funds;
+from performing any service on behalf of the Corporation.
+        "(5) ABROGATION OF CONTRACTS.—The Corporation may rescind any contract with a person who—
+        "(A) fails to disclose a material fact to the Corporation;
+        "(B) would be prohibited under paragraph (6) from providing services to, receiving fees from, or contracting with the Corporation; or
+        "(C) has been subject to a final enforcement action by any Federal banking agency.
+    "(6) PRIORITY OF FDIC RULES.—To the extent that the regulations under this subsection conflict with rules of other agencies or Government corporations, officers, directors, employees, and independent contractors of the Corporation who are also subject to the conflict of interest or ethical rules of another agency or Government corporation, shall be governed by the regulations prescribed by the Board of Directors under this subsection when acting for or on behalf of the Corporation. Notwithstanding the preceding sentence, the rules of the Corporation shall not take priority over the ethics and conflict of interest rules and regulations promulgated by the Office of Government Ethics unless specifically authorized by that Office.".
+(b) AMENDMENTS TO DEFINITIONS.—
+    (1) FEDERAL BANKING AGENCY.—Section 3(z) of the Federal Deposit Insurance Act (12 U.S.C. 1813(z)) is amended to read as follows:
+    "(z) FEDERAL BANKING AGENCY.—The term 'Federal banking agency' means the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation.".
+    (2) COMPANY.—Section 3(w) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)) is amended by adding at the end the following new paragraph:
+    "(7) COMPANY.—The term 'company' has the same meaning as in section 2(b) of the Bank Holding Company Act of 1956.".
+(c) EFFECTIVE DATE.—The amendment made by subsection (a) shall apply after the end of the 6-month period beginning on the date of enactment of this Act.
+
+SEC. 20. RESTRICTIONS ON SALES OF ASSETS TO CERTAIN PERSONS.
+    (a) IN GENERAL.—Section 11(p) of the Federal Deposit Insurance Act (12 U.S.C 1821(p)) is amended—

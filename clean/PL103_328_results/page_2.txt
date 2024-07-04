@@ -1,0 +1,18 @@
+PUBLIC LAW 103-328—SEPT. 29, 1994   108 STAT. 2339
+
+TITLE I—INTERSTATE BANKING AND BRANCHING
+
+SEC. 101. INTERSTATE BANKING.
+(a) IN GENERAL.—Section 3(d) of the Bank Holding Company Act of 1956 (12 U.S.C. 1842(d)) is amended to read as follows:
+"(d) INTERSTATE BANKING.—
+"(1) APPROVALS AUTHORIZED.—
+"(A) ACQUISITION OF BANKS.—The Board may approve an application under this section by a bank holding company that is adequately capitalized and adequately managed to acquire control of, or acquire all or substantially all of the assets of, a bank located in a State other than the home State of such bank holding company, without regard to whether such transaction is prohibited under the law of any State.
+"(B) PRESERVATION OF STATE AGE LAWS.—
+"(i) IN GENERAL.—Notwithstanding subparagraph (A), the Board may not approve an application pursuant to such subparagraph that would have the effect of permitting an out-of-State bank holding company to acquire a bank in a host State that has not been in existence for the minimum period of time, if any, specified in the statutory law of the host State.
+"(ii) SPECIAL RULE FOR STATE AGE LAWS SPECIFYING A PERIOD OF MORE THAN 5 YEARS.—Notwithstanding clause (i), the Board may approve, pursuant to subparagraph (A), the acquisition of a bank that has been in existence for at least 5 years without regard to any longer minimum period of time specified in the statutory law of the host State.
+"(C) SHELL BANKS.—For purposes of this subsection, a bank that has been chartered solely for the purpose of, and does not open for business prior to, acquiring control of, or acquiring all or substantially all of the assets of, an existing bank shall be deemed to have been in existence for the same period of time as the bank to be acquired.
+"(D) EFFECT ON STATE CONTINGENCY LAWS.—No provision of this subsection shall be construed as affecting the applicability of a State law that makes an acquisition of a bank contingent upon a requirement to hold a portion of such bank's assets available for call by a State-sponsored housing entity established pursuant to State law, if—
+    "(i) the State law does not have the effect of discriminating against out-of-State banks, out-of-State bank holding companies, or subsidiaries of such banks or bank holding companies;
+    "(ii) that State law was in effect as of the date of enactment of the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994;
+    "(iii) the Federal Deposit Insurance Corporation has not determined that compliance with such State law would result in an unacceptable risk to the appropriate deposit insurance fund; and
+    "(iv) the appropriate Federal banking agency for such bank has not found that compliance with such

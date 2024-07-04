@@ -1,0 +1,73 @@
+31
+
+Page. Section.
+
+FEDERAL RESERVE CITIES
+  Number .............................................................. 1 2
+  Designated by ..................................................... 1 2
+  How determined .................................................. 1 2
+  Subject to review by ............................................ 1 2
+FEDERAL RESERVE DISTRICTS
+  Number .............................................................. 1 2
+  Designated by number .......................................... 1 2
+  How changed ..................................................... 1 2
+  Reviewed by ........................................................ 1 2
+FEDERAL RESERVE NOTES
+  How issued .......................................................... 17 16
+  Term and effect .................................................... 17 16
+  Reserve against, held by banks ................................ 17 16
+  Redemption of ..................................................... 17 16
+  Withdrawal of collateral security for ....................... 18 16
+  How printed ......................................................... 18 16
+  Where deposited ................................................. 19 16
+  Denominations ..................................................... 18 16
+  Delivered to Federal Reserve Agent ........................ 19 16
+  Appropriation for ................................................ 19 16
+  Expenses of issue, how paid .................................. 19 16
+FOREIGN BRANCHES
+  National banks may establish when ........................ 26 25
+  Regulations to be prescribed by Federal Reserve Board ... 26 25
+  May be required to act as fiscal agents of United States ...... 26 25
+ 
+G.
+
+GOLD RESERVE
+  Secretary to maintain ........................................... 26 26
+GOVERNMENT DEPOSITS
+  May be made with Federal Reserve Banks ............... 16 15
+  With Member Banks ............................................ 16 15
+
+I.
+
+INCONSISTENT LAWS REPEALED ............................................... 26 26
+
+L.
+
+LOANS ON FARM LANDS
+  Member banks not in reserve cities may make ............. 25 24
+  Federal Reserve Board may extend list ................... 25 24
+  Amount and time of such loans ................................. 25 24
+
+N.
+
+NATIONAL BANK.
+  Definition ............................................................ 1 1
+  Limitation of liabilities extended to include debts due Federal
+  Reserve Banks ................................................... 15 13
+  Need not deposit U.S. Government bonds before commencing
+  business ............................................................... 20 17
+  Reduction of Capital Stock, how affected ................... 27 28
+NOTE ISSUE
+  See Federal Reserve Notes
+
+O.
+
+ORGANIZATION COMMITTEE
+  See Reserve Bank Organization Committee.
+
+P.
+
+PENALTY
+  For failure to signify acceptance of provisions of this act ....... 2 2
+  For violating provisions .......................................... 2 2
+  For violating provisions by State Bank Members ......... 10 9

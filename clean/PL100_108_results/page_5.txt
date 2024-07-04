@@ -1,0 +1,19 @@
+PUBLIC LAW 108-100—OCT. 28, 2003
+
+previous reconverting bank identifications in conformance with gen- erally applicable industry standards.
+‘‘(c) APPLICABLE LAW.—A substitute check that is the legal equivalent of the original check under subsection (b) shall be subject to any provision, including any provision relating to the protections of customers, of part 229 of title 12 of the Code of Federal Regula- tions, the Uniform Commercial Code, and any other applicable Federal or State law as if such substitute check were the original check, to the extent such provision of law is not inconsistent with this Act.
+SEC. 5. SUBSTITUTE CHECK WARRANTIES.
+A bank that transfers, presents, or returns a substitute check and receives consideration for the check warrants, as a matter of law, to the transferee, any subsequent collecting or returning bank, the depositary bank, the drawee, the drawer, the payee, the depositor, and any endorser (regardless of whether the war- rantee receives the substitute check or another paper or electronic form of the substitute check or original check) that—
+(1) the substitute check meets all the requirements for legal equivalence under section 4(b); and 
+(2) no depositary bank, drawee, drawer, or endorser will receive presentment or return of the substitute check, the original check, a copy or other paper or electronic version of the substitute check or original check such that the bank, drawee, drawer, or endorser will be asked to make a payment based on a check that the bank, drawee, drawer, or endorser has already paid.
+
+SEC. 6. INDEMNITY.
+(a) INDEMNITY.—A reconverting bank and each bank that subse- quently transfers, presents, or returns a substitute check in any electronic or paper form, and receives consideration for such transfer, presentment, or return shall indemnify the transferee, any subsequent collecting or returning bank, the depositary bank, the drawee, the drawer, the payee, the depositor, and any endorser, up to the amount described in subsections (b) and (c), as applicable, to the extent of any loss incurred by any recipient of a substitute check if that loss occurred due to the receipt of a substitute check instead of the original check.
+(b) INDEMNITY AMOUNT.—
+(1) AMOUNT IN EVENT OF BREACH OF WARRANTY.—The amount of the indemnity under subsection (a) shall be the amount of any loss (including costs and reasonable attorney’s fees and other expenses of representation) proximately caused by a breach of a warranty provided under section 5.
+(2) AMOUNT IN ABSENCE OF BREACH OF WARRANTY.—In the absence of a breach of a warranty provided under section 5, the amount of the indemnity under subsection (a) shall be the sum of—
+(A) the amount of any loss, up to the amount of the substitute check; and
+(B) interest and expenses (including costs and reason- able attorney’s fees and other expenses of representation).
+
+(c) COMPARATIVE NEGLIGENCE.—
+(1) IN GENERAL.—If a loss described in subsection (a) results in whole or in part from the negligence or failure to act in good faith on the part of an indemnified party, then that

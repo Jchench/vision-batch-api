@@ -1,0 +1,32 @@
+94 STAT. 182
+
+PUBLIC LAW 96-221-MAR. 31, 1980
+
+LIABILITY OF ASSIGNEES
+
+Sec. 616. (a) Section 131 of the Truth in Lending Act (15 U.S.C. 1641) is amended to read as follows:
+“§ 131. Liability of assignees
+“(a) Except as otherwise specifically provided in this title, any civil action for a violation of this title or proceeding under section 108
+which may be brought against a creditor may be maintained against any assignee of such creditor only if the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement, except where the assignment was involuntary.
+For the purpose of this section, a violation apparent on the face of the disclosure statement includes, but is not limited to (1) a disclosure which can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned, or (2) a disclosure which does not use the terms required to be used by this title.
+Ante, p. 176.
+“(b) Except as provided in section 125(c), in any action or proceeding by or against any subsequent assignee of the original creditor without knowledge to the contrary by the assignee when he acquires the obligation, written acknowledgement of receipt by a person to whom a statement is required to be given pursuant to this title shall be conclusive proof of the delivery thereof and, except as provided in subsection (a), of compliance with this chapter. This section does not affect the rights of the obligor in any action against the original creditor.
+15 USC 1635.
+“(c) Any consumer who has the right to rescind a transaction under section 125 may rescind the transaction as against any assignee of the obligation.”.
+(b) Section 115 of the Truth in Lending Act (15 U.S.C. 1614) is hereby repealed.
+Repeal.
+(c)(1) The table of sections at the beginning of chapter 1 of the Truth in Lending Act is amended by striking out the item relating to section 115 and inserting in lieu thereof the following:
+“115. [Repealed].”.
+
+(2) The table of sections at the beginning of chapter 2 of the Truth in Lending Act is amended by striking out the item relating to section 131 and inserting in lieu thereof the following:
+“131. Liability of assignees.”.
+
+LIABILITY OF CREDIT CARDHOLDER
+
+Sec. 617. Section 133(a) of the Truth in Lending Act (15 U.S.C. 1643(a)) is amended to read as follows:
+“(a)(1) A cardholder shall be liable for the unauthorized use of a credit card only if—
+“(A) the card is an accepted credit card;
+“(B) the liability is not in excess of $50;
+“(C) the card issuer gives adequate notice to the cardholder of the potential liability;
+“(D) the card issuer has provided the cardholder with a description of a means by which the card issuer may be notified of loss or theft of the card, which description may be provided on the face or reverse side of the statement required by section 127(b) or on a separate notice accompanying such statement;
+“(E) the unauthorized use occurs before the card issuer has been notified that an unauthorized use of the credit card has

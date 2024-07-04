@@ -1,0 +1,21 @@
+91 STAT. 880      PUBLIC LAW 95-109—SEPT. 20, 1977
+
+“(4) a statement that if the consumer notifies the debt collector in writing within the thirty-day period that the debt, or any portion thereof, is disputed, the debt collector will obtain verification of the debt or a copy of a judgment against the consumer and a copy of such verification or judgment will be mailed to the consumer by the debt collector; and 
+“(5) a statement that, upon the consumer’s written request within the thirty-day period, the debt collector will provide the consumer with the name and address of the original creditor, if different from the current creditor. 
+“(b) If the consumer notifies the debt collector in writing within the thirty-day period described in subsection (a) that the debt, or any portion thereof, is disputed, or that the consumer requests the name and address of the original creditor, the debt collector shall cease collection of the debt, or any disputed portion thereof, until the debt collector obtains verification of the debt or a copy of a judgment, or the name and address of the original creditor, and a copy of such verification or judgment, or name and address of the original creditor, is mailed to the consumer by the debt collector. 
+“(c) The failure of a consumer to dispute the validity of a debt under this section may not be construed by any court as an admission of liability by the consumer.
+
+15 USC 1692h. $810. Multiple debts 
+“If any consumer owes multiple debts and makes any single payment to any debt collector with respect to such debts, such debt collector may not apply such payment to any debt which is disputed by the consumer and, where applicable, shall apply such payment in accordance with the consumer’s directions.
+
+15 USC 1692i. $811. Legal actions by debt collectors 
+“(a) Any debt collector who brings any legal action on a debt against any consumer shall— 
+“(1) in the case of an action to enforce an interest in real property securing the consumer’s obligation, bring such action only in a judicial district or similar legal entity in which such real property is located; or 
+“(2) in the case of an action not described in paragraph (1), bring such action only in the judicial district or similar legal entity— 
+“(A) in which such consumer signed the contract sued upon; or 
+“(B) in which such consumer resides at the commencement of the action. 
+“(b) Nothing in this title shall be construed to authorize the bringing of legal actions by debt collectors.
+
+15 USC 1692j. $812. Furnishing certain deceptive forms 
+“(a) It is unlawful to design, compile, and furnish any form knowing that such form would be used to create the false belief in a consumer that a person other than the creditor of such consumer is participating in the collection of or in an attempt to collect a debt such consumer allegedly owes such creditor, when in fact such person is not so participating. 
+“(b) Any person who violates this section shall be liable to the same extent and in the same manner as a debt collector is liable under section 813 for failure to comply with a provision of this title.

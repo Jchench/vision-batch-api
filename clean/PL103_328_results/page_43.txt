@@ -1,0 +1,24 @@
+108 STAT. 2380       PUBLIC LAW 103-328--SEPT. 29, 1994
+
+     (A) shall consist of not less than 9 nor more than 14 members appointed by the Secretary from among individuals--
+       (i) who are--
+         (I) users of the financial services system; or
+         (II) experts in finance or on the financial services system; and
+       (ii) who are not employees of the Federal Government; and
+     (B) shall include representatives of business, agriculture, and consumers.
+(3) CHAIRPERSON.--The Secretary or the Secretary's designee shall serve as Chairperson of the Advisory Commission.
+(4) TRAVEL EXPENSES.--Members of the Advisory Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in performing services for the Advisory Commission.
+(5) TERMINATION.--The Advisory Commission shall terminate 30 days after the date of submission of the report required under subsection (d).
+(c) RECOMMENDATIONS.--Based on the results of the study conducted under subsection (a), the Secretary shall develop such recommendations as may be appropriate for changes in statutes, regulations, and policies to improve the operation of the financial services system, including changes to better--
+     (1) meet the needs of, and assure access to the system for, current and potential users;
+     (2) promote economic growth;
+     (3) protect consumers;
+     (4) promote competition and efficiency;
+     (5) avoid risk to the taxpayers;
+     (6) control systemic risk; and
+     (7) eliminate discrimination.
+(d) REPORT.--Not later than 15 months after the date of enactment of this Act, the Secretary shall submit to the President pro tempore of the Senate and the Speaker of the House of Representatives a report describing the study conducted under subsection (a) and any recommendations developed under subsection (c).
+
+SEC. 211. FLEXIBILITY IN CHOOSING BOARDS OF DIRECTORS.
+
+(a) IN GENERAL.--Section 5146 of the Revised Statutes (12 U.S.C. 72) is amended in the 1st sentence, by striking "two thirds" and inserting "a majority"

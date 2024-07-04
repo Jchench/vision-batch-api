@@ -1,0 +1,24 @@
+117 STAT. 1182         PUBLIC LAW 108–100—OCT. 28, 2003
+
+party’s indemnification under this section shall be reduced in proportion to the amount of negligence or bad faith attributable to that party.
+(2) RULE OF CONSTRUCTION.—Nothing in this subsection reduces the rights of a consumer or any other person under the Uniform Commercial Code or other applicable provision of Federal or State law.
+(d) EFFECT OF PRODUCING ORIGINAL CHECK OR COPY.—
+(1) IN GENERAL.—If the indemnifying bank produces the original check or a copy of the original check (including an image or a substitute check) that accurately represents all of the information on the front and back of the original check (as of the time the original check was truncated) or is otherwise sufficient to determine whether or not a claim is valid, the indemnifying bank shall—
+(A) be liable under this section only for losses covered by the indemnity that are incurred up to the time that the original check or copy is provided to the indemnified party; and
+(B) have a right to the return of any funds it has paid under the indemnity in excess of those losses.
+(2) COORDINATION OF INDEMNITY WITH IMPLIED WARRANTY.—The production of the original check, a substitute check, or a copy under paragraph (1) by an indemnifying bank shall not absolve the bank from any liability on a warranty established under this Act or any other provision of law.
+(e) SUBROGATION OF RIGHTS.—
+(1) IN GENERAL.—Each indemnifying bank shall be subrogated to the rights of any indemnified party to the extent of the indemnity.
+(2) RECOVERY UNDER WARRANTY.—A bank that indemnifies a party under this section may attempt to recover from another party based on a warranty or other claim.
+(3) DUTY OF INDEMNIFIED PARTY.—Each indemnified party shall have a duty to comply with all reasonable requests for assistance from an indemnifying bank in connection with any claim the indemnifying bank brings against a warrantor or other party related to a check that forms the basis for the indemnification.
+
+SEC. 7. EXPEDITED RECREDIT FOR CONSUMERS.
+
+(a) RECREDIT CLAIMS.—
+(1) IN GENERAL.—A consumer may make a claim for expedited recredit from the bank that holds the account of the consumer with respect to a substitute check, if the consumer asserts in good faith that—
+(A) the bank charged the consumer’s account for a substitute check that was provided to the consumer;
+(B) either—
+(i) the check was not properly charged to the consumer’s account; or
+(ii) the consumer has a warranty claim with respect to such substitute check;
+(C) the consumer suffered a resulting loss; and
+(D) the production of the original check or a better copy of the original check is necessary to determine the validity of any claim described in subparagraph (B).

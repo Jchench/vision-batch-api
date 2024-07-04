@@ -1,0 +1,25 @@
+PUBLIC LAW 103-204—DEC. 17, 1993 107 STAT. 2413
+
+on or after the date which is 45 days after the date of enactment of this subsection." SEC. 31. RTC CONTRACTING.
+ 
+Section 21A of the Federal Home Loan Bank Act (12 U.S.C.  I44Ia) is amended by adding after subsection (y) (as added by section 30 of this Act) the following new subsection: 
+
+"(z) ADDITIONAL CONTRACTING REQUIREMENTS.— 
+
+"(1) IN GENERAL.—No person shall execute, on behalf of the Corporation, any contract, or modification to a contract, for goods or services exceeding $100,000 in value unless the person executing the contract or modification states in writing that— 
+"(A) the contract or modification is for a fixed price, the person has received a written cost estimate for the contract or modification, or a cost estimate cannot be obtained as a practical matter with an explanation of why such a cost estimate cannot be obtained as a practical matter; 
+"(B) the person has received the written statement described in paragraph (2); and
+"(C) the person is satisfied that the contract or modification to be executed has been approved by a person legally authorized to do so pursuant to a written delegation of authority.
+ 
+"(2) WRITTEN DELEGATION OF AUTHORITY.—A person who authorizes a contract, or a modification to a contract, involving the Corporation for goods or services exceeding $100,000 in value shall state, in writing, that he or she has been delegated the authority, pursuant to a written delegation of authority, to authorize that contract or modification. 
+
+"(3) EFFECT OF FAILURE TO COMPLY.—The failure of any person executing a contract, or a modification of a contract, on behalf of the Corporation, or authorizing such a contract or modification of a contract, to comply with the requirements of this subsection shall not void, or serve as grounds to void or rescind, any otherwise properly executed contract."
+
+SEC. 32. DEFINITION OF PROPERTY.
+
+(a) Section 9102(e) of the Department of Defense Appropriations Act, 1990 (16 U.S.C. 396f note) is amended by striking "real, personal," and inserting "real, personal (including intangible assets sold or offered by the Federal Deposit Insurance Corporation or the Resolution Trust Corporation, such as financial instruments, notes, loans, and bonds),". 
+(b) Section 12(b)(7)(ii) of Public Law 94-204 (43 U.S.C. 1611 note) is amended by striking "real, personal," and inserting "real; personal (including intangible assets sold or offered by the Federal Deposit Insurance Corporation or the Resolution Trust Corporation, such as financial instruments, notes, loans, and bonds),".
+
+SEC. 33. SENSE OF THE CONGRESS RELATING TO PARTICIPATION OF DISABLED AMERICANS IN CONTRACTING FOR DELIVERY OF SERVICES TO FINANCIAL INSTITUTION REGULATORY AGENCIES. 
+ 
+(a) FINDINGS.—The Congress finds that Congress, in adopting the Americans with Disabilities Act of 1990, specifically found that—

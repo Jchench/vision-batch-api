@@ -1,0 +1,22 @@
+108 STAT. 2366
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+(c) DEFINITIONS.—For purposes of this section, the terms "appropriate Federal banking agency" and "insured depository institution" have the same meanings as in section 3 of the Federal Deposit Insurance Act.
+
+SEC. 113. MAXIMUM INTEREST RATE ON CERTAIN FMHA LOANS.
+(a) IN GENERAL.—Section 307(a) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1927(a)) is amended—
+(1) in paragraph (3)(A), by striking "Except" and inserting "Notwithstanding the provisions of the constitution or laws of any State limiting the rate or amount of interest that may be charged, taken, received, or reserved, except"; and
+(2) in paragraph (5)—
+(A) by striking "(5) The" and inserting "(5)(A) Except as provided in subparagraph (B), the"; and
+(B) by adding at the end the following new subparagraph:
+"(B) In the case of a loan made under section 310B as a guaranteed loan, subparagraph (A) shall apply notwithstanding the provisions of the constitution or laws of any State limiting the rate or amount of interest that may be charged, taken, received, or reserved.".
+7 USC 1927 note.
+(b) EFFECTIVE DATES.—
+(1) IN GENERAL.—Except as provided in paragraphs (2) and (3), the amendments made by subsection (a) shall apply to a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) in a State on or after the date of enactment of this Act.
+(2) STATE OPTION.—Except as provided in paragraph (3), the amendments made by subsection (a) shall not apply to a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act in a State after the date (that occurs during the 3-year period beginning on the date of enactment of this Act) on which the State adopts a law or certifies that the voters of the State have voted in favor of a provision of the constitution or law of the State that states that the State does not want the amendments made by subsection (a) to apply with respect to loans made, insured, or guaranteed under such Act in the State.
+(3) TRANSITIONAL PERIOD.—In any case in which a State takes an action described in paragraph (2), the amendments made by subsection (a) shall continue to apply to a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act in the State after the date the action was taken pursuant to a commitment for the loan that was entered into during the period beginning on the date of enactment of this Act, and ending on the date on which the State takes the action.
+
+SEC. 114. NOTICE REQUIREMENTS FOR BANKING AGENCY DECISIONS PREEMPTING STATE LAW.
+Chapter 4 of title LXII of the Revised Statutes (12 U.S.C.
+21 et seq.) is amended by adding at the end the following new section:

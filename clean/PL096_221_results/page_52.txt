@@ -1,0 +1,29 @@
+PUBLIC LAW 96-221—MAR. 31, 1980	94 STAT. 183
+
+occurred or may occur as the result of loss, theft, or otherwise;
+and
+	“(F) the card issuer has provided a method whereby the user of such card can be identified as the person authorized to use it.
+	“(2) For purposes of this section, a card issuer has been notified when such steps as may be reasonably required in the ordinary course of business to provide the card issuer with the pertinent information have been taken, whether or not any particular officer, employee, or agent of the card issuer does in fact receive such information.”.
+
+
+DISSEMINATION OF ANNUAL PERCENTAGE RATES
+
+Sec. 618.  (a) Chapter 2 of the Truth in Lending Act (15 U.S.C. 1631 et seq.) is amended by adding at the end thereof the following new section:
+“§ 136. Dissemination of annual percentage rates
+	“(a) The Board shall collect, publish, and disseminate to the public, on a demonstration basis in a number of standard metropolitan statistical areas to be determined by the Board, the annual percentage rates charged for representative types of nonsale credit by creditors in such areas. For the purpose of this section, the Board is authorized to require creditors in such areas to furnish information necessary for the Board to collect, publish, and disseminate such information.
+	“(b) The Board is authorized to enter into contracts or other arrangements with appropriate persons, organizations, or State agencies to carry out its functions under subsection (a) and to furnish financial assistance in support thereof.”
+	(b) The table of sections contained at the beginning of such chapter is amended by adding at the end thereof the following new item:
+	“136. Dissemination of annual percentage rates.”. 
+
+	CREDIT ADVERTISING
+
+Sec. 619. (a) Section 143 of the Truth in Lending Act (15 U.S.C. 1662) is amended to read as follows:
+ 	“§ 143. Advertising of open end credit plans
+	“No advertisement to aid, promote, or assist directly or indirectly the extension of consumer credit under an open end credit plan may set forth any of the specific terms of that plan unless it also clearly and conspicuously sets forth all of the following items:
+		“(1) Any minimum or fixed amount which could be imposed.
+		“(2) In any case in which periodic rates may be used to compute the finance charge, the periodic rates expressed as annual percentage rates.
+		“(3) Any other term that the Board may by regulation require to be disclosed.”.
+	(b) Section 144(d) of the Truth in Lending Act (15 U.S.C. 1664) is amended by striking out paragraphs (1) through (4) thereof, and inserting in lieu thereof the following:
+	“(1) The downpayment, if any.
+	“(2) The terms of repayment.
+	“(3) The rate of the finance charge expressed as an annual percentage rate.”

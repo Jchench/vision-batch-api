@@ -1,0 +1,33 @@
+94 STAT. 190           PUBLIC LAW 96-221—MAR. 31, 1980
+
+“(B) Subparagraph (A) shall not apply with respect to the acquisition of shares or assets of, or interests in, a trust company if such acquisition was approved by the Board on or before March 5, 1980, and if such trust company opened for business and was operating on or before March 5, 1980.
+
+“Trust company.”
+
+“(C) For the purpose of this paragraph, the term ‘trust company’ means any company whose powers are limited to the powers specified in subsection (a) of the first section of the Act entitled ‘An Act to place authority over the trust powers of national banks in the Comptroller of the Currency’, approved September 28, 1962 (12 U.S.C. 92a), for a national bank located in the same State in which such trust company is located.”.
+
+Termination date.
+
+(c) The amendments made by this section are hereby repealed on October 1, 1981.
+
+LOANS FOR THE FORMATION OF A ONE-BANK HOLDING COMPANY
+
+SEC. 713. Section 3(c) of the Bank Holding Company Act of 1956 (12 U.S.C. 1842(c)) is amended by adding at the end thereof the following: “Notwithstanding any other provision of law, the Board shall not follow any practice or policy in the consideration of any application for the formation of a one-bank holding company if following such practice or policy would result in the rejection of such application solely because the transaction to form such one-bank holding company involves a bank stock loan which is for a period of not more than twenty-five years. The previous sentence shall not be construed to prohibit the Board from rejecting any application solely because the other financial arrangements are considered unsatisfactory. The Board shall consider transactions involving bank stock loans for the formation of a one-bank holding company having a maturity of twelve years or more on a case by case basis and no such transaction shall be approved if the Board believes the safety or soundness of the bank may be jeopardized.”.
+
+PART B—TERMINATION OF NATIONAL BANK CLOSED RECEIVERSHIP FUND
+
+PURPOSE
+
+12 USC 191 note.
+
+SEC. 721. The purpose of this part is to terminate the closed receivership fund by—
+(1) providing final notice of availability of liquidating dividends to creditors of national banks closed on or before January 22, 1934;
+(2) barring rights of creditors to collect liquidating dividends from the Comptroller of the Currency after a reasonable period of time following such final notice; and
+(3) refunding to the Comptroller the principal amount of such fund and any income earned thereon.
+
+DEFINITIONS
+
+12 USC 191 note.
+
+SEC. 722. For purposes of this part—
+(1) the term “closed receivership fund” means the aggregation of undisbursed liquidating dividends from national banks closed on or before January 22, 1934, held by the Comptroller in his capacity as successor to receivers of those banks;

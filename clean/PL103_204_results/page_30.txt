@@ -1,0 +1,31 @@
+107 STAT. 2398        PUBLIC LAW 103-204—DEC. 17, 1993
+
+corporation of a depository institution under conservatorship or receivership, or any claimant against such an institution or subsidiary, because the disposition of assets of the institution or the subsidiary under this subsection affects the amount of return from the assets.”.
+
+(2) FDIC.—Section 40(mX4) of the Federal Deposit Insurance Act (12 U.S.C. 1831q(mX4)) is amended to read as follows:
+
+“(4) CORPORATION.—The Corporation shall not be liable to any depositor, creditor, or shareholder of any insured depository institution for which the Corporation has been appointed receiver or conservator, or of any subsidiary corporation of a depository institution under receivership or conservatorship, or any claimant against such institution or subsidiary, because the disposition of assets of the institution or the subsidiary under this section affects the amount of return from the assets.”.
+
+SEC. 15. RIGHT OF FIRST REFUSAL FOR TENANTS TO PURCHASE SINGLE FAMILY PROPERTY.
+
+(a) RTC.—Section 21A(b) of the Federal Home Loan Bank Act (12 U.S.C. 1441a(b)) is amended by adding after paragraph (14) (as added by section (4) of this Act) the following new paragraph:
+
+“(15) PURCHASE RIGHTS OF TENANTS.—
+
+“(A) NOTICE.—Except as provided in subparagraph (C), the Corporation may make available for sale a 1- to 4- family residence (including a manufactured home) to which the Corporation acquires title only after the Corporation has provided the household residing in the property notice (in writing and mailed to the property) of the availability of such property and the preference afforded such household under subparagraph (B).
+
+“(B) PREFERENCE.—In selling such a property, the Corporation shall give preference to any bona fide offer made by the household residing in the property, if—
+
+“(i) such offer is substantially similar in amount to other offers made within such period (or expected by the Corporation to be made within such period);
+
+“(ii) such offer is made during the period beginning upon the Corporation making such property available and of a reasonable duration, as determined by the Corporation based on the normal period for sale of such properties; and
+
+“(iii) the household making the offer complies with any other requirements applicable to purchasers of such property, including any downpayment and credit requirements.
+
+“(C) EXCEPTIONS.—Subparagraphs (A) and (B) shall not apply to—
+
+“(i) any residence transferred in connection with the transfer of substantially all of the assets of an insured depository institution for which the Corporation has been appointed conservator or receiver;
+
+“(ii) any eligible single family property (as such term is defined in subsection (cX9)); or
+
+“(iii) any residence for which the household occupying the residence was the mortgagor under a mortgage

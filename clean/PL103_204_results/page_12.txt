@@ -1,0 +1,18 @@
+107 STAT. 2380     PUBLIC LAW 103–204—DEC. 17, 1993
+
+poration’s capacity as conservator or receiver of an institution described in paragraph (3)(A) shall be the period determined under subparagraph (C).
+``(ii) CLAIMS DESCRIBED.—A tort claim referred to in clause (i)(I) with respect to an institution described in paragraph (3)(A) is a claim arising from fraud, intentional misconduct resulting in unjust enrichment, or intentional misconduct resulting in substantial loss to the institution.
+``(B) TORT ACTIONS FOR WHICH THE PRIOR LIMITATION HAS NOT RUN.—
+``(i) IN GENERAL.—Notwithstanding section 11(d)(14)(A) of the Federal Deposit Insurance Act, in the case of any tort claim—
+``(I) which is described in clause (ii); and
+``(II) for which the applicable statute of limitations under section 11(d)(14)(A)(ii) of the Federal Deposit Insurance Act has not expired as of the date of enactment of the Resolution Trust Corporation Completion Act;
+the statute of limitations which shall apply to an action brought on such claim by the Corporation in the Corporation’s capacity as conservator or receiver of an institution described in paragraph (3)(A) shall be the period determined under subparagraph (C).
+``(ii) CLAIMS DESCRIBED.—A tort claim referred to in clause (i)(I) with respect to an institution described in paragraph (3)(A) is a claim arising from gross negligence or conduct that demonstrates a greater disregard of a duty of care than gross negligence, including intentional tortious conduct relating to the institution.
+``(C) DETERMINATION OF PERIOD.—The period determined under this subparagraph for any claim to which subparagraph (A) or (B) applies shall be the longer of—
+``(i) the 5-year period beginning on the date the claim accrues (as determined pursuant to section 11(d)(14)(B) of the Federal Deposit Insurance Act); or
+``(ii) the period applicable under State law for such claim.
+``(D) SCOPE OF APPLICATION.—Subparagraphs (A) and (B) shall not apply to any action which is brought after the date of the termination of the Corporation under subsection (m)(1).’’.
+(b) TECHNICAL AND CONFORMING AMENDMENT.—Section 11(d)(14)(A)(ii) of the Federal Deposit Insurance Act (12 U.S.C. 1821(d)(14)(A)(ii)) is amended by inserting ``(other than a claim which is subject to section 21A(b)(14) of the Federal Home Loan Bank Act)’’ after ``any tort claim’’.
+
+SEC. 5. LIMITATION ON BONUSES AND COMPENSATION PAID BY THE RTC AND THE THRIFT DEPOSITOR PROTECTION OVER- SIGHT BOARD.
+(a) IN GENERAL.—Section 21A of the Federal Home Loan Bank Act (12 U.S.C. 1441a) is amended by adding after subsection (w) (as added by section 3(a) of this Act) the following new subsection:

@@ -1,0 +1,18 @@
+PUBLIC LAW 103-204—DEC. 17, 1993              107 STAT. 2391
+
+(2) in subparagraph (G)—
+    (A) by moving subclause (I) two ems to the left and redesignating such subclause as clause (i); and
+    (B) by striking subclause (II) and inserting the following new clause: 
+       "(ii) that has an appraised value that does not exceed—
+             "(I) $67,500 in the case of a 1-family residence, $76,000 in the case of a 2-family residence, $92,000 in the case of a 3-family residence, and $107,000 in the case of a 4-family residence; or
+             "(II) only to the extent or in such amounts as are provided in appropriation Acts for additional costs and losses to the Corporation resulting from this subclause taking effect, the amount provided in section 203 (b)(2)(A) of the National Housing Act, except that such amount shall not exceed $101,250 in the case of a 1-family residence, $114,000 in the case of a 2-family residence, $138,000 in the case of a 3-family residence, and $160,500 in the case of a 4-family residence.".
+                     
+SEC. 13. CHANGES AFFECTING ONLY, FDIC AFFORDABLE HOUSING PROGRAM.
+    Section 40(p) of the Federal Deposit Insurance Act (12 U.S.C. 1831q(p)) is amended in paragraphs (4)(A), (5)(A), and (7)(A), by inserting before ", and" each place it appears the following: "in its corporate capacity, its capacity as conservator, or its capacity as receiver (including in its capacity as the sole owner of a subsidy-ary corporation of a depository institution under conservatorship or receivership, which subsidiary has as its principal business the ownership of real property")".
+
+SEC. 14. CHANGES AFFECTING BOTH RTC AND FDIC AFFORDABLE HOUSING PROGRAMS.
+   (a) NOTICE TO CLEARINGHOUSES REGARDING PROPERTIES NOT INCLUDED IN PROGRAMS.— 
+       (1) RTC.—Section 21A(c) of the Federal Home Loan Bank Act (12 U.S.C. 1441a(c)) is amended by adding at the end the following new paragraph:
+              "(16) NOTICE TO CLEARINGHOUSES REGARDING INELIGIBLE PROPERTIES.—
+                         "(A) IN GENERAL.—Within a reasonable period of time after acquiring title to an ineligible residential property, the Corporation shall, to the extent practicable, provide written notice to clearinghouses.
+                         "(B) CONTENT. —For ineligible single family properties, such notice shall contain the same information about such properties that the notice required under paragraph (2)(A) contains with respect to eligible single family properties. For ineligible multifamily housing properties, such notice shall contain the same information about such properties that the notice required under paragraph (3)(A) contains with respect to eligible multifamily housing properties. For ineligible condominium properties, such notice shall contain the same information about such properties that the notice required under paragraph (14)(A) contains with respect to eligible condominium properties.

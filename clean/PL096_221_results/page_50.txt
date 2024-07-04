@@ -1,0 +1,22 @@
+PUBLIC LAW 96-221—MAR. 31, 1980      94 STAT. 181
+
+to avoid any such error. Examples of a bona fide error include, but are not limited to, clerical, calculation, computer malfunction and programming, and printing errors, except that an error of legal judgment with respect to a person’s obligations under this title is not a bona fide error.
+
+“(d) When there are multiple obligors in a consumer credit transaction or consumer lease, there shall be no more than one recovery of damages under subsection (a)(2) for a violation of this title.”;
+
+(4) in subsection (e), by adding at the end thereof the following new sentence: “This subsection does not bar a person from asserting a violation of this title in an action to collect the debt which was brought more than one year from the date of the occurrence of the violation as a matter of defense by recoupment or set-off in such action, except as otherwise provided by State law.”;
+
+(5) in subsection (f), by inserting “, section 108(b), section 108(c), section 108(e),” after “this section”;
+
+(6) in subsection (g), by adding at the end thereof the following new sentence: “This subsection does not bar any remedy permitted by section 125.”; and
+
+(7) by amending subsection (h) to read as follows:
+
+“(h) A person may not take any action to offset any amount for which a creditor or assignee is potentially liable to such person under subsection (a)(2) against any amount owed by such person, unless the amount of the creditor’s or assignee’s liability under this title has been determined by judgment of a court of competent jurisdiction in an action of which such person was a party. This subsection does not bar a consumer then in default on the obligation from asserting a violation of this title as an original action, or as a defense or counterclaim to an action to collect amounts owed by the consumer brought by a person liable under this title.”.
+
+(b) Section 130(a) of the Truth in Lending Act (15 U.S.C. 1640(a)) is amended—
+
+(1) by inserting “, including any requirement under section 125,” immediately after “this chapter”; and
+
+(2) by adding at the end thereof the following: “In connection with the disclosures referred to in section 127, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 125, section 127(a), or of paragraph (4), (5), (6), (7), (8), (9), or (10) of section 127(b) or for failing to comply with disclosure requirements under State law for any term or item which the Board has determined to be substantially the same in meaning under section 111(a)(2) as any of the terms or items referred to in section 127(a) or any of those paragraphs of section 127(b). In connection with the disclosures referred to in section 128, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 125 or of paragraph (2) (insofar as it requires a disclosure of the ‘amount financed’, (3), (4), (5), (6), or (9) of section 128(a), or for failing to comply with disclosure requirements under State law for any term which the Board has determined to be substantially the same in meaning under
+section 111(a)(2) as any of the terms referred to in any of those paragraphs of section 128(a). With respect to any failure to make disclosures required under this chapter or chapter 4 or 5 of this title, liability shall be imposed only upon the creditor required to make disclosure, except as provided in section 131.”.

@@ -1,0 +1,16 @@
+PUBLIC LAW 103-204—DEC. 17, 1993             107 STAT. 2393
+
+“(III) that is not an eligible single family prop- erty.
+“(iv) INELIGIBLE RESIDENTIAL PROPERTY.—The term ‘ineligible residential property’ includes ineligible sin- gle family properties, ineligible multifamily housing properties, and ineligible condominium properties.”
+(2) FDIC.—Section 40 of the Federal Deposit Insurance Act (12 U.S.C. 1831q) is amended by adding at the end the following new subsection:
+“(q) NOTICE TO CLEARINGHOUSES REGARDING INELIGIBLE PROP- ERTIES.—
+“(1) IN GENERAL.—Within a reasonable period of time after acquiring title to an ineligible residential property, the Corpora- tion shall, to the extent practicable, provide written notice to clearinghouses.
+“(2) CONTENT.—For ineligible single family properties, such notice shall contain the same information about such properties that the notice required under subsection (c)(1) contains with respect to eligible single family properties. For ineligible multi-family housing properties, such notice shall contain the same information about such properties that the notice required under subsection (d)(1) contains with respect to eligible multi-family housing properties. For ineligible condominium prop- erties, such notice shall contain the same information about such properties that the notice required under subsection (I)(1) contains with respect to eligible condominium properties.
+“(3) AVAILABILITY.—The clearinghouses shall make such information available, upon request, to other public agencies, other nonprofit organizations, qualifying households, qualifying multifamily purchasers, and other purchasers, as appropriate.
+“(4) DEFINITIONS.—For purposes of this subsection, the fol- lowing definitions shall apply:
+“(A) INELIGIBLE CONDOMINIUM PROPERTY.—The term ‘ineligible condominium property’ means any eligible condominium property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A).
+“(B) INELIGIBLE MULTIFAMILY HOUSING PROPERTY.—The term ‘ineligible multifamily housing property’ means any eligible multifamily housing property to which the provi- sions of this section do not apply as a result of the limita- tions under subsection (b)(2)(A).
+“(C) INELIGIBLE SINGLE FAMILY PROPERTY.—The term ‘ineligible single family property’ means any eligible single family property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A).
+“(D) INELIGIBLE RESIDENTIAL PROPERTY.—The term ‘ineligible residential property’ includes ineligible single family properties, ineligible multifamily housing properties, and ineligible condominium properties.”.
+(b) AFFORDABLE HOUSING ADVISORY BOARD.—
+(1) ESTABLISHMENT.—There is hereby established the Affordable Housing Advisory Board (in this subsection referred to as the “Advisory Board”) to advise the Thrift Depositor Protection Oversight Board and the Board of Directors of the Federal Deposit Insurance Corporation on policies and pro-

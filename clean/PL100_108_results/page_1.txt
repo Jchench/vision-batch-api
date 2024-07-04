@@ -1,0 +1,40 @@
+PUBLIC LAW 108–100—OCT. 28, 2003	117 STAT. 1177
+
+Public Law 108–100
+108th Congress
+
+An Act
+To facilitate check truncation by authorizing substitute checks, to foster innovation in the check collection system without mandating receipt of checks in electronic form, and to improve the overall efficiency of the Nation’s payments system, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+(a) SHORT TITLE.—This Act may be cited as the ‘‘Check Clearing for the 21st Century Act’’ or the ‘‘Check 21 Act’’.
+(b) TABLE OF CONTENTS.—The table of contents of this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings; purposes.
+Sec. 3. Definitions.
+Sec. 4. General provisions governing substitute checks.
+Sec. 5. Substitute check warranties.
+Sec. 6. Indemnity.
+Sec. 7. Expedited recredit for consumers.
+Sec. 8. Expedited recredit procedures for banks.
+Sec. 9. Delays in an emergency.
+Sec. 10. Measure of damages.
+Sec. 11. Statute of limitations and notice of claim.
+Sec. 12. Consumer awareness.
+Sec. 13. Effect on other law.
+Sec. 14. Variation by agreement.
+Sec. 15. Regulations.
+Sec. 16. Study and report on funds availability.
+Sec. 17. Statistical reporting of costs and revenues for transporting checks between Federal Reserve banks.
+Sec. 18. Evaluation and report by the Comptroller General.
+Sec. 19. Depositary services efficiency and cost reduction.
+Sec. 20. Effective date.
+
+SEC. 2. FINDINGS; PURPOSES. 12 USC 5001. 
+
+(a) FINDINGS.—The Congress finds as follows:
+(1) In the Expedited Funds Availability Act, enacted on August 10, 1987, the Congress directed the Board of Governors of the Federal Reserve System to consider establishing regulations requiring Federal reserve banks and depository institutions to provide for check truncation, in order to improve the check processing system.
+(2) In that same Act, the Congress—
+(A) provided the Board of Governors of the Federal Reserve System with full authority to regulate all aspects of the payment system, including the receipt, payment, collection, and clearing of checks, and related functions of the payment system pertaining to checks; and

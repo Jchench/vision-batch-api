@@ -1,0 +1,30 @@
+117 STAT. 1186
+
+Applicability.
+
+12 USC 5007.
+
+PUBLIC LAW 108-100—OCT. 28, 2003
+
+(B) the date the recredit was reversed.
+(4) MODE OF DELIVERY.—A notice described in this subsection shall be delivered by United States mail or by any other means through which the consumer has agreed to receive account information.
+(g) OTHER CLAIMS NOT AFFECTED.—Providing a recredit in accordance with this section shall not absolve the bank from liability for a claim made under any other law, such as a claim for wrongful dishonor under the Uniform Commercial Code, or from liability for additional damages under section 6 or 10.
+(h) CLARIFICATION CONCERNING CONSUMER POSSESSION.—A consumer who was provided a substitute check may make a claim for an expedited recredit under this section with regard to a transaction involving the substitute check whether or not the consumer is in possession of the substitute check.
+(i) SCOPE OF APPLICATION.—This section shall only apply to customers who are consumers.
+
+SEC. 8. EXPEDITED RECREDIT PROCEDURES FOR BANKS.
+(a) RECREDIT CLAIMS.—
+(1) IN GENERAL.—A bank may make a claim against an indemnifying bank for expedited recredit for which that bank is indemnified if—
+(A) the claimant bank (or a bank that the claimant bank has indemnified) has received a claim for expedited recredit from a consumer under section 7 with respect to a substitute check or would have been subject to such a claim had the consumer's account been charged;
+(B) the claimant bank has suffered a resulting loss or is obligated to recredit a consumer account under section 7 with respect to such substitute check; and
+(C) production of the original check, another substitute check, or a better copy of the original check is necessary to determine the validity of the charge to the consumer account or any warranty claim connected with such substitute check.
+(2) 120-DAY PERIOD.—Any claim under paragraph (1) may be submitted by the claimant bank to an indemnifying bank before the end of the 120-day period beginning on the date of the transaction that gave rise to the claim.
+(b) PROCEDURES FOR CLAIMS.—
+(1) IN GENERAL.—To make a claim under subsection (a) for an expedited recredit relating to a substitute check, the claimant bank shall send to the indemnifying bank—
+(A) a description of—
+(i) the claim, including an explanation of why the substitute check cannot be properly charged to the consumer account; or
+(ii) the warranty claim;
+(B) a statement that the claimant bank has suffered a loss or is obligated to recredit the consumer's account under section 7, together with an estimate of the amount of the loss or recredit;
+(C) the reason why production of the original check, another substitute check, or a better copy of the original check is necessary to determine the validity of the charge to the consumer account or the warranty claim; and
+
+

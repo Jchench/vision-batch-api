@@ -1,0 +1,31 @@
+117 STAT. 1188 PUBLIC LAW 108–100—OCT. 28, 2003
+
+check, the claimant bank shall promptly refund to any indemnifying bank any amount previously advanced by the indemnifying bank in connection with such substitute check.
+(d) PRODUCTION OF ORIGINAL CHECK OR A SUFFICIENT COPY 
+GOVERNED BY SECTION 6(d).—If the indemnifying bank provides 
+the claimant bank with the original check or a copy of the original check (including an image or a substitute check) under subsection (c)(1)(A), section 6(d) shall govern any right of the indemnifying bank to any repayment of any funds the indemnifying bank has recredited to the claimant bank pursuant to subsection (c).
+12 USC 5008.
+SEC. 9. DELAYS IN AN EMERGENCY.
+A delay by a bank beyond the time limits prescribed or permitted by this Act shall be excused if the delay is caused by interruption of communication or computer facilities, suspension of payments by another bank, war, emergency conditions, failure of equipment, or other circumstances beyond the control of a bank and if the bank uses such diligence as the circumstances require.
+12 USC 5009.
+SEC. 10. MEASURE OF DAMAGES.
+(a) LIABILITY.—
+(1) IN GENERAL.—Except as provided in section 6, any 
+person who, in connection with a substitute check, breaches any warranty under this Act or fails to comply with any requirement imposed by, or regulation prescribed pursuant to, this Act with respect to any other person shall be liable to such person in an amount equal to the sum of—
+(A) the lesser of—
+(i) the amount of the loss suffered by the other 
+person as a result of the breach or failure; or
+(ii) the amount of the substitute check; and
+(B) interest and expenses (including costs and reasonable attorney’s fees and other expenses of representation) related to the substitute check.
+(2) OFFSET OF RECREDITS.—The amount of damages any 
+person receives under paragraph (1), if any, shall be reduced by the amount, if any, that the claimant receives and retains as a recredit under section 7 or 8.
+(b) COMPARATIVE NEGLIGENCE.—
+(1) IN GENERAL.—If a person incurs damages that resulted 
+in whole or in part from the negligence or failure of that person to act in good faith, then the amount of any liability due to that person under subsection (a) shall be reduced in proportion to the amount of negligence or bad faith attributable to that person.
+(2) RULE OF CONSTRUCTION.—Nothing in this subsection 
+reduces the rights of a consumer or any other person under the Uniform Commercial Code or other applicable provision of Federal or State law.
+12 USC 5010.
+SEC. 11. STATUTE OF LIMITATIONS AND NOTICE OF CLAIM.
+(a) ACTIONS UNDER THIS ACT.—
+(1) IN GENERAL.—An action to enforce a claim under this 
+Act may be brought in any United States district court, or in any other court of competent jurisdiction, before the end of the 1-year period beginning on the date the cause of action accrues.

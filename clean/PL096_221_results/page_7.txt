@@ -1,0 +1,20 @@
+94 STAT. 138
+
+PUBLIC LAW 96-221-MAR. 31, 1980
+
+enactment, any such bank shall maintain reserves in the same amounts as member banks are required to maintain under this subsection, pursuant to subparagraphs (B) and (C)(i).
+
+(ii) Any bank which withdraws from membership in the Federal Reserve System on or after the date of enactment of the Depository Institutions Deregulation and Monetary Control Act of 1980 shall maintain reserves in the same amounts as member banks are required to maintain under this subsection, pursuant to subparagraphs (B) and (C)(i).
+
+(E) This subparagraph applies to any depository institution which was engaged in business on August 1, 1978, as a depository institution organized under the laws of a State, which was not a member of the Federal Reserve System on that date, and the principal office of which was outside the continental limits of the United States on that date and has remained outside the continental limits of the United States ever since. Such a depository institution shall not be required to maintain reserves against its deposits pursuant to this subsection until the first day of the sixth calendar year which begins after the effective date of the Monetary Control Act of 1980. Such a depository institution shall maintain reserves against its deposits during the sixth calendar year which begins after such effective date in an amount equal to one-eighth of that otherwise required by paragraph (2), during the seventh such year in an amount equal to one-fourth of that otherwise required, during the eighth such year in an amount equal to three-eighths of that otherwise required, during the ninth such year in an amount equal to one-half of that otherwise required, during the tenth such year in an amount equal to five-eighths of that otherwise required, during the eleventh such year in an amount equal to three-fourths of that otherwise required, and during the twelfth such year in an amount equal to seven-eighths of that otherwise required.
+
+(9) EXEMPTION.-This subsection shall not apply with respect to any financial institution which—
+(A) is organized solely to do business with other financial institutions;
+(B) is owned primarily by the finaicial institutions with which it does business; and
+(C) does not do business with the general public.
+
+(10) WAIVERS.-In individual cases, where a Federal supervisory authority waives a liquidity requirement, or waives the penalty for failing to satisfy a liquidity requirement, the Board shall waive the reserve requirement, or waive the penalty for failing to satisfy a reserve requirement, imposed pursuant to this subsection for the depository institution involved when requested by the Federal supervisory authority involved.
+
+FORM OF RESERVES
+Sec. 104. (a) Section 19(c) of the Federal Reserve Act (12 U.S.C. 461) is amended to read as follows:
+(c)(1) Reserves held by a depository institution to meet the requirements imposed pursuant to subsection (b) shall, subject to such rules and regulations as the Board shall prescribe, be in the form of—

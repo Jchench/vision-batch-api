@@ -1,0 +1,20 @@
+PUBLIC LAW 103-328—SEPT. 29, 1994                108 STAT. 2357
+
+SEC. 105. COORDINATION OF EXAMINATION AUTHORITY.
+
+Section 10 of the Federal Deposit Insurance Act (12 U.S.C. 1820) is amended by inserting after subsection (g) the following new subsection:
+    "(h) COORDINATION OF EXAMINATION AUTHORITY.—
+        "(1) IN GENERAL.—The appropriate State bank supervisor of a host State may examine a branch operated in such State by an out-of-State insured State bank that resulted from an interstate merger transaction approved under section 44 or a branch established in such State pursuant to section 5155(g) of the Revised Statutes or section 18(d)(4)—
+            "(A) for the purpose of determining compliance with host State laws, including those that govern banking, community reinvestment, fair lending, consumer protection, and permissible activities; and
+            "(B) to ensure that the activities of the branch are not conducted in an unsafe or unsound manner.
+        "(2) ENFORCEMENT.—If the State bank supervisor of a host State determines that there is a violation of the law of the host State concerning the activities being conducted by a branch described in paragraph (1) or that the branch is being operated in an unsafe and unsound manner, the State bank supervisor of the host State or, to the extent authorized by the law of the host State, a State law enforcement officer may undertake such enforcement actions and proceedings as would be permitted under the law of the host State as if the branch were a bank chartered by that host State.
+        "(3) COOPERATIVE AGREEMENT.—The State bank supervisors from 2 or more States may enter into cooperative agreements to facilitate State regulatory supervision of State banks, including cooperative agreements relating to the coordination of examinations and joint participation in examinations.
+        "(4) FEDERAL REGULATORY AUTHORITY.—No provision of this subsection shall be construed as limiting in any way the authority of an appropriate Federal banking agency to examine or to take any enforcement actions or proceedings against any bank or branch of a bank for which the agency is the appropriate Federal banking agency.".
+
+SEC. 106. BRANCH CLOSURES.
+
+Section 42 of the Federal Deposit Insurance Act (12 U.S.C. 1831r-1) is amended by adding at the end the following new subsection:
+    "(d) BRANCH CLOSURES IN INTERSTATE BANKING OR BRANCHING OPERATIONS.—
+        "(1) NOTICE REQUIREMENTS.—In the case of an interstate bank which proposes to close any branch in a low- or moderate-income area, the notice required under subsection (b)(2) shall contain the mailing address of the appropriate Federal banking agency and a statement that comments on the proposed closing of such branch may be mailed to such agency.
+        "(2) ACTION REQUIRED BY APPROPRIATE FEDERAL BANKING AGENCY.—If, in the case of a branch referred to in paragraph (1)—
+            "(A) a person from the area in which such branch is located—

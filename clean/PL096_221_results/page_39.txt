@@ -1,0 +1,17 @@
+94 STAT. 170                PUBLIC LAW 96-221 — MAR. 31, 1980
+
+MODEL FORMS
+
+15 USC 1604. Sec. 605. Section 105 of the Truth in Lending Act (15 U.S.C. 1605) is amended by inserting "(a)" before "The", and by adding at the end thereof the following:
+           "(b) The Board shall publish model disclosure forms and clauses for common transactions to facilitate compliance with the disclosure requirements of this title and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures. In devising such forms, the Board shall consider the use by creditors, or lessors of data processing or similar automated equipment. Nothing in this title may be construed to require a creditor or lessor to use any such model form or clause prescribed by the Board under this section. A creditor or lessor shall be deemed to be in compliance with the disclosure provisions of this title with respect to other than numerical disclosures if the creditor or lessor (1) uses any appropriate model form or clause as published by the Board, or (2) uses any such model form or clause and changes it by (A) deleting any information which is not required by this title, or (B) rearranging the format, if in making such deletion or rearranging the format, the creditor or lessor does not affect the substance, clarity, or meaningful sequence of the disclosure.
+Notice in Federal  "(c) Model disclosure forms and clauses shall be adopted by the Critical Register after notice duly given in the Federal Register and an opportunity for public comment in accordance with section 553 of title 5. United States Code. 
+Effective date. "(d) Any regulation of the Board, or any amendment or interpretation thereof, requiring any disclosure which differs from the disclosures previously required by this chapter, chapter 4, or chapter 5, or by any regulation of the Board promulgated thereunder shall have an effective date of that October 1 which follows by at least six months the date of promulgation, except that the Board may at its discretion take interim action by regulation, amendment, or interpretation to lengthen the period of time permitted for creditors or lessors to adjust their forms to accommodate new requirements or shortens the length of time for creditors or lessors to make such adjustments when it makes a specific finding that such action is necessary to comply with the findings of a court or to prevent unfair or deceptive disclosure practices. Notwithstanding the previous sentence, any creditor or lessor may comply with any such newly promulgated disclosure requirements prior to the effective date of the requirements.".
+
+COMPONENTS OF FINANCE CHARGE
+
+Sec. 606. (a) Section 106(a) of the Truth in Lending Act (15 U.S.C. 1605(a)) is amended by striking out ", including any of the following types of charges which are applicable" and inserting in lieu thereof the following: "The finance charge does not include charges of a type payable in a comparable cash transaction. Examples of charges which are included in the finance charge include any of the following types of charges which are applicable". 
+      (b) Section 106(d) of the Truth in Lending Act (15 U.S.C. 1605(d)) is amended by striking out paragraphs (3) and (4).
+
+ACCURACY OF ANNUAL PERCENTAGE RATE
+
+Sec. 607. (a) Section 107(c) of the Truth in Lending Act (15 U.S.C. 1606(c)) is amended to read as follows:

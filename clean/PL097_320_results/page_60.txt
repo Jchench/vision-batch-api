@@ -1,0 +1,35 @@
+96 STAT. 1528
+
+PUBLIC LAW 97-320—OCT. 15, 1982
+
+TITLE V—AMENDMENTS TO THE FEDERAL CREDIT UNION ACT
+
+CUSTODIAL ACCOUNTS
+
+Sec. 501. Section 101(5) of the Federal Credit Union Act (12 U.S.C. 1752(5)) is amended by inserting “; and such terms mean custodial accounts established for loans sold in whole or in part pursuant to section 107(13)” after “section 207 of this Act”.
+
+AUDIT OF NATIONAL CREDIT UNION ADMINISTRATION
+
+Sec. 502. Section 102(f) of the Federal Credit Union Act (12 U.S.C. 1752a(f)) is amended by striking out “on a calendar year basis”.
+
+ORGANIZATIONAL PROCESS
+
+Sec. 503. Section 103 of the Federal Credit Union Act (12 U.S.C. 1753) is amended by striking out “subscribe” and inserting in lieu thereof “each subscribe either individually or collectively”.
+
+PAR VALUE OF SHARES
+
+Sec. 504. Section 103(4) of the Federal Credit Union Act (12 U.S.C. 1753(4)) is amended by inserting “initial” before “par value” and by striking out “, which shall be $5 each”.
+
+INVESTMENT OF FEES
+
+Sec. 505. Section 105 of the Federal Credit Union Act (12 U.S.C. 1755) is amended by adding at the end thereof the following new subsection:
+    “(e)(1) Upon request of the Board, the Secretary of the Treasury shall invest and reinvest such portions of the annual operating fees deposited under subsection (d) as the Board determines are not needed for current operations.
+
+    “(2) Such investments may be made only in interest bearing securities of the United States with maturities requested by the Board bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+
+    “(3) All income derived from such investments and reinvestments shall be deposited to the account of the Administration described in subsection (d).”.
+
+TECHNICAL AMENDMENT
+
+Sec. 506. Section 107(5)(A) of the Federal Credit Union Act (12 U.S.C. 1757(5)) is amended by striking out the period at the end of clause (ix) and inserting in lieu thereof a semicolon and by adding at the end thereof the following:
+    “(x) loans must be approved by the credit committee or a loan officer, but no loan may be made to any member if, upon the making of that loan, the member would be indebted to the Federal credit union upon loans made to him in an aggregate amount which would exceed 10 per centum of the credit union’s unimpaired capital and surplus.”.

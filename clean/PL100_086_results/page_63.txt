@@ -1,0 +1,27 @@
+101 STAT. 614                                PUBLIC LAW 100-86—AUG. 10, 1987
+
+  (vi) PROCEEDS FROM REDEMPTION OF WARRANTS.—The proceeds of any sale or redemption of warrants under clause (iv) shall be deposited in and be considered a part of the primary reserve established under section 404(a).
+
+12 USC 1727.  
+(D) DIVIDENDS.—Capital instruments purchased by the Corporation under subparagraph (A) shall pay dividends at a reasonable rate, as determined by the Corporation, and the rate shall be indexed to obligations issued by the Secretary of the Treasury under subchapter I of chapter 31 of title 31, United States Code.
+
+31 USC 3101.
+  (E) PRIORITY.—
+    (i) IN GENERAL—In the event of the liquidation or reorganization of any insured institution with respect to which the Corporation holds capital instruments under this paragraph, the Corporation shall have priority over—
+          (I) any claim, other than a claim described in clause (ii), arising out of any equity interest in such insured institution; and
+          (II) any right of any holder of an equity interest in such insured institution to participate in future earnings.
+    (ii) DIVIDENDS.—
+        (I) NO OTHER DIVIDENDS.—No dividends may be paid on any class of equity instruments of any insured institution (other than a capital instrument held by the Corporation) until all dividends, including accumulated unpaid dividends, on the capital instruments are paid.
+        (II) PROHIBITION CEASES IF PAYMENT, REDEMPTION PAYMENTS AND DIVIDENDS ARE CURRENT.—If all payments on capital instruments held by the Corporation with respect to any insured institution, including redemption payments and dividends, are current, dividends on other classes of equity instruments of such insured institution may be paid, notwithstanding subclause (I)."
+
+SEC. 406. MINIMUM CAPITAL REQUIREMENTS.
+ 
+Claims.
+(a) FEDERALLY CHARTERED THRIFTS.—Section 5 of the Home Owners' Loan Act of 1933 (12 U.S.C. 1464) is amended by adding at the end thereof the following new subsection:
+  (s) MINIMUM CAPITAL REQUIREMENTS.—
+    (1) IN GENERAL.—Consistent with the purposes of section 908 of the International Lending Supervision Act of 1983 and the capital requirements established pursuant to such section by the appropriate Federal banking agencies (as defined in section 903(1) of such Act), the Board shall require all associations to achieve and maintain adequate capital by—
+        (A) establishing minimum levels of capital for associations; and
+12 USC 3907.
+        (B) using such other methods as the Board determines to be appropriate.
+12 USC 3902.
+    (2) MINIMUM CAPITAL LEVELS MAY BE DETERMINED BY BOARD ON CASE-BY-CASE BASIS.—The Board may establish the minimum level of capital for an association at such amount or at such ratio of capital-to-assets as the Board determines to be necessary or appropriate for such association in light of the particular circumstances of the association.

@@ -1,0 +1,45 @@
+PUBLIC LAW 100-86—AUG. 10, 1987     101 STAT. 575
+
+" formation by any company, through one or more subsidiaries or
+through one or more transactions, of a multiple savings and loan holding company controlling insured institutions in more than one
+State, unless—
+     "(A) such company, or an insured institution subsidiary of
+such company, is authorized to acquire control of an insured
+institution subsidiary, or to operate a home or branch office, in
+the additional State or States pursuant to subsection (m);
+     "(B) such company controls an insured institution subsidiary
+which operated a home or branch office in the additional State or States as of March 5, 1987; or
+     "(C) the statue laws of the State in which the insured institu­ tion, control of which is to be acquired, is located and are such that an insured institution chartered by such State could be acquired by an insured institution chartered by the State where the acquiring insured institution or savings and loan holding com­pany is located (or by a holding company that controls such a state-chartered insured institution), and such statute laws
+specifically authorize such an acquisition by language to that
+effect and not merely by implication.".
+
+(h) EMERGENCY ACQUISITIONS.—Section 408(m)(1)(A)(i) of the Na­tional Housing Act (12 U.S.C. 1730a(m)(1)(A)(i)) is amended by insert­ing "(C)," before "(e)(2)".
+
+SEC. 105. AMENDMENT TO THE FEDERAL HOME LOAN BANK ACT.
+     Section 10 of the Federal Home Loan Bank Act (12 U.S.C. 1430) is amended by adding at the end thereof the following:
+     "(e) REDUCED ELIGIBILITY FOR  ADVANCES  FOR  CERTAIN  MEMBERS WHICH ARE NOT QUALIFIED  THRIFT LENDERS.—
+     "(I) IN GENERAL.—Except as the Board may prescribe, a
+ member that is not a qualified thrift lender may not receive
+ advances in excess of the amount determined by multiplying—
+          "(A) the total amount of advances that such member
+would be eligible to receive in the absence of this subsec­tion; by
+          "(B) such member's actual thrift investment percentage.
+     "(2) EXCEPTIONS.—Paragraph (1) does not apply to—
+          "(A) a savings bank as defined in section 3(g) of the 
+Federal Deposit Insurance Act;
+          "(B) an insured institution which was chartered prior to
+October 15, 1982, as a savings bank under State law; or
+          "(C) an insured institution which acquired its principal
+assets from an institution which was chartered prior to
+October 15, 1982, as a savings bank under State law.
+     
+     "(3) DEFINITIONS—As used in this subsection—"
+          "(A) INSURED INSTITUTION.—The term 'insured institu­
+tion' has the same meaning as in section 408(a)(1)(A) of the
+National Housing Act.
+          "(B) QUALIFIED  THRIFT LENDER.—The term 'qualified
+thrift lender has the same meaning as in section 408(o) of
+the National Housing Act.
+          "(C) ACTUAL THRIFT INVESTMENT PERCENTAGE—The term 
+' actual thrift investment percentage' has the same meaning
+as in section 408(o)(5)(A) of the National Housing Act.".

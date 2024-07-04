@@ -1,0 +1,34 @@
+PUBLIC LAW 100-86—AUG. 10, 1987
+
+
+(A) IN GENERAL.—Except as provided in subparagraph (B), the regulations required to be prescribed pursuant to subsection (b) of the amendments made by subsections (a) and (b) of this section shall take effect on December 31, 1987.
+
+(B) COMPLIANCE AT A LATER DATE.—If any association or insured institution demonstrates to the satisfaction of the Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation, as the case may be, that it is not feasible for such association or institution to achieve compliance with the regulations referred to in subparagraph (A) by the date contained in such subparagraph, the Board or Corporation may approve a plan submitted by an association or insured institution which allows such association or institution to comply with such regulations at a later date to the extent such later date is the earlier of—
+
+(i) the date by which, in the determination of the Board or Corporation, it is feasible for such association or insured institution to achieve compliance with such regulations; or
+
+(ii) December 31, 1993.
+
+
+SEC. 403. AUDIT OF FEDERAL ASSET DISPOSITION ASSOCIATION.
+
+Section 9105(a) of title 31, United States Code (relating to audits) is amended by inserting at the end thereof the following new paragraph:
+
+"(3)(A) Notwithstanding any other provision of law and under such regulations as the Comptroller General may prescribe, the Comptroller General shall perform a financial audit of the Federal Asset Disposition Association on whatever basis the Comptroller General determines to be necessary.
+
+"(B) The Federal Asset Disposition Association shall—
+
+(i) make available to the Comptroller General for audit all records and property of, or used or managed by, the Association which may be necessary for the audit; and
+
+(ii) provide the Comptroller General with facilities for verifying transactions with the balances or securities held by any depositary, fiscal agent, or custodian.
+
+"(C) For purposes of this paragraph, the term 'Federal Asset Disposition Association' means the savings and loan association established by the Federal Savings and Loan Insurance Corporation under section 406 of the National Housing Act to manage and liquidate nonperforming assets on behalf of such Corporation in accordance with such section.".
+
+
+SEC. 404. THRIFT INDUSTRY RECOVERY REGULATIONS.
+
+(a) FEDERALLY CHARTERED THRIFTS.—The Home Owners' Loan Act of 1933 (12 U.S.C. 1461 et seq.) is amended by adding after section 9 (as added by section 402(a) of this title) the following new section:
+
+"SEC. 10. THRIFT INDUSTRY RECOVERY REGULATIONS.
+
+"(a) IN GENERAL.—The Board shall prescribe capital recovery regulations for regulating and supervising troubled but well-managed and viable associations in a manner which will maximize the long-term viability of the thrift industry at the lowest cost to the Federal Savings and Loan Insurance Corporation.

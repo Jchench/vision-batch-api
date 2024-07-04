@@ -1,0 +1,29 @@
+PUBLIC LAW 100-86-AUG. 10, 1987               101 STAT. 605
+
+SEC. 402. THRIFT INSTITUTION ACCOUNTING, APPRAISAL, AND RESERVE STANDARDS.
+
+(a) FEDERALLY CHARTERED THRIFTS.-The Home Owners' Loan Act of 1933 (12 U.S.C. 1461 et seq.) is amended by redesignating section 9 as section 11 and by inserting after section 8 the following new section:
+
+"SEC. 9. ACCOUNTING PRINCIPLES AND OTHER STANDARDS AND REQUIREMENTS.
+
+"(a) IN GENERAL.-The Board shall prescribe regulations which make the following provisions applicable to associations for regulatory purposes:
+
+"(1) ASSET CLASSIFICATION SYSTEM.-An asset classification system shall be established which is consistent with the asset classification system established by the Federal banking agencies, except that such system shall provide that the principal supervisory agent of the Board for each Federal home loan bank district may, in such agent's discretion-
+
+``(A) require an association to create additional general loss reserves on the basis of an evaluation of such institution's assets; or
+
+``(B) determine whether a restructured loan asset which is in a nonperforming status or with respect to which the borrowers have otherwise failed to remain in compliance with the repayment terms at the time of such restructuring shall be classified.
+
+``(2) APPRAISAL STANDARD.-An appraisal standard shall be established which is consistent with the appraisal standards established by the Federal banking agencies.
+
+``(3) REAPPRAISAL UPON FORECLOSURE.-Generally accepted accounting principles shall apply to any reappraisal of the value of property securing any loan or other extension of credit upon any foreclosure on such property by an association (or any other action by the association in lieu of foreclosure).
+
+``(4) AUTHORIZING USE OF FASB 15 FOR TROUBLED DEBT RESTRUCTURING.-IF-
+
+``(A) an association engages in troubled debt restructuring with respect to any loan by the association; and
+
+``(B) the troubled debt restructuring complies with Statement of Financial Accounting Standards Numbered 5 and Statement of Financial Accounting Standards Numbered 15 (as issued by the Financial Accounting Standards Board), regulatory accounting principles shall allow the association to account for the effects of the troubled debt restructuring and to account for such associations investment in the original debt instrument (or other agreement which is subject to such restructuring) in the manner provided in such statements.
+
+``(5) CERTAIN LOAN LOSS RESERVES TREATED AS CAPITAL FOR CERTAIN PURPOSES.-Any amount which an association holds in any account as a general loss reserve may be treated, at the option of the association, as capital of the association for purposes of determining regulatory capital or regulatory net worth with respect to such association, to the extent such treatment is consistent with the procedures established by the Federal banking agencies.
+
+(b) UNIFORM GAAP ACCOUNTING STANDARDS REQUIRED.

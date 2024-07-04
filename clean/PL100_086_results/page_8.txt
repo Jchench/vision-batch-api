@@ -1,0 +1,22 @@
+PUBLIC LAW 100-86—AUG. 10, 1987
+
+101 STAT. 559
+
+"(B) LIMITATIONS.—Until such time as the Congress has taken action pursuant to subparagraph (A), a bank controlled by a company described in paragraph (1) shall not—
+   "(i) engage in any activity in which such bank was not lawfully engaged as of March 5, 1987;
+   "(ii) offer or market products or services of an affiliate that are not permissible for bank holding companies to provide under subsection (c)(8), or permit its products or services to be offered or marketed by or through an affiliate (other than an affiliate that engages only in activities permissible for bank holding companies under subsection (c)(8)), unless such products or services were being so offered or marketed as of March 5, 1987, and then only in the same manner in which they were being offered or marketed as of that date;
+   "(iii) after the date of the enactment of the Competitive Equality Amendments of 1987, permit any overdraft (including an intraday overdraft), or incur any such overdraft in such bank's account at a Federal Reserve bank, on behalf of an affiliate, other than an overdraft described in subparagraph (C); or
+   "(iv) increase its assets at an annual rate of more than 7 percent during any 12-month period beginning after the end of the 1-year period beginning on the date of the enactment of the Competitive Equality Amendments of 1987.
+  
+   "(C) PERMISSIBLE OVERDRAFTS DESCRIBED.—For purposes of subparagraph (B)(iii), an overdraft is described in this subparagraph if—
+      "(i) such overdraft results from an inadvertent computer or accounting error that is beyond the control of both the bank and the affiliate; or
+      "(ii) such overdraft—
+         "(I) is permitted or incurred on behalf of an affiliate which is monitored by, reports to, and is recognized as a primary dealer by the Federal Reserve Bank of New York; and
+         "(II) is fully secured, as required by the Board, by bonds, notes, or other obligations which are direct obligations of the United States or on which the principal and interest are fully guaranteed by the United States or by securities and obligations eligible for settlement on the Federal Reserve book entry system.
+   
+   "(4) DIVESTITURE IN CASE OF LOSS OF EXEMPTION.—If any company described in paragraph (1) loses the exemption provided under such paragraph by operation of paragraph (2), such company shall divest control of each bank it controls within 180 days after such company becomes a bank holding company due to the loss of such exemption.
+   
+   "(5) SUBSECTION CEASES TO APPLY UNDER CERTAIN CIRCUMSTANCES.—This subsection shall cease to apply to any company described in paragraph (1) if such company—
+      "(A) registers as a bank holding company under section 5(a) of this Act;"
+
+12 USC 1844.

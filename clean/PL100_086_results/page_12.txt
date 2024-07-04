@@ -1,0 +1,23 @@
+PUBLIC LAW 100-86—AUG. 10, 1987
+
+(E) No company is a bank holding company by virtue of its ownership or control of any State-chartered bank or trust company which—
+(i) is wholly owned by thrift institutions or savings banks; and
+(ii) is restricted to accepting—
+(I) deposits from thrift institutions or savings banks;
+(II) deposits arising out of the corporate business of the thrift institutions or savings banks that own the bank or trust company; or
+(III) deposits of public moneys.”.
+(f) EFFECT ON STATE AUTHORITY TO REGULATE.—Section 7 of the Bank Holding Company Act of 1956 (12 U.S.C. 1846) is amended—
+(1) by striking out “The enactment by the Congress of the Bank Holding Company Act of 1956 shall not” and inserting in lieu thereof “No provision of this Act shall”; and
+(2) by inserting “companies,” before “banks”.
+(g) AMENDMENT TO FEDERAL DEPOSIT INSURANCE ACT.—
+(1) IN GENERAL.—Section 3(g) of the Federal Deposit Insurance Act (12 U.S.C. 1813(g)) is amended to read as follows:
+“(g) SAVINGS BANK.—The term ‘savings bank’ means a bank (including a mutual savings bank) which transacts its ordinary banking business strictly as a savings bank under State laws imposing special requirements on such banks governing the manner of investing their funds and of conducting their business.”.
+(2) TECHNICAL AND CONFORMING AMENDMENT.—Section 27(a) of the Federal Deposit Insurance Act is amended by striking out “and insured mutual savings banks”.
+(h) 1987 AMENDMENT TRANSITION RULE.— 
+(1) DELAY IN APPLICATION OF AMENDMENT TO CERTAIN INSTITUTIONS.—If—
+(A) on March 5, 1987, an institution was not a bank (as defined in section 2(c) of the Bank Holding Company Act of 1956), as in effect on such date; and
+(B) any person which had a controlling interest in such institution on March 5, 1987, made a public announcement before such date that the transfer or other disposition of such person’s controlling interest in such institution was being considered,
+the institution shall not become a bank (for purposes of the Bank Holding Company Act of 1956) due to the amendment made to such section 2(c) by this section before the date on which such institution fails to meet any requirement of paragraph (2).
+(2) REQUIREMENTS FOR APPLICATION OF SUBSECTION.—This subsection shall not apply with respect to any institution de- scribed in paragraph (1) unless—
+(A) the transfer or other disposition of the controlling interest referred to in such paragraph is completed, or an agreement to make such transfer or other disposition is in effect (or is subject only to final approval by the appropriate Federal and State regulatory agencies), before the end of the 180-day period beginning on the date of the enactment of this title;
+(B) a written notice by the person acquiring a controlling interest in such institution (pursuant to the transfer or

@@ -1,0 +1,17 @@
+101 STAT. 628          PUBLIC LAW 100–86—AUG. 10, 1987
+
+                    (1) APPLICATION RELATING TO ACQUISITIONS.—Section 3(b) of the Bank Holding Company Act of 1956 (12 U.S.C. 1842(b)) is amended—
+                    (A) by striking out “(b) Upon” and inserting in lieu thereof “(b)(1) NOTICE AND HEARING REQUIREMENTS.—Upon”; and
+                    (B) by adding at the end thereof the following new paragraph:
+                    “(2) WAIVER IN CASE OF BANK IN DANGER OF CLOSING.—If the Board receives a certification described in section 13(f)(8)(D) of the Federal Deposit Insurance Act from the appropriate Federal or State chartering authority that a bank is in danger of closing, the Board may dispense with the notice and hearing requirements of paragraph (1) with respect to any application received by the Board relating to the acquisition of such bank, the bank holding company which controls such bank, or any other affiliated bank.".
+                    (2) APPLICATION RELATING TO NONBANKING ACTIVITIES.—Sec-tion 4(c)(8) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(c)(8)) is amended by striking out the semicolon at the end and inserting in lieu thereof a period and the following new sentences: “If an application is filed under this paragraph in connection with an application to make an acquisition pursuant to section 13(f) of the Federal Deposit Insurance Act, the Board may dispense with the notice and hearing requirements of this paragraph and the Board may approve or deny the application under this paragraph without notice or hearing. If an applica-tion described in the preceding sentence is approved, the Board shall publish in the Federal Register, not later than 7 days after such approval is granted, the order approving the application and a description of the nonbanking activities involved in the acquisition;".
+                    (3) EARLY ANTITRUST REVIEW IN CASE OF EMERGENCY ACQUISI-TION OF FAILING BANK.—Section 11(b) of the Bank Holding Company Act of 1956 (12 U.S.C. 1849(b)) is amended—
+                    (A) by striking out “(b) The Board” and inserting in lieu thereof “(b) ANTITRUST REVIEW.—
+                    “(1) IN GENERAL.—The Board”; 
+                    (B) by moving all that follows 2 ems to the right; and
+                    (C) by adding at the end thereof the following new paragraph:
+                    “(2) SECTION 13(F) CASES.—(A) If—
+                          “(i) the Federal Deposit Insurance Corporation learns that a bank insured by such Corporation is in danger of closing; and
+                          “(ii) the Corporation is considering assisting the acquisi-tion of such bank and its affiliated banks by another bank or holding company under section 13(f) of the Federal De-posit Insurance Act and such acquisition is subject to the approval of the Board under section 3 of this Act,
+                         the Corporation shall immediately notify the Board of such facts.
+                     “(B) Upon receipt of notice from the Federal Deposit Insur-ance Corporation under subparagraph (A) or at such earlier time as deemed appropriate by the Board, the Board shall immediately notify the Attorney General of the United States of the facts concerning the possible acquisition.

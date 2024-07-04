@@ -1,0 +1,24 @@
+101 STAT. 636 PUBLIC LAW 100-86-AUG. 10, 1987
+
+(1) ACCOUNT.—The term “account” means a demand deposit account or other similar transaction account at a depository institution.
+(2) BOARD.—The term “Board” means the Board of Governors of the Federal Reserve System.
+(3) BUSINESS DAY.—The term “business day” means any day other than a Saturday, Sunday, or legal holiday.
+(4) CASH.—The term “cash” means United States coins and currency, including Federal Reserve notes.
+(5) CASHIER’S CHECK.—The term “cashier’s check” means any check which—
+(A) is drawn on a depository institution;
+(B) is signed by an officer or employee of such depository institution; and
+(C) is a direct obligation of such depository institution.
+(6) CERTIFIED CHECK.—The term “certified check” means any check with respect to which a depository institution certifies that—
+(A) the signature on the check is genuine; and
+(B) such depository institution has set aside funds which—
+(i) are equal to the amount of the check; and
+(ii) will be used only to pay such check.
+(7) CHECK.—The term “check” means any negotiable demand draft drawn on or payable through an office of a depository institution located in the United States. Such term does not include noncash items.
+(8) CHECK CLEARINGHOUSE ASSOCIATION.—The term “check clearinghouse association” means any arrangement by which participant depository institutions exchange deposited checks on a local basis, including an entire metropolitan area, without using the check processing facilities of the Federal Reserve System.
+(9) CHECK PROCESSING REGION.—The term “check processing region” means the geographical area served by a Federal Reserve bank check processing center or such larger area as the Board may prescribe by regulations.
+(10) CONSUMER ACCOUNT.—The term “consumer account” means any account used primarily for personal, family, or household purposes.
+(11) DEPOSITORY CHECK.—The term “depository check” means any cashier’s check, certified check, teller’s check, and any other functionally equivalent instrument as determined by the Board.
+(12) DEPOSITORY INSTITUTION.—The term “depository institution” has the meaning given such term in clauses (i) through (vi) of section 19(b)(1)(A) of the Federal Reserve Act. Such term also includes an office, branch, or agency of a foreign bank located in the United States.
+(13) LOCAL ORIGINATING DEPOSITORY INSTITUTION.—The term “local originating depository institution” means any originating depository institution which is located in the same check processing region as the receiving depository institution.
+(14) NONCASH ITEM.—The term “noncash item” means—
+(A) a check or other demand item to which a passbook, certificate, or other document is attached;

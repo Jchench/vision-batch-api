@@ -1,0 +1,23 @@
+PUBLIC LAW 100-86-AUG. 10, 1987
+101 STAT. 565
+
+"(3) TRANSACTIONS THAT BENEFIT AN AFFILIATE.-For the purpose of this subsection, any transaction by a member bank or its subsidiary with any person shall be deemed to be a transaction with an affiliate of such bank if any of the proceeds of the transaction are used for the benefit of, or transferred to, such affiliate.
+"(b) PROHIBITED TRANSACTIONS.-
+       "(1) IN GENERAL.-A member bank or its subsidiary-
+               "(A) shall not purchase as fiduciary any securities or other assets from any affiliate unless such purchase is permitted-
+                      "(i) under the instrument creating the fiduciary relationship,
+                      "(ii) by court order, or
+                      "(iii) by law of the jurisdiction governing the fiduciary relationship; and
+               "(B) whether acting as principal or fiduciary, shall not knowingly purchase or otherwise acquire, during the existence of any underwriting or selling syndicate, any security if a principal underwriter of that security is an affiliate of such bank.
+        "(2) EXCEPTION.-Subparagraph (B) of paragraph (1) shall not apply if the purchase or acquisition of such securities has been approved, before such securities are initially offered for sale to the public, by a majority of the directors of the bank who are not officers or employees of the bank or any affiliate thereof.
+        "(3) DEFINITIONS.-For the purpose of this subsection-
+               "(A) the term 'security' has the meaning given to such term in section 3(a)(10) of the Securities Exchange Act of 1934; and
+               "(B) the term 'principal underwriter' means any underwriter who, in connection with a primary distribution of securities-
+                      "(i) is in privity of contract with the issuer or an affiliated person of the issuer;
+                      "(ii) acting alone or in concert with one or more other persons, initiates or directs the formation of an underwriting syndicate; or
+                      "(iii) is allowed a rate of gross commission, spread, or other profit greater than the rate allowed another underwriter participating in the distribution.
+        "(c) ADVERTISING RESTRICTION.-A member bank or any subsidiary or affiliate of a member bank shall not publish any advertisement or enter into any agreement stating or suggesting that the bank shall in any way be responsible for the obligations of its affiliates.
+        "(d) DEFINITIONS.-For the purpose of this section-
+               "(1) the term 'affiliate' has the meaning given to such term in section 23A (but does not include any company described in section (b)(2) of such section or any bank;
+               "(2) the terms 'bank', 'subsidiary', 'person', and 'security' (other than security as used in subsection (b)) have the meanings given to such terms in section 23A; and
+               "(3) the term 'covered transaction' has the meaning given to such term in section 23A (but does not include any transaction which is exempt from such definition under subsection (d) of such section).

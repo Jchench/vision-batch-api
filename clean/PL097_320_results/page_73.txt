@@ -1,0 +1,20 @@
+PUBLIC LAW 97-320—OCT. 15, 1982	96 STAT. 1541
+
+"SHORT TITLE AND DEFINITIONS
+"SECTION 1. (a) This Act may be cited as the 'Bank Service Corporation Act.' 
+(b) For the purpose of this Act— 
+"(1) the term 'appropriate Federal banking agency' shall have the meaning provided in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)); 
+"(2) the term 'bank service corporation' means a corporation organized to perform services authorized by this Act, all of the capital stock of which is owned by one or more insured banks; 
+"(3) the term 'Board' means the Board of Governors of the Federal Reserve System; 
+"(4) the term 'depository institution' means an insured bank, or another financial institution subject to examination by the Federal Home Loan Bank Board or the National Credit Union Administration Board; 
+"(5) the term 'insured bank' shall have the meaning provided in section 3(h) of the Federal Deposit Insurance Act (12 U.S.C. 1813(h)); 
+"(6) the term 'invest' includes any advance of funds to a bank service corporation, whether by the purchase of stock, the making of a loan, or otherwise, except a payment for rent earned, goods sold and delivered, or services rendered prior to the making of such payment; and 
+"(7) the term 'principal investor' means the insured bank that has the largest dollar amount invested in the capital stock of a bank service corporation. In any case where two or more insured banks have equal dollar amounts invested in a bank service corporation, the corporation shall, prior to commencing operations, select one of the insured banks as its principal investor and shall notify the bank's appropriate Federal banking agency of that choice within 5 business days of its selection. 
+
+"AMOUNT OF INVESTMENT IN BANK SERVICE CORPORATION
+
+"SEC. 2. Notwithstanding any limitation or prohibition otherwise imposed by any provision of law exclusively relating to banks, an insured bank may invest not more than 10 per centum of paid-in and unimpaired capital and unimpaired surplus in a bank service corporation. No insured bank shall invest more than 5 per centum of its total assets in bank service corporations.
+
+"PERMISSIBLE BANK SERVICE CORPORATION ACTIVITIES FOR DEPOSITORY INSTITUTIONS
+
+"SEC. 3. Without regard to the provisions of sections 4 and 5 of this Act, an insured bank may invest in a bank service corporation that performs, and a bank service corporation may perform, the following services only for depository institutions: check and deposit sorting and posting, computation and posting of interest and other credits and charges, preparation and mailing of checks, statements, notices, and similar items, or any other clerical, bookkeeping, accounting, statistical, or similar functions performed for a depository institution.

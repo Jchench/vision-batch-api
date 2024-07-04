@@ -1,0 +1,20 @@
+PUBLIC LAW 100-86—AUG. 10, 1987            101 STAT. 655
+
+(b) LIQUIDATIONS SUBJECT TO REGULATION OF THE BOARD.—Section 208(c) of the Federal Credit Union Act (12 U.S.C. 1788(c)) is redesignated as subsection (j) of section 207 (12 U.S.C. 1787) and is amended by striking out "subject to the regulation of the court or other public body having jurisdiction over the matter" and inserting in lieu thereof "subject only to the regulation of the Board, or, in cases where the Board has been appointed liquidating agent solely by a public authority having jurisdiction over the matter other than said Board, subject only to the regulation of such public authority".
+(c) CONFORMING AMENDMENT.—Section 208(d) of the Federal Credit Union Act (12 U.S.C. 1788(d)) is redesignated as section 208(c).
+
+SEC. 715. TRANSFER OF FTC JURISDICTION TO NCUAB.
+(a) IN GENERAL.—
+(1) Sections 5(a)(2) and (6a) of the Federal Trade Commission Act (15 U.S.C. 45(a)(2) and 46(a)) are amended by inserting immediately after "section 18(f)(3)," the following: "Federal credit unions described in section 18(f)(4),".
+(2) Section 6(b) of the Federal Trade Commission Act (15 U.S.C. 46(b)) is amended by inserting immediately after "section 18(f)(3)," the following: "Federal credit unions described in section 18(f)(4),".
+(b) INVESTIGATION OF FOREIGN TRADE CONDITIONS; REPORTS.—The second proviso in section 6 of the Federal Trade Commission Act (15 U.S.C. 46) is amended—
+(1) by inserting immediately after "section 18(f)(3)," the fol- lowing: "Federal credit unions described in section 18(f)(4),"; and
+(2) by inserting immediately after "in business as a savings and loan institution," the following: "in business as a Federal credit union,".
+(c) REGULATIONS TO BE PRESCRIBED BY NCUAB.—
+(1) The second sentence of section 18(f)(1) of the Federal Trade Commission Act (15 U.S.C. 57a(f)(1)) is amended by inserting immediately after "paragraph (3))" the following: "and the National Credit Union Administration Board (with respect to Federal credit unions described in paragraph (4))".
+(2) The last sentence of section 18(f)(1) of the Federal Trade Commission Act (15 U.S.C. 57a(f)(1)) is amended—
+(A) by striking "either such" and inserting in lieu thereof "any such";
+(B) by inserting "or Federal credit unions described in paragraph (4)," immediately after "paragraph (3)," each place it appears therein; and
+(C) by inserting immediately after "with respect to banks" the following: ", savings and loan institutions or Federal credit unions".
+(3) Section 18(f) of the Federal Trade Commission Act (15 U.S.C. 57a(f)) is amended by redesignating paragraphs (4), (5), and (6) as paragraphs (5), (6), and (7), respectively, and by inserting immediately after paragraph (3) the following:
+"(4) Compliance with regulations prescribed under this subsection shall be enforced with respect to Federal credit unions under sections 120 and 206 of the Federal Credit Union Act (12 U.S.C. 1766 and 1786)."

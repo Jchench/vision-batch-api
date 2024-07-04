@@ -1,0 +1,31 @@
+PUBLIC LAW 100-86-AUG. 10, 1987
+
+“(C) Within 5 days of receiving notice under subparagraph (B), the Attorney General shall notify the Board in writing of the Attorney General’s preliminary finding as to the consistency of the possible acquisition with the antitrust laws.
+
+“(D) The Board may reduce or eliminate the post-approval waiting period established under paragraph (1) for an acquisition to which this paragraph applies, except that such period may not be eliminated or reduced to less than 5 days without the concurrence of the Attorney General.” 
+
+i) TECHNICAL AND CONFORMING AMENDMENTS.—Section 13(f) of the Federal Deposit Insurance Act (12 U.S.C. 1823(f)) is amended—
+(1) in paragraph (5), by striking out “to permit”; and
+(2) in paragraph (6)(A)—
+(A) by striking out “where the closed bank” and inserting in lieu thereof “where the bank”; and
+(B) by striking out “in-State bank holding company” and inserting in lieu thereof “in-State holding company”.
+
+SEC. 503. BRIDGE BANKS.
+
+(a) ESTABLISHMENT OF BRIDGE BANKS.—Section 11 of the Federal
+Deposit Insurance Act (12 U.S.C. 1821) is amended—
+(1) in subsection (h) by striking out “(h) As soon as” and inserting in lieu thereof “(h) NEW BANKS.—(1) As soon as”;
+(2) by redesignating subsections (i), (j), (k), and (l) as paragraphs (2), (3), (4), and (5) of subsection (h), respectively; and
+(3) by inserting after subsection (h)(5) (as redesignated by paragraph (2)) the following new subsection:
+“(i) BRIDGE BANKS.—
+“(1) ESTABLISHMENT.—When an insured bank is closed, the Corporation, in the Corporation’s discretion and subject to the conditions established in paragraph (2), may establish a bridge bank to—
+“(A) assume the deposits of the closed bank;
+“(B) assume such other liabilities of the closed bank as the Corporation, in the Corporation’s discretion, may determine to be appropriate;
+“(C) purchase such assets of the closed bank as the Corporation, in the Corporation’s discretion, may determine to be appropriate; and
+“(D) perform any other temporary function which the Corporation may prescribe in accordance with this Act.
+“(2) CONDITIONS.—A bridge bank may be established under paragraph (1) only if the Board of Directors determines that—
+“(A) the amount which is reasonably necessary to organize and operate such bridge bank will not exceed the amount which is reasonably necessary to save the cost of liquidating, including paying the insured accounts of, the closed bank or banks;
+“(B) the continued operation of such insured bank is essential to provide adequate banking services in the community where such bank is located; or
+“(C) that the continued operation of such insured bank is in the best interest of the depositors of the closed bank and the public.
+“(3) TRANSFER OF ASSETS AND LIABILITIES.—
+“(A) IN GENERAL.—Upon the organization of a bridge bank pursuant to this subsection, the Corporation, as re

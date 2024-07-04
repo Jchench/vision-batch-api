@@ -1,0 +1,41 @@
+PUBLIC LAW 100-86—AUG. 10, 1987
+
+“(C) insurance products deemed to be securities, including without limitation variable annuities and variable life insurance;
+
+“(D) securities of an investment company, as such term is defined in the Investment Company Act of 1940; and
+
+“(E) any securities to the extent such issuance, sale, underwriting, or distribution is permitted for national banks.
+
+15 USC 80a-1.
+
+“(5) REGULATIONS.—
+
+“(A) IN GENERAL.—The Corporation is authorized to issue rules and regulations and to publish interpretations governing the implementation of this subsection, and shall enforce the provisions of this subsection.
+
+Ante, p. 566.
+“(B) Federal deposit insurance corporation authority.—For the purpose of paragraph (4), the Federal Deposit Insurance Corporation is authorized to issue rules and regulations and publish interpretations with respect to savings banks and other institutions subject to section 18(j)(3) of the Federal Deposit Insurance Act.”.
+
+12 USC 1730a note.
+(b) EXPIRATION DATE.—The amendment made by subsection (a) shall cease to be effective on March 1, 1988.
+
+SEC. 107. MUTUAL HOLDING COMPANY AMENDMENTS.
+
+(a) IN GENERAL.—Section 408 of the National Housing Act (12 U.S.C. 1730a) is amended by inserting after subsection (r) (as added by section 106(a) of this title) the following new subsection:
+
+“(s) MUTUAL HOLDING COMPANIES.—
+
+“(1) IN GENERAL.—Notwithstanding any provision of Federal law other than this title, an insured institution operating in mutual form may reorganize so as to become a holding company by—
+
+“(A) chartering an interim savings institution, the stock of which is to be wholly owned by the mutual institution; and
+
+“(B) transferring the substantial part of its assets and liabilities, including all of its insured liabilities, to the interim savings institution.
+
+“(2) DIRECTORS AND CERTAIN ACCOUNT HOLDERS’ APPROVAL OF PLAN REQUIRED.—A reorganization is not authorized under this subsection unless—
+
+“(A) a plan providing for such reorganization has been approved by a majority of the board of directors of the mutual savings institution; and
+
+“(B) in the case of an institution in which holders of accounts and obligors exercise voting rights, such plan has been submitted to and approved by a majority of such individuals at a meeting held at the call of the directors in accordance with the procedures prescribed by the institution’s charter and bylaws.
+
+“(3) NOTICE TO THE CORPORATION; DISAPPROVAL PERIOD.—
+
+“(A) Notice required.—At least 60 days prior to taking any action described in paragraph (1), an insured institution seeking to establish a mutual holding company shall provide written notice to the Corporation. The notice shall contain such relevant information as the Corporation shall require by regulation or by specific request in connection with any particular notice.

@@ -1,0 +1,15 @@
+PUBLIC LAW 100-86—AUG. 10, 1987		101 STAT. 641
+
+(iii) a deposit made by a check drawn on a local originating depository institution (other than a check described in subsection (a)(2)); or
+(iv) a deposit made by a check drawn on a nonlocal originating depository institution (other than a check described in subsection (a)(2)).
+(C) APPLICABILITY.—This paragraph shall apply with respect to funds deposited at a nonproprietary automated teller machine after August 31, 1988, and before September 1, 1990.
+(2) NONPROPRIETARY ATM—PERMANENT SCHEDULE.—
+(A) CASH, GOVERNMENT CHECKS, AND LOCAL CHECKS.—Not more than 1 business day shall intervene between the business day on which a deposit described in paragraph (1)(B)(i), (ii), or (iii) is made at a nonproprietary automated teller machine (for deposit in an account at a depository institution) and the business day on which funds from such deposit are available for withdrawal.
+(B) NONLOCAL CHECKS.—Not more than 4 business days shall intervene between the business day a deposit described in paragraph (1)(B)(iv) is made at a nonproprietary automated teller machine (for deposit in an account at a depository institution) and the business day on which funds from such deposit are available for withdrawal.
+(C) DETERMINATION OF “LOCAL ORIGINATING DEPOSITORY INSTITUTION”.—For the purpose of this paragraph, a check is drawn on a local originating depository institution if that depository institution is located in the same check processing region as the receiving nonproprietary ATM.
+(D) APPLICABILITY.—This paragraph shall apply with respect to funds deposited at a nonproprietary automated teller machine on or after September 1, 1990.
+(3) PROPRIETARY ATM—TEMPORARY AND PERMANENT SCHEDULES.—The provisions of subsections (a), (b), and (c) shall apply with respect to any funds deposited at a proprietary automated teller machine for deposit in an account at a depository institution.
+(4) STUDY AND REPORT ON ATM’S.—The Board shall, either directly or through the Consumer Advisory Council, establish and maintain a dialogue with depository institutions and their suppliers on the computer software and hardware available for use by automated teller machines, and shall, not later than September 1 of each of the first 3 calendar years beginning after the date of the enactment of this title, report to the Congress regarding such software and hardware and regarding the potential for improving the processing of automated teller machine deposits.
+(f) CHECK RETURN; NOTICE OF NONPAYMENT.—No provision of this section shall be construed as requiring that, with respect to all checks deposited in a receiving depository institution—
+(1) such checks be physically returned to such depository institution; or
+(2) any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) or in the regulations issued under any such subsection.

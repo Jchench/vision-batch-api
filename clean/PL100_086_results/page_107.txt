@@ -1,0 +1,57 @@
+101 STAT. 658          PUBLIC LAW 100-86—AUG. 10, 1987
+
+SEC. 1002. TIME LIMIT ON PAYMENT OF TREASURY CHECKS
+Section 3328 of title 31, United States Code, is amended—
+(1) by striking out subsection (a) and inserting in lieu thereof
+the following:
+     “(a) TIME LIMIT ON TREASURY CHECKS.—
+        “(1) IN GENERAL.—Except as provided in sections 3329 and
+3330 of this title—
+           “(A) the Secretary shall not be required to pay a Treasury
+check issued on or after the effective date of this section
+unless it is negotiated to a financial institution within 12
+months after the date on which the check was issued; and
+           “(B) the Secretary shall not be required to pay a Treasury
+check issued before the effective date of this section unless
+it is negotiated to a financial institution within 12 months
+after such effective date.
+        “(2) DEFERRAL PENDING SETTLEMENT.—Notwithstanding the
+time limitations imposed by paragraph (1), if the Secretary is on
+notice of a question of law or fact about whether a Treasury
+check is properly payable when the check is presented for
+payment, the Secretary may defer payment on such check until
+the Comptroller General settles the question.
+        “(3) Nothing in this subsection shall be construed to affect the
+underlying obligation of the United States, or any agency
+thereof, for which a Treasury check was issued.’’; and
+(2) by adding at the end thereof the following:
+     “(f) AUTHORITY TO DECLINE PAYMENT.—Nothing in this section
+limits the authority of the Secretary to decline payment of a Treasury check after first examination thereof at the Treasury.”.
+
+SEC. 1003. CANCELLATION OF TREASURY CHECKS.
+Chapter 33 of title 31, United States Code, is amended by adding
+at the end of subchapter II the following new section:
+“§ 3334. Cancellation and proceeds distribution of Treasury checks
+
+      “(a) IN GENERAL.—(1) The Secretary shall provide monthly to each
+agency that authorizes the issuance of Treasury checks a list of
+those checks issued for such agency on or after such effective date
+that have not been paid and have become more than 12 months old
+during the preceding month, beginning with the fourteenth month
+following the effective date of this section.
+        “(2) Such checks shall be canceled by the Secretary and the
+proceeds thereof shall be returned to the agency concerned and
+credited to the appropriation or fund account initially charged for
+the payment.
+     “(b) CHECKS ISSUED BEFORE EFFECTIVE DATE.—(1) Not later than 18
+months after the effective date of this section, the Secretary shall
+identify and cancel all Treasury checks issued before such effective 
+date that have not been paid in accordance with section 3328 of this
+title.
+        “(2) The proceeds from checks canceled pursuant to paragraph (1)
+shall be applied to eliminate the balances in accounts that represent
+uncollectible accounts receivable and other costs associated with the 
+payment of checks and check claims by the Department of the
+Treasury on behalf of all payment certifying agencies. Any remain-
+ing proceeds shall be deposited to the miscellaneous receipts of the
+Treasury.

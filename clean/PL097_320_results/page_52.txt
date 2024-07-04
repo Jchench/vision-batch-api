@@ -1,0 +1,26 @@
+96 STAT. 1520                          PUBLIC LAW 97-320—OCT. 15, 1982
+
+12 USC 371c note.
+12 USC 371c.
+
+this section if it finds such exemptions to be in the public interest and consistent with the purposes of this section."
+
+(c) Section 23A of the Federal Reserve Act, as amended by this section, shall apply to any transaction entered into after the date of enactment of this Act, except for transactions which are the subject of a binding written contract or commitment entered into on or before July 28, 1982, and except that any renewal of a participation in a loan outstanding on July 28, 1982, to a company that becomes an affiliate as a result of the enactment of this Act, or any participation in a loan to such an affiliate emanating from the renewal of a binding written contract or commitment outstanding on July 28, 1982, shall not be subject to the collateral requirements of this Act.
+
+(d) Section 18(j) of the Federal Deposit Insurance Act (12 U.S.C. 1828(j)) is amended by striking out ", within the meaning of section 2 of the Banking Act of 1933, and".
+
+(e) Section 22(h)(6)(C) of the Federal Reserve Act (12 U.S.C. 375b- (6)(C)) is repealed and subparagraphs (D) through (G) of such section are redesignated as subparagraphs (C) through (F), respectively.
+
+(f) Section 106(b)(2)(E) of the Bank Holding Company Amendments of 1970 (12 U.S.C. 1972(2)(E)) is amended by striking out "the same meaning given it in section 23A of the Federal Reserve Act" and inserting in lieu thereof "the meaning prescribed by the Board pursuant to section 22(h) of the Federal Reserve Act (12 U.S.C. 375b)".
+
+(g) Section 10(d) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)) is amended by inserting "as in section 2(b) of the Banking Act of 1933 (12 U.S.C. 221a(b)) and" after "shall have the same meaning".
+
+EXEMPTION FROM RESERVE REQUIREMENTS
+
+Sec. 411. (a) Section 19(b) of the Federal Reserve Act (12 U.S.C. 461(b)) is amended by adding at the end thereof the following:
+
+"(11) ADDITIONAL EXEMPTIONS.—(A)(i) Notwithstanding the reserve requirement ratios established under paragraphs (2) and (5) of this subsection, a reserve ratio of zero per centum shall apply to any combination of reservable liabilities, which do not exceed $2,000,000 (as adjusted under subparagraph (B)), of each depository institution.
+
+"(ii) Each depository institution may designate, in accordance with such rules and regulations as the Board shall prescribe, the types and amounts of reservable liabilities to which the reserve ratio of zero per centum shall apply, except that transaction accounts which are designated to be subject to a reserve ratio of zero per centum shall be accounts which would otherwise be subject to a reserve ratio of 3 per centum under paragraph (2).
+
+"(iii) The Board shall minimize the reporting necessary to determine whether depository institutions have total reservable liabilities of less than $2,000,000 (as adjusted under subparagraph (B)). Consistent with the Board's responsibility to monitor and control monetary and credit aggregates, depository institutions which have reserve requirements under this subsection equal to zero per centum shall be subject to less overall reporting requirements than depository institutions which have a reserve requirement under this subsection that exceeds zero per centum.

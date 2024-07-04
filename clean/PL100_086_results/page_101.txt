@@ -1,0 +1,28 @@
+101 STAT. 652           PUBLIC LAW 100-86—AUG. 10, 1987
+
+check giving rise to the loss or liability, and, where there is bad faith, other damages, if any, suffered as a proximate consequence of any act or omission giving rise to the loss or liability.
+SEC. 612. PARITY IN CLEARING.
+(a) IN GENERAL.—Section 11A of the Federal Reserve Act (12 U.S.C. 248a) is amended by adding at the end thereof the following:
+"(e) All depository institutions, as defined in section 19(b)(1) (12 U.S.C. 461(b)(1)), may receive for deposit and as deposits any evidences of transaction accounts, as defined by section 19(b)(1) (12 U.S.C. 461(b)(1)) from other depository institutions, as defined in section 19(b)(1) (12 U.S.C. 461(b)(1)) or from any office of any Federal Reserve bank without regard to any Federal or State law restricting the number or the physical location or locations of such depository institutions.".
+(b) EFFECTIVE DATE.—The amendment made by subsection (a) shall take effect on the date of enactment of this title.
+SEC. 613. EFFECTIVE DATES.
+(a) DATE OF ENACTMENT.—Except as provided in subsection (b), this title shall take effect on the date of the enactment of this title.
+(b) 1 YEAR AFTER DATE OF ENACTMENT.—Sections 603, 604, 605, 606, 610, and 611 shall take effect on September 1, 1988.
+
+TITLE VII—CREDIT UNION AMENDMENTS 
+
+Credit Union Amendments of 1987.
+12 USC 1751 note
+
+SEC. 701. SHORT TITLE.
+This title may be cited as the "Credit Union Amendments of 1987".
+SEC. 702. SECOND MORTGAGE AND HOME IMPROVEMENT LOANS.
+Section 107(5)(A)(ii) of the Federal Credit Union Act (12 U.S.C. 1757(5)(A)(ii)) is amended by striking out "fifteen years" and all that follows and inserting in lieu thereof "15 years or any longer term which the Board may allow;".
+SEC. 703. OWNERSHIP INTEREST.
+Section 107(6) of the Federal Credit Union Act (12 U.S.C. 1757(6)) is amended by inserting ", representing equity," after "payments".
+SEC. 704. FAITHFUL PERFORMANCE.
+(a) FINANCIAL OFFICER.—Section 112 of the Federal Credit Union Act (12 U.S.C. 1761a) is amended by striking out the third sentence and inserting in lieu thereof the following: "The board shall elect from their number a financial officer who shall give adequate fidelity coverage in accordance with section 113(2) of this Act.".
+(b) ADEQUATE FIDELITY COVERAGE.—Section 113 of the Federal Credit Union Act (12 U.S.C. 1761b) is amended by striking out paragraph (2) and inserting in lieu thereof the following:
+"(2) provide adequate fidelity coverage for officers and employees having custody of or handling funds according to regulations issued by the Board;" .
+SEC. 705. MEMBERSHIP OFFICERS.
+Section 113(1) of the Federal Credit Union Act (12 U.S.C. 1761b(l)) is amended by striking out "of the board of directors" and inserting in lieu thereof "of the credit union".

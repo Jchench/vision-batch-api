@@ -1,0 +1,25 @@
+101 STAT. 642 PUBLIC LAW 100-86—AUG. 10, 1987
+
+12 USC 4003.
+SEC. 604. SAFEGUARD EXCEPTIONS.
+
+(a) NEW ACCOUNTS.—Notwithstanding section 603, in the case of any account established at a depository institution by a new depositor, the following provisions shall apply with respect to any deposit in such account during the 30-day period (or such shorter period as the Board may establish) beginning on the date such account is established—
+(1) NEXT BUSINESS DAY AVAILABILITY OF CASH AND CERTAIN ITEMS.— Except as provided in paragraph (3), in the case of—
+(A) any cash deposited in such account;
+(B) any funds received by such depository institution by wire transfer for deposit in such account;
+(C) any funds deposited in such account by cashier's check, certified check, teller's check, depository check, or traveler's check; and 
+(D) any funds deposited by a government check which is described in subparagraph (A), (B), or (C) of section 603(a)(2),
+such cash or funds shall be available for withdrawal on the business day after the business day on which such cash or funds are deposited or, in the case of a wire transfer, on the business day after the business day on which such funds are received for deposit.
+(2) AVAILABILITY OF OTHER ITEMS.—In the case of any funds deposited in such account by a check other than a check described in subparagraph (C) or (D) of paragraph (1), the availability for withdrawal of such funds shall not be subject to the provisions of section 603(b), 603(c), or paragraphs (1) and (2) of section 603(e).
+(3) LIMITATION RELATING TO CERTAIN CHECKS IN EXCESS OF $5,000.—In the case of funds deposited in such account during such period by checks described in subparagraph (C) or (D) of paragraph (1) the aggregate amount of which exceeds $5,000—
+ (A) paragraph (1) shall apply only with respect to the first $5,000 of such aggregate amount; and 
+(B) not more than 8 business days shall intervene between the business day on which any such funds are deposited and the business day on which such excess amount shall be available for withdrawal. 
+
+(b) LARGE OR REDEPOSITED CHECKS; REPEATED OVERDRAFTS.—The Board may, by regulation, establish reasonable exceptions to any time limitation established under subsection (b), (c), or (e) of section 603 for—
+(1) the amount of deposits by one or more checks that exceeds the amount of $5,000 in any one day;
+(2) checks that have been returned unpaid and redeposited; and 
+(3) deposit accounts which have been overdrawn repeatedly.
+
+ (c) REASONABLE CAUSE EXCEPTION.—
+
+ (1) IN GENERAL.—In accordance with regulations which the Board shall prescribe, subsections (a)(2)(F), (b), (c), and (e) of section 603 shall not apply with respect to any check deposited in an account at a depository institution if the receiving depository institution has reasonable cause to believe that the check is uncollectible from the originating depository institution. For purposes of the preceding sentence, reasonable cause to believe requires the existence of facts which would cause a well-

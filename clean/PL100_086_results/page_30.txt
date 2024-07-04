@@ -1,0 +1,21 @@
+PUBLIC LAW 100-86—AUG. 10, 1987
+
+"(ii) acquisitions which are approved by the holders of a majority of the voting stock of the institution to be acquired, or
+"(iii) acquisitions pursuant to subsection (m) of this section or section 406(f) or pursuant to acquisitions that are otherwise deemed to be supervisory cases by the Corporation."
+
+(b) AMENDMENT TO SECTION 407.—Section 407(q) of the National Housing Act (12 U.S.C. 1730(q)) is amended—
+(1) by redesignating paragraphs (8) through (18) as paragraphs (9) through (19), respectively;
+(2) by inserting a new paragraph (8) to read as follows:
+"(8) CONSIDERATION OF LOSS OF CERTAIN TAX BENEFITS.—
+"(A) IN GENERAL.—In each case in which a filing of any type is made under this subsection, or regulations prescribed under this section, before the acquisition of stock of an insured institution, the Corporation, in evaluating such filing, may consider the likelihood that the proposed acquisition will result in the loss or reduction of the tax benefits of an insured institution's net operating loss carryforwards under section 382 of the Internal Revenue Code of 1986.
+"(B) REQUIRED CONSIDERATION IN CERTAIN CASES.—The Corporation shall, with respect to any acquisition, give consideration to the likelihood of future loss or reduction of the tax benefits of an insured institution's net operating loss carryforwards under section 382 of the Internal Revenue Code of 1986 if such net operating loss carry forwards result from the insured institution's acquisition of one or more insured institutions under section 406(f) or 408(m) or pursuant to acquisitions that are otherwise deemed to be supervisory cases by the Corporation.
+"(C) PERMITTED TRANSACTIONS.—Notwithstanding subparagraph (A) or (B), the Corporation may permit—
+"(i) acquisitions in which the proposed acquirer commits itself in writing to maintain the ratio of tangible equity capital to liabilities of the insured institutions to be acquired, as determined in accordance with generally accepted accounting principles, in an amount equal to the ratio in existence at the time of filing with the Corporation,
+"(ii) acquisitions which are approved by the holders of a majority of the voting stock of the institution to be acquired, or
+"(iii) acquisitions under section 406(f) or 408(m), or are acquisitions that are otherwise deemed to be supervisory cases by the Corporation.".
+
+TITLE II—MORATORIUM ON CERTAIN NONBANKING ACTIVITIES
+
+SEC. 201. MORATORIUM ON CERTAIN NONBANKING ACTIVITIES.
+
+(a) APPLICABILITY.—The provisions of this section shall apply during the period beginning on March 6, 1987, and ending on March 1, 1988.

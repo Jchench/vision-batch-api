@@ -1,0 +1,25 @@
+PUBLIC LAW 100-86-AUG. 10, 1987
+
+term 'section 2(hX)(2) company' means any company whose shares are held pursuant to this paragrap.
+
+(3) Nothing in paragraph (2) authorizes a section 2(hX)(2) company to engage in (or acquire or hold more than 5 percent of the outstanding shares of any class of voting securities of a company engaged in) any banking, securitifes, insurance, or other financial activities, as defined by the Board, in the United States. This paragraph does not prohibit a section 2(hX)(2) company from holding shares that were lawfully acquired before the date of enactment of the Competitive Equity Banking Act of 1987.
+“(4) No domestic office or subsidiary of a bank holding company or subsidiary thereof holding shares of a section 2(hX)(2) company may extend credit to a domestic office or subsidiary of such section 2(hX)(2) company on terms more favorable than those afforded similar borrowers in the United States.
+“(5) No domestic banking office or bank subsidiary of a bank holding company that controls a section 2(hX)(2) company may offer or market products or services of such section 2(hX)(2) company, or permit its products or services to be offered or marketed by or through such section 2(hX)(2) company, unlees such products or services were being so offered or marketed as of March 5, 1987, and then only in the same manner in which they were being offered or marketed as of that date.”.
+
+TITLE III-FSLIC RECAPITALIZATION
+
+SEC. 301. SHORT TITLE.
+This title may be cited as the "Federal Savings and Loan Insurance Corporation Recapitalization Act of 1987".
+
+SEC. 302. FINANCING CORPORATION ESTABLISHED.
+The Federal Home Loan Bank Act (12 U.S.C. 1421 et seq.) is amended by inserting after section 20 the following new section:
+12 use 1441. "SEC. 21. FINANCING CORPORATION.
+
+"(a). ESTABLISHMENT.-Notwithstanding any other provision of law, the Board shall charter a corporation to be known as the Financing Corporation.
+"(b) MANAGEMENT OF FINANCING CORPORATION.(1) DIRECTORATE.-The Financing Corporation shall be under the management of a directorate composed of 3 members as follows:
+"(A) The Director of the Office of Finance of the Federal Home Loan Banks (or the head of any successor to such office).
+“(B) 2 members selected by the Federal Home Loan Bank Board from among the presidents of the Federal Home Loan Banks.
+"(2) TERMS.-Each member appointed under paragraph (1)(B) shall be appointed for a term of 1 year.
+"(3) VACANCY.-If any member leaves the office in which such member was serving when appointed to the Directorate-
+"(A) such member's service on the Directorate shall terminate on the date such member leaves such office; and
+"(B) the successor to the office of such member shall serve the remainder of such member's term.

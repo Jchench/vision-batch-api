@@ -1,0 +1,31 @@
+101 STAT. 606          PUBLIC LAW 100-86—AUG. 10, 1987
+
+Regulations.
+
+"(1) IN GENERAL.—Except as otherwise provided in this section, the Board shall prescribe, by regulation, uniform applicable accounting standards to be used by all associations for the purpose of determining compliance with any rule or regulation issued by the Board or the Federal Savings and Loan Insurance Corporation to the same degree that generally accepted accounting principles are used to determine compliance with rules and regulations of the Federal banking agencies.
+
+"(2) EXCEPTION FOR CERTAIN INSTITUTIONS AND TRANSACTIONS.—Notwithstanding the requirement contained in paragraph (1)(A), the Board may suspend the application of any such standard with respect to any association or transaction if—
+
+"(A) the application of such standard to an association and a company that controls such association would result in such association and company being treated differently than a bank and such bank's holding company considered on a consolidated basis; and
+
+"(B) the transaction was consistent with generally accepted accounting principles when such transaction was completed.
+
+"(c) ASSET EVALUATIONS.—The Board may not require an association to establish reserves against, or write down the value of, any asset in an amount in excess of the amount which would result from an evaluation of such asset which is consistent with generally accepted accounting principles, except that evaluations which are consistent with the practice of the Federal banking agencies may be used for supervisory purposes.
+
+"(d) ACCOUNTING FOR SUBORDINATED DEBT AND GOODWILL.—NO provision of this section shall affect the authority of the Board to authorize associations to utilize subordinated debt and goodwill in meeting reserve and other regulatory requirements.
+
+"(e) LOSS DEFERRALS.—Notwithstanding any other provision of this section—
+
+"(1) associations may continue, for purposes of determining regulatory net worth and capital, to defer and amortize gains and losses from the disposition of assets pursuant to regulations of the Board in effect before the enactment of the Thrift Industry Recovery Act; and
+
+"(2) the use of such deferrals and amortizations, consistently with the regulations referred to in paragraph (1), shall not reduce the ability of an association to comply with any other rule issued or regulation prescribed by the Board.
+
+"(f) FEDERAL BANKING AGENCY DEFINED.—For purposes of this section, the term 'Federal banking agency' means the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.”.
+
+12 USC 1730h.
+
+(b) STATE CHARTERED, FEDERALLY INSURED THRIFTS.—Title IV of the National Housing Act (12 U.S.C. 1724 et seq.) is amended by adding at the end thereof the following new section:
+
+"SEC. 415. ACCOUNTING PRINCIPLES AND OTHER STANDARDS AND REQUIREMENTS.
+Regulations.
+"(a) IN GENERAL.—The Corporation shall prescribe regulations which make the following provisions applicable to insured institutions for regulatory purposes:

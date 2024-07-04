@@ -1,0 +1,35 @@
+101 STAT. 654
+
+PUBLIC LAW 100-86—AUG. 10, 1987
+
+12 USC 1701.
+
+pany (as those terms are defined in the National Housing Act), and any institution chartered by and subject to regulation by the Farm Credit Administration without the prior written approval of the appropriate Federal regulatory agency.
+"(B) As used in subsection (g), the term 'insured institution' means an insured credit union or a depository institution whose accounts are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation.".
+
+SEC. 711. IMPOSITION OF CONSERVATORSHIP.
+
+Section 206(h)(1) of the Federal Credit Union Act (12 U.S.C. 1786(h)(1)) is amended—
+(1) by striking out "or" at the end of subparagraph (A); 
+(2) by striking out the period at the end of subparagraph (B) and inserting in lieu thereof a semicolon; and
+(3) by adding at the end thereof the following:
+"(C) there is a willful violation of a cease-and-desist order which has become final; or
+"(D) there is concealment of books, papers, records, or assets of the credit union or refusal to submit books, papers, records, or affairs of the credit union for inspection to any examiner or to any lawful agent of the Board.".
+
+SEC. 712. REDUCTION IN STATE COMMENT WAITING PERIOD.
+
+Section 206(h)(2)(B) of the Federal Credit Union Act (12 U.S.C. 1786(h)(2)(B)) is amended by striking out "ninety" and inserting in lieu thereof "30".
+
+SEC. 713. AUTHORITY AS CONSERVATOR.
+
+Section 206(h) of the Federal Credit Union Act (12 U.S.C. 1786(h)) is amended—
+(1) by redesignating paragraph (8) as paragraph (9); and
+(2) by inserting after paragraph (7) the following:
+"(8) The conservator shall have all the powers of the members, the directors, the officers, and the committees of the credit union and shall be authorized to operate the credit union in its own name or to conserve its assets in the manner and to the extent authorized by the Board.".
+
+SEC. 714. LIQUIDATION PROCEEDINGS.
+
+(a) APPLICATION FOR SHOW CAUSE ORDER.—Section 207(a)(1) of the Federal Credit Union Act (12 U.S.C. 1787(a)(1)) is amended—
+(1) by inserting "(A)" after "(1)"; and
+(2) by adding at the end thereof the following:
+"(B) Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant to subsection (b), such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for the District of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward the removal of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.".

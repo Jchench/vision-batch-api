@@ -1,0 +1,28 @@
+101 STAT. 648          PUBLIC LAW 100-86—AUG. 10, 1987
+
+(4) the Federal Reserve banks and depository institutions take such actions as are necessary to automate the process of returning unpaid checks;
+(5) each depository institution and Federal Reserve bank—
+     (A) place its endorsement, and other notations specified in regulations of the Board, on checks in the positions specified in such regulations; and 
+     (B) take such actions as are necessary to—
+           (i) automate the process of reading endorsements; and 
+           (ii) eliminate unnecessary endorsements;
+(6) within one business day after an originating depository institution is presented a check (for more than such minimum amount as the Board may prescribe)—
+     (A) such originating depository institution determines whether it will pay such check; and 
+     (B) if such originating depository institution determines that it will not pay such check, such originating depository institution directly notify the receiving depository institution of such determination;
+(7) regardless of where a check is cleared initially, all returned checks be eligible to be returned through the Federal Reserve System;
+(8) Federal Reserve banks and depository institutions participate in the development and implementation of an electronic 
+clearinghouse process to the extent the Board determines, pursuant to the study under subsection (f), that such a process is feasible; and 
+(9) originating depository institutions be permitted to return unpaid checks directly to, and obtain reimbursement for such checks directly from, the receiving depository institution.
+(c) REGULATORY RESPONSIBILITY OF BOARD FOR PAYMENT SYSTEM.—
+(1) RESPONSIBILITY FOR PAYMENT SYSTEM.—In order to carry 
+out the provisions of this title, the Board of Governors of the Federal Reserve System shall have the responsibility to regulate—
+     (A) any aspect of the payment system, including the receipt, payment, collection, or clearing of checks; and 
+     (B) any related function of the payment system with respect to checks.
+(2) REGULATIONS.—The Board shall prescribe such regulations as it may determine to be appropriate to carry out its responsibility under paragraph (1). 
+(d) REPORTS.— 
+(1) IMPLEMENTATION PROGRESS REPORTS.—
+     (A) REQUIRED REPORTS.—The Board shall transmit a report to both Houses of the Congress not later than 18, 30, and 48 months after the date of enactment of this title.
+     (B) CONTENTS OF REPORT.—Each such report shall describe—
+           (i) the actions taken and progress made by the Board to implement the schedules established in section 603, and  
+           (ii) the impact of this title on consumers and depository institutions.
+(2) EVALUATION OF TEMPORARY SCHEDULE REPORT.—

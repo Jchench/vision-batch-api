@@ -1,0 +1,30 @@
+96 STAT. 1524
+
+PUBLIC LAW 97-320--OCT. 15, 1982
+
+(1) by striking out "persons" in the first sentence and inserting in lieu thereof "person"; and (2) by striking out "(3)" in the last sentence and inserting in lieu thereof "(2)".
+
+(b) The first sentence of section 8(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1818(b)(3)) is amended by striking out "25A" and inserting in lieu thereof "25(a)".
+
+(c) Section 8(b) of the Federal Deposit Insurance Act (12 U.S.C. 1818(b)) is amended by adding at the end thereof the following:
+
+"(4) This subsection and subsections (c), (d), (h), (i), (k), (l), (m), and (n) of this section shall apply to any foreign bank or company to which subsection (a) of section 8 of the International Banking Act of 1978 applies and to any subsidiary (other than a bank) of any such foreign bank or company in the same manner as they apply to a bank holding company and any subsidiary thereof (other than a bank) under subparagraph (3) of this subsection. For the purposes of this paragraph, the term 'subsidiary' shall have the meaning assigned to it in section 2 of the Bank Holding Company Act of 1956.".
+
+(d) Section 205(2) of the Depository Institution Management Interlocks Act (12 U.S.C. 3204(2)) is amended by striking "25A" and inserting in lieu thereof "25(a)".
+
+MANAGEMENT INTERLOCKS
+
+SEC. 426. The Depository Institution Management Interlocks Act is amended by adding at the end thereof the following new section: 
+
+"SEC. 210. (a) For the purpose of the exercise by the Attorney General of his enforcement functions under section 207(6) of this title, all of the functions and powers of the Attorney General under the Clayton Act are available to the Attorney General, irrespective of any jurisdictional tests in the Clayton Act, including the power to take enforcement actions in the same manner as if the violation had been a violation of the Clayton Act.
+
+"(b) All of the functions and powers of the Attorney General or the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice are available to the Attorney General or to such Assistant Attorney General to investigate possible violations under section 207(6) of the title in the same manner as if such possible violations were possible violations of the Clayton Act.".
+
+REMOVAL AUTHORITY
+
+SEC. 427. (a) Section 5(d) of the Home Owners' Loan Act of 1933 (12 U.S.C. 1464(d)) is amended--
+
+(1) by redesignating paragraphs (4)(C) through (E) as paragraphs (4)(D) through (F), respectively, and by inserting after paragraph (4)(B) the following new paragraph:
+
+"(C) Whenever, in the opinion of the Board, any director or officer of an association has committed a violation of the Depository Institution Management Interlocks Act (12 U.S.C. 3201 et seq.), the Board may serve upon such director or officer a written notice of its intention to remove him from office or to prohibit his further participation in any manner in the conduct of the affairs of the association.";
+(2) by striking out "'(A) or (B)’ each place it appears in paragraphs (4)(D) and (4)(F), as redesignated, and inserting in lieu thereof "(A), (B), or (C)";

@@ -1,0 +1,18 @@
+101 STAT. 566		PUBLIC LAW 100-86—AUG. 10, 1987
+
+"(e) REGULATIONS.—The Board may prescribe regulations to administer and carry out the purposes of this section, including—
+		"(1) regulations to further define terms used in this section; and
+		"(2) regulations to—
+			"(A) exempt transactions or relationships from the requirements of this section; and
+			"(B) exclude any subsidiary of a bank holding company from the definition of affiliate for purposes of this section, if the Board finds such exemptions or exclusions are in the public interest and are consistent with the purposes of this section.".
+	(b) CONFORMING AMENDMENTS.—Section 18(j) of the Federal Deposit Insurance Act (12 U.S.C. 1828(j)) is hereby amended—
+		(1) by inserting "and section 23B" after "section 23A" at each place it appears in paragraph (1); and
+		(2) by inserting ", 23B," after "23A" in paragraph (3)(A).
+	(c) TREATMENT OF EDGE ACT AND AGREEMENT CORPORATIONS FOR PURPOSES OF THE BANK HOLDING COMPANY ACT.—
+		(1) IN GENERAL.—The paragraph of section 25(a) of the Federal Reserve Act which begins "Except as otherwise provided in this section, a majority" (the 11th full paragraph) (12 U.S.C. 619) is amended by adding at the end thereof the following: "Any company, other than a bank as defined in section 2 of the Bank Holding Company Act of 1956, that after March 5, 1987, directly or indirectly acquires control of a corporation organized or operating under the provisions of this section or section 25 shall be subject to the provisions of the Bank Holding Company Act of 1956 in the same manner and to the same extent that bank holding companies are subject thereto, except that such a company shall not by reason of this paragraph be deemed a bank holding company for the purpose of section 3 of the Bank Holding Company Act of 1956.".
+		(2) EXCEPTION.—The amendment made by paragraph (1) does not apply to an acquisition pursuant to the application by Midland Bank, plc, London, England, pending before the Board of Governors of the Federal Reserve System on July 1, 1987, to acquire a corporation organized or operating under section 25(a) of the Federal Reserve Act. If Midland Bank, plc, London, England, is not otherwise subject to section 4 of the Bank Holding Company Act of 1956, the financial activities of Midland Bank, plc, London, England, in the United States shall, upon the determination of the Board of Governors of the Federal Reserve System made at any time, be subject to section 4 of the Bank Holding Company Act of 1956.
+
+SEC. 103. SECURITIES AFFILIATIONS OF NONMEMBER INSURED BANKS.
+	(a) IN GENERAL.—Section 18(j) of the Federal Deposit Insurance Act (12 U.S.C. 1828(j)) is amended by redesignating paragraph (3) (as amended by section 102(b)(2)) and paragraph (4) as paragraphs (4) and (5), respectively, and by inserting after paragraph (2) the following new paragraph:
+		"(3) SECURITIES AFFILIATIONS OF INSURED NONMEMBER BANKS.—
+			"(A) IN GENERAL.—The provisions of section 20 of the Banking Act of 1933 (relating to affiliations between member banks and organizations engaged principally in certain securities activities), and the provisions of section 32 of the Banking Act of 1933

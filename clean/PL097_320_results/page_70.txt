@@ -1,0 +1,24 @@
+96 STAT. 1538
+
+PUBLIC LAW 97-320—OCT. 15, 1982
+
+That such bank holding company and its subsidiaries may not engage in the sale of life insurance or annuities except as provided in subparagraph (A), (B), or (C).”.
+
+TITLE VII—MISCELLANEOUS
+
+AMENDMENT TO THE TRUTH IN LENDING ACT
+
+Sec. 701. (a) Section 104 of the Truth in Lending Act (15 U.S.C. 1601) is amended by adding at the end thereof the following:
+    “(6) Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.).”
+    (b) Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) shall not be subject to any disclosure requirements of any State law.
+    (c) The amendment made by subsection (a) and subsection (b) shall be effective both with respect to loans made prior to and after the date of enactment of this Act.
+
+DEFINITION OF CREDITOR
+
+Sec. 702. (a) Section 103(f) of the Truth in Lending Act (15 U.S.C. 1602(f)) is amended to read as follows:
+    “(f) The term ‘creditor’ refers only to a person who both (1) regularly extends, whether in connection with loans, sales of property or services, or otherwise, consumer credit which is payable by agreement in more than four installments or for which the payment of a finance charge is or may be required, and (2) is the person to whom the debt arising from the consumer credit transaction is initially payable on the face of the evidence of indebtedness or, if there is no such evidence of indebtedness, by agreement. Notwithstanding the preceding sentence, in the case of an open-end credit plan involving a credit card, the card issuer and any person who honors the credit card and offers a discount which is a finance charge are creditors. For the purposes of the requirements imposed under chapter 4 and sections 127(a)(5), 127(a)(6), 127(a)(7), 127(b)(1), 127(b)(2), 127(b)(3), 127(b)(8), and 127(b)(10) of chapter 2 of this title, the term ‘creditor’ shall also include card issuers whether or not the amount due is payable by agreement in more than four installments or the payment of a finance charge is or may be required, and the Board shall, by regulation, apply these requirements to such card issuers, to the extent appropriate, even though the requirements are by their terms applicable only to creditors offering open-end credit plans.”
+    (b) The amendment made by subsection (a) shall take effect on the effective date of title VI of the Depository Institutions Deregulation and Monetary Control Act of 1980.
+
+INDUSTRIAL BANKS ELIGIBILITY FOR FDIC INSURANCE
+
+Sec. 703. (a) Section 3(a) of the Federal Deposit Insurance Act (12 U.S.C. 1813(a)) is amended by inserting “industrial bank or similar financial institution which the Board of Directors finds to be operating substantially in the same manner as an industrial bank,” before “or other banking institution”.

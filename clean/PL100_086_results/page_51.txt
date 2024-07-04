@@ -1,0 +1,22 @@
+101 STAT. 602
+
+PUBLIC LAW 100-86—AUG. 10, 1987
+
+"(e) PRIORITY OF CERTAIN SECURED INTERESTS.—Notwithstanding any other provision of law, any security interest granted to a Federal Home Loan Bank by any member of any Federal Home Loan Bank or any affiliate of any such member shall be entitled to priority over the claims and rights of any party (including any receiver, conservator, trustee, or similar party having rights of a lien creditor) other than claims and rights that—
+"(1) would be entitled to priority under otherwise applicable law; and
+"(2) are held by actual bona fide purchasers for value or by actual secured parties that are secured by actual perfected security interests.".
+(e) COORDINATION OF TERMINATION ASSESSMENT WITH FINAL INSURANCE PREMIUM.—Section 407(d) of the National Housing Act (12 U.S.C. 1730(d)) is amended—
+(1) by striking out "(d)" and inserting in lieu thereof "(dXl) Final Insurance Premium"; and
+(2) by adding at the end thereof the following new paragraph:
+"(2) EXCEPTION RELATING TO FINAL INSURANCE PREMIUM.—If an institution (whose status as an insured institution is terminated) pays an assessment to the Financing Corporation under section 21(f)(4) of the Federal Home Loan Bank Act with respect to such termination, the institution shall not be obligated to pay the final insurance premium described in the third sentence of paragraph (1).".
+(f) SECTION 404(f) DOES NOT APPLY TO INSTITUTIONS WHICH CEASE TO BE FSLIC INSURED.—Section 404(f) of the National Housing Act (12 U.S.C. 1727(f)) is amended—
+(1) by striking out "(f) If" and inserting in lieu thereof "(f)(1) Pro Rata Distribution on Termination of Insured Status.—If"; and
+(2) by adding at the end thereof the following new paragraph:
+"(2) EXCEPTION.—In the case of an institution which—
+"(A) ceases to be an insured institution; and
+"(B) is required to pay an assessment to the Financing Corporation under section 21(f)(4) of the Federal Home Loan Bank Act with respect to the termination of such insured status, paragraph (1), the last sentence of subsection (c)(1), and subsection (i)(4) shall not apply with respect to such institution.".
+(g) SECONDARY RESERVE.—Section 404 of the National Housing Act (12 U.S.C. 1727) is amended by striking out subsection (h).
+(h) 1-YEAR PROHIBITION ON TERMINATION OF FSLIC INSURED STATUS.—
+(1) IN GENERAL.—No association or insured institution may take any action which would result in the voluntary termination of its status as an insured institution during the 1-year period beginning on the date of the enactment of this Act.
+(2) EXCEPTION.—Paragraph (1) shall not apply with respect to any association or institution described in section 21(f)(4)(F) of the Federal Home Loan Bank Act (as added by section 302 of this title).
+(3) AUTHORITY OF FSLIC TO ARRANGE EMERGENCY ACQUISITIONS NOT AFFECTED.—Paragraph (1) shall not affect the authority of the Federal Savings and Loan Insurance Corporation to arrange for the acquisition of an association or insured institution under section 406(f) or 408(m) of the National Housing Act.

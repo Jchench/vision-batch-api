@@ -1,0 +1,18 @@
+96 STAT. 1492    PUBLIC LAW 97-320—OCT. 15, 1982
+
+"(L) The Corporation may provide assistance to a qualified institution which is not an insured institution only if the State fund which insures or guarantees the deposits of such qualified institution enters into an agreement with the Corporation which provides that—
+	"(i) the State fund will indemnify the Corporation for any losses which the Corporation may incur as a result of providing assistance under this paragraph to such qualified institution; and
+	"(ii) during any period when such qualified institution has outstanding capital instruments issued in accordance with this paragraph, the State insurance fund maintains a level of assessments on its members which results in costs to its members which are at least equivalent to the premium assessments paid to the Corporation by insured institutions during such period.
+"(M) During any period in which a qualified institution which has a stock form of ownership has outstanding certificates under this paragraph, such qualified insured institution may not pay dividends to its shareholders."
+(b) Section 5(b)(5) of the Home Owners' Loan Act of 1933 (12 U.S.C. 1464(b)(5)) is amended—
+	(1) by striking out subparagraph (B) and inserting in lieu thereof the following:
+		"(B) Net worth certificates issued by an association pursuant to section 406(f) of the National Housing Act shall constitute part of the general reserves and net worth of the association, in accordance with the rules and regulations of the Board."; and
+	(2) by adding at the end thereof a new subparagraph (C) as follows:
+		"(C) The Board shall provide in its rules and regulations for charging losses to mutual capital certificates, net worth certificates issued pursuant to section 406(f) of the National Housing Act, reserves, and other net worth accounts."
+(c) Section 403(b) of the National Housing Act (12 U.S.C. 1726(b)) is amended—
+	(1) in the fourth-to-last sentence by inserting after "items," the following: "including net worth certificates issued pursuant to section 406(f) of this Act,"; and 
+	(2) in the second-to-last sentence by striking out "the mutual capital certificate" and inserting in lieu thereof "mutual capital certificates, net worth certificates issued pursuant to section 406(f) of this Act," 
+(d) Section 403(b) of the National Housing Act (12 U.S.C. 1726(b)) is amended by striking out "will provide adequate reserves satisfactory to the Corporation" and all that follows through the end of the sentence immediately preceding the fourth sentence from the end of such subsection, and inserting in lieu thereof the following: "and will provide adequate reserves in a form satisfactory to the Corporation, to be established in accordance with regulations made by the Corporation."
+			INSURED BANKS
+Sec. 203. Section 13 of the Federal Deposit Insurance Act (12 U.S.C. 1823), as amended by section 113 of this Act is amended by adding at the end thereof the following:
+		"(i)(1XA) Notwithstanding any other provision of State or Federal law, and without limitation on any authority provided elsewhere in

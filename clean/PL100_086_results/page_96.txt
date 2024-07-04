@@ -1,0 +1,27 @@
+PUBLIC LAW 100-86--AUG. 10, 1987
+
+101 STAT. 647
+
+(d) PROHIBITION ON FREEZING CERTAIN FUNDS IN AN ACCOUNT.--In any case in which a check is deposited in an account at a depository institution and the funds represented by such check are not yet available for withdrawal pursuant to this title, the depository institution may not freeze any other funds in such account (which are otherwise available for withdrawal pursuant to this title) solely because the funds so deposited are not yet available for withdrawal.
+
+(e) EMPLOYEE TRAINING ON AND COMPLIANCE WITH THE REQUIREMENTS OF THIS TITLE.--Each depository institution shall--
+(1) take such actions as may be necessary fully to inform each employee (who performs duties subject to the requirements of this title) of the requirements of this title; and
+(2) establish and maintain procedures reasonably designed to assure and monitor employee compliance with such requirements.
+
+SEC. 608. EFFECT ON STATE LAW.
+
+(a) IN GENERAL.--Any law or regulation of any State in effect on September 1, 1989, which requires that funds deposited or received for deposit in an account at a depository institution chartered by such State be made available for withdrawal in a shorter period of time than the period of time provided in this title or in regulations prescribed by the Board under this title (as in effect on September 1, 1989) shall--
+(1) supersede the provisions of this title and any regulations by the Board to the extent such provisions relate to the time by which funds deposited or received for deposit in the account shall be available for withdrawal; and
+(2) apply to all federally insured depository institutions located within such State.
+(b) OVERRIDE OF CERTAIN STATE LAWS.--Except as provided in subsection (a), this title and regulations prescribed under this title shall supersede any provision of the law of any State, including the Uniform Commercial Code as in effect in such State, which is inconsistent with this title or such regulations.
+
+SEC. 609. REGULATIONS AND REPORTS BY BOARD.
+
+(a) IN GENERAL.--After notice and opportunity to submit comment   in accordance with section 553(c) of title 5, United States Code, the Board shall prescribe regulations--
+(1) to carry out the provisions of this title;
+(2) to prevent the circumvention or evasion of such provisions; and
+(3) to facilitate compliance with such provisions.
+(b) REGULATIONS RELATING TO IMPROVEMENT OF CHECK PROCESSING SYSTEM.--In order to improve the check processing system, the Board shall consider (among other proposals) requiring, by regulation, that--
+(1) depository institutions be charged based upon notification that a check or similar instrument will be presented for payment;
+(2) the Federal Reserve banks and depository institutions provide for check truncation;
+(3) depository institutions be provided incentives to return items promptly to the depository institution of first deposit;

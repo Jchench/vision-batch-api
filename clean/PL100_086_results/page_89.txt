@@ -1,0 +1,21 @@
+101 STAT. 640            PUBLIC LAW 100-86—AUG. 10, 1987
+
+the business day after the business day on which such funds otherwise are available under subparagraph (A).
+(ii) 5 P.M. CASH AVAILABILITY.—Not more than $400 (or the maximum amount allowable in the case of a withdrawal from an automated teller machine not more than $400) of funds deposited by one or more checks to which this subparagraph applies shall be available for cash withdrawal not later than 5 o’clock post meridian of the business day on which such funds are available under subparagraph (A).
+(iii) $100 AVAILABILITY.—Any amount available for withdrawal under this subparagraph shall be in addition to the amount available under subsection (a)(2)(D).
+
+(2) AVAILABILITY OF NONLOCAL CHECKS. — Subject to subsections (a)(2), (d), and (e) of this section and section 604, not more than 6 business days shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a nonlocal originating depository institution and the business day on which such funds are available for withdrawal.
+(3) APPLICABILITY. — This subsection shall apply with respect to funds deposited by checks in an account at a depository institution after August 31, 1988, and before September 1, 1990, except as may be otherwise provided under subsection (b)(4).
+
+(d) TIME PERIOD ADJUSTMENTS. —
+(1) REDUCTION GENERALLY. — Notwithstanding any other provision of law, the Board shall, by regulation, reduce the time periods established under subsections (b), (c), and (e) to as short a time as possible and equal to the period of time achievable under the improved check clearing system for a receiving depository institution to reasonably expect to learn of the nonpayment of most items for each category of checks.
+(2) EXTENSION FOR CERTAIN DEPOSITS IN NONCONTIGUOUS STATES OR TERRITORIES. — Notwithstanding any other provision of law, any time period established under subsection (b)(c), or (e) shall be extended by 1 business day in the case of any deposit which is both —
+(A) deposited in an account at a depository institution which is located in Alaska, Hawaii, Puerto Rico, or the Virgin Islands; and
+(B) deposited by a check drawn on an originating depository institution which is not located in the same State, Commonwealth, or territory as the receiving depository institution.
+
+(e) DEPOSITS AT AN ATM. —
+(1) NONPROPRIETARY ATM — TEMPORARY SCHEDULE. —
+(A) IN GENERAL. — Not more than 6 business days shall intervene between the business day a deposit described in subparagraph (B) is made at a nonproprietary automated teller machine (for deposit in an account at a depository institution) and the business day on which funds from such deposit are available for withdrawal.
+(B) DEPOSITS DESCRIBED IN THIS PARAGRAPH. — A deposit is described in this subparagraph if it is—
+(i) a cash deposit;
+(ii) a deposit made by a check described in subsection (a)(2);

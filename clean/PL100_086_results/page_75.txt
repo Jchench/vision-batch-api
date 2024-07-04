@@ -1,0 +1,28 @@
+101 STAT. 626		PUBLIC LAW 100-86-AUG. 10, 1987
+
+the Federal Deposit Insurance Act (12 U.S.C. 1823(f)(6)) is amended-
+(A) in subparagraph (B), by striking out clause (ii) and all that follows through clause (iv) and inserting in lieu thereof the following new clauses:
+“(ii) Second, between depository institutions of the same type-
+“(I) in different States which by statute specifically authorize such acquisitions; or 
+“(II) in the absence of such statutes, in different States which are contiguous.
+“(iii) Third, between depository institutions of the same type in different States other than the States described in clause (ii).
+“(iv) Fourth, between depository institutions of different types in the same State.
+“(v) Fifth, between depository institutions of different types-
+“(I) in different States which by statute specifically authorize such acquisitions; or 
+“(II) in the absence of such statutes, in different States which are contiguous.
+“(vi) Sixth, between depository institutions of different types in different States other than the States described in clause (v).”; and 
+(B) by amending subparagraph (C) to read as follows:
+“(C) MINORITY BANK PRIORITY.-In the case of a minority-controlled bank, the Corporation shall seek an offer from other minority-controlled banks before proceeding with the bidding priorities set forth in subparagraph (B).”.
+
+(3) REAFFIRMATION OF THE RULE THAT NO ASSISTANCE IS AUTHORIZED FOR NONBANK SUBSIDIARIES OF HOLDING COMPANIES.-
+Section 13(f) of the Federal Deposit Insurance Act (12 U.S.C. 1823(f)) is amended by adding at the end thereof the following new paragraph:
+“(9) NO ASSISTANCE AUTHORIZED FOR NONBANK SUBSIDIARIES OF HOLDING COMPANIES.- 
+“(A) IN GENERAL.-The Corporation shall not provide any assistance to a subsidiary of a holding company which is not an insured bank in connection with any acquisition under this subsection.
+“(B) INTERMEDIATE HOLDING COMPANY PERMITTED.-This paragraph does not prohibit an intermediate holding company from being a conduit for assistance ultimately intended for an insured bank.”.
+
+(4) REPORTS REQUIRED.-Section 13(f) of the Federal Deposit Insurance Act (12 U.S.C. 1823(f)) is amended by adding after paragraph (9) (as added by paragraph (3) of this subsection) the following new paragraph:
+“(10) ANNUAL REPORT.-
+“(A) REQUIRED.-In its annual report to Congress the Corporation shall include a report on the acquisitions under this subsection during the preceding year.
+“(B) CONTENTS.-The report required under subparagraph (A) shall contain the following information:
+“(i) The number of acquisitions under this subsection.
+“(ii) A brief description of each such acquisition and the circumstances under which such acquisition occurred.”.

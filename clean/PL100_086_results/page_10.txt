@@ -1,0 +1,32 @@
+PUBLIC LAW 100-86-AUG. 10, 1987 101 STAT. 561
+
+described in paragraph (1) in an acquisition under section 408(b) of the National Housing Act; and
+
+"(B) either-
+"(i) the insured institution is located in a State in which such company controlled a bank on March 5, 1987; or
+"(ii) the insured institution has total assets of $500,000,000 or more at the time of such acquisition.
+
+"(g) LIMITATIONS ON CERTAIN BANKS.- 
+
+"(1) IN GENERAL.-Notwithstanding any other provision of this section (other than the last sentence of subsection (a)(2)), a bank holding company which controls an institution that became a bank as a result of the enactment of the Competitive Equality Amendments of 1987 may retain control of such institution if such institution does not-
+
+"(A) engage in any activity after the date of the enactment of such Amendments which would have caused such institution to be a bank (as defined in section 2(c), as in effect before such date) if such activities had been engaged in before such date; or
+
+"(B) increase the number of locations from which such institution conducts business after March 5, 1987.
+
+"(2) LIMITATIONS CEASE TO APPLY UNDER CERTAIN CIRCUMSTANCES.-The limitations contained in paragraph (1) shall cease to apply to a bank described in such paragraph at such time as the acquisition of such bank, by the bank holding company referred to in such paragraph, would not be prohibited under section 3(d) of this Act if-
+
+"(A) an application for such acquisition were filed under section 3(a) of this Act; and
+"(B) such bank were treated as an additional bank (under section 3(d)).
+
+"(h) TYING PROVISIONS.-
+
+"(1) APPLICABLE TO CERTAIN EXEMPT INSTITUTIONS AND PARENT COMPANIES.-An institution described in subparagraph (D), (F), (G), (H), (l), or (J) of section 2(c)(2) shall be treated as a bank, and a company that controls such an institution shall be treated as a bank holding company, for purposes of section 106 of the Bank Holding Company Act Amendments of 1970 and section 22(h) of the Federal Reserve Act and any regulation prescribed under any such section.
+
+"(2) APPLICABLE WITH RESPECT TO CERTAIN TRANSACTIONS.-A company that controls an institution described in subparagraph (D), (F), (G), (H), (l), or (J) of section 2(c)(2) and any of such company's other affiliates, shall be subject to the tying restrictions of section 106 of the Bank Holding Company Act Amendments of 1970 in connection with any transaction involving the products or services of such company or affiliate and those of such institution, as if such company or affiliate were a bank and such institution were a subsidiary of a bank holding company.".
+
+(d) SAVINGS BANK ACTIVITIES.-Section 3 of the Bank Holding Company Act of 1956 (12 U.S.C. 1842) is amended by adding at the end thereof the following new subsection:
+
+"(f) SAVINGS BANK SUBSIDIARIES OF BANK HOLDING COMPANIES.-
+
+"(1) IN GENERAL.-Notwithstanding any other provision of this Act (other than paragraphs (2) and (3)), any qualified savings bank which is a subsidiary of a bank holding company

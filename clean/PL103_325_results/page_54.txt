@@ -1,0 +1,59 @@
+PUBLIC LAW 103-325—SEPT. 23, 1994                       108 STAT. 2213
+
+(b) SIZE OF ASSISTED BORROWER.—The Fund shall not provide 
+any reimbursement to a participating State with respect to an
+enrolled loan made to a borrower that has 500 or more employees
+at the time that the loan is enrolled in the Program.
+(c) THREE-YEAR MAXIMUM.—The amount of reimbursement to
+be provided by the Fund to a participating State over any 3-
+year period in connection with loans made to any single borrower 
+or any group of borrowers among which a common enterprise exists
+shall not exceed $75,000. For purposes of this subsection, "common
+enterprise" shall have the same meaning as in part 32 of title
+12 of the Code of Federal Regulations, or any successor to that 
+part.
+(d) LOANS TOTALING LESS THAN $2,000,000.—In connection
+with a loan in which the covered amount of the loan plus the 
+covered amount of all previous loans enrolled by a participating
+financial institution does not exceed $2,000,000, the amount of
+reimbursement by the Fund to the participating State shall not 
+exceed the lesser of—
+(1) 75 percent of the sum of the premium charges paid
+to the reserve fund by the borrower and the participating 
+financial institution; or
+(2) 5.25 percent of the covered amount of the loan.
+(e) LOANS TOTALING MORE THAN $2,000,000.—In connection
+with a loan in which the sum of the covered amounts of all previous 
+loans enrolled by the participating financial institution in the Pro-
+gram equals or exceeds $2,000,000, the amount of reimbursement 
+to be provided by the Fund to the participating State shall not
+exceed the lesser of—
+(1) 50 percent of the sum of the premium charges paid 
+by the borrower and the participating financial institution; 
+or
+(2) 3.5 percent of the covered amount of the loan.
+(f) OTHER AMOUNTS.—In connection with the enrollment of
+a loan that will cause the aggregate covered amount of all enrolled
+loans to exceed $2,000,000, the amount of reimbursement by the 
+Fund to the participating State shall be determined—
+(1) by applying subsection (d) to the portion of the loan,
+which when added to the aggregate covered amount of all
+previously enrolled loans equals $2,000,000; and
+(2) by applying subsection (e) to the balance of the loan.
+
+SEC. 258. REIMBURSEMENT TO THE FUND.                                        12 USC 4748.
+(a) IN GENERAL.—If a participating State withdraws funds from 
+a reserve fund pursuant to terms of the participation agreement
+permitted by subsection (d) or (r) of section 255, such participating
+State shall, not later than 15 calendar days after such withdrawal,
+submit to the Fund an amount computed by multiplying the amount
+withdrawn by the appropriate factor, as determined under sub-
+section (b).
+(b) FACTOR.—The appropriate factor shall be obtained by divid-
+ing the total amount of contributions that have been made by
+the participating State to all reserve funds which were subject
+to reimbursement—
+(1) by 2; and
+(2) by the total amount of contributions made by the partici-
+pating State to all reserve funds, including if applicable, con-
+tributions that have been made by the State prior to becoming

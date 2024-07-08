@@ -1,0 +1,19 @@
+PUBLIC LAW 103-325—SEPT. 23, 1994 108 STAT. 2233
+-----------------------------------------------------------------------------------------------
+(1) ACCOUNT.—The term ‘account’ means any account intended for use by and generally used by consumers primarily for personal, family, or household purposes that is offered by a depository institution into which a consumer deposits funds, including demand accounts, time accounts, negotiable order of withdrawal accounts, and share draft accounts.’’ SEC. 333. STUDY ON CHECK-RELATED FRAUD.
+
+(a) STUDY.—The Board of Governors of the Federal Reserve System (hereafter in this section referred to as the ‘‘Board’’) shall conduct a study on the advisability of extending the 1-business- day period specified in section 603(b)(1) of the Expedited Funds Availability Act, regarding availability of funds deposited by local checks, to 2 business days.
+
+(b) CONSIDERATIONS.—In conducting the study under subsection (a), the Board shall consider— (1) whether there is a pattern of significant increases in check-related losses at depository institutions attributable to the provisions of the Expedited Funds Availability Act; and (2) whether extension of the time period referred to in subsection (a) is necessary to diminish the volume of any such check-related losses.
+
+(c) REPORT TO THE CONGRESS.—Not later than 2 years after the date of enactment of this Act, the Board shall submit a report to the Congress concerning the results of the study conducted under this section and including any recommendations for legislative action.
+
+SEC. 334. INSIDER LENDING.
+
+(a) LOANS TO EXECUTIVE OFFICERS BY MEMBER BANKS.—Section 22(g)(2) of the Federal Reserve Act (12 U.S.C. 375a(2)) is amended by striking ‘‘With the specific prior approval of its board of directors, a member’’ and inserting ‘‘A member’’.
+
+(b) EXTENSIONS OF CREDIT TO EXECUTIVE OFFICERS, DIRECTORS, AND PRINCIPAL SHAREHOLDERS OF MEMBER BANKS.—Section 22(h)(8) of the Federal Reserve Act (12 U.S.C. 375b(8)) is amended— (1) by striking ‘‘MEMBER BANK.—For’’ and inserting the following: ‘‘MEMBER BANK.— (A) IN GENERAL.—For’’; and (2) by adding at the end the following: ‘‘(B) EXCEPTION.—The Board may, by regulation, make exceptions to subparagraph (A), except as that subpara- graph makes applicable paragraph (2), for an executive officer or director of a subsidiary of a company that controls the member bank, if that executive officer or director does not have authority to participate, and does not participate, in major policymaking functions of the member bank.’’.
+
+SEC. 335. REVISIONS OF STANDARDS.
+
+Section 305(b)(1) of the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 1828 note) is amended— (1) in subparagraph (A), by striking ‘‘and’’ at the end; (2) in subparagraph (B), by striking the period at the end and inserting ‘‘; and’’; and (3) by adding at the end the following new subparagraph: ‘‘(C) take into account the size and activities of the institutions and do not cause undue reporting burdens.’’.

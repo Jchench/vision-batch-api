@@ -1,0 +1,33 @@
+PUBLIC LAW 103-325—SEPT. 23, 1994
+
+TITLE IV—MONEY LAUNDERING
+
+SEC. 401. SHORT TITLE.
+This title may be cited as the “Money Laundering Suppression Act of 1994”.
+
+SEC. 402. REFORM OF CTR EXEMPTION REQUIREMENTS TO REDUCE NUMBER AND SIZE OF REPORTS CONSISTENT WITH EFFECTIVE LAW ENFORCEMENT.
+
+   (a) IN GENERAL.—Section 5313 of title 31, United States Code, is amended by adding at the end the following new subsections:
+        “(d) MANDATORY EXEMPTIONS FROM REPORTING REQUIREMENTS.—
+“(1) IN GENERAL.—The Secretary of the Treasury shall exempt, pursuant to section 5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and the following categories of entities:
+
+        “(A) Another depository institution.
+
+        “(B) A department or agency of the United States, any State, or any political subdivision of any State.
+
+        “(C) Any entity established under the laws of the United States, any State, or any political subdivision of any State, or under an interstate compact between 2 or more States, which exercises governmental authority on behalf of the United States or any such State or political subdivision.
+
+        “(D) Any business or category of business the reports on which have little or no value for law enforcement purposes.
+
+“(2) NOTICE OF EXEMPTION.—The Secretary of the Treasury shall publish in the Federal Register at such times as the Secretary determines to be appropriate (but not less frequently than once each year) a list of all the entities whose transactions with a depository institution are exempt under this subsection from the reporting requirements of subsection (a).
+
+   “(e) DISCRETIONARY EXEMPTIONS FROM REPORTING REQUIREMENTS.—
+“(1) IN GENERAL.—The Secretary of the Treasury may exempt, pursuant to section 5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and a qualified business customer of the institution on the basis of information submitted to the Secretary by the institution in accordance with procedures which the Secretary shall establish.
+
+“(2) QUALIFIED BUSINESS CUSTOMER DEFINED.—For purposes of this subsection, the term ‘qualified business customer’ means a business which—
+
+        “(A) maintains a transaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act) at the depository institution;
+
+        “(B) frequently engages in transactions with the depository institution which are subject to the reporting requirements of subsection (a); and
+
+        “(C) meets criteria which the Secretary determines are sufficient to ensure that the purposes of this subchapter

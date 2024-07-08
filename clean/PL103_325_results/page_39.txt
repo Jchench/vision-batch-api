@@ -1,0 +1,22 @@
+108 STAT. 2198			PUBLIC LAW 103-325—SEPT. 23, 1994
+
+	thereafter, the Board of Governors of the Federal Reserve System, in consultation with the Consumer Advisory Council of the Board, shall conduct a public hearing to examine the home equity loan market and the adequacy of existing regulatory and legislative provisions and the provisions of this subtitle in protecting the interests of consumers, and low-income consumers in particular.
+	(b) PARTICIPATION.—In conducting hearings required by subsection (a), the Board of Governors of the Federal Reserve System shall solicit participation from consumers, representatives of consumers, lenders, and other interested parties.
+
+			TITLE II—SMALL BUSINESS CAPITAL FORMATION
+
+	Small Business Loan Securitization and Secondary Market Enhancement Act of 1994. 15 USC 78a note.
+
+				Subtitle A—Small Business Loan Securitization
+
+SEC. 201. SHORT TITLE.
+	This subtitle may be cited as the ‘‘Small Business Loan Securitization and Secondary Market Enhancement Act of 1994’’.
+
+SEC. 202. SMALL BUSINESS RELATED SECURITY.
+	Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) is amended by adding at the end the following new paragraph:
+		‘‘(53)(A) The term ‘small business related security’ means a security that is rated in 1 of the 4 highest rating categories by at least 1 nationally recognized statistical rating organization, and either—
+			‘‘(i) represents an interest in 1 or more promissory notes or leases of personal property evidencing the obligation of a small business concern and originated by an insured depository institution, insured credit union, insurance company, or similar institution which is supervised and examined by a Federal or State authority, or a finance company or leasing company; or
+			‘‘(ii) is secured by an interest in 1 or more promissory notes or leases of personal property (with or without recourse to the issuer or lessee) and provides for payments of principal in relation to payments, or reasonable projections of payments, on notes or leases described in clause (i).
+		‘‘(B) For purposes of this paragraph—
+			‘‘(i) an ‘interest in a promissory note or a lease of personal property’ includes ownership rights, certificates of interest or participation in such notes or leases, and rights designed to assure servicing of such notes or leases, or the receipt or timely receipt of amounts payable under such notes or leases;
+			‘‘(ii) the term ‘small business concern’ means a business that meets the criteria for a small business concern established by the Small Business Administration under section 3(a) of the Small Business Act;

@@ -1,0 +1,29 @@
+108 STAT. 2242       PUBLIC LAW 103-325—SEPT. 23, 1994
+
+SEC. 349. GUIDELINES FOR EXAMINATIONS.
+
+  (a)  ADEQUACY OF STATE EXAMINATIONS.—Section 10(d) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)) is amended by adding at the end the following new paragraph:
+  
+                                  ‘‘(9) STANDARDS FOR DETERMINING ADEQUACY OF STATE
+                                EXAMINATIONS.—The Federal Financial Institutions Examination Council shall issue guidelines establishing standards to be used at the discretion of the appropriate Federal banking agency for purposes of making a determination under paragraph (3).’’.
+
+  (b) EFFECTIVE DATE OF INITIAL GUIDELINES.—The initial guidelines required to be issued pursuant to the amendment made by subsection (a) shall become effective not later than 1 year after the date of enactment of this Act.
+
+SEC. 350. REVISING REGULATORY REQUIREMENTS FOR TRANSFERS 
+                       OF ALL TYPES OF ASSETS WITH RECOURSE.
+
+(a) REVIEW AND REVISION OF REGULATIONS.—
+      (1) IN GENERAL.—During the 180-day period beginning on the date of enactment of this Act, each appropriate Federal banking agency shall, consistent with the principles of safety and soundness and the public interest—
+
+          (A)  review the agency’s regulations and written policies relating to transfers of assets with recourse by insured depository institutions; and 
+          (B)  in consultation with the other Federal banking agencies, promulgate regulations that better reflect the exposure of an insured depository institution to credit risk from transfers of assets with recourse.
+      
+      (2) REGULATIONS REQUIRED.—Before the end of the 180-day period beginning on the date of enactment of this Act, each appropriate Federal banking agency shall prescribe the regulations developed pursuant to paragraph (1)(B). 
+
+(b) REGULATIONS REQUIRED.— 
+      (1) IN GENERAL.—After the end of the 180-day period beginning on the date of enactment of this Act, the amount of risk-based capital required to be maintained, under regulations prescribed by the appropriate Federal banking agency, by any insured depository institution with respect to assets transferred with recourse by such institution may not exceed the maximum amount of recourse for which such institution is contractually liable under the recourse agreement. 
+      (2) EXCEPTION FOR SAFETY AND SOUNDNESS.—The appropriate Federal banking agency may require any insured depository institution to maintain risk-based capital in an amount greater than the amount determined under paragraph (1), if the agency determines, by regulation or order, that such higher amount is necessary for safety and soundness reasons.
+
+(c) COORDINATION WITH SECTION 208(b).—This section shall not be construed as superseding the applicability of section 208(b). 
+
+(d) DEFINITIONS.—For purposes of this section, the terms ‘‘appropriate Federal banking agency’’, ‘‘Federal banking agency’’, and ‘‘insured depository institution’’ have the same meanings as in section 3 of the Federal Deposit Insurance Act.

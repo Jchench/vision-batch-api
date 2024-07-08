@@ -1,0 +1,21 @@
+PUBLIC LAW 103-325—SEPT. 23, 1994             108 STAT. 2217
+
+House of Representatives regarding the progress of the agencies in implementing the system and indicating areas in which enhancements to the system, including legislature improvements, would be appropriate.".
+     (b) STATE ACCESS TO FEDERAL AGENCY REPORTS.—The first sentence of section 7(a)(2)(A) of the Federal Deposit Insurance Act (12 U.S.C. 1817(a)(2)(A)) is amended by inserting "and, with respect to any State depository institution, any appropriate State bank supervisor for such institution," after "The Corporation".
+SEC. 306. EIGHTEEN-MONTH EXAMINATION RULE FOR CERTAIN 
+                       SMALL INSTITUTIONS.
+     (a) IN GENERAL.—Section 10(d)(4) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)(4)) is amended—
+          (1) in subparagraph (A), by striking "$100,000,000" and inserting "$250,000,000";
+          (2) in subparagraph (C), by striking "and its composite condition was found to be outstanding; and" and inserting "and its composite condition—
+                    "(i) was found to be outstanding; or
+                    "(ii) was found to be outstanding or good, in the case of an insured depository institution that has total assets of not more than $100,000,000;";
+          (3) by redesignating subparagraph (D) as subparagraph (E); and
+          (4) by inserting after subparagraph (C) the following new subparagraph:
+                    "(D) the insured institution is not currently subject to a formal enforcement proceeding or order by the Corporation or the appropriate Federal banking agency; and".
+     (b) AGENCY DISCRETION TO RAISE ASSET LIMIT.—Section 10(d) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)) is amended by adding at the end the following new paragraph:
+          "(8) AGENCIES AUTHORIZED TO INCREASE MAXIMUM ASSET AMOUNT OF INSTITUTIONS FOR CERTAIN PURPOSES.—At any time after the end of the 2-year period beginning on the date of enactment of the Riegle Community Development and Regulatory Improvement Act of 1994, the appropriate Federal banking agency, in the agency's discretion, may increase the maximum amount limitation contained in paragraph (4)(C)(ii), by regulation, from $100,000,000 to an amount not to exceed $175,000,000 for purposes of such paragraph, if the agency determines that the greater amount would be consistent with the principles of safety and soundness for insured depository institutions.".
+SEC. 307. CALL REPORT SIMPLIFICATION.
+                   12 USC 4805.
+     (a) MODERNIZATION OF CALL REPORT FILING AND DISCLOSURE SYSTEM.—In order to reduce the administrative requirements pertaining to bank reports of condition, savings association financial reports, and bank holding company consolidated and parent-only financial statements, and to improve the timeliness of such reports and statements, the Federal banking agencies shall—
+          (1) work jointly to develop a system under which—
+                    (A) insured depository institutions and their affiliates may file such reports and statements electronically; and

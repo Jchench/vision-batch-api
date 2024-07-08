@@ -1,0 +1,20 @@
+108 STAT. 2232								PUBLIC LAW 103-325—SEPT. 23, 1994
+
+SEC. 331. CLARIFICATION OF PROVISIONS RELATING TO ADMINISTRA-TIVE AUTONOMY.
+(a) PUBLIC LAW 93-495.—Section 111 of Public Law 93-495 (12 U.S.C. 250) is amended by inserting "the Comptroller of the Currency," after "Federal Deposit Insurance Corporation,".
+(b) REVISED STATUTES.— 
+	(1) SECTION 5240.—The third paragraph of section 5240 of the Revised Statutes (12 U.S.C. 482) is amended by inserting "or section 301(f)(1) of title 31, United States Code," after "provisions of this section".
+	(2) SECTION 324.—Section 324 of the Revised Statutes (12 U.S.C. 1) is amended by adding at the end the following: "The Comptroller of the Currency shall have the same authority over matters within the jurisdiction of the Comptroller as the Director of the Office of Thrift Supervision has over matters within the Director's jurisdiction under section 3(b)(3) of the Home Owners' Loan Act. The Secretary of the Treasury may not delay or prevent the issuance of any rule or the promulgation of any regulation by the Comptroller of the Currency.".
+	(3) SECTION 5239.—Section 5239 of the Revised Statutes (12 U.S.C. 93) is amended by adding at the end the following new subsection: 
+		(d) AUTHORITY.—The Comptroller of the Currency may act in the Comptroller's own name and through the Comptroller's own attorneys in enforcing any provision of this title, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.".
+(c) AMENDMENTS TO THE HOME OWNERS' LOAN ACT.—Section 3(b) of the Home Owners' Loan Act (12 U.S.C. 1462a(b)) is amended— 
+	(1) in paragraph (3), by striking "unless otherwise provided by law" and inserting "(including agency enforcement actions) unless otherwise specifically provided by law"; and 
+	(2) by adding at the end the following new paragraph: 
+		(4) BANKING AGENCY RULEMAKING.—The Secretary of the Treasury may not delay or prevent the issuance of any rule or the promulgation of any regulation by the Director.".
+(d) AMENDMENT TO THE FEDERAL RESERVE ACT.—Section 11 of the Federal Reserve Act (12 U.S.C. 248) is amended by adding at the end the following new subsection: 
+	(p) AUTHORITY.—The Board may act in its own name and through its own attorneys in enforcing any provision of this title, regulations promulgated hereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Board is a party and which involves the Board's regulation or supervision of any bank, bank holding company (as defined in section 2 of the Bank Holding Company Act of 1956), or other entity, or the administration of its operations.".
+(e) AMENDMENT TO THE FEDERAL DEPOSIT INSURANCE ACT.—Section 9(a) of the Federal Deposit Insurance Act (12 U.S.C. 1819(a)) is amended in paragraph Fourth, by inserting "by and through its own attorneys," after "complain and defend,".
+
+SEC. 332. EXEMPTION FOR BUSINESS ACCOUNTS.
+
+Section 274(1) of the Truth in Savings Act (12 U.S.C. 4313(1)) is amended to read as follows:

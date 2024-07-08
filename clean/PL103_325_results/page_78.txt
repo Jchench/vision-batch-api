@@ -1,0 +1,25 @@
+PUBLIC LAW 103-325--SEPT. 23, 1994
+
+"(A) improve the provision of credit to low- and mod erate-income areas;
+"(B) increase the competitive position of minority-and woman-owned institutions; or
+"(C) strengthen the management of newly chartered institutions that are in an unsafe or unsound condition.
+"(2) EXTENSION OF SERVICE PERIOD.--The appropriate federally depository institutions regulatory agency may extend the 2-year period referred to in paragraph (1) for one additional period of not more than 2 years, subject to making a new determination described in subparagraphs (A) through (C) of paragraph (1).".
+
+SEC. 339. ADVERSE INFORMATION ABOUT CONSUMERS.
+      Section 609(a) of the Fair Credit Reporting Act (15 U.S.C. 1681g(a)) is amended by adding at the end the following new paragraph:
+   "(4) The dates, original payees, and amounts of any checks upon which is based any adverse characterization of the consumer, included in the file at the time of the disclosure.".
+
+SEC. 340. SIMPLIFIED DISCLOSURE FOR EXISTING DEPOSITORS.
+      (a) IN GENERAL.--Section 43(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1831t(b)(3)) is amended to read as follows:
+         "(3) ACKNOWLEDGEMENT OF DISCLOSURE.--
+                "(A) NEW DEPOSITORS.-- With respect to any depositor who was not a depositor at the depository institution before June 19, 1994, receive any deposit for the account of such depositor only if the depositor has signed a written acknowledgement that--
+                       "(i) the institution is not federally insured; and
+                       "(ii) if the institution fails, the Federal Government does not guarantee that the depositor will get back the depositor's money.
+               "(B) CURRENT DEPOSITORS.--Receive any deposit after the effective date of this paragraph for the account of any depositor who was a depositor before June 19, 1994, only if--
+                       "(i) the depositor has signed a written acknowledgement described in subparagraph (A); or
+                       "(ii) the institution has complied with the provisions of subparagraph (C) which are applicable as of the date of the deposit.
+               "(C) ALTERNATIVE PROVISION OF NOTICE TO CURRENT DEPOSITORS.--
+                       "(i) IN GENERAL.--Transmit to each depositor who was a depositor before June 19, 1994, and has not signed a written acknowledgement described in subparagraph (A)--
+                              "(I) a card containing the information described in clauses (i) and (ii) of subparagraph (A), and a line for the signature of the depositor; and
+                              "(II) accompanying materials requesting the depositor to sign the card, and return the signed card to the institution.
+                      " (ii) MANNER AND TIMING OF NOTICE.--

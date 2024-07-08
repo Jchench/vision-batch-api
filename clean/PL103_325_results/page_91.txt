@@ -1,0 +1,31 @@
+108 STAT. 2250           PUBLIC LAW 103-325—SEPT. 23, 1994
+
+(A) Money transmitting businesses are subject to the recordkeeping and reporting requirements of subchapter II of chapter 53 of title 31, United States Code.
+
+(B) Money transmitting businesses are largely unregulated businesses and are frequently used in sophisticated schemes to—
+
+(i) transfer large amounts of money which are the proceeds of unlawful enterprises; and
+
+(ii) evade the requirements of such subchapter II, the Internal Revenue Code of 1986, and other laws of the United States.
+
+(C) Information on the identity of money transmitting businesses and the names of the persons who own or control, or are officers or employees of, a money transmitting business would have a high degree of usefulness in criminal, tax, or regulatory investigations and proceedings.
+
+(2) PURPOSE.—It is the purpose of this section to establish a registration requirement for businesses engaged in providing a check cashing, currency exchange, or money transmitting or remittance services, or issuing or redeeming money orders, travelers' checks, and other similar instruments to assist the Secretary of the Treasury, the Attorney General, and other supervisory and law enforcement agencies to effectively enforce the criminal, tax, and regulatory laws and prevent such money transmitting businesses from engaging in illegal activities.
+
+(b) IN GENERAL.—Subchapter II of chapter 53 of title 31, United 31 USC 5330. States Code, is amended by adding at the end the following new section:
+
+"§ 5330. Registration of money transmitting businesses
+
+"(a) REGISTRATION WITH SECRETARY OF THE TREASURY REQUIRED.—
+
+"(1) IN GENERAL.—Any person who owns or controls a money transmitting business shall register the business (whether or not the business is licensed as a money transmitting business in any State) with the Secretary of the Treasury not later than the end of the 180-day period beginning on the later of—
+
+"(A) the date of enactment of the Money Laundering Suppression Act of 1994; or "(B) the date on which the business is established.
+
+"(2) FORM AND MANNER OF REGISTRATION.—Subject to the requirements of subsection (b), the Secretary of the Treasury shall prescribe, by regulation, the form and manner for registering a money transmitting business pursuant to paragraph (1).
+
+"(3) BUSINESSES REMAIN SUBJECT TO STATE LAW.—This section shall not be construed as superseding any requirement of State law relating to money transmitting businesses operating in such State.
+
+"(4) FALSE AND INCOMPLETE INFORMATION.—The filing of false or materially incomplete information in connection with the registration of a money transmitting business shall be considered as a failure to comply with the requirements of this subchapter.
+
+"(b) CONTENTS OF REGISTRATION.—The registration of a money transmitting business under subsection (a) shall include the following information:

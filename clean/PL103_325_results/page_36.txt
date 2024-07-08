@@ -1,0 +1,25 @@
+PUBLIC LAW 103-325—SEPT. 23, 1994
+
+108 STAT. 2195
+
+SEC. 153. CIVIL LIABILITY.
+
+(a) DAMAGES.—Section 130(a) of the Truth and Lending Act (15 U.S.C. 1640(a)) is amended—
+(1) by striking "and" at the end of paragraph (2)(B);
+(2) by striking the period at the end of paragraph (3) and inserting ", and"; and
+(3) by inserting after paragraph (3) the following new paragraph:
+"(4) in the case of a failure to comply with any requirement under section 129, an amount equal to the sum of all finance charges and fees paid by the consumer, unless the creditor demonstrates that the failure to comply is not material.".
+(b) STATE ATTORNEY GENERAL ENFORCEMENT.—Section 130(e) of the Truth in Lending Act (15 U.S.C. 1640(e)) is amended by adding at the end the following: "An action to enforce a violation of section 129 may also be brought by the appropriate State attorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which the violation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under section 108 and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
+"(1) intervene in the action;
+"(2) upon intervening—
+"(A) remove the action to the appropriate United States district court, if it was not originally brought there; and
+"(B) be heard on all matters arising in the action;
+and
+"(3) file a petition for appeal.".
+(c) ASSIGNEE LIABILITY.—Section 131 of the Truth in Lending Act (15 U.S.C. 1641) is amended by adding at the end the following new subsection:
+"(d) RIGHTS UPON ASSIGNMENT OF CERTAIN MORTGAGES.—
+"(1) IN GENERAL.—Any person who purchases or is other-wise assigned a mortgage referred to in section 103(aa) shall be subject to all claims and defenses with respect to that mortgage that the consumer could assert against the creditor of the mortgage, unless the purchaser or assignee demonstrates, by a preponderance of the evidence, that a reasonable person exercising ordinary due diligence, could not determine, based on the documentation required by this title, the itemization of the amount financed, and other disclosure of disbursements that the mortgage was a mortgage referred to in section 103(aa). The preceding sentence does not affect rights of a consumer under subsection (a), (b), or (c) of this section or any other provision of this title.
+"(2) LIMITATION ON DAMAGES.—Notwithstanding any other provision of law, relief provided as a result of any action made permissible by paragraph (1) may not exceed—
+"(A) with respect to actions based upon a violation of this title, the amount specified in section 130; and
+"(B) with respect to all other causes of action, the sum of—
+"(i) the amount of all remaining indebtedness; and

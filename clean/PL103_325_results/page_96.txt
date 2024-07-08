@@ -1,0 +1,29 @@
+PUBLIC LAW 103-325—SEPT. 28, 1994 108 STAT. 2255
+
+(G) by redesignating subsection (g), the second place it appears, as subsection (h).
+(2) Section 1957(f)(1) of title 18, United States Code, is amended by striking the comma which follows a comma.
+(d) REPEAL OF OBSOLETE TECHNICAL CORRECTION TO SECTION 1956 OF TITLE 18, U.S.C.—Section 3557(2)(E) of Public Law 101-647 is repealed, effective on the date of enactment of such Public Law.
+
+18 USC 1956 and note.
+
+TITLE V—NATIONAL FLOOD INSURANCE REFORM
+National Flood Insurance Reform Act of 1994.
+
+SEC. 501. SHORT TITLE.
+This title may be cited as the "National Flood Insurance Reform Act of 1994".
+
+42 USC 4001 note.
+
+Subtitle A—Definitions
+
+SEC. 511. FLOOD DISASTER PROTECTION ACT OF 1973.
+(a) IN GENERAL.—Section 3(a) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4003(a)) is amended—
+(1) by striking paragraph (5) and inserting the following new paragraph:
+"(5) 'Federal entity for lending regulation' means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Office of Thrift Supervision, the National Credit Union Administration, and the Farm Credit Administration, and with respect to a particular regulated lending institution means the entity primarily responsible for the supervision of the institution;;,
+(2) in paragraph (6), by striking the period at the end and inserting a semicolon; and
+(3) by inserting after paragraph (6) the following new paragraphs:
+"(7) 'Federal agency lender' means a Federal agency that makes direct loans secured by improved real estate or a mobile home, to the extent such agency acts in such capacity;
+"(8) the term 'improved real estate' means real estate upon which a building is located;
+"(9) 'lender' means a regulated lending institution or Federal agency lender;
+"(10) 'regulated lending institution' means any bank, savings and loan association, credit union, farm credit bank, Federal land bank association, production credit association, or similar institution subject to the supervision of a Federal entity for lending regulation; and
+"(11) 'servicer' means the person responsible for receiving any scheduled periodic payments from a borrower pursuant to the terms of a loan, including amounts for taxes, insurance premiums, and other charges with respect to the property securing the loan, and making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the loan.".

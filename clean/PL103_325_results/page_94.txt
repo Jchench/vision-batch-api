@@ -1,0 +1,26 @@
+PUBLIC LAW 103-325—SEPT. 23, 1994                  108 STAT. 2253
+
+“(5) exempt from the requirements of this subchapter any class of transactions within any State if the Secretary determines that—
+“(A) under the laws of such State, that class of transactions is subject to requirements substantially similar to those imposed under this subchapter; and
+“(B) there is adequate provision for the enforcement of such requirements; and”.
+  (b) TECHNICAL AND CONFORMING AMENDMENT.—The penultimate sentence of section 5318(a)(6) of title 31, United States Code (as so redesignated by the amendment made by subsection (a) of this section) is amended by inserting ‘‘under this paragraph or paragraph (5)” after ‘‘exemption”.
+
+SEC. 411. CRIMINAL AND CIVIL PENALTIES FOR STRUCTURING DOMES­
+               TIC AND INTERNATIONAL TRANSACTIONS.
+  (a) CRIMINAL PENALTY.—Section 5324 of title 31, United States Code, is amended by adding at the end the following new subsection:
+  ‘‘(c) CRIMINAL PENALTY. —
+  ‘‘(1) IN GENERAL.—Whoever violates this section shall be fined in accordance with title 18, United States Code, imprisoned for not more than 5 years, or both.
+  ‘‘(2) ENHANCED PENALTY FOR AGGRAVATED CASES.—Whoever violates this section while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period shall be fined twice the amount provided in subsection (b)(3) or (c)(3) (as the case may be) of section 3571 of title 18, United States Code, imprisoned for not more than 10 years, or both.”.
+  (b) AMENDMENT RELATING TO CIVIL PENALTY.—Section 5321(a)(4)(A) of title 31, United States Code, is amended by striking ‘‘willfully”.
+  (c) TECHNICAL AND CONFORMING AMENDMENTS.—
+    (1) Subsections (a) and (b) of section 5322 of title 31, United States Code, are amended by inserting ‘‘or 5324” after ‘‘section 5315” each place such term appears.
+    (2) The following sections are each amended by striking ‘‘section 5322 of title 31” and inserting ‘‘section 5322 or 5324 of title 31” each place such term appears in such sections:
+      (A) Sections 8(g)(1)(A)(ii), 8(w)(1)(B), and 11(c)(5)(M) of the Federal Deposit Insurance Act.
+      (B) Sections 131(a)(2), 206(h)(1)(C), 206(i)(1)(A)(ii), and 206(v)(1)(B) of the Federal Credit Union Act.
+      (C) Section 5239(d)(1)(B) of the Revised Statutes of the United States (as redesignated by section 413(b)(2) of this Act).
+      (D) Section 5(w)(1)(B) of the Home Owners’ Loan Act.
+      (E) Sections 984(a), 986(a), and 1956(g) (the first place it appears) of title 18, United States Code.
+
+SEC. 412. GAO STUDY OF CASHIERS’ CHECKS.
+  (a) STUDY REQUIRED.—The Comptroller General of the United States shall conduct a study to—
+    (1) determine the extent to which the practice of issuing of cashiers’ checks by financial institutions is vulnerable to money laundering schemes;

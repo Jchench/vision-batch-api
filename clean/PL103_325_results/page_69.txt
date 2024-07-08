@@ -1,0 +1,29 @@
+108 STAT. 2228          PUBLIC LAW 103-325--SEPT. 23, 1994
+
+SEC. 325. CREDIT CARD ACCOUNTS RECEIVABLE SALES.
+
+Section 11(e) of the Federal Deposit Insurance Act (12 U.S.C. 1821(e)) is amended by adding at the end the following new paragraphs:
+"(14) SELLING CREDIT CARD ACCOUNTS RECEIVABLE.--
+"(A) NOTIFICATION REQUIRED.--An undercapitalized insured depository institution (as defined in section 38) shall notify the Corporation in writing before entering into an agreement to sell credit card accounts receivable.
+"(B) WAIVER BY CORPORATION.--The Corporation may at any time, in its sole discretion and upon such terms as it may prescribe, waive its right to repudiate an agreement to sell credit card accounts receivable if the Corporation--
+
+"(i) determines that the waiver is in the best interests of the deposit insurance fund; and
+"(ii) provides a written waiver to the selling institution.
+
+"(C) EFFECT OF WAIVER ON SUCCESSORS.-- 
+"(i) IN GENERAL.--If, under subparagraph (B), the Corporation has waived its right to repudiate an agreement to sell credit card accounts receivable--
+
+"(I) any provision of the agreement that restricts solicitation of a credit card customer of the selling institution, or the use of a credit card customer list of the institution, shall bind any receiver or conservator of the institution; and
+
+"(II) the Corporation shall require any acquirer of the selling institution, or of substantially all of the selling institution's assets or liabilities, to agree to be bound by a provision described in subclause (I) as if the acquirer were the selling institution.
+
+"(ii) EXCEPTION.--Clause (i)(II) does not--
+
+"(I) restrict the acquirer's authority to offer any product or service to any person identified without using a list of the selling institution's customers in violation of the agreement;
+
+"(II) require the acquirer to restrict any preexisting relationship between the acquirer and a customer; or
+
+"(III) apply to any transaction in which the acquirer acquires only insured deposits.
+"(D) WAIVER NOT ACTIONABLE.--The Corporation shall not, in any capacity, be liable to any person for damages resulting from the waiver of or failure to waive the Corporation's right under this section to repudiate any contract or lease, including an agreement to sell credit card accounts receivable. No court shall issue any order affecting any such waiver or failure to waive.
+"(E) OTHER AUTHORITY NOT AFFECTED.--This paragraph does not limit any other authority of the Corporation to waive the Corporation's right to repudiate an agreement or lease under this section.
+(15) CERTAIN CREDIT CARD CUSTOMER LISTS PROTECTED.--"(A) IN GENERAL.--If any insured depository institution sells credit card accounts receivable under an agreement

@@ -1,0 +1,29 @@
+PUBLIC LAW 103-325—SEPT. 23, 1994           108 STAT. 2199
+
+   “(iii) the term ‘insured depository institution’ has the same meaning as in section 3 of the Federal Deposit Insurance Act; and
+   “(iv) the term ‘insured credit union’ has the same meaning as in section 101 of the Federal Credit Union Act.”.
+SEC. 203. APPLICABILITY OF MARGIN REQUIREMENTS.
+
+Section 7(g) of the Securities Exchange Act of 1934 (15 U.S.C. 78g(g)) is amended by inserting “or a small business related security” after “mortgage related security”.
+SEC. 204. BORROWING IN THE COURSE OF BUSINESS.
+
+Section 8(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78h(a)) is amended in the last sentence by inserting “or a small business related security” after “mortgage related security”.
+SEC. 205. SMALL BUSINESS RELATED SECURITIES AS COLLATERAL.
+
+Clause (ii) of section 11(d)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78k(d)(1)) is amended by inserting “or any small business related security” after “mortgage related security”.
+SEC. 206. INVESTMENT BY DEPOSITORY INSTITUTIONS.
+
+(a) HOME OWNERS’ LOAN ACT AMENDMENT.—Section 5(c)(1) of the Home Owners’ Loan Act (12 U.S.C. 1464(c)(1)) is amended by adding at the end the following new subparagraph:
+   “(S) SMALL BUSINESS RELATED SECURITIES.—Investments in small business related securities (as defined in section 3(a)(53) of the Securities Exchange Act of 1934), subject to such regulations as the Director may prescribe, including regulations concerning the minimum size of the issue (at the time of the initial distribution), the minimum aggregate sales price, or both.”.
+(b) CREDIT UNIONS.—Section 107(15) of the Federal Credit Union Act (12 U.S.C. 1757(15)) is amended—
+   (1) in subparagraph (A), by striking “or” at the end;
+   (2) in subparagraph (B), by inserting “or” at the end; and
+   (3) by adding at the end the following new subparagraph:
+       “(C) are small business related securities (as defined in section 3(a)(53) of the Securities Exchange Act of 1934), subject to such regulations as the Board may prescribe, including regulations prescribing the minimum size of the issue (at the time of the initial distribution), the minimum aggregate sales price, or both;”.
+(c) NATIONAL BANKING ASSOCIATIONS.—Section 5136 of the Revised Statutes (12 U.S.C. 24) is amended in the last sentence in the first full paragraph of paragraph Seventh, by striking “or (B) are mortgage related securities” and inserting the following:
+   “(B) are small business related securities (as defined in section 3(a)(53) of the Securities Exchange Act of 1934); or (C) are mortgage related securities”.
+SEC. 207. PREEMPTION OF STATE LAW.
+
+(a) IN GENERAL.—Section 106(a)(1) of the Secondary Mortgage Market Enhancement Act of 1984 (15 U.S.C. 77r-1(a)(1)) is amended—
+   (1) by striking “or” at the end of subparagraph (B);
+   (2) by redesignating subparagraph (C) as subparagraph (D); and

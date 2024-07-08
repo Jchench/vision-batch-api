@@ -1,0 +1,22 @@
+108 STAT. 2258          PUBLIC LAW 103-325—SEPT. 23, 1994
+
+"(3) GOVERNMENT-SPONSORED ENTERPRISES FOR HOUSING.—
+The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall implement procedures reasonably designed to ensure that, for any loan that is—
+    "(A) secured by improved real estate or a mobile home located in an area that has been identified, at the time of the origination of the loan or at any time during the term of the loan, by the Director as an area having special flood hazards and in which flood insurance is available under the National Flood Insurance Act of 1968, and
+    "(B) purchased by such entity, the building or mobile home and any personal property securing the loan is covered for the term of the loan by flood insurance in the amount provided in paragraph (1).
+"(4) APPLICABILITY.—
+    "(A) EXISTING COVERAGE.—Except as provided in subparagraph (B), paragraph (1) shall apply on the date of enactment of the Riegle Community Development and Regulatory Improvement Act of 1994.
+    "(B) NEW COVERAGE.—Paragraphs (2) and (3) shall apply only with respect to any loan made, increased, extended, or renewed after the expiration of the 1-year period beginning on the date of enactment of the Riegle Community Development and Regulatory Improvement Act of 1994. Paragraph (1) shall apply with respect to any loan made, increased, extended, or renewed by any lender supervised by the Farm Credit Administration only after the expiration of the period under this subparagraph.
+    "(C) CONTINUED EFFECT OF REGULATIONS.—Notwithstanding any other provision of this subsection, the regulations to carry out paragraph (1), as in effect immediately before the date of enactment of the Riegle Community Development and Regulatory Improvement Act of 1994, shall continue to apply until the regulations issued to carry out paragraph (1) as amended by section 522(a) of such Act take effect."
+(b) EXEMPTION FOR SMALL LOANS.—Section 102(c) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(c)) is amended—
+  (1) by striking "(c) Notwithstanding" and inserting the following:
+"(c) EXCEPTIONS TO PURCHASE REQUIREMENTS.—
+  "(1) STATE-OWNED PROPERTY.—Notwithstanding"; and
+  (2) by adding at the end the following new paragraph:
+  "(2) SMALL LOANS.—Notwithstanding any other provision of this section, subsections (a) and (b) shall not apply to any loan having—
+      "(A) an original outstanding principal balance of $5,000 or less; and
+      "(B) a repayment term of 1 year or less."
+SEC. 523. ESCROW OF FLOOD INSURANCE PAYMENTS.
+    Section 102 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a) is amended by adding at the end the following new subsection:
+    "(d) ESCROW OF FLOOD INSURANCE PAYMENTS.—
+      "(1) REGULATED LENDING INSTITUTIONS.—Each Federal entity for lending regulation (after consultation and coordina-

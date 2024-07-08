@@ -1,0 +1,28 @@
+108 STAT. 2218
+
+PUBLIC LAW 103-325—SEPT. 23, 1994
+
+(B) the Federal banking agencies may make such reports and statements available to the public electronically; and
+(2) not later than 1 year after the date of enactment of this Act, report to the Congress and make recommendations for legislation that would enhance efficiency for filers and users of such reports and statements.
+(b) UNIFORM REPORTS AND SIMPLIFICATION OF INSTRUCTIONS.— The Federal banking agencies shall, consistent with the principles of safety and soundness, work jointly—
+(1) to adopt a single form for the filing of core information required to be submitted under Federal law to all such agencies in the reports and statements referred to in subsection (a); and
+(2) to simplify instructions accompanying such reports and statements and to provide an index to the instructions that is adequate to meet the needs of both filers and users.
+(c) REVIEW OF CALL REPORT SCHEDULE.—Each Federal banking agency shall—
+(1) review the information required by schedules supplementing the core information referred to in subsection (b); and
+(2) eliminate requirements that are not warranted for reasons of safety and soundness or other public purposes.
+
+SEC. 308. REPEAL OF PUBLICATION REQUIREMENTS.
+
+(a) REVISED STATUTES.—Section 5211 of the Revised Statutes (12 U.S.C. 161) is amended—
+(1) in the 5th sentence of subsection (a), by striking “, and the statement of resources” and all that follows through “as may be required by the Comptroller”; and
+(2) in subsection (c), by striking the 4th sentence.
+(b) FDIA.—Section 7(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1817(a)(1)) is amended by striking the 4th sentence.
+(c) FEDERAL RESERVE ACT.—Section 9 of the Federal Reserve Act (12 U.S.C. 324) is amended in the last sentence of the 6th undesignated paragraph, by striking “and shall be published” and all that follows through the end of the sentence and inserting a period.
+
+SEC. 309. REGULATORY APPEALS PROCESS, OMBUDSMAN, AND ALTERNATIVE DISPUTE RESOLUTION.
+
+(a) IN GENERAL.—Not later than 180 days after the date of enactment of this Act, each appropriate Federal banking agency and the National Credit Union Administration Board shall establish an independent intra-agency appellate process. The process shall be available to review material supervisory determinations made at insured depository institutions or at insured credit unions that the agency supervises.
+(b) REVIEW PROCESS.—In establishing the independent appellate process under subsection (a), each agency shall ensure that—
+(1) any appeal of a material supervisory determination by an insured depository institution or insured credit union is heard and decided expeditiously; and
+(2) appropriate safeguards exist for protecting the appellant from retaliation by agency examiners.
+(c) COMMENT PERIOD.—Not later than 90 days after the date of enactment of this Act, each appropriate Federal banking agency

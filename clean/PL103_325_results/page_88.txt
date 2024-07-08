@@ -1,0 +1,55 @@
+PUBLIC LAW 103-325—SEPT. 23, 1994	108 STAT. 2247
+SEC. 405. NEGOTIABLE INSTRUMENTS DRAWN ON FOREIGN BANKS
+	SUBJECT TO RECORDKEEPING AND REPORTING REQUIRE-
+	MENTS.
+Section 5312(a)(3) of title 31, United States Code, is amended—
+	(1) by striking “and” at the end of subparagraph (A);
+	(2) by striking the period at the end of subparagraph (B)
+	and inserting “; and”; and
+	(3) by adding at the end the following new subparagraph:
+		“(C) as the Secretary of the Treasury shall provide
+		by regulation for purposes of section 5316, checks, drafts,
+		notes, money orders, and other similar instruments which
+		are drawn on or by a foreign financial institution and
+		are not in bearer form.”.
+SEC. 406. IMPOSITION OF CIVIL MONEY PENALTIES BY APPROPRIATE
+	FEDERAL BANKING AGENCIES.
+Section 5321 of title 31, United States Code, is amended by
+	adding at the end the following new subsection:
+	“(e) DELEGATION OF ASSESSMENT AUTHORITY TO BANKING
+	AGENCIES.—
+		“(1) IN GENERAL.—The Secretary of the Treasury shall dele-
+		gate, in accordance with section 5318(a)(1) and subject to such
+		terms and conditions as the Secretary may impose in accordance
+		with paragraph (3), any authority of the Secretary to assess
+		a civil money penalty under this section on depository institu-
+		tions (as defined in section 3 of the Federal Deposit Insurance
+		Act) to the appropriate Federal banking agencies (as defined
+		in such section 3).
+		“(2) AUTHORITY OF AGENCIES.—Subject to any term or
+		condition imposed by the Secretary of the Treasury under
+		paragraph (3), the provisions of this section shall apply to
+		an appropriate Federal banking agency to which is delegated
+		any authority of the Secretary under this section in the same
+		manner such provisions apply to the Secretary.
+		“(3) TERMS AND CONDITIONS.—
+		“(A) IN GENERAL.—The Secretary of the Treasury shall
+		prescribe by regulation the terms and conditions which
+		shall apply to any delegation under paragraph (1).
+		“(B) MAXIMUM DOLLAR AMOUNT.—The terms and condi-
+		tions authorized under subparagraph (A) may include, in
+		the Secretary’s sole discretion, a limitation on the amount
+		of any civil penalty which may be assessed by an appro-
+		priate Federal banking agency pursuant to a delegation
+		under paragraph (1).”.
+SEC. 407. UNIFORM STATE LICENSING AND REGULATION OF CHECK
+	CASHING, CURRENCY EXCHANGE, AND MONEY TRANSMIT-
+	TING BUSINESSES.
+(a) UNIFORM LAWS AND ENFORCEMENT.—For purposes of
+	preventing money laundering and protecting the payment system
+	from fraud and abuse, it is the sense of the Congress that the
+	several States should—
+		(1) establish uniform laws for licensing and reporting
+		businesses which—
+(A) provide	check cashing, currency exchange, or money
+transmitting or remittance services, or issue or redeem

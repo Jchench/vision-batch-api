@@ -1,0 +1,34 @@
+108 STAT. 2200           PUBLIC LAW 103-325--SEPT. 23, 1994
+
+(3) by inserting after subparagraph (B) the following new subparagraph:
+     "(C) small business related securities (as defined in section 3(a)(53) of the Securities Exchange Act of 1934), or".
+(b) OBLIGATIONS OF THE UNITED STATES.--Section 106(a)(2) of the Secondary Mortgage Market Enhancement Act of 1984 (15
+U.S.C. 77r-1(a)(2)) is amended—
+     (1) by striking “or” at the end of subparagraph (B);
+     (2) by redesignating subparagraph (C) as subparagraph (D); and
+     (3) by inserting after subparagraph (B) the following new subparagraph:
+          "(C) small business related securities (as defined in section 3(a)(53) of the Securities Exchange Act of 1934), or".
+(c) PREEMPTION OF STATE LAWS.--Section 106(c) of the Secondary Mortgage Market Enhancement Act of 1984 (15 U.S.C. 77r-1(c)) is amended—
+     (1) in the first sentence, by striking “or that” and inserting “, that”; and
+     (2) by inserting “, or that are small business related securities (as defined in section 3(a)(53) of the Securities Exchange Act of 1934)” before “shall be exempt”.
+(d) IMPLEMENTATION.—Section 106 of the Secondary Mortgage Market Enhancement Act of 1984 (15 U.S.C. 77r-1) is amended
+by adding at the end the following new subsection:
+     "(d) IMPLEMENTATION.—
+          "(1) LIMITATION.--The provisions of subsections (a) and (b) concerning small business related securities shall not apply
+with respect to a particular person, trust, corporation, partnership, association, business trust, or business entity or class
+thereof in any State that, prior to the expiration of 7 years after the date of enactment of this subsection, enacts a statute
+that specifically refers to this section and either prohibits or provides for a more limited authority to purchase, hold, or
+invest in such small business related securities by any person, trust, corporation, partnership, association, business trust, or
+business entity or class thereof than is provided in this section.
+The enactment by any State of any statute of the type described
+in the preceding sentence shall not affect the validity of any
+contractual commitment to purchase, hold, or invest that was
+made prior to such enactment, and shall not require the sale
+or other disposition of any small business related securities
+acquired prior to the date of such enactment.
+          "(2) STATE REGISTRATION OR QUALIFICATION REQUIREMENTS.—Any State may, not later than 7 years after the date
+of enactment of this subsection, enact a statute that specifically
+refers to this section and requires registration or qualification
+of any small business related securities on terms that differ
+from those applicable to any obligation issued by the United
+States.".

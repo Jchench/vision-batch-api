@@ -1,0 +1,26 @@
+PUBLIC LAW 103-325—SEPT. 23, 1994 108 STAT. 2239
+
+SEC. 344. WAIVER OF RIGHT OF RESCISSION FOR CERTAIN REFINANCING TRANSACTIONS.
+
+Not later than 6 months after the date of enactment of this Act, the Board of Governors of the Federal Reserve System, in consultation with the consumer advisory council so such Board, consumers, representatives of consumers, lenders, and other interested parties, shall submit recommendations to the Congress regarding whether a waiver or modification, at the option of a consumer, of the right of rescission under section 125 of the Truth in Lending Act with respect to transactions which constitute a refinancing or consolidation (with no new advances) of the principal balance then due, and any accrued and unpaid finance charges of an existing extension of credit by a different creditor secured by an interest in the same property, would benefit consumers.
+
+SEC. 345. CLARIFICATION OF RESPA DISCLOSURE REQUIREMENTS.
+
+Section 6(a)(1)(B) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(a)(1)(B)) is amended—
+(1) by striking "(B) for each of the most recent" and inserting "(B) at the choice of the person making a federally related mortgage loan—
+"(i) for each of the most recent.";
+(2) by redesignating clauses (i) and (ii) as subclauses (I) and (III), respectively, and indenting appropriately;
+(3) by striking "and" at the end of subclause (II) (as redesignated by paragraph (2)) and inserting "or"; and
+(4) by inserting after clause (i) (as redesignated by paragraph (1)) the following new clause:
+"(ii) a statement that the person making the loan has previously assigned, sold, or transferred the servicing of federally related mortgage loans; and".
+
+SEC. 346. NOTICE PROCEDURES FOR BANK HOLDING COMPANIES TO SEEK APPROVAL TO ENGAGE IN CERTAIN ACTIVITIES.
+
+Section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843) is amended—
+(1) by adding at the end the following new subsection:
+"(j) NOTICE PROCEDURES FOR NONBANKING ACTIVITIES.—
+"(1) GENERAL NOTICE PROCEDURE.—
+"(A) NOTICE REQUIREMENT.—No bank holding company may engage in any nonbanking activity or acquire or retain ownership or control of the shares of a company engaged in activities based on subsection (c)(8) or (a)(2) without providing the Board with written notice of the proposed transaction or activity at least 60 days before the transaction or activity is proposed to occur or commence.
+"(B) CONTENTS OF NOTICE.—The notice submitted to the Board shall contain such information as the Board shall prescribe by regulation or by specific request in connection with a particular notice.
+(C) PROCEDURE FOR AGENCY ACTION.—
+"(i) NOTICE OF DISAPPROVAL.—Any notice filed under this subsection shall be deemed to be approved by the Board unless, before the end of the 60-day period beginning on the date the Board receives a complete notice under subparagraph (A), the Board

@@ -1,0 +1,21 @@
+108 STAT. 2226            PUBLIC LAW 103-325—SEPT. 23, 1994
+
+of a bank or savings association for shares of a newly formed holding company with no significant assets other than securities of the bank or savings association and the existing subsidiaries of the bank or savings association;
+
+"(B) the security holders receive, after that reorganization, substantially the same proportional share interests in the holding company as they held in the bank or savings association, except for nominal changes in shareholders' interests resulting from lawful elimination of fractional interests and the exercise of dissenting shareholders' rights under State or Federal law;
+
+"(C) the rights and interests of security holders in the holding company are substantially the same as those in the bank or savings association prior to the transaction, other than as may be required by law; and
+
+"(D) the holding company has substantially the same assets and liabilities, on a consolidated basis, as the bank or savings association had prior to the transaction.
+
+For purposes of this paragraph, the term 'savings association' means a savings association (as defined in section 3(b) of the Federal Deposit Insurance Act) the deposits of which are insured by the Federal Deposit Insurance Corporation." SEC. 321. REDUCTION OF POST-APPROVAL WAITING PERIODS FOR CERTAIN ACQUISITIONS AND MERGERS.
+(a) ACQUISITIONS.—Section 11(b)(1) of the Bank Holding Company Act of 1956 (12 U.S.C. 1849(b)(1)) is amended by inserting before the period at the end of the 4th sentence the following: "or, if the Board has not received any adverse comment from the Attorney General of the United States relating to competitive factors, such shorter period of time as may be prescribed by the Board with the concurrence of the Attorney General, but in no event less than 15 calendar days after the date of approval".
+
+(b) MERGERS.—Section 18(c)(6) of the Federal Deposit Insurance Act (12 U.S.C. 1828(c)(6)) is amended by inserting before the period at the end of the last sentence the following: "or, if the agency has not received any adverse comment from the Attorney General of the United States relating to competitive factors, such shorter period of time as may be prescribed by the agency with the concurrence of the Attorney General, but in no event less than 15 calendar days after the date of approval".
+
+SEC. 322. BANKERS’ BANKS.
+(a) OWNERSHIP BY BANKERS’ BANKS.—
+(1) SECTION 5136.—Paragraph Seventh of section 5136 of the Revised Statutes (12 U.S.C. 24) is amended in the 5th proviso—
+(A) by inserting "or depository institution holding companies (as defined in section 3 of the Federal Deposit Insurance Act)" after "except to the extent directors' qualifying shares are required by law) by depository institutions"; and
+
+(B) by striking "services for other depository institutions and their officers, directors and employees" and inserting the following: "services to or for other depository institutions, their holding companies, and the officers, directors, and employees of such institutions and companies, and in providing correspondent banking services at

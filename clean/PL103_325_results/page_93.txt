@@ -1,0 +1,28 @@
+108 STAT. 2252		PUBLIC LAW 103–325—SEPT. 23, 1994
+
+under this section shall be liable to the United States for a civil penalty of $5,000 for each such violation.
+		“(2) CONTINUING VIOLATION.—Each day a violation described in paragraph (1) continues shall constitute a separate violation for purposes of such paragraph.
+		“(3) ASSESSMENTS.—Any penalty imposed under this sub-section shall be assessed and collected by the Secretary of the Treasury in the manner provided in section 5321 and any such assessment shall be subject to the provisions of such section.”.
+	(c) CRIMINAL PENALTY FOR FAILURE TO COMPLY WITH REGISTRATION REQUIREMENTS.—Section 1960(b)(1) of title 18, United States Code, is amended to read as follows:
+		“(1) the term ‘illegal money transmitting business’ means a money transmitting business which affects interstate or foreign commerce in any manner or degree and—
+			“(A) is intentionally operated without an appropriate money transmitting license in a State where such operation is punishable as a misdemeanor or a felony under State law; or
+			“(B) fails to comply with the money transmitting business registration requirements under section 5330 of title 31, United States Code, or regulations prescribed under such section;”.
+	(d) CLERICAL AMENDMENT.—The table of sections  for chapter 53 of title 31, United States Code, is amended by inserting after the item relating to section 5329 (as added by section 311) the following new item:
+
+“5330. Registration of money transmitting businesses.”.
+
+SEC. 409. UNIFORM FEDERAL REGULATION OF CASINOS.
+
+	Section 5312(a)(2) of title 31, United States Code, is amended—
+		(1) by redesignating subparagraphs (X) and (Y) as subparagraphs (Y) and (Z), respectively; and
+		(2) by inserting after subparagraph (W) the following new subparagraph:
+			“(X) a casino, gambling casino, or gaming establishment with an annual gaming revenue of more than $1,000,000 which—
+				“(i) is licensed as a casino, gambling casino, or gaming establishment under the laws of any State or any political subdivision of any State; or
+				“(ii) is an Indian gaming operation conducted under or pursuant to the Indian Gaming Regulatory Act other than an operation which is limited to class I gaming (as defined in section 4(6) of such Act);”.
+
+SEC. 410. AUTHORITY TO GRANT EXEMPTIONS TO STATES WITH EFFECTIVE REGULATION AND ENFORCEMENT.
+
+	(a) IN GENERAL.—Section 5318(a) of title 31, United States Code, is amended—
+		(1) by striking “and” at the end of paragraph (4);
+		(2) by redesignating paragraph (5) as paragraph (6); and
+		(3) by inserting after paragraph (4) the following new paragraph:

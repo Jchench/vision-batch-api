@@ -1,0 +1,35 @@
+108 STAT. 2280
+
+PUBLIC LAW 103-325—SEPT. 23, 1994
+
+42 USC 4101 note.
+
+SEC. 576. TECHNICAL MAPPING ADVISORY COUNCIL.
+
+(a) ESTABLISHMENT.—There is established a council to be known as the Technical Mapping Advisory Council (in this section referred to as the "Council").
+
+(b) MEMBERSHIP.—
+(1) IN GENERAL.—The Council shall consist of the Director of the Federal Emergency Management Agency (in this section referred to as the "Director"), or the Director's designee, and 10 additional members to be appointed by the Director or the designee of the Director, who shall be—
+(A) the Under Secretary of Commerce for Oceans and Atmosphere (or his or her designee);
+(B) a member of recognized surveying and mapping professional associations and organizations;
+(C) a member of recognized professional engineering associations and organizations;
+(D) a member of recognized professional associations or organizations representing flood hazard determination firms;
+(E) a representative of the United States Geologic Survey;
+(F) a representative of State geologic survey programs;
+(G) a representative of State national flood insurance coordination offices;
+(H) a representative of a regulated lending institution;
+(I) a representative of the Federal Home Loan Mortgage Corporation; and
+(J) a representative of the Federal National Mortgage Association.
+(2) QUALIFICATIONS.—Members of the Council shall be appointed based on their demonstrated knowledge and competence regarding surveying, cartography, remote sensing, geographic information systems, or the technical aspects of preparing and using flood insurance rate maps.
+
+(c) DUTIES.—The Council shall—
+(1) make recommendations to the Director on how to improve in a cost-effective manner the accuracy, general quality, ease of use, and distribution and dissemination of flood insurance rate maps;
+(2) recommend to the Director mapping standards and guidelines for flood insurance rate maps; and
+(3) submit an annual report to the Director that contains—
+(A) a description of the activities of the Council;
+(B) an evaluation of the status and performance of flood insurance rate maps and mapping activities to revise and update flood insurance rate maps, as established pursuant to the amendment made by section 675; and
+(C) a summary of recommendations made by the Council to the Director.
+
+(d) CHAIRPERSON.—The members of the Council shall elect 1 member to serve as the chairperson of the Council (in this section referred to as the "Chairperson").
+
+(e) COORDINATION.—To ensure that the Council's recommendations are consistent to the maximum extent practicable with national digital spatial data collection and management standards, the Chairperson shall consult with the Chairperson of the Federal

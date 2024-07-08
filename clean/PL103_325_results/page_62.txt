@@ -1,0 +1,35 @@
+PUBLIC LAW 103-325—SEPT. 23, 1994                108 STAT. 2221
+
+SEC. 310. ELECTRONIC FILING OF CURRENCY TRANSACTION REPORTS.
+    Section 123 of Public Law 91-508 (12 U.S.C. 1953) is amended by adding at the end the following new subsection:
+        "(c) ACCEPTANCE OF AUTOMATED RECORDS.—The Secretary shall permit an uninsured bank or financial institution to retain or maintain records referred to in subsection (a) in electronic or automated form, subject to terms and conditions established by the Secretary.".
+
+SEC. 311. BANK SECRECY ACT PUBLICATION REQUIREMENTS.
+    (a) In General.— Subchapter II of chapter 53 of title 31, United States Code, is amended by adding at the end the following new section:
+        "SEC. 5329. STAFF COMMENTARIES.
+            "The Secretary shall—
+                "(1) publish all written rulings interpreting this subchapter; and
+                "(2) annually issue a staff commentary on the regulations issued under this subchapter.".
+    (b) CONFORMING AMENDMENT.—The table of sections for chapter 53 of title 31, United States Code, is amended by inserting after the item relating to section 5328 the following new item:
+
+        "5329. Staff commentaries.".
+
+SEC. 312. EXEMPTION OF BUSINESS LOANS FROM REAL ESTATE SETTLEMENT PROCEDURES ACT REQUIREMENTS.
+    The Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et. seq.) is amended by inserting after section 6 the following new section:
+        "SEC. 7. EXEMPTED TRANSACTIONS.
+            "This Act does not apply to credit transactions involving extensions of credit—
+                "(1) primarily for business, commercial, or agricultural purposes; or
+                "(2) to government or governmental agencies or instrumentalities.".
+            
+SEC. 313. FLEXIBILITY IN CHOOSING BOARDS OF DIRECTORS.
+    Section 5146 of the Revised Statutes (12 U.S.C. 72) is amended in the 1st sentence, by striking "two thirds" and inserting "a majority".
+
+SEC. 314. HOLDING COMPANY AUDIT REQUIREMENTS.
+    (a) In General.—Section 36(i) of the Federal Deposit Insurance Act (12 U.S.C. 1831m(i)) is amended—
+        (1) by redesignating paragraph (1) as subparagraph (A) and indenting appropriately;
+        (2) by striking "Except with respect" and inserting the following:
+             "(1) IN GENERAL.—Except with respect”; and
+        (3) by striking paragraph (2) and inserting the following:
+            "(B) the institution—
+                "(i) has total assets, as of the beginning of such fiscal year, of less than $5,000,000,000; or
+                "(ii) has—

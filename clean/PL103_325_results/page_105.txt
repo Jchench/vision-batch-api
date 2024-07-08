@@ -1,0 +1,25 @@
+108 STAT. 2264               PUBLIC LAW 103-325—SEPT. 23, 1994
+
+    "(C)  a  statement  that flood  insurance coverage may be purchased under the national flood insurance program and is also available from private insurers; and
+    
+    "(D)  any other information that the Director considers necessary  to  carry  out  the  purposes  of  the  national  flood insurance program.
+(b) NOTIFICATION OF CHANGE OF SERVICER.—
+Regulations. 
+    "(1) LENDING INSTITUTIONS.—Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require regulated lending institutions, in connection with the making, increasing, extending, renewing, selling, or transferring any loan described in subsection (a)(1), to notify the Director (or the designee of the Director) in writing during the term of the loan of the servicer of the loan. Such institutions shall also notify the Director (or such designee) of any change in the servicer of the loan, not later than 60 days after the effective date of such change. The regulations under this subsection  shall  provide  that  upon  any  change  in  the servicing of a loan, the duty to provide notification under this subsection shall transfer to the transferee servicer of the loan.
+    
+    "(2)  FEDERAL AGENCY LENDERS.—Each Federal agency lender shall by regulation provide for notification in the manner provided under paragraph (1) with respect to any loan described in subsection (a)(1) that is made by the Federal agency lender. Any regulations issued under this paragraph shall be consistent with and substantially identical to the regulations issued under paragraph (1) of this subsection.
+(c)  NOTIFICATION  OF  EXPIRATION  OF  INSURANCE.—The  Director (or the designee of the Director) shall, not less than 45 days before the expiration of any contract for flood insurance under this title, issue notice of such expiration by first class mail to the owner of the property covered by the contract, the servicer of any loan secured by the property covered by the contract, and (if known to the Director) the owner of the loan.”.
+
+SEC 528 STANDARD HAZARD DETERMINATION FORMS.
+Chapter III of the National Flood Insurance Act of 1968 (42 U.S.C. 4101 et seq.) is amended by adding at the end the following new section:
+
+"STANDARD HAZARD DETERMINATION FORMS
+    
+42 USC 4104b
+
+    "SEC 1356 (a) DEVELOPMENT—The Director, in consultation with representatives of the mortgage and lending industry, the Federal entities for lending regulation, the Federal agency lenders, and any other appropriate individuals, shall develop a standard form for determining, in the case of a loan secured by improved real estate or a mobile home, whether the building or mobile home is located in an area identified by the Director as an area having special flood hazards and in which flood insurance under this title is available. The form shall be established by regulations issued not later than 270 days after the date of enactment of the Riegle Community Development and Regulatory Improvement Act of 1994.
+    
+Regulations.
+    (b) DESIGN AND CONTENTS—
+    
+    (1)  PURPOSEThe form  under  subsection  (a)  shall  be designed  to  facilitate  compliance  with  the  flood  insurance purchase requirements of this title

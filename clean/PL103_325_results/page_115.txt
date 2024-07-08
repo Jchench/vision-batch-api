@@ -1,0 +1,26 @@
+108 STAT. 2274 PUBLIC LAW 103-325—SEPT. 23, 1994
+
+(3) any amounts recaptured under section 1366(i).
+(c) INVESTMENT.—If the Director determines that the amounts in the National Flood Mitigation Fund are in excess of amounts needed under subsection (a), the Director may invest any excess amounts the Director determines advisable in interest-bearing obligations issued or guaranteed by the United States.
+(d) REPORT.—The Director shall submit a report to the Congress not later than the expiration of the 1-year period beginning on the date of enactment of this Act and not less than once during each successive 2-year period thereafter. The report shall describe the status of the Fund and any activities carried out with amounts from the Fund.”.
+(b) NATIONAL FLOOD INSURANCE FUND AS SEPARATE ACCOUNT.—Section 1310(a) of the National Flood Insurance Act of 1968 (42 U.S.C. 4017(a)) is amended—
+
+(1) in the matter preceding paragraph (1)—
+(A) by striking “is authorized to” and inserting “shall”; and
+(B) by inserting after “which shall be” the following: “an account separate from any other accounts or funds available to the Director and shall be”; and
+(2) by adding after paragraph (6) (as added by the preceding provisions of this title) the following new paragraph:
+“(7) for transfers to the National Flood Mitigation Fund, but only to the extent provided in section 1367(b)(1); and”.
+
+SEC. 555. ADDITIONAL COVERAGE FOR COMPLIANCE WITH LAND USE AND CONTROL MEASURES.
+
+(a) IN GENERAL.—Section 1304 of the National Flood Insurance Act of 1968 (42 U.S.C. 4011) is amended—
+(1) by redesignating subsection (b) as subsection (c); and
+(2) by inserting after subsection (a) the following new subsection:
+“(b) ADDITIONAL COVERAGE FOR COMPLIANCE WITH LAND USE AND CONTROL MEASURES.—The national flood insurance program established pursuant to subsection (a) shall enable the purchase of insurance to cover the cost of compliance with land use and control measures established under section 1361 for—
+“(1) properties that are repetitive loss structures;
+“(2) properties that have flood damage in which the cost of repairs equals or exceeds 50 percent of the value of the structure at the time of the flood event; and
+“(3) properties that have sustained flood damage on multiple occasions, if the Director determines that it is cost-effective and in the best interests of the National Flood Insurance Fund to require compliance with the land use and control measures.
+The Director shall impose a surcharge on each insured of not more than $75 per policy to provide cost of compliance coverage in accordance with the provisions of this subsection.”.
+(b) APPLICABILITY.—The provisions of subsection (a) shall apply only to properties that sustain flood-related damage after the date of enactment of this Act.
+
+42 USC 4011 note.

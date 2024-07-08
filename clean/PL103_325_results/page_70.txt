@@ -1,0 +1,24 @@
+PUBLIC LAW 103-325-SEPT. 23, 1994            108 STAT. 2229
+
+	negotiated at arm's length that provides for the sale of the institution's credit card customer list, the Corporation shall prohibit any party to a transaction with respect to the institution under this section or section 13 from using the list, except as permitted under the agreement.
+		"(B) FRAUDULENT TRANSACTIONS EXCLUDED. - Subparagraph (A) does not limit the Corporation's authority to repudiate any agreement entered into with the intent to hinder, delay, or defraud the institution, the institution's creditors, or the Corporation.".
+SEC. 326. LIMITING POTENTIAL LIABILITY ON FOREIGN ACCOUNTS.
+
+	(a) AMENDMENT TO THE FEDERAL RESERVE ACT. - The Federal Reserve Act (12 U.S.C. 221 et seq.) is amended by inserting after section 25B the following new section:
+		
+“SEC. 25C. POTENTIAL LIABILITY ON FOREIGN ACCOUNTS.
+		
+	"(a) EXCEPTIONS FROM REPAYMENT REQUIREMENT. - A member bank shall not be required to repay any deposit made at a foreign branch of the bank if the branch cannot repay the deposit due to -
+			"(1) an act of war, insurrection, or civil strike; or
+			"(2) an action by a foreign government or instrumentality (whether de jure or de facto) in the country in which the branch is located;
+		unless the member bank has expressly agreed in writing to repay the deposit under those circumstances.
+		"(b) REGULATIONS. - The Board and the Comptroller of the Currency may jointly prescribe such regulations as they deem necessary to implement this section.".
+	(b) CONFORMING AMENDMENTS TO THE FEDERAL DEPOSIT INSURANCE ACT. -
+		(1) IN GENERAL. - Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828) is amended by inserting after subsection (p) the following new subsection:
+		"(q) SOVEREIGN RISK. - Section 25C of the Federal Reserve Act shall apply to every nonmember insured bank in the same manner and to the same extent as if the nonmember insured bank were a member bank.".
+		(2) CONFORMING AMENDMENT. - Subparagraph (A) of section 3(l)(5) of the Federal Deposit Insurance Act (12 U.S.C. 1813(1)(5)) is amended to read as follows:
+			"(A) any obligation of a depository institution which is carried on the books and records of an office of such bank or savings association located outside of any State, unless -
+				"(i) such obligation would be a deposit if it were carried on the books and records of the depository institution, and would be payable at, an office located in any State; and
+				"(ii) the contract evidencing the obligation provides by express terms, and not by implication, for payment at an office of the depository institution located in any State; and".
+
+	(c) EXISTING CLAIMS NOT AFFECTED. - Section 25C of the Federal Reserve Act (as added by subsection (a)) shall not be applied retroactively and shall not be construed to affect or apply to any claim or cause of action addressed by that section arising from 12 USC 633 note.

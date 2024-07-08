@@ -1,0 +1,23 @@
+PUBLIC LAW 103-325—SEPT. 23, 1994 108 STAT. 2245
+
+"(1) has the meaning given to such term in section 19(b)(1)(A) of the Federal Reserve Act; and 
+"(2) includes— 
+"(A) any branch, agency, or commercial lending company (as such terms are defined in section 1(b) of the International Banking Act of 1978); 
+"(B) any corporation chartered under section 25A of the Federal Reserve Act; and 
+"(C) any corporation having an agreement or undertaking with the Board of Governors of the Federal Reserve System under section 25 of the Federal Reserve Act." 
+(b) REPORT REDUCTION GOAL; REPORTS.— 
+(1) IN GENERAL.—In implementing the amendment made by subsection (a), the Secretary of the Treasury shall seek to reduce, within a reasonable period of time, the number of reports required to be filed in the aggregate by depository institutions pursuant to section 5313(a) of title 31, United States Code, by at least 30 percent of the number filed during the year preceding the date of enactment of this Act. 
+
+(2) INTERIM REPORT.—The Secretary of the Treasury shall submit a report to the Congress not later than the end of the 180-day period beginning on the date of enactment of this Act on the progress made by the Secretary in implementing the amendment made by subsection (a). 
+
+(3) ANNUAL REPORT.—The Secretary of the Treasury shall submit an annual report to the Congress after the end of each of the first 5 calendar years which begin after the date of enactment of this Act on the extent to which the Secretary has reduced the overall number of currency transaction reports filed with the Secretary pursuant to section 5313(a) of title 31, United States Code, consistent with the purposes of such section and effective law enforcement. 
+(c) STREAMLINED CURRENCY TRANSACTION REPORTS.—The Secretary of the Treasury shall take such action as may be appropriate to— 
+(1) redesign the format of reports required to be filed under section 5313(a) of title 31, United States Code, by any financial institution (as defined in section 5312(a)(2) of such title) to eliminate the need to report information which has little or no value for law enforcement purposes; and 
+(2) reduce the time and effort required to prepare such report for filing by any such financial institution under such section. 
+
+SEC. 403. SINGLE DESIGNEE FOR REPORTING OF SUSPICIOUS TRANSACTIONS.
+
+(a) IN GENERAL.—Section 5318(g) of title 31, United States Code, is amended by adding at the end the following new paragraph: 
+"(4) SINGLE DESIGNEE FOR REPORTING SUSPICIOUS TRANSACTIONS.—
+"(A) IN GENERAL.—In requiring reports under paragraph (1) of suspicious transactions, the Secretary of the Treasury shall designate, to the extent practicable and appropriate, a single officer or agency of the United States to whom such reports shall be made. 
+"(B) DUTY OF DESIGNEE.—The officer or agency of the United States designated by the Secretary of the Treasury 

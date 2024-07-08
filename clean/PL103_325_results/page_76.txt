@@ -1,0 +1,24 @@
+PUBLIC LAW 103-325—SEPT. 23, 1994 108 STAT. 2235
+
+(b) STUDY OF ADVERTISING RULES.—Not later than 365 days after the date of enactment of this Act, the Board of Governors of the Federal Reserve System shall submit a report to the Congress on—
+(1) the current rules applicable to credit advertising;
+(2) how such rules could be modified to increase consumer benefit and decrease creditor costs; and
+(3) how such rules could be modified, if at all, for radio advertisements without diminishing consumer protection.
+
+SEC. 337. DEPOSIT BROKER REGISTRATION.
+Section 29(g)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1831f(g)(3)) is amended—
+(1) by inserting “that is not well capitalized (as defined in section 38)” after “includes any insured depository institution”;
+(2) by striking “of any insured depository” and inserting “of such”;
+(3) by striking “(with respect to such deposits)”; and
+(4) by striking “having the same type of charter”.
+
+SEC. 338. AMENDMENTS TO THE DEPOSITORY INSTITUTION MANAGEMENT INTERLOCKS ACT.
+(a) MANAGEMENT EXEMPTION.—Section 206 of the Depository Institution Management Interlocks Act (12 U.S.C. 3205) is amended—
+(1) in subsections (a) and (b), by striking “15 years after the date of enactment of this title” each place it appears and inserting “, subject to the requirements of subsection (c), 20 years after the date of enactment of this title”; and
+(2) by adding at the end the following new subsection:
+“(c) REVIEW OF EXISTING MANAGEMENT INTERLOCKS.—Upon the timely filing of a submission by a person petitioning to serve as a management official in more than 1 position pursuant to subsection (a) or (b), each appropriate Federal depository institutions regulatory agency shall, not later than 6 months after the date of enactment of this Act—
+“(1) review, on a case-by-case basis, the circumstances under which such person has served as a management official under the provisions of subsection (a) or (b); and
+“(2) permit the management official to continue to serve in such position only if—
+“(A) such person has provided a resolution from the boards of directors of each affected depository institution, depository holding company, or company described in subsection (b), certifying to the appropriate Federal depository institutions regulatory agency for each of the institutions involved that there is no other qualified candidate from the community described in paragraph (1) or (2) of section 203 who—
+“(i) possesses the level of expertise necessary for such service with respect to the affected depository institution, depository holding company, or company described in subsection (b); and
+“(ii) is willing to serve as a management official at the affected depository institution, depository holding company, or company described in subsection (b); and

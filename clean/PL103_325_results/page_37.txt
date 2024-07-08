@@ -1,0 +1,51 @@
+108 STAT. 2196		PUBLIC LAW 103-325—SEPT. 23, 1994
+
+		“(ii) the total amount paid by the consumer in 
+		connection with the transaction.
+	“(3) OFFSET.—The amount of damages that may be awarded under paragraph (2)(B) shall be reduced by the amount of any damages awarded under paragraph (2)(A).
+	“(4) NOTICE.—Any person who sells or otherwise assigns 
+	 a mortgage referred to in section 103(aa) shall include a promi-nent notice of the potential liability under this subsection as determined by the Board.”.
+
+SEC. 154. REVERSE MORTGAGE DISCLOSURE.
+
+(a) DEFINITION OF REVERSE MORTGAGE.—Section 103 of the 	Truth in Lending Act (15 U.S.C. 1602) is amended by adding 	at the end the following new subsection:
+
+		“(bb) The term ‘reverse mortgage transaction’ means a 
+        nonrecourse transaction in which a mortgage, deed of trust, or 
+        equivalent consensual security interest is created against the 	consumer’s principal dwelling—
+	“(1) securing one or more advances; and
+	“(2) with respect to which the payment of any principal, 
+        interest, and shared appreciation or equity is due and payable 	(other than in the case of default) only after—
+		“(A) the transfer of the dwelling;
+		“(B) the consumer ceases to occupy the dwelling as 
+        a principal dwelling; or
+		“(C) the death of the consumer.”.
+(b) DISCLOSURE.—Chapter 2 of title I of the Truth in Lending Act (15 U.S.C. 1631 et seq.) is amended by adding at the end the following new section:
+
+15 USC 1648.	“SEC. 138. REVERSE MORTGAGES.
+
+	(a) IN GENERAL.—In addition to the disclosures required under 
+this title, for each reverse mortgage, the creditor shall, not less 
+than 3 days prior to consummation of the transaction, disclose 
+to the consumer in conspicuous type a good faith estimate of the 
+projected total cost of the mortgage to the consumer expressed 
+as a table of annual interest rates. Each annual interest rate 
+shall be based on a projected total future credit extension balance 
+under a projected appreciation rate for the dwelling and a term 
+for the mortgage. The disclosure shall include—
+	“(1) statements of the annual interest rates for not less
+	    than 3 projected appreciation rates and not less than 3 credit 
+	transaction periods, as determined by the Board, including—
+		“(A) a short-term reverse mortgage;
+		“(B) a term equaling the actuarial life expectancy of
+                 the consumer; and
+		“(C) such longer term as the Board deems appropriate; 
+		and
+	“(2) a statement that the consumer is not obligated to 
+	complete the reverse mortgage transaction merely because the 
+	consumer has received the disclosure required under this sec-tion or has signed an application for the reverse mortgage.
+(b) PROJECTED TOTAL COST.—In determining the projected 
+total cost of the mortgage to be disclosed to the consumer under 
+subsection (a), the creditor shall take into account—
+	“(1) any shared appreciation or equity that the lender will, 
+	by contract, be entitled to receive;

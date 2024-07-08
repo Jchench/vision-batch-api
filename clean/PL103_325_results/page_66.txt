@@ -1,0 +1,27 @@
+PUBLIC LAW 103-325—SEPT. 23, 1994 108 STAT. 2225
+
+"(II) the bank is adequately capitalized (as defined in section 38 of the Federal Deposit Insurance Act);
+"(iii) the holding company does not engage in any activities other than those of managing and controlling banks as a result of the reorganization;
+"(iii) the company provides 30 days prior notice to the Board and the Board does not object to such transaction during such 30-day period; and
+"(iv) the holding company will not acquire control of any additional bank as a result of the reorganization."
+(b) AMENDMENTS TO THE FEDERAL DEPOSIT INSURANCE ACT.— Section 5(d)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1815(d)(3)) is amended—
+(1) by striking subparagraph (A) and inserting the following:
+"(A) CONVERSIONS ALLOWED.—Notwithstanding paragraph (2)(A), and subject to the requirements of this paragraph, any insured depository institution may participate in a transaction described in clause (ii), (iii), or (iv) of paragraph (2)(B) with the prior written approval of the responsible agency under section 18(c)(2).";
+(2) in subparagraph (E)—
+(A) in clause (i), by striking "(and, in the event the acquiring, assuming, or resulting depository institution is a Bank Insurance Fund member which is a subsidiary of a bank holding company, the Board)";
+(B) in clause (ii), by striking "or Board"; and
+(C) in clause (iv)—
+(i) by striking ", and the appropriate Federal banking agency for any depository institution holding company,";
+(ii) by striking "each"; and
+(iii) by striking " and any depository institution holding company which controls such institution,";
+(3) in subparagraph (F)—
+(A) by striking "The Board" and all that follows through "a Bank" and inserting "A Bank"; and
+(B) by striking "unless the Board determines that" and inserting "may not be the acquiring, assuming, or resulting depository institution in a transaction under subparagraph (A) unless"; and
+(4) by striking subparagraph (K).
+
+SEC. 320. EXEMPTION OF CERTAIN HOLDING COMPANY FORMATIONS 
+FROM REGISTRATION UNDER THE SECURITIES ACT OF 
+1933.
+Section 3(a) of the Securities Act of 1933 (15 U.S.C. 77c(a)) is amended by adding at the end the following new paragraph:
+"(12) Any equity security issued in connection with the acquisition by a holding company of a bank under section 3(a) of the Bank Holding Company Act of 1956 or a savings association under section 10(e) of the Home Owners' Loan Act, if—
+(A) the acquisition occurs solely as part of a reorganization in which security holders exchange their shares

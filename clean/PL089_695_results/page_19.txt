@@ -1,0 +1,27 @@
+1046
+
+PUBLIC LAW 89-695-OCT. 16, 1966
+
+Effective date.
+(b) The amendment made by subsection (a) of this section shall be effective only with respect to proceedings commenced on or after the date of enactment of this Act. Section 407 of the National Housing Act as in effect immediately prior to the date of enactment of this Act shall continue in effect with respect to any proceedings commenced prior to such date.
+
+64 Stat. 259.
+12 USC 1730.
+Sec. 103. Subsection (c) of section 408 of the National Housing Act (12 U.S.C. 1730a(c)) is amended to read: 
+"(c) It shall be unlawful for any company on or after September 23, 1959--
+
+(1) to acquire the control of more than one insured institution, or
+(2) to acquire the control of an insured institution when it holds the control of any other insured institution, except in a transaction which has been approved by the Federal Home Loan Bank Board upon a determination by it that such transaction is advisable to assist in preventing the commencement or continuance of involuntary liquidation of the insured institution whose control, whether by acquisition of stock or assets or otherwise, is being acquired by such company or an insured institution which it controls". 
+
+73 Stat. 691.
+TITLE II--PROVISION RELATING TO THE FEDERAL DEPOSIT INSURANCE CORPORATION, THE BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM, AND THE COMPTROLLER OF THE CURRENCY
+
+Sec. 201. Paragraph (6) of subsection (i) of section 7 of the Federal Deposit Insurance Act (12 U.S.C.1817(i)(6)) is repealed and section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813) is amended by adding the following new subsection (q): 
+"(q) The term 'appropriate Federal banking agency' shall mean (1) the Comptroller of the Currency in the case of a national banking association or a District bank, (2) the Board of Governors of the Federal Reserve System in the case of a State member insured bank (except a District bank), and (3) the Federal Deposit Insurance Corporation in the case of a State nonmember insured bank (except a District bank)."
+
+78 Stat. 941.
+64 Stat. 873.
+"Appropriate Federal banking agency."
+Sec. 202. Section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818), is amended by redesignating subsections (b), (c), and (d) thereof as (o), (p), and (q) and by adding after subsection (a) thereof the following new subsections (b) through (n), inclusive:
+
+"(b)(1) If, in the opinion of the appropriate Federal banking agency, any insured bank or bank which has insured deposits is engaging or has engaged, or the agency has reasonable cause to believe that the bank is about to engage, in an unsafe or unsound practice in conducting the business of such bank, or is violating or has violated, or the agency has reasonable cause to believe that the bank is about to violate, a law, rule, or regulation, or any condition imposed in writing by the agency in connection with the granting of any application or other request by the bank, or any written agreement entered into with the agency, the agency may issue and serve upon the bank a notice of charges in respect thereof. The notice shall contain a statement of the facts constituting the alleged violation or violations or the unsafe or unsound practice or practices, and shall fix a time and place at which a hearing will be held to determine whether an order to cease and desist therefrom should issue against the bank. Such hearing shall be fixed for a date not earlier than thirty days nor later than sixty days after service of such notice unless an earlier or a later date is set by the agency at the request of the bank. Unless the bank shall appear

@@ -1,56 +1,55 @@
-PUBLIC LAW 103-325—SEPT. 23, 1994              108 STAT. 2223
+PUBLIC LAW 103-325—SEPT. 23, 1994
 
-SEC. 316. ACCELERATION OF EFFECTIVE DATE FOR INTERAFFILIATE
-TRANSACTIONS.
-(a) HOME OWNERS' LOAN ACT AMENDMENT.—Section 11(a)(2) 
-of the Home Owners' Loan Act (12 U.S.C. 1468(a)(2)) is amended 
-by adding at the end the following new subparagraph:
-"(C) TRANSITION RULE FOR WELL CAPITALIZED SAVINGS
-ASSOCIATIONS.—
-"(i) IN GENERAL.—A savings association that is 
-well capitalized (as defined in section 38 of the Federal
-Deposit Insurance Act), as determined without includ-
-ing goodwill in calculating core capital, shall be treated 
-as a bank for purposes of section 23A(d)(1) and section 
-23B of the Federal Reserve Act.
-"(ii) LIABILITY OF COMMONLY CONTROLLED DEPOSI-
-TORY INSTITUTIONS.—Any savings association that 
-engages under clause (i) in a transaction that would 
-not otherwise be permissible under this subsection,
-and any affiliated insured bank that is commonly con-
-trolled (as defined in section 5(e)(9) of the Federal 
-Deposit Insurance Act), shall be subject to subsection
-(e) of section 5 of the Federal Deposit Insurance Act
-as if paragraph (6) of that subsection did not apply.".
-(b) REPEAL PROVISION.—Effective on January 1, 1995, subpara-
-graph (C) of section 11(a)(2) of the Home Owners' Loan Act (12 
-U.S.C. 1468(a)(2)) (as added by subsection (a) of this section) is 
-repealed.
-SEC. 317. COLLATERALIZATION OF PUBLIC DEPOSITS.
-Section 13(e) of the Federal Deposit Insurance Act (12 U.S.C.
-1823(e)) is amended—
-(1) by redesignating paragraphs (1) through (4) as subpara-
-graphs (A) through (D), respectively, and indent appropriately;
-(2) by striking "No agreement" and inserting the following:
-"(1) IN GENERAL.—No agreement"; and
-(3) by adding at the end the following new paragraph:
-"(2) PUBLIC DEPOSITS.—An agreement to provide for the
-lawful collateralization of deposits of a Federal, State, or local 
-governmental entity or of any depositor referred to in section 
-11(a)(2) shall not be deemed to be invalid pursuant to para-
-graph (1)(B) solely because such agreement was not executed
-contemporaneously with the acquisition of the collateral or 
-with any changes in the collateral made in accordance with 
-such agreement.".
-SEC. 318. MODIFICATION OF REGULATORY PROVISIONS.
-(a) IN GENERAL.—Section 39(b) of the Federal Deposit Insurance
-Act (12 U.S.C. 1831p-1(b), as added by section 132(a) of the Federal 
-Deposit Insurance Corporation Improvement Act of 1991) is 
-amended to read as follows:
-"(b) ASSET QUALITY, EARNINGS, AND STOCK VALUATION STAND-
-ARDS.—Each appropriate Federal banking agency shall prescribe
-standards, by regulation or guideline, for all insured depository 
-institutions relating to asset quality, earnings, and stock valuation 
-that the agency determines to be appropriate.".
-(b) ESTABLISHING STANDARDS.—Section 39(d) of the Federal
-Deposit Insurance Act (12 U.S.C. 1831p-1(d), as added by section
+SEC. 316. ACCELERATION OF EFFECTIVE DATE FOR INTERAFFILIATE      108 STAT. 2223
+              TRANSACTIONS.
+           (a) HOME OWNERS' LOAN ACT AMENDMENT.—Section 11(a)(2)  of the Home Owners' Loan Act (12 U.S.C. 1468(a)(2)) is amended by adding at the end the following new subparagraph:
+              "(C) TRANSITION RULE FOR WELL CAPITALIZED SAVINGS 
+                      ASSOCIATIONS.— 
+                      "(i) IN GENERAL.—A savings association that is well capitalized (as defined in section 38 of the Federal Deposit Insurance Act), as determined without including goodwill in calculating core capital, shall be treated as a bank for purposes of section 23A(d)(1) and section 23B of the Federal Reserve Act. 
+                      "(ii) LIABILITY OF COMMONLY CONTROLLED DEPOSI-
+                TORY INSTITUTIONS.—Any savings association that
+                engages under clause (i) in a transaction that would
+                not otherwise be permissible under this subsection,
+                and any affiliated insured bank that is commonly con-
+                trolled (as defined in section 5(e)(9) of the Federal
+                Deposit Insurance Act), shall be subject to subsection
+                (e) of section 5 of the Federal Deposit Insurance Act
+                as if paragraph (6) of that subsection did not apply.".
+          (b) REPEAL PROVISION.—Effective on January 1, 1995, subpara-
+     graph (C) of section 11(a)(2) of the Home Owners' Loan Act (12
+     U.S.C. 1468(a)(2)) (as added by subsection (a) of this section) is
+     repealed.
+Effective date.
+12 USC 1468
+note. 
+SEC. 317. COLLATERALIZATION OF PUBLIC DEPOSITS. 
+
+  Section 13(e) of the Federal Deposit Insurance Act (12 U.S.C. 
+1823(e)) is amended— 
+           (1) by redesignating paragraphs (1) through (4) as subpara-
+     graphs (A) through (D), respectively, and indent appropriately; 
+           (2) by striking "No agreement" and inserting the following: 
+                    "(1) IN GENERAL.—No agreement"; and 
+           (3) by adding at the end the following new paragraph:
+                    "(2) PUBLIC DEPOSITS.—An agreement to provide for the
+          lawful collateralization of deposits of a Federal, State, or local 
+          governmental entity or of any depositor referred to in section 
+          11(a)(2) shall not be deemed to be invalid pursuant to para-
+          graph (1)(B) solely because such agreement was not executed 
+          contemporaneously with the acquisition of the collateral or 
+          with any changes in the collateral made in accordance with 
+          such agreement.". 
+
+ SEC. 318. MODIFICATION OF REGULATORY PROVISIONS. 
+
+             (a) IN GENERAL.—Section 39(b) of the Federal Deposit Insurance
+    Act (12 U.S.C. 1831p-l(b), as added by section 132(a) of the Federal 
+    Deposit Insurance Corporation Improvement Act of 1991) is 
+    amended to read as follows: 
+                         "(b) ASSET QUALITY, EARNINGS, AND STOCK VALUATION STAND-
+                    ARDS.—Each appropriate Federal banking agency shall prescribe
+                    standards, by regulation or guideline, for all insured depository 
+                    institutions relating to asset quality, earnings, and stock valuation
+                    that the agency determines to be appropriate.". 
+              (b) ESTABLISHING STANDARDS—Section 39(d) of the Federal 
+Deposit Insurance Act (12 U.S.C. 1831p-l(d), as added by section

@@ -1,4 +1,4 @@
-108 STAT. 2162    PUBLIC LAW 103-325—SEPT. 23, 1994
+108 STAT. 2162                PUBLIC LAW 103-325---SEPT. 23, 1994
 
 Sec. 342. Timely completion of CRA review.
 Sec. 343. Time limit on agency consideration of completed applications.
@@ -10,7 +10,8 @@ Sec. 348. Clarifying amendment relating to data collection.
 Sec. 349. Guidelines for examinations.
 Sec. 350. Revising regulatory requirements for transfers of all types of assets with recourse.
 
-TITLE IV—MONEY LAUNDERING
+                           TITLE IV-MONEY LAUNDERING
+
 Sec. 401. Short title.
 Sec. 402. Reform of CTR exemption requirements to reduce number and size of reports consistent with effective law enforcement.
 Sec. 403. Single designee for reporting of suspicious transactions.
@@ -25,13 +26,17 @@ Sec. 411. Criminal and civil penalties for structuring domestic and internationa
 Sec. 412. GAO study of cashiers' checks.
 Sec. 413. Technical amendments and corrections.
 
-TITLE V—NATIONAL FLOOD INSURANCE REFORM
+                 TITLE V-NATIONAL FLOOD INSURANCE REFORM
+
 Sec. 501. Short title.
-Subtitle A—Definitions
+
+                         Subtitle A-Definitions
+
 Sec. 511. Flood Disaster Protection Act of 1973.
 Sec. 512. National Flood Insurance Act of 1968.
 
-Subtitle B—Compliance and Increased Participation
+  Subtitle B-Compliance and Increased Participation
+
 Sec. 521. Nonwaiver of flood purchase requirement for recipients of Federal disaster assistance.
 Sec. 522. Expanded flood insurance purchase requirements.
 Sec. 523. Escrow of flood insurance payments.
@@ -44,16 +49,19 @@ Sec. 529. Examinations regarding compliance.
 Sec. 530. Financial Institutions Examination Council.
 Sec. 531. Clerical amendment.
 
-Subtitle C—Ratings and Incentives for Community Floodplain Management Programs
+ Subtitle C-Ratings and Incentives for Community Floodplain Management Programs
+    
 Sec. 541. Community rating system and incentives for community floodplain management.
 Sec. 542. Funding.
 
-Subtitle D—Mitigating of Flood Risks
+            Subtitle D-Mitigation of Flood Risks
+
 Sec. 551. Repeal of flooded property purchase and loan program.
 Sec. 552. Termination of erosion-threatened structures program.
 Sec. 553. Mitigation assistance program.
 Sec. 554. Establishment of National Flood Mitigation Fund.
 Sec. 555. Additional coverage for compliance with land use and control measures.
 
-Subtitle E—Tasks Forces
+                      Subtitle E-Task Forces
+
 Sec. 561. Flood Insurance Interagency Task Force.

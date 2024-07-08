@@ -1,0 +1,29 @@
+PUBLIC LAW 91-508-OCT 26, 1970	[84 STAT.
+
+TITLE V-PROVISIONS RELATING TO CREDIT CARDS
+
+15 USC 1602.
+
+SEC. 501. Section 103 of the Truth in Lending Act (82 Stat. 146) is amended by redesignating subsections (j), (k), and (l) as subsections (p), (q), and (r), respectively, and by adding after subsection (i) the following:
+
+"(j) The term 'adequate notice’, as used in section 133, means a printed notice to a cardholder which sets forth the pertinent facts clearly and conspicuously so that a person against whom it is to operate could reasonably be expected to have noticed it and understood its meaning, Such notice may be given to a cardholder by printing the notice on any credit card, or on each periodic statement of account, issued to the cardholder, or by any other means reasonably assuring the receipt thereof by the cardholder.
+
+"(k) The term 'credit card’ means any card, plate, coupon book or other credit device existing for the purpose of obtaining money, property, labor, or services on credit.
+
+"(l) The term 'accepted credit card’ means any credit card which the cardholder has requested and received or has signed or has used, or authorized another to use, for the purpose of obtaining money, property, labor, or services on credit.
+
+(m) The term ‘cardholder’ means any person to whom a credit card is issued or any person who has agreed with the card issuer to pay obligations arising from the issuance of a credit card to another person.
+
+(n) The term 'card issuer' means any person who issues a credit card, or the agent of such person with respect to such card.
+
+“(o) The term 'unauthorized use’, as used in section 133, means a use of a credit card by a person other than the cardholder who does not have actual, implied, or apparent authority for such use and from which the cardholder receives no benefit,".
+
+Sec. 502. (a) The Truth in Lending Act (82 Stat. 146) is amended by adding after section 131 the following sections:
+
+"§ 132. Issuance of credit cards
+
+No credit card shall be issued except in response to a request or application therefor. This prohibition does not apply to the issuance of a credit card in renewal of, or in substitution for, an accepted credit card.
+
+“§ 133. Liability of holder of credit card
+
+(a) A cardholder shall be liable for the unauthorized use of a credit card only if the card is an accepted credit card, the liability is not in excess of $50, the card issuer gives adequate notice to the cardholder of the potential liability, the card issuer has provided the cardholder with a self-addressed, prestamped notification to be mailed by the cardholder in the event of the loss or theft of the credit card, and the unauthorized use occurs before the cardholder has notified the card issuer that an unauthorized use of the credit card has occurred or may occur as the result of loss, theft, or otherwise. Notwithstanding the foregoing, no cardholder shall be liable for the unauthorized use of any credit card which was issued on or after the effective date of this section, and, after the expiration of twelve months following such effective date, no cardholder shall be liable for the unauthorized use of any credit card regardless of the date of its issuance, unless (1) the conditions of liability specified in the preceding sentence are met, and (2) the card issuer has provided a method whereby the user of such card can be identified as the person authorized to use it. For the purposes of this section, a cardholder notifies a card issuer by taking such steps as may he reasonably required in the ordinary course of business to provide the card issuer with the pertinent information whether or not any particular officer, employee, or agent of the card issuer does in fact receive such information.

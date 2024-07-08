@@ -1,0 +1,17 @@
+Public Law 511 - 84th Congress
+Chapter 240 - 2d Session
+H. R. 6227
+
+AN ACT
+To define bank holding companies, control their future expansion, and require
+divestment of their nonbanking interests.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That this Act may be cited as the “Bank Holding Company Act of 1956”.
+
+DEFINITIONS
+
+SEC 2 (a) “Bank holding company” means any company (1) which directly or indirectly owns, controls, or holds with power to vote, 25 per centum or more of the voting shares of each of two or more banks or of a company which is or becomes a bank holding company by virtue of this Act, or (2) which controls in any manner the election of a majority of the directors of each of two or more banks, or (3) for the benefit of whose shareholders or members 25 per centum or more of the voting shares of each of two or more banks or a bank holding company is held by trustees; and for the purposes of this Act, any successor to any such company shall be deemed to be a bank holding company from the date as of which such predecessor company became a bank holding company. Notwithstanding the foregoing (A) no bank shall be a bank holding company by virtue of its ownership or control of shares in a fiduciary capacity, except where such shares are held for the benefit of the shareholders of such bank, (B) no company shall be a bank holding company which is registered under the Investment Company Act of 1940, and was so registered prior to May 15, 1955 (or which is affiliated with any such company in such manner as to constitute an affiliated company within the meaning of such Act), unless such company (or such affiliated company, as the case may be) directly owns 25 per centum or more of the voting shares of each of two or more banks, (C) no company shall be a bank holding company by virtue of its ownership or control of shares acquired by it in connection with its underwriting of securities and which are held only for such period of time as will permit the sale thereof upon a reasonable basis, (D) no company formed for the sole purpose of participating in a proxy solicitation shall be a bank holding company by virtue of its control of voting rights of shares acquired in the course of such solicitation, and (E) no company shall be a bank holding company if at least 80 per centum of its total assets are composed of holdings in the field of agriculture.
+
+(b) “Company” means any corporation, business trust, association, or similar organization, but shall not include (1) any corporation the majority of the shares of which are owned by the United States or by any State, or (2) any corporation or community chest, fund, or foundation, organized and operated exclusively for religious, charitable, or educational purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual, and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation, or (3) any partnership.
+
+(c) “Bank” means any national banking association or any State bank, savings bank, or trust company, but shall not include any organization operating under section 25 (a) of the Federal Reserve Act, or any organization which does not do business within the United States. “State member bank” means any State bank which is a member of the Federal Reserve System. “District bank” means any State.

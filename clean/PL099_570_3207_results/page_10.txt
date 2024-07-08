@@ -1,0 +1,32 @@
+100 STAT. 3207-27        PUBLIC LAW 99-570—OCT. 27, 1986
+
+(2) by inserting ", is about to transport," after "transports".
+
+(c) TECHNICAL AND CONFORMING AMENDMENT.—Section 5316(a)(2) of title 31, United States Code, is amended by striking out "$5,000" and inserting in lieu thereof "$10,000".
+SEC, 1359. BANKING REGULATORY AGENCY SUPERVISION OF RECORD-
+                               KEEPING SYSTEMS.
+ (a) INSURED BANKS.—
+(1) IN GENERAL.—Section 8 of the Federal Deposit Insurance
+Act (12 U.S.C. 1818) is amended by adding at the end thereof the following new subsection:
+"(s) COMPLIANCE WITH MONETARY TRANSACTION RECORDKEEPING
+                           AND REPORT REQUIREMENTS.—
+"(1) COMPLIANCE PROCEDURES REQUIRED.—cEach appropriate Federal banking agency shall prescribe regulations requiring
+insured banks to establish and mantain procedures reasonably designed to assure and monitor the compliance of such banks with the requirements of subchapter II of chapter 53 of title 31,
+United States Code.
+"(2) EXAMINATIONS OF BANK TO INCLUDE REVIEW OF COMPLIANCE PROCEDURES.—
+"(A) IN GENERAL.—Each examination of an insured bank by the appropriate Federal banking agency shall include a review of the procedures required to be established and maintained under paragraph (1).
+"(B) EXAM REPORT REQUIREMENT.—The report of examination shall describe any problem with the procedures maintained by the insured bank.
+"(3) ORDER TO COMPLY WITH REQUIREMENTS.—If the appropriate Federal banking agency determines that an insured
+bank—
+"(A) has failed to establish and maintain the procedures described in paragraph (1); or
+"(B) has failed to correct any problem with the procedures maintained by such bank which was previously reported to the bank by such agency,
+the agency shall issue an order in the manner prescribed in subsection (b) or (c) requiring such bank to cease and desist from its violation of this subsection or regulations prescribed under this subsection.".
+
+(2) CIVIL MONEY PENALTIES FOR FAILURE TO MAINTAIN COMPLIANCE PROCEDURES.—Section 8(i)(2)(i) of the Federal Deposit
+Insurance Act (12 U.S.C. 1818(i)(2)(i)) is amended by striking out "subsection (b) or (c)" and inserting in lieu thereof "subsection (b), (c), or (s)".
+(b) INSTITUTIONS REGULATED BY THE BANK BOARD.—
+(1) IN GENERAL.—Section 5(d) of the Home Owners' Loan Act
+of 1933 (12 U.S.C. 1464(d)) is amended by adding at the end thereof the following new paragraph:
+"(16) COMPLIANCE WITH MONETARY TRANSACTION RECORDKEEPING 
+                           AND REPORT REQUIREMENTS.—
+"(A) COMPLIANCE PROCEDURES REQUIRED.—The Board shall prescribe regulations requiring associations to establish and maintain procedures reasonably designed to assure and monitor the compliance of such associations with the requirements of subchapter II of chapter 53 of title 31, United States Code.

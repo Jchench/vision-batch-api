@@ -1,25 +1,24 @@
-PUBLIC LAW 103-325—SEPT. 23, 1994    108 STAT. 2203
+PUBLIC LAW 103-325-SEPT. 23, 1994 108 STAT. 2203
 
-		(3) the extent to which the provisions of this subtitle with regard to margin requirements, the number of eligible investment rating categories, preemption of State law, and the treatment of such securities as government securities for the purpose of State investment limitations, affect the structure and operation of such markets; and
-		(4) in view of the findings made pursuant to paragraphs (2) and (3), any additional suitability or disclosure requirements or other investor protections that should be required.
-	(b) REPORTS.—
-		(1) IN GENERAL.—The Board and the Commission shall submit to the Congress a report on the results of the study required by subsection (a) before the end of— 
-			(A) the 2-year period beginning on the date of enactment of this Act;
-			(B) the 4-year period beginning on such date of enactment; and
-			(C) the 6-year period beginning on such date of enactment.
-		(2) CONTENTS OF REPORT.—Each report required under paragraph (1) shall contain or be accompanied by such recommendations for administrative or legislative action as the Board and the Commission consider appropriate and may include recommendations regarding the need to develop a system for reporting additional information concerning investments by the entities described in subsection (a)(2).
-	(c) DEFINITIONS.—As used in this section—
-		(1) the term “Board” means the Board of Governors of the Federal Reserve System; and
-		(2) the term “Commission” means the Securities and Exchange Commission.
+(3) the extent to which the provisions of this subtitle with regard to margin requirements, the number of eligible investment rating categories, preemption of State law, and the treatment of such securities as government securities for the purpose of State investment limitations, affect the structure and operation of such markets; and 
+(4) in view of the findings made pursuant to paragraphs (2) and (3), any additional suitability or disclosure requirements or other investor protections that should be required. 
+(b) REPORTS.- 
+(1) IN GENERAL.-The Board and the Commission shall submit to the Congress a report on the results of the study required by subsection (a) before the end of- 
+(A) the 2-year period beginning on the date of enactment of this Act; 
+(B) the 4-year period beginning on such date of enactment; and 
+(C) the 6-year period beginning on such date of enactment. 
+(2) CONTENTS OF REPORT.-Each report required under paragraph (1) shall contain or be accompanied by such recommendations for administrative or legislative action as the Board and the Commission consider appropriate and may include recommendations regarding the need to develop a system for reporting additional information concerning investments by the entities described in subsection (a)(2). 
+(c) DEFINITIONS.-As used in this section- 
+(1) the term "Board" means the Board of Governors of the Federal Reserve System; and 
+(2) the term "Commission" means the Securities and Exchange Commission.
 
 SEC. 210. CONSISTENT USE OF FINANCIAL TERMINOLOGY.
-	Not later than 2 years after the date of enactment of this Act, the Financial Institutions Examination Council shall report to the Congress on its recommendations for the use of consistent financial terminology by depository institutions for small business loans or leases of personal property which are sold for the creation of small business related securities (as defined in section 3(a)(53)(A) of the Securities Exchange Act of 1934).
+Not later than 2 years after the date of enactment of this Act, the Financial Institutions Examination Council shall report to the Congress on its recommendations for the use of consistent financial terminology by depository institutions for small business loans or leases of personal property which are sold for the creation of small business related securities (as defined in section 3(a)(53)(A) of the Securities Exchange Act of 1934).
 
-		                          Subtitle B—Small Business Capital
-		                                               Enhancement
+Subtitle B-Small Business Capital Enhancement
 
 SEC. 251. FINDINGS AND PURPOSES.
-	(a) FINDINGS.—The Congress finds that—
-		(1) small business concerns are a vital part of the economy, accounting for the majority of new jobs, new products, and new services created in the United States;
-		(2) adequate access to debt capital is a critical component for small business development, productivity, expansion, and success in the United States;
-		(3) commercial banks are the most important suppliers of debt capital to small business concerns in the United States;
+(a) FINDINGS.-The Congress finds that- 
+(1) small business concern are a vital part of the economy, accounting for the majority of new jobs, new products, and new services created in the United States;
+(2) adequate access to debt capital is a critical component for small business development, productivity, expansion, and success in the United States; 
+(3) commercial banks are the most important suppliers of debt capital to small business concerns in the United States;

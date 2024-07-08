@@ -1,0 +1,33 @@
+100 STAT. 3207-23 PUBLIC LAW 99-570—OCT. 27, 1986
+
+(b) FAILURE TO REPORT EXPORT OR IMPORT OF MONETARY IN STRUMENT.—The first sentence of section 5317(c) of title 31, United States Code (relating to seizure and forfeiture of monetary instruments in foreign commerce) is amended to read as follows: "If a report required under section 5316 with respect to any monetary instrument is not filed (or if filed, contains a material omission or misstatement of fact), the instrument and any interest in property, including a deposit in a financial institution, traceable to such instrument may be seized and forfeited to the United States Government.".
+
+SEC. 1356. COMPLIANCE AUTHORITY FOR SECRETARY OF THE TREASURY AND RELATED MATTERS.
+
+(a) SUMMONS POWER.—Section 5318 of title 31, United States Code, is amended—
+
+(1) by inserting "(a) GENERAL POWERS OF SECRETARY.—" before "The Secretary of the Treasury";
+
+(2) in paragraph (1), by inserting "except as provided in subsection (b)(2)," before "delegate";
+
+(3) by striking out "and" at the end of paragraph (2);
+
+(4) by inserting after paragraph (2) the following new paragraphs:
+
+"(3) examine any books, papers, records, or other data of domestic financial institutions relevant to the recordkeeping or reporting requirements of this subchapter;
+
+"(4) summon a financial institution, an officer or employee of a financial institution (including a former officer or employee), or any person having possession, custody, or ca re of the reports and records required under this subchapter, to appear before the Secretary of the Treasury or his delegate at a time and place named in the summons and to produce such books, papers, records, or other data, and to give testimony, under oath, as may be relevant or material to an investigation described in subsection (b); and";
+
+(5) by redesignating paragraph (3) as paragraph (5); and
+
+(6) by adding at the end the following new subsections:
+
+"(b) LIMITATIONS ON SUMMONS POWER.—
+
+"(1) SCOPE OF POWER.—The Secretary of the Treasury may take any action described in paragraph (3) or (4) of subsection (a) only in connection with investigations for the purpose of civil enforcement of violations of this subchapter, section 21 of the Federal Deposit Insurance Act, section 411 of the National Housing Act, or chapter 2 of Public Law 91-508 (12 U.S.C. 1951 et seq.) or any regulation under any such provision.
+
+"(2) AUTHORITY TO ISSUE.—A summons may be issued under subsection (a)(4) only by, or with the approval of, the Secretary of the Treasury or a supervisory level delegate of the Secretary of the Treasury.
+
+"(c) ADMINISTRATIVE ASPECTS OF SUMMONS.—
+
+"(1) PRODUCTION AT DESIGNATED SITE.—A summons issued pursuant to this section may require that books, papers, records, or other data stored or maintained at any place be produced at any designated location in any State or in any territory or other place subject to the jurisdiction of the United States not more than 500 miles distant from any place where the financial institution operates or conducts business in the United States.

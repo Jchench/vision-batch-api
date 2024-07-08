@@ -1,0 +1,24 @@
+100 STAT. 3207-25     PUBLIC LAW 99-570—OCT. 27, 1986
+
+“§ 5318. Compliance, exemptions, and summons authority”.
+(d) CLERICAL AMENDMENT.—The table of sections for chapter 53 of title 31, United States Code, is amended by striking out the item relating to section 5318 and inserting in lieu thereof the following: 
+‘5318. Compliance, exemptions, and summons authority.’. 
+SEC. 1357. PENALTY PROVISIONS.
+(a) CIVIL MONEY PENALTY FOR STRUCTURED TRANSACTION VIOLA- TION.—Section 5321(a) of title 31, United States Code, is amended by adding at the end thereof the following new paragraph: 
+“(4) STRUCTURED TRANSACTION VIOLATION.— 
+“(A) PENALTY AUTHORIZED.—The Secretary of the Treasury may impose a civil money penalty on any person who willfully violates any provision of section 5324.
+31 USC 5324.	
+“(B) MAXIMUM AMOUNT LIMITATION.—The amount of any civil money penalty imposed under subparagraph (A) shall not exceed the amount of the coins and currency (or such other monetary instruments as the Secretary may prescribe) involved in the transaction with respect to which such penalty is imposed. 
+“(C) COORDINATION WITH FORFEITURE PROVISION.—The amount of any civil money penalty imposed by the Secretary under subparagraph (A) shall be reduced by the amount of any forfeiture to the United States under section 5317(d) in connection with the transaction with respect to which such penalty is imposed.”
+(b) INCREASE IN AMOUNT OF PENALTY FOR FINANCIAL INSTITU- TIONS.—Section 5321(a)(1) of title 31, United States Code, is amended—
+(1) by striking out “$10,000” and inserting in lieu thereof “the greater of the amount (not to exceed $100,000) involved in the transaction or $25,000”; and 
+(2) by striking out “section 5315” each place such term appears and inserting in lieu thereof “sections 5314 and 5315”. 
+(c) SEPARATE CIVIL MONEY PENALTY FOR VIOLATION OF SECTION 5314.—Section 5321(a) of title 31, United States Code, is amended by inserting after paragraph (4) (as added by subsection (a) of this section) the following new paragraph: 
+“(5) FOREIGN FINANCIAL AGENCY TRANSACTION VIOLATION.—
+“(A) PENALTY AUTHORIZED.—The Secretary of the Treasury may impose a civil money penalty on any person who willfully violates any provision of section 5314. 
+“(B) MAXIMUM AMOUNT LIMITATION.—The amount of any civil money penalty imposed under subparagraph (A) shall not exceed—
+‘‘(i) in the case of violation of such section involving a transaction, the greater of—
+“(I) the amount (not to exceed $100,000) of the trans- action; or
+“(II) $25,000; and 
+‘‘(ii) in the case of violation of such section involving a failure to report the existence of an account or any identify- ing information required to be provided with respect to such account, the greater of— 
+“(I) an amount (not to exceed $100,000) equal to the balance in the account at the time of the violation; or

@@ -1,0 +1,22 @@
+PUBLIC LAW 99-570-OCT. 27, 1986                 100 STAT. 3207-24
+
+"(2) FEES AND TRAVEL EXPENSES.-Persons summoned under this section shall be paid the same fees and mileage for travel in the United States that are paid witnesses in the courts of the United States.
+"(3) No LIABILITY FOR EXPENSES.-The United States shall not be liable for any expense, other than an expense described in paragraph (2), incurred in connection with the production of books, papers, records, or other data under this section.
+"(d) SERVICE OF SUMMONS.-Service of a summons issued under this section may be by registered mail or in such other manner calculated to give actual notice as the Secretary may prescribe by regulation.
+"(e) CONTUMACY OR REFUSAL.-
+(1) REFERRAL TO ATTORNEY GENERAL.-In case of contumacy by a person issued a summons under paragraph (3) or (4) of subsection (a) or a refusal by such person to obey such summons, the Secretary of the Treasury shall refer the matter to the Attorney General.
+"(2) JURISDICTION OF COURT.-The Attorney General may invoke the aid of any court of the United States within the jurisdiction of which-
+"(A) the investigation which gave rise to the summons is being or has been carried on;
+"(B) the person summoned is an inhabitant; or
+"(C) the person summoned carries on business or may be found,
+to compel compliance with the summons.
+"(3) COURT ORDER.-The court may issue an order requiring the person summoned to appear before the Secretary or his delegate to produce books, papers, records, and other data, to give testimony as may be necessary to explain how such material was compiled and maintained, and to pay the costs of the proceeding.
+"(4) FAILURE TO COMPLY WITH ORDER.-Any failure to obey the order of the court may be punished by the court as a contempt thereof.
+"(5) SERVICE OF PROCESS.-All process in any case under this subsection may be served in any judicial district in which such person may be found."
+(b) AMENDMENT RELATING TO EXEMPTIONS GRANTED FOR MONETARY TRANSACTION REPORTING REQUIREMENTS.-Section 5318 of title 31, United States Code, is amended by adding after subsection (e) (as added by subsection (a) of this section) the following new subsection:
+"(f) WRITTEN AND SIGNED STATEMENT REQUIRED.-No person shall qualify for an exemption under subsection (aX5) unless the relevant financial institution prepares and maintains a statement which-
+"(1) describes in detail the reasons why such person is qualified for such exemption; and
+"(2) contains the signature of such person." 
+(c) CONFORMING AMENDMENTS.-
+(1) Sections 5321 and 5322 of title 31, United States Code, are each amended by striking out "5318(2)" each place such term appears and inserting in lieu thereof "5318(aX2)".
+(2) The heading of section 5318 of title 31, United States Code, is amended to read as follows:

@@ -1,0 +1,16 @@
+PUBLIC LAW 99-570-OCT. 27, 1986					100 STAT. 3207-22
+
+include only the name or other identifying information concerning any individual or account involved in and the nature of any suspected illegal activity. Such information may be disclosed notwithstanding any constitution, law, or regulation of any State or political subdivision thereof to the contrary. Any financial institution, or officer, employee, or agent thereof, making a disclosure of information pursuant to this subsection, shall not be liable to the customer under any law or regulation of the United States or any constitution, law, or regulation of any State or political subdivision thereof, for such disclosure or for any failure to notify the customer of such disclosure.”.
+	(b) Section 1113(i) of the Right to Financial Privacy Act of 1978 (12 U.S.C. 3413(i)) is amended by inserting immediately before the period at the end thereof a comma and the following: “except that a court shall have authority to order a financial institution, on which a grand jury subpoena for customer records has been served, not to notify the customer of the existence of the subpoena or information that has been furnished to the grand jury, under the circumstances and for the period specified and pursuant to the procedures established in section 1109 of the Right to Financial Privacy Act of 1978 (12 U.S.C. 3409)”.
+SEC.1354. STRUCTURING TRANSACTIONS TO EVADE REPORTING REQUIREMENTS PROHIBITED.
+	(a) IN GENERAL.-Subchapter II of chapter 53 of title 31, United States Code (relating to records and reports on monetary instruments transactions) is amended by adding at the end thereof the following new section:
+“§ 5324. Structuring transactions to evade reporting requirement prohibited						
+	“No person shall for the purpose of evading the reporting requirements of section 5313(a) with respect to such transaction-
+		“(1) cause or attempt to cause a domestic financial institution to fail to file a report required under section 5313(a);
+		“(2) cause or attempt to cause a domestic financial institution to file a report required under section 5313(a) that contains a material omission or misstatement of fact; or
+		“(3) structure or assist in structuring, or attempt to structure or assist in structuring, any transaction with one or more domestic financial institutions.”.
+	(b) CLERICAL AMENDMENT.-The table of sections for chapter 53 of title 31, United States Code, is amended by adding at the end thereof the following new item:
+	“5324. Structuring transactions to evade reporting requirement prohibited.”
+SEC.1355. SEIZURE AND CIVIL FORFEITURE OF MONETARY INSTRUMENTS AND RELATED PROVISIONS.
+	(a) CUSTOMS AUTHORITY TO CONDUCT SEARCHES AT BORDER.-Section 5317(b) of title 31, United States Code, is amended to read as follows:
+		“(b) SEARCHES AT BORDER.-For purposes of ensuring compliance with the requirements of section 5316, a customs officer may stop and search, at the border and without a search warrant, any vehicle, vessel, aircraft, or other conveyance, any envelope or other container, and any person entering or departing from the United States.".

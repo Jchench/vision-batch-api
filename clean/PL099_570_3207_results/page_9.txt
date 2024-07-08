@@ -1,0 +1,27 @@
+PUBLIC LAW 99-570-OCT. 27, 1986
+
+(d) SEPARATE CIVIL MONEY PENALTY FOR NEGLIGENT VIOLATION OF SUBCHAPTER.-Section 5321(a) of title 31, United States Code, is amended by inserting after paragraph (5) (as added by subsection (d) of this section) the following new paragraph:
+    "(6) NEGLIGENCE.-The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter."
+
+(e) EXTENSION OF TIME LIMITATIONS FOR ASSESSMENT OF CIVIL PENALTY.-Section 5321(b) of title 31, United States Code, is amended to read as follows:
+    "(b) TIME LIMITATIONS FOR ASSESSMENTS AND COMMENCEMENT OF CIVIL ACTIONS.-
+        "(1) ASSESSMENTS.-The Secretary of the Treasury may assess a civil penalty under subsection (a) at any time before the end of the 6-year period beginning on the date of the transaction with respect to which the penalty is assessed.
+        "(2) CIVIL ACTIONS.-The Secretary may commence a civil action to recover a civil penalty assessed under subsection (a) at any time before the end of the 2-year period beginning on the later of-
+            "(A) the date the penalty was assessed; or
+            "(B) the date any judgment becomes final in any criminal action under section 5322 in connection with the same transaction with respect to which the penalty is assessed.".
+
+(f) CLARIFICATION OF RELATIONSHIP BETWEEN CIVIL PENALTY AND CRIMINAL PENALTY.-Section 5321 of title 31, United States Code, is amended by adding at the end thereof the following new subsection:
+    "(d) CRIMINAL PENALTY NOT EXCLUSIVE OF CIVIL PENALTY.-A civil money penalty may be imposed under subsection (a) with respect to any violation of this subchapter notwithstanding the fact that a criminal penalty is imposed with respect to the same violation.".
+
+(g) AMENDMENTS TO CRIMINAL PENALTY FOR CERTAIN OFFENSES.-Section 5322(b) of title 31, United States Code, is amended-
+    (1) by striking out "illegal activity involving transactions of" and inserting in lieu thereof "any illegal activity involving"; and 
+    (2) by striking out "5 years" and inserting in lieu thereof "10 years".
+
+(h) CONFORMING AMENDMENT.-Section 5321(c) of title 31, United States Code, is amended by striking out "section 5317(b)" and inserting in lieu thereof "subsection (c) or (d) of section 5317".
+
+SEC. 1358. MONETARY TRANSACTION REPORTING AMENDMENTS.
+(a) CLOSELY RELATED EVENTS.-Section 5316 of title 31, United States Code, is amended by adding at the end the following new subsection:
+    "(d) CUMULATION OF CLOSELY RELATED EVENTS.-The Secretary of the Treasury may prescribe regulations under this section defining the term 'at one time' for purposes of subsection (a).  Such regulations may permit the cumulation of closely related events in order that such events may collectively be considered to occur at one time for the purposes of subsection (a)."
+
+(b) INCHOATE OFFENSE.-Section 5316(a)(1) of title 31, United States Code, is amended-
+    (1) by striking out "or attempts to transport or have transported," and

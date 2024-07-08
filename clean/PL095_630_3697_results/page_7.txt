@@ -1,0 +1,25 @@
+PUBLIC LAW 95-630—NOV. 10, 1978
+
+92 STAT. 3703
+
+(b) (1) If the court makes the findings required in paragraphs (1), (2), and (3) of subsection (a), it shall enter an ex parte order granting the requested delay for a period not to exceed ninety days and an order prohibiting the financial institution from disclosing that records have been obtained or that a request for records has been made, except that, if the records have been sought by a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act (50 U.S.C. App. 5(b)), the International Emergency Economic Powers Act (title II, Public Law 95-223), or section 5 of the United Nations Participation Act (22 U.S.C. 287c), and the court finds that there is reason to believe that such notice may endanger the lives or physical safety of a customer or group of customers, or any person or group of persons associated with a customer, the court may specify that the delay be indefinite.
+
+50 USC 1701 note.
+
+(2) Extensions of the delay of notice provided in paragraph (1) of up to ninety days each may be granted by the court upon application, but only in accordance with this subsection.
+
+(3) Upon expiration of the period of delay of notification under paragraph (1) or (2), the customer shall be served with or mailed a copy of the process or request together with the following notice which shall state with reasonable specificity the nature of the law enforcement inquiry:
+
+“Records or information concerning your transactions which are held by the financial institution named in the attached process or request were supplied to or requested by the Government authority named in the process or request on (date). Notification was withheld pursuant to a determination by the (title of court so ordering) under the Right to Financial Privacy Act of 1978 that such notice might (state reason). The purpose of the investigation or official proceeding was ___________________.”
+
+(c) When access to financial records is obtained pursuant to section 1114(b) (emergency access), the Government authority shall, unless a court has authorized delay of notice pursuant to subsections (a) and (b), as soon as practicable after such records are obtained serve upon the customer, or mail by registered or certified mail to his last known address, a copy of the request to the financial institution together with the following notice which shall state with reasonable specificity the nature of the law enforcement inquiry:
+
+“Records concerning your transactions held by the financial institution named in the attached request were obtained by (agency or department) under the Right to Financial Privacy Act of 1978 on (date) for the following purpose: Emergency access to such records was obtained on the grounds that (state grounds).”.
+
+(d) Any memorandum, affidavit, or other paper filed in connection with a request for delay in notification shall be preserved by the court. Upon petition by the customer to whom such records pertain, the court may order disclosure of such papers to the petitioner unless the audit makes the findings required in subsection (a).
+
+CUSTOMER CHALLENGE PROVISIONS
+
+12 USC 3410.
+
+SEC. 1110. (a) Within ten days of service or within fourteen days of mailing of a subpoena, summons, or formal written request, a customer may file a motion to quash an administrative summons or judicial subpoena, or an application to enjoin a Government authority from obtaining financial records pursuant to a formal written request, with

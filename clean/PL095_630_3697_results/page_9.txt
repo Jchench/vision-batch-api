@@ -1,0 +1,21 @@
+PUBLIC LAW 95-630—NOV. 10, 1978
+
+a proceeding, a supervisory official of the Government authority shall certify to the appropriate court that no such determination has been made. The court may require that such certifications be made, at reasonable intervals thereafter, until either notification to the customer has occurred or a legal proceeding is initiated as described in clause (A).
+
+(e) The challenge procedures of this title constitute the sole judicial remedy available to a customer to oppose disclosure of financial records pursuant to this title.
+
+(f) Nothing in this title shall enlarge or restrict any rights of a financial institution to challenge requests for records made by a Government authority under existing law. Nothing in this title shall entitle a customer to assert the rights of a financial institution.
+
+DUTY OF FINANCIAL INSTITUTIONS
+
+SEC. 1111. Upon receipt of a request for financial records made by a Government authority under section 1105 or 1107, the financial institution shall, unless otherwise provided by law, proceed to assemble the records requested and must be prepared to deliver the records to the Government authority upon receipt of the certificate required under section 1103(b).
+
+USE OF INFORMATION
+
+SEC. 1112. (a) Financial records originally obtained pursuant to this title snail not be transferred to another agency or department unless the transferring agency or department certifies in writing that there is reason to believe that the records are relevant to a legitimate law enforcement inquiry within the jurisdiction of the receiving agency or department.
+
+(b) When financial records subject to this title are transferred pursuant to subsection (a), the transferring agency or department shall, within fourteen days, send to the customer a copy of the certification made pursuant to subsection (a) and the following notice, which shall state the nature of the law enforcement inquiry with reasonable specificity: “Copies of, or information contained in, your financial records lawfully in possession of _______ have been furnished to _______ pursuant to the Right of Financial Privacy Act of 1978 for the following purpose: _______. If you believe that this transfer has not been made to further a legitimate law enforcement inquiry, you may have legal rights under the Financial Privacy Act of 1978 or the Privacy Act of 1974.”
+
+(c) Notwithstanding subsection (b), notice to the customer may be delayed if the transferring agency or department has obtained a court order delaying notice pursuant to section 1109(a) and (b) and that order is still in effect, or if the receiving agency or department obtains a court order authorizing a delay in notice pursuant to section 1109(a) and (b). Upon the expiration of any such period of delay, the transferring agency or department shall serve to the customer the notice specified in subsection (b) above and the agency or department that obtained the court order authorizing a delay in notice pursuant to section 1109(a) and (b) shall serve to the customer the notice specified in section 1109(b).
+
+(d) Nothing in this title prohibits any supervisory agency from exchanging examination reports or other information with another supervisory agency. Nothing in this title prohibits the transfer of a customer’s financial records needed by counsel for a Government

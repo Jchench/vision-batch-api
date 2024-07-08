@@ -1,0 +1,24 @@
+-9-
+
+"(iii) preferred stock or common stock received in an exchange to which subsection (c) (3) applies to a shareholder, in exchange for its preferred stock; or
+
+(iv) securities or preferred or common stock received in an exchange to which subsection (c) (3) applies to a security holder, in exchange for its securities; and
+
+(B) any preferred stock received has substantially the same terms as the preferred stock exchanged, and any securities received have substantially the same terms as the securities exchanged,
+
+then, except as provided in subsection (f), no gain to the shareholder or security holder from the receipt of such stock or such securities or such stock and securities shall be recognized.
+
+"(3) NON PRO RATA DISTRIBUTIONS.-Paragraph (1) and (2) shall apply to a distribution whether or not the distribution is pro rata with respect to all of the shareholders of the distributing qualified bank holding corporation.
+
+(4) EXCEPTION.-This subsection shall not apply to any distribution by a corporation which has made any distribution pursuant to subsection (a).
+
+"(5) DISTRIBUTIONS INVOLVING GIFT OR COMPENSATION.-
+"In the case of a distributiono which paragraph (1) or (2) applies, but which-
+(A) results in a gift, see section 2501, and following, or (B) has the effect of the payment of compensation, see section 61 (a) (1).
+(c) PROPERTY ACQUIRED AFTER MAY 15, 1955-
+"(1) IN GENERAL.-Except as provided in paragraphs (2) and (3), subsection (a) or (b) shall not apply to-
+(A) any property acquired by the distributing corporation after May 15, 1955, unless (i) gain to such corporation with respect to the receipt of such property was not recognized by reason of subsection (a) or (b), or (ii) such property was received by it in exchange for all of its stock in an exchange to which paragraph (2) or (3) applies, or (iii) such property was acquired by the distributing corporation in a transaction in which gain was not recognized under section 305 (a), or section 332, or under section 354 with respect to a reorganization described in section 368 (a) (1) (E) or (F), or 
+
+(B) any property which was acquired by the distributing corporation in a distribution with respect to stock acquired by such corporation after May 15, 1955, unless such stock was acquired by such corporation (i) in a distribution (with respect to stock held by it on May 15, 1955, or with respect to stock in respect of which all previous applications of this clause are satisfied with respect to which gain to it was not recognized by reason of subsection (a) or (b), or (ii) in exchange for all of its stock in an exchange to which paragraph (2) or (3) applies, or (iii) in a transaction in which gain was not recognized under section 305 (a) or section 332, or under section 354 with respect to a reorganization described in section 368 (a) (1) (E) or (F), or
+
+(C) any property acquired by the distributing corporation in a transaction in which gain was not recognized under section 332, unless such property was acquired from a corporation which, if it had been a qualified bank holding corporation, could have distributed such property under subsection (a) (1) or (b) (1).

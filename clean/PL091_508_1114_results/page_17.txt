@@ -1,0 +1,18 @@
+"(4) Accounts placed for collection or charged to profit and loss which antedate the report by more than seven years.
+"(5) Records of arrest, indictment, or conviction of crime which, from date of disposition, release, or parole, antedate the report by more than seven years.
+"(6) Any other adverse item of information which antedates the report by more than seven years.
+"(b) The provisions of subsection (a) are not applicable in the case of any consumer credit report to be used in connection with—
+"(1) a credit transaction involving, or which may reasonably be expected to involve, a principal amount of $50,000 or more;
+"(2) the underwriting of life insurance involving, or which may reasonably be expected to involve, a face amount of $50,000 or more; or
+"(3) the employment of any individual at an annual salary which equals, or which may reasonably be expected to equal $20,000, or more.
+
+"§ 606. Disclosure of investigative consumer reports
+"(a) A person may not procure or cause to be prepared an investigative consumer report on any consumer unless—
+"(1) it is clearly and accurately disclosed to the consumer that an investigative consumer report including information as to his character, general reputation, personal characteristics, and mode of living, whichever are applicable, may be made, and such disclosure (A) is made in a writing mailed, or otherwise delivered, to the consumer, not later than three days after the date on which the report was first requested, and (B) includes a statement informing the consumer of his right to request the additional disclosures provided for under subsection (b) of this section; or
+"(2) the report is to be used for employment purposes for which the consumer has not specifically applied.
+"(b) Any person who procures or causes to be prepared an investigative consumer report on any consumer shall, upon written request made by the consumer within a reasonable period of time after the receipt by him of the disclosure required by subsection (a)(1), shall make a complete and accurate disclosure of the nature and scope of the investigation requested. This disclosure shall be made in a writing mailed, or otherwise delivered, to the consumer not later than five days after the date on which the request for such disclosure was received from the consumer or such report was first requested, whichever is the later.
+"(c) No person may be held liable for any violation of subsection
+(a) or (b) of this section if he shows by a preponderance of the evidence that at the time of the violation he maintained reasonable procedures to assure compliance with subsection (a) or (b).
+
+"§ 607. Compliance procedures
+"(a) Every consumer reporting agency shall maintain reasonable procedures designed to avoid violations of section 605 and to limit the furnishing of consumer reports to the purposes listed under section 604. These procedures shall require that prospective users of the information identify themselves, certify the purposes for which the information is sought, and certify that the information will be used for no other purpose. Every consumer reporting agency shall make a reasonable effort to verify the identity of a new prospective user and the uses certified by such prospective user prior to furnishing such user a consumer report. No consumer reporting agency may furnish a consumer report to any person if it has reasonable grounds for believing that the consumer report will not be used for a purpose listed in section 604."

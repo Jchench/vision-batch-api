@@ -1,19 +1,25 @@
-108 STAT. 2188     PUBLIC LAW 103-325—SEPT. 23, 1994
+108 STAT. 2188                                                           PUBLIC LAW 103-325—SEPT. 23, 1994
 
 31, United States Code, except that audits required by section 9105(a) of such title shall be performed annually.
+
 SEC. 118. INSPECTOR GENERAL.
+
 (a) ESTABLISHMENT.—Section 11 of the Inspector General Act of 1978 (5 U.S.C. App. 11) is amended—
-      (1) in paragraph (1), by inserting “, the Administrator of the Community Development Financial Institutions Fund,” before “and the chief,” and
-      (2) in paragraph (2), by inserting “the Community Development Financial Institutions Fund,” after “the Agency for International Development,”. 
+    (1) in paragraph (1), by inserting ", the Administrator of the Community Development Financial Institutions Fund," before "and the chief; and
+    (2) in paragraph (2), by inserting "the Community Development Financial Institutions Fund," after "the Agency for International Development,".
 (b) AUTHORIZATION OF APPROPRIATIONS.—There are authorized to be appropriated such sums as may be necessary for the operation of the Office of Inspector General established by the amendments made by subsection (a).
+
 SEC. 119. ENFORCEMENT.
+
 (a) REGULATIONS.—
-      (1) IN GENERAL.—Not later than 180 days after the appointment and qualification of the Administrator, the Fund shall promulgate such regulations as may be necessary to carry out this subtitle.
-      (2) REGULATIONS REQUIRED.—The regulations promulgated under paragraph (1) shall include regulations applicable to community development financial institutions that are not insured depository institutions to—
-           (A) prevent conflicts of interest on the part of directors, officers, and employees of community development financial institutions as the Fund determines to be appropriate; and
-           (B) establish such standards with respect to loans by a community development financial institution to any director, officer, or employee of such institution as the Fund determines to be appropriate, including loan amount limitations.
+    (1) IN GENERAL.—Not later than 180 days after the appointment and qualification of the Administrator, the Fund shall promulgate such regulations as may be necessary to carry out this subtitle.
+    (2) REGULATIONS REQUIRED.—The regulations promulgated under paragraph (1) shall include regulations applicable to community development financial institutions that are not insured depository institutions to—
+        (A) prevent conflicts of interest on the part of directors, officers, and employees of community development financial institutions as the Fund determines to be appropriate; and
+        (B) establish such standards with respect to loans by a community development financial institution to any director, officer, or employee of such institution as the Fund determines to be appropriate, including loan amount limitations.
 (b) ADMINISTRATIVE ENFORCEMENT.—The provisions of this subtitle, and regulations prescribed and agreements entered into under this subtitle, shall be enforced under section 8 of the Federal Deposit Insurance Act by the appropriate Federal banking agency, in the case of an insured community development financial institution. A violation of this subtitle, or any regulation prescribed under or any agreement entered into under this subtitle, shall be treated as a violation of the Federal Deposit Insurance Act.
-(c) CRIMINAL PROVISION.—Section 657 of title 18, United States Code, is amended by inserting “or any community development financial institution receiving financial assistance under the Riegle Community Development and Regulatory Improvement Act of 1994,” after “small business investment company,”.
+(c) CRIMINAL PROVISION.—Section 657 of title 18, United States Code, is amended by inserting "or any community development financial institution receiving financial assistance under the Riegle Community Development and Regulatory Improvement Act of 1994," after "small business investment company,".
+
 SEC. 120. COMMUNITY DEVELOPMENT REVOLVING LOAN FUND FOR CREDIT UNIONS.
+
 (a) REPEAL.—Section 120 of the Federal Credit Union Act (12 U.S.C. 1766) is amended by striking subsection (k).
 (b) REVOLVING LOAN FUND.—The Federal Credit Union Act (12 U.S.C. 1751 et seq.) is amended by inserting after section 129 the following new section:

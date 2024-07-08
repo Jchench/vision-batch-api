@@ -1,0 +1,27 @@
+82 STAT. ]
+PUBLIC LAW 90-321--MAY 29, 1968	149
+
+(e) The following items, when charged in connection with any extension of credit secured by an interest in real property, shall not be included in the computation of the finance charge with respect to that transaction:
+(1) Fees or premiums for title examination, title insurance, or similar purposes.
+(2) Fees for preparation of a deed, settlement statement, or other documents.
+(3) Escrows for future payments of taxes and insurance.
+(4) Fees for notarizing deeds and other documents.
+(5) Appraisal fees.
+(6) Credit reports.
+
+§ 107. Determination of annual percentage rate
+(a) The annual percentage rate applicable to any extension of consumer credit shall be determined, in accordance with the regulations of the Board,
+(1) in the case of any extension of credit other than under an open end credit plan, as
+(A) that nominal annual percentage rate which will yield a sum equal to the amount of the finance charge when it is applied to the unpaid balances of the amount financed, calculated according to the actuarial method of allocating payments made on a debt between the amount financed and the amount of the finance charge, pursuant to which a payment is applied first to the accumulated finance charge and the balance is applied to the unpaid amount financed; or
+(B) the rate determined by any method prescribed by the Board as a method which materially simplifies computation while retaining reasonable accuracy as compared with the rate determined under subparagraph (A).
+(2) in the case of any extension of credit under an open end credit plan, as the quotient (expressed as a percentage) of the total finance charge for the period to which it relates divided by the amount upon which the finance charge for that period is based, multiplied by the number of such periods in a year.
+
+(b) Where a creditor imposes the same finance charge for balances within a specified range, the annual percentage rate shall be computed on the median balance within the range, except that if the Board determines that a rate so computed would not be meaningful, or would be materially misleading, the annual percentage rate shall be computed on such other basis as the Board may by regulation require.
+
+(c) The annual percentage rate may be rounded to the nearest quarter of 1 per centum for credit transactions payable in substantially equal installments when a creditor determines the total finance charge on the basis of a single add-on, discount, periodic, or other rate, and the rate is converted into an annual percentage rate under procedures prescribed by the Board.
+
+(d) The Board may authorize the use of rate tables or charts which may provide for the disclosure of annual percentage rates which vary from the rate determined in accordance with subsection (a) (1) (A) by not more than such tolerances as the Board may allow. The Board may not allow a tolerance greater than 8 per centum of that rate except to simplify compliance where irregular payments are involved.
+
+(e) In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (c) or (d), the Board may authorize other reasonable tolerances.
+
+(f) Prior to January 1, 1971, any rate required under this title to be disclosed as a percentage rate may, at the option of the creditor, be expressed in the form of the corresponding ratio of dollars per hundred dollars.

@@ -1,22 +1,28 @@
-PUBLIC LAW 103-325-SEPT. 23, 1994
-108 STAT. 2207
+PUBLIC LAW 103-325—SEPT. 23, 1994        108 STAT. 2207
 
-in accordance with subsection (b)(4). Any such amendment shall become effective only after it has been approved by the Fund. 
+in accordance with subsection (b)(4). Any such amendment shall become effective only after it has been approved by the Fund.
 
 SEC. 254. PARTICIPATION AGREEMENTS.
+
 12 USC 4744.
 (a) IN GENERAL.—A participating State may enter into a participation agreement with any financial institution determined by the participating State, after consultation with the appropriate Federal banking agency, to have sufficient commercial lending experience and financial and managerial capacity to participate in the Program. The determination by the State shall not be reviewable by the Fund.
+
 (b) PARTICIPATING FINANCIAL INSTITUTIONS.—Upon entering into the participation agreement with the participating State, the financial institution shall become a participating financial institution eligible to enroll loans under the Program.
 
 SEC. 255. TERMS OF PARTICIPATION AGREEMENTS.
+
 12 USC 4745.
-(a) IN GENERAL.—The participation agreement to be entered into by a participating State and a participating financial institution shall include all provisions required by this section, and shall not include any provisions inconsistent with the provisions of this section.
+(a) IN GENERAL.— The participation agreement to be entered into by a participating State and a participating financial institution shall include all provisions required by this section, and shall not include any provisions inconsistent with the provisions of this section.
+
 (b) ESTABLISHMENT OF SEPARATE RESERVE FUNDS.—A separate reserve fund shall be established by the participating State for each participating financial institution. All funds credited to a reserve fund shall be the exclusive property of the participating State. Each reserve fund shall be an administrative account for the purposes of—
 (1) receiving all required premium charges to be paid by the borrower and participating financial institution and contributions by the participating State; and
 (2) disbursing funds, either to cover losses sustained by the participating financial institution in connection with loans made under the Program, or as contemplated by subsections (d) and (e).
-(c) INVESTMENT AUTHORITY.—Subject to applicable State law, the participating State may invest, or cause to be invested, funds held in a reserve fund by establishing a deposit account at the participating financial institution in the name of the participating State. In the event that funds in the reserve fund are not deposited in such an account, such funds shall be invested in a form that the participating State determines is safe and liquid.
-(d) EARNED INCOME AND INTEREST.—Interest or income earned on the funds credited to a reserve fund shall be deemed to be part of the reserve fund, except that a participating State may, as further specified in the participation agreement, provide authority for the participating State to withdraw some or all of such interest or income earned.
-(e) LOAN TERMS AND CONDITIONS.—
-(1) IN GENERAL.—A loan to be filed for enrollment under the Program may be made with such interest rate, fees, and other terms and conditions as agreed upon by the participating financial institution and the borrower, consistent with applicable law.
-(2) LINES OF CREDIT.—If a loan to be filed for enrollment is in the form of a line of credit, the amount of the loan shall be considered to be the maximum amount that can be drawn by the borrower against the line of credit.
 
+(c) INVESTMENT AUTHORITY.—Subject to applicable State law, the participating State may invest, or cause to be invested, funds held in a reserve fund by establishing a deposit account at the participating financial institution in the name of the participating State. In the event that funds in the reserve fund are not deposited in such an account, such funds shall be invested in a form that the participating State determines is safe and liquid.
+
+(d) EARNED INCOME AND INTEREST.—Interest or income earned on the funds credited to a reserve fund shall be deemed to be part of the reserve fund, except that a participating State may, as further specified in the participation agreement, provide authority for the participating State to withdraw some or all of such interest or income earned.
+
+(e) LOAN TERMS AND CONDITIONS.—
+(1) IN GENERAL.—A loan to be filed for enrollment under the Program may be made with such interest rate, fees, and
+other terms and conditions as agreed upon by the participating financial institution and the borrower, consistent with applicable law. 
+(2) LINES OF CREDIT.—If a loan to be filed for enrollment is in the form of a line of credit, the amount of the loan shall be considered to be the maximum amount that can be drawn by the borrower against the line of credit.

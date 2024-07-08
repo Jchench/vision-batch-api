@@ -1,18 +1,20 @@
 PUBLIC LAW 103-325—SEPT. 23, 1994 108 STAT. 2227
 
-the request of other depository institutions or their holding companies (also referred to as a "banker's bank")."
-(2) SECTION 5169.—Section 5169(b)(1) of the Revised Stat- utes (12 U.S.C. 27(b)(1)) is amended—
-(A) by inserting "or depository institution holding companies" after "(except to the extent directors' qualifying shares are required by law) by other depository institu- tions"; and
-(B) by striking "services for other depository institu- tions and their officers, directors and employees" and inserting the following: "services to or for other depository institutions, their holding companies, and the officers, directors, and employees of such institutions and compa- nies, and in providing correspondent banking services at the request of other depository institutions or their holding companies (also referred to as a "banker's bank").".
-(b) OWNERSHIP BY SAVINGS ASSOCIATIONS.—Section 5(c)(4) of the Home Owners' Loan Act (12 U.S.C. 1464(c)(4)) is amended by adding at the end the following new subparagraph:
-"(E) BANKERS' BANKS.—A Federal savings association may purchase for its own account shares of stock of a bankers' bank, described in Paragraph Seventh of section 5136 of the Revised Statutes or in section 5169(b) of the Revised Statutes, on the same terms and conditions as a national bank may purchase such shares.".
+the request of other depository institutions or their holding companies (also referred to as a ‘banker’s bank’)”.
+(2) SECTION 5169.—Section 5169(b)(1) of the Revised Statutes (12 U.S.C. 27(b)(1)) is amended—
+(A) by inserting “or depository institution holding companies” after “(except to the extent directors’ qualifting shares are required by law) by other depository institutions”; and
+(B) by striking “services for other depository institutions and their officers, directors and employees” and inserting the following: “services to or for other depository institutions, their holding companies, and the officers, directors, and employees of such institutions and companies, and in providing correspondent banking services at the request of other depository institutions or their holding companies (also referred to as a ‘banker’s bank’)”.
+(b) OWNERSHIP BY SAVINGS ASSOCIATIONS.—Section 5(c)(4) of the Home Owners’ Loan Act (12 U.S.C. 1464(c)(4)) is amended by adding at the end the following new subparagraph:
+“(E) BANKERS’ BANKS.—A Federal savings association may purchase for its own account shares of stock of a banker’s bank, described in Paragraph Seventh of section 5136 of the Revised Statutes or in section 5169(b) of the Revised Statutes, on the same terms and conditions as a national bank may purchase such shares.”.
 (c) TECHNICAL AND CONFORMING AMENDMENTS.—
 (1) BANK HOLDING COMPANY ACT.—Section 3(e) of the Bank Holding Company Act of 1956 (12 U.S.C. 1842(e)) is amended by striking the 2d sentence.
-(2) MANAGEMENT INTERLOCKS ACT.—Section 202(3)(D) of the Depository Institution Management Interlocks Act (12 U.S.C. 3201(3)(D)) is amended by striking "the voting securi- ties" the first place such term appears and all that follows through the end of the subparagraph and inserting "and is a bankers' bank, described in Paragraph Seventh of section 5136 of the Revised Statutes; or".
-(d) LENDING LIMIT FOR LOANS SECURED BY SECURITIES.—Sec- tion 11(m) of the Federal Reserve Act (12 U.S.C. 248(m)) is amended by striking "10 percentum" each place such term appears and inserting "15 percent".
+(2) MANAGEMENT INTERLOCKS ACT.—Section 202(3)(D) of the Depository Institution Management Interlocks Act (12 U.S.C. 3201(3)(D)) is amended by striking “the voting securities” the first place such term appears and all that follows through the end of the subparagraph and inserting “and is a banker’s bank, described in Paragraph Seventh of section 5136 of the Revised Statutes; or”.
+(3) LENDING LIMIT FOR LOANS SECURED BY SECURITIES.—Section 11(m) of the Federal Reserve Act (12 U.S.C. 248(m)) is amended by striking “10 percentum” each place such term appears and inserting “15 percent”.
+
 SEC. 323. BANK SERVICE CORPORATION ACT AMENDMENT.
 Section 5 of the Bank Service Corporation Act (12 U.S.C. 1865) is amended—
-(1) in subsection (a), by striking "the prior approval of" and inserting "prior notice, as determined by"; and 
-(2) in subsection (c), by inserting "or whether to approve or disapprove any notice" after "approval".
+(1) in subsection (a), by striking “the prior approval of” and inserting “prior notice, as determined by”; and
+(2) in subsection (c), by inserting “or whether to approve or disapprove any notice” after “approval”.
+
 SEC. 324. MERGER TRANSACTION REPORTS.
-Section 18(c)(4) of the Federal Deposit Insurance Act (12 U.S.C. 1828(c)(4)) is amended by adding at the end the following: "Notwith-standing the preceding sentence, a banking agency shall not be required to file a report requested by the responsible agency under this paragraph if such banking agency advises the responsible agency by the applicable date under the preceding sentence that the report is not necessary because none of the effects described in paragraph (5) are likely to occur as a result of the transaction.".
+Section 18(c)(4) of the Federal Deposit Insurance Act (12 U.S.C. 1828(c)(4)) is amended by adding at the end the following: “Notwithstanding the preceding sentence, a banking agency shall not be required to file a report requested by the responsible agency under this paragraph if such banking agency advises the responsible agency by the applicable date under the preceding sentence that the report is not necessary because none of the effects described in paragraph (5) are likely to occur as a result of the transaction.”.

@@ -1,0 +1,32 @@
+-13-
+
+“(b) QUALIFIED BANK HOLDING CORPORATION.—
+“(1) IN GENERAL.—Except as provided in paragraph (2), for purposes of this part the term ‘qualified bank holding corporation’ means any corporation (as defined in section 7701 (a) (3)) which is a bank holding company and which holds prohibited property acquired by it—
+“(A) on or before May 15, 1955,
+“(B) in a distribution in which gain to such corporation with respect to the receipt of such property was not recognized by reason of subsection (a) or (b) of section 1101, or
+“(C) in exchange for all of its stock in an exchange described in section 1101 (c) (2) or (c) (3).
+
+"(2) LIMITATIONS.—
+“(A) A bank holding company shall not be a qualified bank holding corporation, unless it would have been a bank holding company on May 15, 1955, if the Bank Holding Company Act of 1956 had been in effect on such date, or unless it is a bank holding company determined solely by reference to—
+"(i) property acquired by it on or before May 15, 1955, 
+    
+“(ii) property acquired by it in a distribution in which gain to such corporation with respect to the receipt of such property was not recognized by reason of subsection (a) or (b) of section 1101, and        
+    
+“(iii) property acquired by it in exchange for all of its stock in an exchange described in section 1101 (c) (2) or (3).
+“(B) A bank holding company shall not be a qualified bank holding corporation by reason of property described in subparagraph (B) of paragraph (1) or clause (ii) of subparagraph (A) of this paragraph, unless such property was acquired in a distribution with respect to stock, which stock was acquired by such bank holding company—
+"(i) on or before May 15, 1955,
+           
+            
+
+“(ii) in a distribution (with respect to stock held by it on May 15, 1955, or with respect to stock in respect of which all previous applications of this clause are satisfied) with respect to which gain to it was not recognized by reason of subsection (a) or (b) of section 1101, or
+        
+            
+              
+“(iii) in exchange for all of its stock in an exchange described in section 1101 (c) (2) or (3).        
+“(C) A corporation shall be treated as a qualified bank holding corporation only if the Board certifies that it satisfies the foregoing requirements of this subsection.             
+
+“(c) PROHIBITED PROPERTY.—For purposes of this part, the term ‘prohibited property’ means, in the case of any bank holding company, property (other than nonexempt property) the disposition of which would be necessary or appropriate to effectuate section 4 of the Bank Holding Company Act of 1956 if such company continued to be a bank holding company beyond the period (including any extensions thereof) specified in subsection (a) of such section or in section 1101 (c) (2) (B) of this part, as the case may be. The term ‘prohibited property’ does not include shares of any company held by a bank holding company to the extent that the prohibitions of section 4 of the Bank Holding Company Act of 1956 do not apply to the ownership by such bank holding company of such property by reason of subsection (c) (5) of such section.
+
+Digitized for FRASER 
+http://fraser.stlouisfed.org/ 
+Federal Reserve Bank of St. Louis

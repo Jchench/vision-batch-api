@@ -1,0 +1,28 @@
+PUBLIC LAW 99-570—OCT. 27, 1986           100 STAT. 3207-28
+
+"(B) EXAMINATIONS OF ASSOCIATIONS TO INCLUDE REVIEW OF COMPLIANCE PROCEDURES.—
+"(i) IN GENERAL.—Each examination of an association by the Board shall include a review of the procedures required to be established and maintained under subparagraph (A).
+"(ii) EXAM REPORT REQUIREMENT.—The report of examination shall describe any problem with the procedures maintained by the association. 
+"(C) ORDER TO COMPLY WITH REQUIREMENTS.—If the Board determines that an association— 
+"(i) has failed to establish and maintain the procedures described in subparagraph (A); or 
+"(ii) has failed to correct any problem with the procedures maintained by such association which was previously reported to the association by the Board, 
+the Board shall issue an order in the manner prescribed in paragraph (2) or (3) requiring such association to cease and desist from its violation of this paragraph or regulations prescribed under this paragraph.".
+
+(2) CIVIL MONEY PENALTIES FOR FAILURE TO MAINTAIN COMPLIANCE PROCEDURES.—Section 5(d)(8)(B)(i) of the Home Owners' Loan Act of 1933 (12 U.S.C. 1464(d)(8)(B)(i)) is amended by striking out "paragraph (2) or (3)" and inserting in lieu thereof "paragraph (2), (3), or (16)".
+
+(c) INSURED THRIFT INSTITUTIONS.— 
+(1) IN GENERAL.—Section 407 of the National Housing Act (12 U.S.C. 1730) is amended by adding at the end thereof the following new subsection: 
+"(s) COMPLIANCE WITH MONETARY TRANSACTION RECORDKEEPING AND REPORT REQUIREMENTS.— 
+"(1) COMPLIANCE PROCEDURES REQUIRED.—The Corporation shall prescribe regulations requiring insured institutions to establish and maintain procedures reasonably designed to assure and monitor the compliance of such institutions with the requirements of subchapter II of chapter 53 of title 31, United States Code.
+"(2) EXAMINATIONS OF INSTITUTIONS TO INCLUDE REVIEW OF COMPLIANCE PROCEDURES.— 
+"(A) IN GENERAL.—Each examination of an insured institution by the Corporation shall include a review of the procedures required to be established and maintained under paragraph (1). 
+"(B) EXAM REPORT REQUIREMENT.—The report of examination shall describe any problem with the procedures maintained by the insured institution. 
+"(3) ORDER TO COMPLY WITH REQUIREMENTS.—If the Corporation determines that an insured institution— 
+"(A) has failed to establish and maintain the procedures described in paragraph (1); or 
+"(B) has failed to correct any problem with the procedures maintained by such institution which was previously reported to the institution by the Corporation, 
+the Corporation shall issue an order in the manner prescribed in subsection (e) or (f) requiring such institution to cease and desist from its violation of this subsection or regulations prescribed under this subsection.".
+
+
+Regulations.
+
+31 USC 5311 et seq.

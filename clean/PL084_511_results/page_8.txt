@@ -1,0 +1,30 @@
+All 70 Stat. 140, 
+
+-8-
+
+ties received have substantially the same terms as the securities exchanged,
+then, except as provided in subsection (f), no gain to the shareholder or security holder from the receipt of such stock or such securities or such stock and securities shall be recognized.
+"(3) NON PRO RATA DISTRIBUTIONS.-Paragraphs (1) and (2) shall apply to a distribution whether or not the distribution is pro rata with respect to all of the shareholders of the distributing qualified bank holding corporation.
+"(4) EXCEPTION.-This subsection shall not apply to any distribution by a corporation which has made any distribution pursuant to subsection (b).
+"(5) DISTRIBUTIONS INVOLVING GIFT OR COMPENSATION.
+"In the case of a distribution to which paragraph (1) or (2) applies, but which-
+"(A) results in a gift, see section 2501, and following, or
+"(B) has the effect of the payment of compensation, see section 61(a)(1).
+
+68A Slat. 403.
+26 USC 2501.
+26 USC 61.
+(b) CORPORATION CEASING TO BE A BANK HOLDING COMPANY.-
+"(1) DISTRIBUTIONS OF PROPERTY WHICH CAUSE A CORPORATION TO BE A BANK HOLDING COMPANY.-If-
+"(A) a qualified bank holding corporation distributes property (other than stock received in an exchange to which subsection (c)(3) applies)-
+"(i) to a shareholder (with respect to its stock held by such shareholder), without the surrender by such shareholder of stock in such corporation; or 
+"(ii) to a shareholder, in exchange for its preferred stock; or
+"(iii) to a security holder, in exchange for its securities; and
+"(B) the Board has, before the distribution, certified that-
+"(i) such property is all or part of the property by reason of which such corporation controls (within the meaning of section 2(a) of the Bank Holding Company Act of 1956) a bank or bank holding company, or such property is part of the property by reason of which such corporation did control a bank or a bank holding company before any property of the same kind was distributed under this subsection or exchanged under subsection (c)(3); and
+"(ii) the distribution is necessary or appropriate to effectuate the policies of such Act,
+then no gain to the shareholder or security holder from the receipt of such property shall be recognized.
+"(2) DISTRIBUTIONS OF STOCK AND SECURITIES RECEIVED IN AN EXCHANGE TO WHICH SUBSECTION (c)(3) APPLIES.--If-
+"(A) a qualified bank holding corporation distributes-
+"(i) common stock received in an exchange to which subsection (c)(3) applies to a shareholder (with respect to its stock held by such shareholder), without the surrender by such shareholder of stock in such corporation); or
+"(ii) common stock received in an exchange to which subsection (c)(3) applies to a shareholder, in exchange for its common stock; or

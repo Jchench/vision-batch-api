@@ -1,0 +1,20 @@
+100 STAT. 3207-29           PUBLIC LAW 99-570—OCT. 27, 1986
+
+(2) CIVIL MONEY PENALTIES FOR FAILURE TO MAINTAIN COMPLIANCE PROCEDURES.—Section 407(k)(3)(A) of the National Housing Act (12 U.S.C. 1730(k)(3)(A)) is amended by striking out "subsection (e) or (f) of this section shall forfeit" and inserting in lieu thereof "subsection (e), (f), or (s) of this section shall forfeit".
+(b) INSURED CREDIT UNIONS.—
+(1) IN GENERAL.—Section 206 of the Federal Credit Union Act (12 U.S.C. 1786) is amended by adding at the end thereof the following new subsection:
+"(q) COMPLIANCE WITH MONETARY TRANSACTION RECORDKEEPING AND REPORT REQUIREMENTS.—
+"(1) COMPLIANCE PROCEDURES REQUIRED.—The Board shall prescribe regulations requiring insured credit unions to establish and maintain procedures reasonably designed to assure and monitor the compliance of such credit unions with the requirements of subchapter II of chapter 53 of title 31, United States Code.
+"(2) EXAMINATIONS OF CREDIT UNIONS TO INCLUDE REVIEW OF COMPLIANCE PROCEDURES.—
+"(A) IN GENERAL.—Each examination of an insured credit union by the Board shall include a review of the procedures required to be established and maintained under paragraphs (1).
+"(B) EXAM REPORT REQUIREMENT.—The report of examination shall describe any problem with the procedures maintained by the credit union.
+"(3) ORDER TO COMPLY WITH REQUIREMENTS.—If the Board determines that an insured credit union—
+"(A) has failed to establish and maintain the procedures described in paragraph (1); or
+"(B) has failed to correct any problem with the procedures maintained by such credit union which was previously reported to the credit union by the Board,
+the Board shall issue an order in the manner prescribed in subsection (e) or (f) requiring such credit union to cease and desist from its violation of this subsection or regulations prescribed under this subsection.".
+(2) CIVIL MONEY PENALTIES FOR FAILURE TO MAINTAIN COMPLIANCE PROCEDURES.—Section 206(k)(2)(A) of the Federal Credit Union Act (12 U.S.C. 1786(k)(2)(A)) (as in effect on September 1, 1986) is amended by striking out "subsection (e) or (f)" and inserting in lieu thereof "subsection (e), (f), or (q)".
+
+SEC. 1360. CHANGE IN BANK CONTROL ACT AMENDMENTS.
+(a) ADDITIONAL REVIEW TIME.—
+(1) INITIAL EXTENSION AT DISCRETION OF AGENCY.—The first sentence of section 7(j)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1817(j)(1)) is amended by striking out "or extending up to another thirty days" and inserting in lieu thereof "or, in the discretion of the agency, extending for an additional 30 days".
+(2) ADDITIONAL EXTENSIONS IN CASE OF INCOMPLETE OR INACCURATE NOTICE OR TO CONTINUE INVESTIGATION.— The second sentence of section 7(i)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1817(j)(1)) is amended to read as follows: "The period for disapproval under the preceding sentence may be extended

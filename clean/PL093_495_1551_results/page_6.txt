@@ -1,0 +1,18 @@
+PUBLIC LAW 93-495-OCT. 28, 1974
+
+transaction exceeds $50; and (3) the place where the initial transaction occurred was in the same State as the mailing address previously provided by the cardholder or was within 100 miles from such address; except that the limitations set forth in clauses (2) and (3) with respect to an obligor's right to assert claims and defenses against a card issuer shall not be applicable to any transaction in which the person honoring the credit card (A) is the same person as the card issuer, (B) is controlled by the card issuer, (C) is under direct or indirect common control with the card issuer, (D) is a franchised dealer in the card issuer's products or services, or (E) has obtained the order for such transaction through a mail solicitation made by or participated in by the card issuer in which the cardholder is solicited to enter into such transaction by using the credit card issued by the card issuer.
+    "(b) The amount of claims or defenses asserted by the cardholder may not exceed the amount of credit outstanding with respect to such transaction at the time the cardholder first notifies the card issuer or the person honoring the credit card of such claim or defense. For the purpose of determining the amount of credit outstanding in the preceding sentence, payments and credits to the cardholder's account are deemed to have been applied, in the order indicated, to the payment of: (1) late charges in the order of their entry to the account; (2) finance charges in the order of their entry to the account; and (3) debits to the account other than those set forth above, in the order in which each debit entry to the account was made.
+
+"§ 171. Relation to State laws
+    "(a) This chapter does not annul, alter, or affect, or exempt any person subject to the provisions of this chapter from complying with, the laws of any State with respect to credit billing practices, except to the extent that those laws are inconsistent with any provision of this chapter, and then only to the extent of the inconsistency. The Board is authorized to determine whether such inconsistencies exist. The Board may not determine that any State law is inconsistent with any provision of this chapter if the Board determines that such law gives greater protection to the consumer.
+    "(b) The Board shall by regulation exempt from the requirements of this chapter any class of credit transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this chapter or that such law gives greater protection to the consumer, and that there is adequate provision for enforcement."
+
+§ 307. Conforming amendments
+    (a) The table of chapters of the Truth in Lending Act is amended by adding immediately under item 3 the following:
+    "4. CREDIT BILLING...................................  161"
+    (b) Section 111(d) of such Act (15 U.S.C. 1610(d)) is amended by striking out "and 130" and inserting in lieu thereof a comma and the following: "130, and 166".
+    (c) Section 121(a) of such Act (15 U.S.C. 1631(a)) is amended---
+    (1) by striking out "and upon whom a finance charge is or may be imposed"; and
+    (2) by inserting "or chapter 4" immediately after "this chapter".
+    (d) Section 121(b) of such Act (15 U.S.C. 1631(b)) is amended by inserting "or chapter 4" immediately after "this chapter".
+    (e) Section 122(a) of such Act (15 U.S.C. 1632(a)) is amended by inserting "or chapter 4" immediately after "this chapter".

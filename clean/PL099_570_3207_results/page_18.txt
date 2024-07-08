@@ -1,0 +1,25 @@
+100 STAT. 3207-35 PUBLIC LAW 99-570—OCT. 27, 1986
+
+(f) The amendments made by sections 1360 and 1361 shall apply with respect to notices of proposed acquisitions filed after the date of the enactment of this Act.
+
+12 USC 1730 note.
+SEC. 1365. PREDICATE OFFENSES.
+(a) Subsection (b) of section 1952 of title 18, United States Code, is amended by striking out “or” before “(2)”, and by striking out the period at the end thereof and inserting in lieu thereof the following: “; or (3) any act which is indictable under subchapter II of chapter 53 of title 31, United States Code, or under section 1956 or 1957 of this title.”.
+(b) Subsection (1) of section 1961 of title 18, United States Code, is amended by inserting “section 1956 (relating to the laundering of monetary instruments), section 1957 (relating to engaging in monetary transactions in property derived from specified unlawful activity),” after “section 1955 (relating to the prohibition of illegal gambling businesses),”.
+31 USC 5381 et seq.
+(c) Subsection (1) of section 2516 of title 18, United States Code, is amended in paragraph (c) by inserting “section 1956 (laundering of monetary instruments), section 1957 (relating to engaging in monetary transactions in property derived from specified unlawful activity),” after “section 1955 (prohibition of relating to business enterprises of gambling),”.
+SEC. 1366. FORFEITURE.
+(a) Title 18 of the United States Code is amended by adding after chapter 45 a new chapter 46 as follows:
+
+“CHAPTER 46—FORFEITURE
+
+18 USC 981.
+“Sec.
+“981. Civil Forfeiture.
+“982. Criminal Forfeiture.
+21 USC 801 note.
+“§ 981. Civil forfeiture
+“(a)(1) Except as provided in paragraph (2), the following property is subject to forfeiture to the United States:
+“(A) Any property, real or personal, which represents the gross receipts a person obtains, directly or indirectly, as a result of a violation of section 1956 or 1957 of this title, or which is traceable to such gross receipts.
+“(B) Any property within the jurisdiction of the United States, which represents the proceeds of an offense against a foreign nation involving the manufacture, importation, sale, or distribution of a controlled substance (as such term is defined for the purposes of the Controlled Substances Act), within whose jurisdiction such offense or activity would be punishable by death or imprisonment for a term exceeding one year and which would be punishable by imprisonment for a term exceeding one year if such act or activity had occurred within the jurisdiction of the United States.
+“(C) Any coin and currency (or other monetary instrument as the Secretary of the Treasury may prescribe) or any interest in other property, including any deposit in a financial institution, traceable to such coin or currency involved in a transaction or attempted transaction in violation of section 5313(a) or 5324 of title 31 may be seized and forfeited to the United States Government. No property or interest in property shall be seized or

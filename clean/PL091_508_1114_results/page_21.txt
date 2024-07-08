@@ -1,0 +1,35 @@
+"§ 616. Civil liability for willful noncompliance
+
+"Any consumer reporting agency or user of information which willfully fails to comply with any requirement imposed under this title with respect to any consumer is liable to that consumer in an amount equal to the sum of—
+   "(1) any actual damages sustained by the consumer as a result
+         of the failure;
+   "(2) such amount of punitive damages as the court may allow;
+   and
+   "(3) in the case of any successful action to enforce any liability
+   under this section, the costs of the action together with reasonable
+   attorney's fees as determined by the court.
+
+"§ 617. Civil liability for negligent noncompliance
+
+"Any consumer reporting agency or user of information which is negligent in failing to comply with any requirement imposed under this title with respect to any consumer is liable to that consumer in an amount equal to the sum of—
+   "(1) any actual damages sustained by the consumer as a result
+           of the failure;
+   "(2) in the case of any successful action to enforce any liability
+   under this section, the costs of the action together with reasonable
+   attorney's fees as determined by the court.
+
+"§ 618. Jurisdiction of courts; limitation of actions
+
+"An action to enforce any liability created under this title may be brought in any appropriate United States district court without regard to the amount in controversy, or in any other court of competent jurisdiction, within two years from the date on which the liability arises, except that where a defendant has materially and willfully misrepresented any information required under this title to be disclosed to an individual and the information so misrepresented is material to the establishment of the defendant's liability to that individual under this title, the action may be brought at any time within two years after discovery by the individual of the misrepresentation.
+
+"§ 619. Obtaining information under false pretenses
+
+"Any person who knowingly and willfully obtains information on a consumer from a consumer reporting agency under false pretenses shall be fined not more than $5,000 or imprisoned not more than one year, or both.
+
+"§ 620. Unauthorized disclosures by officers or employees
+
+"Any officer or employe of a consumer reporting agency who knowingly and willfully provides information concerning an individual from the agency's files to a person not authorized to receive that information shall be fined not more than $5,000 or imprisoned not more than one year, or both.
+
+"§ 621. Administrative enforcement
+
+“(a) Compliance with the requirements imposed under this title shall be enforced under the Federal Trade Commission Act by the Federal Trade Commission with respect to consumer reporting agencies and all other persons subject thereto, except to the extent that enforcement of the requirements imposed under this title is specifically committed to some other government agency under subsection (b) hereof. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement or prohibition imposed".

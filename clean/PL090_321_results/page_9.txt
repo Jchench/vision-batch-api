@@ -1,0 +1,28 @@
+PUBLIC LAW 90-321-MAY 29, 1968	[82 STAT.
+
+rate determined by multiplying the periodic rate by the number of periods in a year.
+
+	(5) If the creditor so elects, 
+(A) the average effective annual percentage rate of return received from accounts under the plan for a representative period of time; or 
+(B) whenever circumstances are such that the computation of a rate under subparagraph (A) would not be feasible or practical, or would be misleading or meaningless, a projected rate of return to be received from accounts under the plan. The Board shall prescribe regulations, consistent with commonly accepted standards for accounting or statistical procedures, to carry out the purposes of this paragraph.
+
+	(6) The conditions under which any other charges may be imposed, and the method by which they will be determined.
+
+	(7) The conditions under which the creditor may retain or acquire any security interest in any property to secure the payment of any credit extended under the plan, and a description of the interest or interests which may be so retained or acquired.
+(b) The creditor of any account under an open end consumer credit plan shall transmit to the obligor, for each billing cycle at the end of which there is an outstanding balance in that account or with respect to which a finance charge is imposed, a statement setting forth each of the following items to the extent applicable:
+
+	(1) The outstanding balance in the account at the beginning of the statement period.
+
+	(2) The amount and date of each extension of credit during the period, and, if a purchase was involved, a brief identification (unless previously furnished) of the goods or services purchased.
+
+	(3) The total amount credited to the account during the period. 
+
+	(4) The amount of any finance charge added to the account during the period, itemized to show the amounts, if any, due to the application of percentage rates and the amount, if any, imposed as a minimum or fixed charge.
+
+	(5) Where one or more periodic rates may be used to compute the finance charge, each such rate, the range of balances to which it is applicable, and, unless the annual percentage rate (determined under section 107(a)(2)) is required to be disclosed pursuant to paragraph (6), the corresponding nominal annual percentage rate determined by multiplying the periodic rate by the number of periods in a year.
+
+	(6) Where the total finance charge exceeds 50 cents for a monthly or longer billing cycle, or the pro rata part of 50 cents for a billing cycle shorter than monthly, the total finance charge expressed as an annual percentage rate (determined under section 107(a)(2)), except that if the finance charge is the sum of two or more products of a rate times a portion of the balance, the creditor may, in lieu of disclosing a single rate for the total charge, disclose each such rate expressed as an annual percentage rate, and the part of the balance to which it is applicable.
+
+	(7) At the election of the creditor, the average effective annual percentage rate of return (or the projected rate) under the plan as prescribed in subsection (a)(5).
+
+	(8) The balance on which the finance charge was computed and a statement of how the balance was determined. If the balance is determined without first deducting all credits during the period, that fact and the amount of such payments shall also be disclosed.

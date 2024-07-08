@@ -1,14 +1,67 @@
-108 STAT. 2246		*		PUBLIC LAW 103-325—SEPT. 23, 1994
-pursuant to subparagraph (A) shall refer any report of a suspicious transaction to any appropriate law enforcement or supervisory agency.
-"(C) COORDINATION WITH OTHER REPORTING REQUIREMENTS.—Subparagraph (A) shall not be construed as precluding any supervisory agency for any financial institution from requiring the financial institution to submit any information or report to the agency or another agency pursuant to any other applicable provision of law.".
-(b) REPORTS.—
-(1) REPORTS REQUIRED.—The Secretary of the Treasury shall submit an annual report to the Congress at the times required under paragraph (2) on the number of suspicious transactions reported to the officer or agency designated under section 5318(g)(4)(A) of title 31, United States Code, during the period covered by the report and the disposition of such reports.
-(2) TIME FOR SUBMITTING REPORTS.—The 1st report required under paragraph (1) shall be filed before the end of the 1-year period beginning on the date of enactment of the Money Laundering Suppression Act of 1994 and each subsequent report shall be filed within 90 days after the end of each of the 5 calendar years which begin after such date of enactment.
-(c) DESIGNATION REQUIRED TO BE MADE EXPEDITIOUSLY.—The initial designation of an officer or agency of the United States pursuant to the amendment made by subsection (a) shall be made before the end of the 180-day period beginning on the date of enactment of this Act.
-SEC. 404. IMPROVEMENT OF IDENTIFICATION OP MONEY LAUNDERING SCHEMES.
-(a) ENHANCED TRAINING, EXAMINATIONS, AND REFERRALS BY BANKING AGENCIES.—Before the end of the 6-month period beginning on the date of enactment of this Act, each appropriate Federal banking agency shall, in consultation with the Secretary of the Treasury and other appropriate law enforcement agencies—
-(1) review and enhance training and examination procedures to improve the identification of money laundering schemes involving depository institutions; and
-(2) review and enhance procedures for referring cases to any appropriate law enforcement agency.
-(b) IMPROVED REPORTING OF CRIMINAL SCHEMES BY LAW ENFORCEMENT AGENCIES.—The Secretary of the Treasury and each appropriate law enforcement agency shall provide, on a regular basis, information regarding money laundering schemes and activities involving depository institutions to each appropriate Federal banking agency in order to enhance each agency's ability to examine for and identify money laundering activity.
-(c) REPORT TO CONGRESS.—The Financial Institutions Examination Council shall submit a report on the progress made in carrying out subsection (a) and the usefulness of information received pursuant to subsection (b) to the Congress by the end of the 1-year period beginning on the date of enactment of this Act.
-(d) DEFINITION.—For purposes of this section, the term "appropriate Federal banking agency" has the same meaning as in section 3 of the Federal Deposit Insurance Act.
+108 STAT. 2246          PUBLIC LAW 103-325--SEPT. 23, 1994
+
+pursuant to subparagraph (A) shall refer any report of 
+a suspicious transaction to any appropriate law enforce-
+ment or supervisory agency.
+      "(C) COORDINATION WITH OTHER REPORTING REQUIRE-
+MENTS.--Subparagraph (A) shall not be construed as 
+precluding any supervisory agency for any financial institu-
+tion from requiring the financial institution to submit any 
+information or report to the agency or another agency 
+pursuant to any other applicable provision of law.".
+31 USC 5318 
+note.
+(b) REPORTS.--
+      (1) REPORTS REQUIRED.--The Secretary of the Treasury 
+shall submit an annual report to the Congress at the times 
+required under paragraph (2) on the number of suspicious 
+transactions reported to the officer or agency designated under 
+section 5318(g)(4)(A) of title 31, United States Code, during 
+the period covered by the report and the disposition of such 
+reports.
+      (2) TIME FOR SUBMITTING REPORTS.--The 1st report 
+required under paragraph (1) shall be filed before the end 
+of the 1-year period beginning on the date of enactment of 
+the Money Laundering Suppression Act of 1994 and each subse-
+quent report shall be filed within 90 days after the end of 
+each of the 5 calendar years which begin after such date of 
+enactment.
+
+31 USC 5318 
+note.
+(c) DESIGNATION REQUIRED TO BE MADE EXPEDITIOUSLY.--The 
+initial designation of an officer or agency of the United States 
+pursuant to the amendment made by subsection (a) shall be made
+before the end of the 180-day period beginning on the date of 
+enactment of this Act.
+
+31 USC 5318 
+note.
+
+SEC. 404. IMPROVEMENT OF IDENTIFICATION OF MONEY LAUNDERING 
+                       SCHEMES.
+(a) ENHANCED TRAINING, EXAMINATIONS, AND REFERRALS BY 
+BANKING AGENCIES.--Before the end of the 6-month period begin-
+ning on the date of enactment of this Act, each appropriate Federal 
+banking agency shall, in consultation with the Secretary of the 
+Treasury and other appropriate law enforcement agencies--
+      (1) review and enhance training and examination proce-
+dures to improve the identification of money laundering 
+schemes involving depository institutions; and 
+      (2) review and enhance procedures for referring cases to 
+any appropriate law enforcement agency.
+(b) IMPROVED REPORTING OF CRIMINAL SCHEMES BY LAW 
+ENFORCEMENT AGENCIES.--The Secretary of the Treasury and each 
+appropriate law enforcement agency shall provide, on a regular 
+basis, information regarding money laundering schemes and activi
+ties involving depository institutions to each appropriate Federal 
+banking agency in order to enhance each agency's ability to examine 
+for and identify money laundering activity.
+(c) REPORT TO CONGRESS.--The Financial Institutions Examina-
+tion Council shall submit a report on the progress made in carryig 
+out subsection (a) and the usefulness of information received pursu-
+ant to subsection (b) to the Congress by the end of the 1-year 
+period beginning on the date of enactment of this Act.
+(d) DEFINITION.--For purposes of this section, the term "appro-
+priate Federal banking agency" has the same meaning as in section 
+3 of the Federal Deposit Insurance Act.

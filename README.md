@@ -6,4 +6,5 @@
 -   `pdf`: PDFs of more recent texts with machine readable born original versions
 -   `pdf_2`: PDFs of older law texts
 -   `pdf_pages`: folders of texts split into JPEGs for each page
+-   `results`: mismatch comparisons for more recent texts
 -   `misc`: miscellaneous items (full version of PL 116-283)

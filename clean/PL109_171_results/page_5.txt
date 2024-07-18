@@ -1,0 +1,18 @@
+PUBLIC LAW 109–171—FEB. 8, 2006                 120 STAT. 13
+
+(c) INCREASE IN FEES FOR LATE ASSESSMENT PAYMENTS.—Subsection (h) of section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828(h)) is amended to read as follows:
+    ‘‘(h) PENALTY FOR FAILURE TO TIMELY PAY ASSESSMENTS.—
+        ‘‘(1) IN GENERAL.—Subject to paragraph (3), any insured depository institution which fails or refuses to pay any assessment shall be subject to a penalty in an amount of not more than 1 percent of the amount of the assessment due for each day that such violation continues.
+        ‘‘(2) EXCEPTION IN CASE OF DISPUTE.—Paragraph (1) shall not apply if—
+            ‘‘(A) the failure to pay an assessment is due to a dispute between the insured depository institution and the Corporation over the amount of such assessment; and
+            ‘‘(B) the insured depository institution deposits security satisfactory to the Corporation for payment upon final determination of the issue.
+        ‘‘(3) SPECIAL RULE FOR SMALL ASSESSMENT AMOUNTS.—If the amount of the assessment which an insured depository institution fails or refuses to pay is less than $10,000 at the time of such failure or refusal, the amount of any penalty to which such institution is subject under paragraph (1) shall not exceed $100 for each day that such violation continues.
+        ‘‘(4) AUTHORITY TO MODIFY OR REMIT PENALTY.—The Corporation, in the sole discretion of the Corporation, may compromise, modify or remit any penalty which the Corporation may assess or has already assessed under paragraph (1) upon a finding that good cause prevented the timely payment of an assessment.’’.
+
+(d) STATUTE OF LIMITATIONS FOR ASSESSMENT ACTIONS.—Subsection (g) of section 7 of the Federal Deposit Insurance Act (12 U.S.C. 1817(g)) is amended to read as follows:
+    ‘‘(g) ASSESSMENT ACTIONS.—
+        ‘‘(1) IN GENERAL.—The Corporation, in any court of competent jurisdiction, shall be entitled to recover from any insured depository institution the amount of any unpaid assessment lawfully payable by such insured depository institution.
+        ‘‘(2) STATUTE OF LIMITATIONS.—The following provisions shall apply to actions relating to assessments, notwithstanding any other provision in Federal law, or the law of any State:
+            ‘‘(A) Any action by an insured depository institution to recover from the Corporation the overpaid amount of any assessment shall be brought within 3 years after the date the assessment payment was due, subject to the exception in subparagraph (E).
+            ‘‘(B) Any action by the Corporation to recover from an insured depository institution the underpaid amount of any assessment shall be brought within 3 years after the date the assessment payment was due, subject to the exceptions in subparagraphs (C) and (E).
+            ‘‘(C) If an insured depository institution has made a false or fraudulent statement with intent to evade any or all of its assessment, the Corporation shall have until 3 years after the date of discovery of the false or fraudulent statement in which to bring an action to recover the underpaid amount.

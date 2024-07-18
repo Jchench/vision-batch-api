@@ -1,0 +1,31 @@
+120 STAT. 14                  PUBLIC LAW 109–171—FEB. 8, 2006
+
+“(D) Except as provided in subparagraph (C), assessment deposit information contained in records no longer required to be maintained pursuant to subsection (b)(4) shall be considered conclusive and not subject to change.
+
+“(E) Any action for the underpaid or overpaid amount of any assessment that became due before the amendment to this subsection under the Federal Deposit Insurance Reform Act of 2005 took effect shall be subject to the statute of limitations for assessments in effect at the time the assessment became due.”.
+
+12 USC 1817
+note.
+
+(e) EFFECTIVE DATE.—This section and the amendments made by this section shall take effect on the date that the final regulations required under section 9(a)(5) take effect.
+
+SEC. 2105. REPLACEMENT OF FIXED DESIGNATED RESERVE RATIO 
+WITH RESERVE RANGE.
+
+(a) IN GENERAL.—Section 7(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(3)) is amended to read as follows:
+“(3) DESIGNATED RESERVE RATIO.—
+“(A) ESTABLISHMENT.—
+“(i) IN GENERAL.—Before the beginning of each calendar year, the Board of Directors shall designate the reserve ratio applicable with respect to the Deposit Insurance Fund and publish the reserve ratio so designated.
+“(ii) RULEMAKING REQUIREMENT.—Any change to the designated reserve ratio shall be made by the Board of Directors by regulation after notice and opportunity for comment.
+
+“(B) RANGE.—The reserve ratio designated by the Board of Directors for any year—
+“(i) may not exceed 1.5 percent of estimated insured deposits; and
+“(ii) may not be less than 1.15 percent of estimated insured deposits.
+
+“(C) FACTORS.—In designating a reserve ratio for any year, the Board of Directors shall—
+“(i) take into account the risk of losses to the Deposit Insurance Fund in such year and future years, including historic experience and potential and estimated losses from insured depository institutions;
+“(ii) take into account economic conditions generally affecting insured depository institutions so as to allow the designated reserve ratio to increase during more favorable economic conditions and to decrease during less favorable economic conditions, notwithstanding the increased risks of loss that may exist during such less favorable conditions, as determined to be appropriate by the Board of Directors;
+“(iii) seek to prevent sharp swings in the assessment rates for insured depository institutions; and
+“(iv) take into account such other factors as the Board of Directors may determine to be appropriate, consistent with the requirements of this subparagraph.
+
+“(D) PUBLICATION OF PROPOSED CHANGE IN RATIO.—In soliciting comment on any proposed change in the designated reserve ratio in accordance with subparagraph (A),

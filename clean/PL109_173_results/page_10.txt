@@ -1,0 +1,23 @@
+119 STAT. 3610            PUBLIC LAW 109-173—FEB. 15, 2006
+
+institution (hereafter in this section referred to as the ‘unbanked’) into the conventional finance system.
+‘‘(2) FACTORS AND QUESTIONS TO CONSIDER.—In conducting the survey, the Corporation shall take the following factors and questions into account:
+‘‘(A) To what extent do insured depository institutions promote financial education and financial literacy outreach?
+‘‘(B) Which financial education efforts appear to be the most effective in bringing ‘unbanked’ individuals and families into the conventional finance system?
+‘‘(C) What efforts are insured institutions making at converting ‘unbanked’ money order, wire transfer, and international remittance customers into conventional account holders?
+‘‘(D) What cultural, language and identification issues as well as transaction costs appear to most prevent ‘unbanked’ individuals from establishing conventional accounts?
+‘‘(E) What is a fair estimate of the size and worth of the ‘unbanked’ market in the United States?
+‘‘(b) REPORTS.—The Chairperson of the Board of Directors shall submit a bi-annual report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing the Corporation’s findings and conclusions with respect to the survey conducted pursuant to subsection (a), together with such recommendations for legislative or administrative action as the Chairperson may determine to be appropriate.’’.
+
+SEC. 8. TECHNICAL AND CONFORMING AMENDMENTS TO THE FEDERAL DEPOSIT INSURANCE ACT RELATING TO THE MERGER OF THE BIF AND SAIF.
+(a) IN GENERAL.—The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended—
+(1) in section 3 (12 U.S.C. 1813)—
+(A) by striking subparagraph (B) of subsection (a)(1) and inserting the following new subparagraph:
+‘‘(B) includes any former savings association.’’; and
+(B) by striking paragraph (1) of subsection (y) (as so designated by section 4(b) of this title) and inserting the following new paragraph:
+‘‘(1) DEPOSIT INSURANCE FUND.—The term ‘Deposit Insurance Fund’ means the Deposit Insurance Fund established under section 11(a)(4).’’;
+(2) in section 5(b)(5) (12 U.S.C. 1815(b)(5)), by striking ‘‘the Bank Insurance Fund or the Savings Association Insurance Fund,’’ and inserting ‘‘the Deposit Insurance Fund,’’;
+(3) in section 5(c)(4), by striking ‘‘deposit insurance fund’’ and inserting ‘‘Deposit Insurance Fund’’; 
+(4) in section 5(d) (12 U.S.C. 1815(d)), by striking paragraphs (2) and (3) (and any funds resulting from the application of such paragraph (2) prior to its repeal shall be deposited into the general fund of the Deposit Insurance Fund;
+(5) in section 5(d)(1) (12 U.S.C. 1815(d)(1))—
+(A) in subparagraph (A), by striking ‘‘reserve ratios in the Bank Insurance Fund and the Savings Association

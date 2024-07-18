@@ -1,0 +1,18 @@
+120 STAT. 10          PUBLIC LAW 109-171—FEB. 8, 2006
+
+                              (1) by striking subparagraph (B) and inserting the following new subparagraph:
+Deadlines.
+“(B) NET AMOUNT OF INSURED DEPOSIT.—The net amount due to any depositor at an insured depository institution shall not exceed the standard maximum deposit insurance amount as determined in accordance with subparagraphs (C), (D), (E) and (F) and paragraph (3); and
+(2) by adding at the end the following new subparagraphs:
+“(E) STANDARD MAXIMUM DEPOSIT INSURANCE AMOUNT
+DEFINED.—For purposes of this Act, the term ‘standard maximum deposit insurance amount’ means $100,000, adjusted as provided under subparagraph (F) after March 31, 2010.
+“(F) INFLATION ADJUSTMENT.—
+“(i) IN GENERAL.—By April 1 of 2010, and the 1st day of each subsequent 5-year period, the Board of Directors and the National Credit Union Administra-tion Board shall jointly consider the factors set forth under clause (v), and, upon determining that an infla-tion adjustment is appropriate, shall jointly prescribe the amount by which the standard maximum deposit insurance amount and the standard maximum share insurance amount (as defined in section 207(k) of the Federal Credit Union Act) applicable to any depositor at an insured depository institution shall be increased by calculating the product of—
+“(I) $100,000; and
+“(II) the ratio of the published annual value of the Personal Consumption Expenditures Chain-Type Price Index (or any successor index thereto), published by the Department of Commerce, for the calendar year preceding the year in which the adjustment is calculated under this clause, to the published annual value of such index for the calendar year preceding the date this subpara-graph takes effect under the Federal Deposit Insurance Reform Act of 2005.
+The values used in the calculation under subclause (II) shall be, as of the date of the calculation, the values most recently published by the Department of Commerce.
+“(ii) ROUNDING.—If the amount determined under clause (ii) for any period is not a multiple of $10,000, the amount so determined shall be rounded down to the nearest $10,000.
+“(iii) PUBLICATION AND REPORT TO THE CON-GRESS.—Not later than April 5 of any calendar year in which an adjustment is required to be calculated under clause (i) to the standard maximum deposit insurance amount and the standard maximum share insurance amount under such clause, the Board of Directors and the National Credit Union Administra-tion Board shall—
+Federal Register,
+publication.
+“(I) publish in the Federal Register the standard maximum deposit insurance amount, the standard maximum share insurance amount, and the amount of coverage under paragraph (3)(A)

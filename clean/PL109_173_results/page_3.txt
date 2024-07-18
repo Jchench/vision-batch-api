@@ -1,0 +1,26 @@
+PUBLIC LAW 109-173—FEB. 15, 2006
+
+119 STAT. 3603
+
+“(k) INSURED AMOUNTS PAYABLE.—
+
+(1) NET INSURED AMOUNT.—
+
+(A) IN GENERAL.—Subject to the provisions of paragraph (2), the net amount of share insurance payable to any member at an insured credit union shall not exceed the total amount of the shares or deposits in the name of the member (after deducting offsets), less any part thereof which is in excess of the standard maximum share insurance amount, as determined in accordance with this paragraph and paragraphs (5) and (6), and consistently with actions taken by the Federal Deposit Insurance Corporation under section 11(a) of the Federal Deposit Insurance Act.
+(B) AGGREGATION.—Determination of the net amount of share insurance under subparagraph (A), shall be in accordance with such regulations as the Board may prescribe, and, in determining the amount payable to any member, there shall be added together all accounts in the credit union maintained by that member for that member’s own benefit, either in the member’s own name or in the names of others.
+(C) AUTHORITY TO DEFINE THE EXTENT OF COVERAGE.—The Board may define, with such classifications and exceptions as it may prescribe, the extent of the share insurance coverage provided for member accounts, including member accounts in the name of a minor, in trust, or in joint tenancy.”;
+
+(B) in paragraph (2)—
+(i) in subparagraph (A)—
+(I) in clauses (i) through (v), by moving the margins 4 ems to the right;
+(II) in the matter following clause (v), by striking “his account” and all that follows through the period; and
+(III) by striking the semicolon at the end of clause (v) and inserting a period;
+(ii) by striking “(2)(A) Notwithstanding” and all that follows through “a depositor or member who is—” and inserting the following:
+“(2) GOVERNMENT DEPOSITORS OR MEMBERS.—
+
+(A) IN GENERAL.—Notwithstanding any limitation in this Act or in any other provision of law relating to the amount of insurance available to any 1 depositor or member, deposits or shares of a government depositor or member shall be insured in an amount equal to the standard maximum share insurance amount (as determined under paragraph (5)), subject to subparagraph (C).
+(B) GOVERNMENT DEPOSITOR.—In this paragraph, the term ‘government depositor’ means a depositor that is—”;
+(iii) by striking “(B) The” and inserting the following:
+“(C) AUTHORITY TO LIMIT DEPOSITS.—The”; and
+(iv) by striking “depositor or member referred to in subparagraph (A)” and inserting “government depositor or member”; and
+(C) by adding at the end the following new paragraphs:

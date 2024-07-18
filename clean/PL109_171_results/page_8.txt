@@ -1,0 +1,18 @@
+120 STAT. 16             PUBLIC LAW 109-171—FEB. 8, 2006
+
+Deposit Insurance Reform Act of 2005, the Board of Directors may implement such revisions or modification in final form only after notice and opportunity for comment.”.
+
+SEC. 2107. REFUNDS, DIVIDENDS, AND CREDITS FROM DEPOSIT INSURANCE FUND.
+
+(a) IN GENERAL.—Subsection (e) of section 7 of the Federal Deposit Insurance Act (12 U.S.C. 1817(1)) is amended to read as follows:
+    “(e) REFUNDS, DIVIDENDS, AND CREDITS.—
+        “(1) REFUNDS OF OVERPAYMENTS.—In the case of any payment of an assessment by an insured depository institution in excess of the amount due to the Corporation, the Corporation may—
+            “(A) refund the amount of the excess payment to the insured depository institution; or
+            “(B) credit such excess amount toward the payment of subsequent assessments until such credit is exhausted.
+        “(2) DIVIDENDS FROM EXCESS AMOUNTS IN DEPOSIT INSURANCE FUND.—
+            “(A) RESERVE RATIO IN EXCESS OF 1.5 PERCENT OF ESTIMATED INSURED DEPOSITS.—If, at the end of a calendar year, the reserve ratio of Deposit Insurance Fund exceeds 1.5 percent of estimated insured deposits, the Corporation shall declare the amount in the Fund in excess of the amount required to maintain the reserve ratio at 1.5 percent of estimated insured deposits as dividends to be paid to insured depository institutions.
+            “(B) RESERVE RATIO EQUAL TO OR IN EXCESS OF 1.35 PERCENT OF ESTIMATED INSURED DEPOSITS AND NOT MORE THAN 1.5 PERCENT.—If, at the end of a calendar year, the reserve ratio of the Deposit Insurance Fund equals or exceeds 1.35 percent of estimated insured deposits and is not more than 1.5 percent of such deposits, the Corporation shall declare the amount in the Fund that is equal to 50 percent of the amount in excess of the amount required to maintain the reserve ratio at 1.35 percent of estimated insured deposits as dividends to be paid to insured depository institutions.
+            “(C) BASIS FOR DISTRIBUTION OF DIVIDENDS.—
+                “(i) IN GENERAL.—Solely for the purposes of dividend distribution under this paragraph, the Corporation shall determine each insured depository institution’s relative contribution to the Deposit Insurance Fund (or any predecessor deposit insurance fund) for calculating such institution’s share of any dividend declared under the paragraph, taking into account the factors described in clause (ii).
+                (ii) FACTORS FOR DISTRIBUTION.—In implementing this paragraph in accordance with regulations, the Corporation shall take into account the following factors:
+                    (I) The ratio of the assessment base of an insured depository institution (including any predecessor) on December 31, 1996, to the assessment base of all eligible insured depository institutions on that date.

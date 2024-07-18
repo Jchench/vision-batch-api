@@ -1,0 +1,49 @@
+PUBLIC LAW 109–173—FEB. 15, 2006 119 STAT. 3601
+
+Public Law 109–173
+109th Congress
+An Act
+To enact the technical and conforming amendments necessary to implement the 
+Federal Deposit Insurance Reform Act of 2005, and for other purposes.
+ 
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled, 
+
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Federal Deposit Insurance Reform
+Conforming Amendments Act of 2005’’.
+
+SEC. 2. TECHNICAL AND CONFORMING AMENDMENTS.
+(a) TECHNICAL AND CONFORMING AMENDMENTS RELATING TO
+GOVERNMENT DEPOSITS.—Section 11(a)(2) of the Federal Deposit
+Insurance Act (12 U.S.C. 1821(a)(2)) is amended—
+(1) in subparagraph (A)—
+(A) by moving the margins of clauses (i) through (v)
+4 ems to the right;
+(B) by striking, in the matter following clause (v),
+‘‘such depositor shall’’ and all that follows through the
+period; and
+(C) by striking the semicolon at the end of clause
+(v) and inserting a period;
+(2) by striking ‘‘(2)(A) Notwithstanding’’ and all that follows
+through ‘‘a depositor who is—’’ and inserting the following:
+‘‘(2) GOVERNMENT DEPOSITORS.—
+(A) IN GENERAL.—Notwithstanding any limitation in
+this Act or in any other provision of law relating to the
+amount of deposit insurance available to any 1 depositor—
+‘‘(i) a government depositor shall, for the purpose
+of determining the amount of insured deposits under
+this subsection, be deemed to be a depositor separate
+and distinct from any other officer, employee, or agent
+of the United States or any public unit referred to
+in subparagraph (B); and
+‘‘(ii) except as provided in subparagraph (C), the
+deposits of a government depositor shall be insured
+in an amount equal to the standard maximum deposit
+insurance amount (as determined under paragraph
+(1)).
+‘‘(B) GOVERNMENT DEPOSITOR.—In this paragraph, the
+term ‘government depositor’ means a depositor that 
+is—’’;
+(3) by striking ‘‘(B) The’’ and inserting the following:
+‘‘(C) AUTHORITY TO LIMIT DEPOSITS.—The’’; and

@@ -1,0 +1,33 @@
+119 STAT. 3606      PUBLIC LAW 109–173—FEB. 15, 2006
+
+    (8) Section 13(c)(4)(G)(ii)(II) of the Federal Deposit Insurance Act (12 U.S.C. 1823(c)(4)(G)(ii)(II)) is amended by striking ‘‘semiannual period’’ and inserting ‘‘assessment period’’.
+    (9) Section 23(a) of the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 1834(a)) is amended—
+    (A) in the matter preceding subparagraph (A) of paragraph (2), by striking ‘‘the Board and’’;
+    (B) in subparagraph (J) of paragraph (2), by striking ‘‘the Board’’ and inserting ‘‘the Corporation’’;
+    (C) by striking subparagraph (A) of paragraph (3) and inserting the following new subparagraph:
+    ‘‘(A) CORPORATION.—The term ‘Corporation’ means the Federal Deposit Insurance Corporation.’’; and
+    (D) in subparagraph (C) of paragraph (3), by striking ‘‘Board’’ and inserting ‘‘Corporation’’.
+    (e) EFFECTIVE DATE.—This section and the amendments made by this section shall take effect on the date that the final regulations required under section 2109(a)(5) of the Federal Deposit Insurance Reform Act of 2005 take effect.
+
+                SEC. 4. TECHNICAL AND CONFORMING AMENDMENTS RELATING TO
+                            REPLACEMENT OF FIXED DESIGNATED RESERVE RATIO
+                            WITH RESERVE RANGE.
+    (a) IN GENERAL.—Section 3(y) of the Federal Deposit Insurance Act (12 U.S.C. 1813(y)) is amended—
+    (1) by striking ‘‘(y) The term’’ and inserting the following:
+    ‘‘(y) DEFINITIONS RELATING TO DEPOSIT INSURANCE FUND.—
+    ‘‘(1) DEPOSIT INSURANCE FUND.—The term’’; and
+    (2) by inserting after paragraph (1) (as so designated by paragraph (1) of this subsection) the following new paragraph:
+    ‘‘(2) DESIGNATED RESERVE RATIO.—The term ‘designated reserve ratio’ means the reserve ratio designated by the Board of Directors in accordance with section 7(b)(3).’’
+    (b) EFFECTIVE DATE.—This section and the amendments made by this section shall take effect on the date that the final regulations required under section 2109(a)(1) of the Federal Deposit Insurance Reform Act of 2005 take effect.
+
+12 USC 1813
+note.
+12 USC 1817
+note.
+
+         SEC. 5. REPORT TO CONGRESS ON REFUNDS, DIVIDENDS, AND
+                         CREDITS FROM DEPOSIT INSURANCE FUND.
+    (a) SUBMISSION.—Any determination under section 7(e)(2)(E) of the Federal Deposit Insurance Act, as added by section 2107(a) of the Federal Deposit Insurance Reform Act of 2005, shall be submitted to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, not later than 270 days after making such determination.
+    (b) CONTENT.—The report submitted under subsection (a) shall include—
+    (1) a detailed explanation for the determination; and
+    (2) a discussion of the factors required to be considered under section 7(e)(2)(F) of the Federal Deposit Insurance Act, as added by section 2107(a) of the Federal Deposit Insurance Reform Act of 2005.

@@ -1,0 +1,25 @@
+120 STAT. 12				                PUBLIC LAW 109–171—FEB. 8, 2006
+			
+“$100,000” and inserting “$250,000 (which amount shall be subject to inflation adjustments as provided in paragraph (1)(F), except that $250,000 shall be substituted for $100,000 wherever such term appears in such paragraph)”.
+
+(d) EFFECTIVE DATE.—This section and the amendments made by this section shall take effect on the date the final regulations required under section 9(a)(2) take effect.
+
+                        SEC. 2104. SETTING ASSESSMENTS AND REPEAL OF SPECIAL RULES
+                                              RELATING TO MINIMUM ASSESSMENTS AND FREE
+			                                       DEPOSIT INSURANCE.
+
+(a) SETTING ASSESSMENTS.—Section 7(b)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(2)) is amended—
+(1) by striking subparagraphs (A) and (B) and inserting the following new subparagraphs:
+“(A) IN GENERAL.—The Board of Directors shall set assessments for insured depository institutions in such amounts as the Board of Directors may determine to be necessary or appropriate, subject to subparagraph (D).
+“(B) FACTORS TO BE CONSIDERED.—In setting assessments under subparagraph (A), the Board of Directors shall consider the following factors:
+ “(i) The estimated operating expenses of the Deposit Insurance Fund.
+ “(ii) The estimated case resolution expenses and income of the Deposit Insurance Fund.
+ “(iii) The projected effects of the payment of assessments on the capital and earnings of insured depository institutions.
+ “(iv) The risk factors and other factors taken into account pursuant to paragraph (1) under the risk-based assessment system, including the requirement under such paragraph to maintain a risk-based system.
+ “(v) Any other factors the Board of Directors may determine to be appropriate.”; and
+ (2) by inserting after subparagraph (C) the following new subparagraph:
+“(D) NO DISCRIMINATION BASED ON SIZE.—No insured depository institution shall be barred from the lowest-risk category solely because of size.”.
+(b) ASSESSMENT RECORDKEEPING PERIOD SHORTENED.—Paragraph (5) of section 7(b) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)) is amended to read as follows:
+“(5) DEPOSITORY INSTITUTION REQUIRED TO MAINTAIN ASSESSMENT-RELATED RECORDS.—Each insured depository institution shall maintain all records that the Corporation may require for verifying the correctness of any assessment on the insured depository institution under this subsection until the later of—
+ “(A) the end of the 3-year period beginning on the due date of the assessment; or
+ “(B) in the case of a dispute between the insured depository institution and the Corporation with respect to such assessment, the date of a final determination of any such dispute.”.

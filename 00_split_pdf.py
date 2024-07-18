@@ -2,7 +2,7 @@ from pdf2image import convert_from_path
 import os
 
 # Path to the directory containing PDFs
-pdf_folder_path = 'pdf_2/odd'
+pdf_folder_path = 'pdf_3'
 
 # Path to the directory where images will be saved
 output_base_folder = 'pdf_pages'

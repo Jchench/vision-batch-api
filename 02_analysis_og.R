@@ -86,8 +86,8 @@ process_documents <- function(doc_path_A, doc_path_B, law_name) {
 }
 
 # Get the list of files in the machine_readble and clean/results folders
-machine_files <- list.files("machine_readble", full.names = TRUE)
-clean_files <- list.files("clean/results", full.names = TRUE)
+machine_files <- list.files("machine_readable", full.names = TRUE)
+clean_files <- list.files("clean/results/recent", full.names = TRUE)
 
 # Extract filenames without paths and extensions
 machine_filenames <- basename(machine_files)

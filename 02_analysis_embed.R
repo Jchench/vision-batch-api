@@ -87,7 +87,7 @@ process_documents <- function(doc_path_A, doc_path_B, law_name) {
 
 # Get the list of files in the embedd_readble and clean/results folders
 embedd_files <- list.files("extracted_text", full.names = TRUE)
-clean_files <- list.files("clean/results", full.names = TRUE)
+clean_files <- list.files("clean/results/recent", full.names = TRUE)
 
 # Extract filenames without paths and extensions
 embedd_filenames <- basename(embedd_files)
